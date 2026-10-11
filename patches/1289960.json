@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "dead",
       "verified": false,
       "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Navigate into the 'BioDungeon' folder Download the patch archive from the link below Extract the contents of the downloaded patch archive into the 'BioDungeon' folder mentioned above, overwriting files if prompted",
       "files": [

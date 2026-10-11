@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!waplQT4b!Vqdd1qYcnkUTuwEIclf27oIAqoB1uHhb2zyzjk4vRJY",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "hpatch.txt",
+          "format": "file",
+          "size": 37,
+          "sha256": "b8398c06d70a4784ed02fc91426a5c9a0becc25e40ef24c1941878eef5aaf836"
         }
       ],
       "added": "2026-10-11",

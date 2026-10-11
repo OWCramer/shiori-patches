@@ -1,0 +1,106 @@
+{
+  "appID": 623080,
+  "title": "planetarian HD",
+  "patches": [
+    {
+      "id": "vndb-fan-patch",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "insani, Haeleth",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r71",
+        "key": "r71"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://insani.org/planetarian/index.html",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch-2",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Sep7, Mashedmonk",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r85548",
+        "key": "r85548"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "id"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://drive.google.com/drive/folders/10cgV8Mf8G8VAtzpIeqwr1QHBusI_UnyP",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-katawa-shoujo-port",
+      "name": "Katawa Shoujo Port",
+      "kind": "translation",
+      "official": false,
+      "by": "ru_avonder",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r108512",
+        "key": "r108512"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://ks.fhs.sh/viewtopic.php?f=3&t=13530",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

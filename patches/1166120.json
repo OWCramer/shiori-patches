@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/JXw2ULCZ#Mx8FTNdjTkIqGIU4F0kWfjGFu7WEYVstMcIo027OuLY",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "SisterFight - Mosaics Remover Patch.7z",
+          "format": "7z",
+          "size": 578478,
+          "sha256": "bf7b0d95b8bc28cfd724ed43687f7ebc6c2ccf361cab1bd0aab0fba2a1e6dc7e"
         }
       ],
       "added": "2026-10-11",

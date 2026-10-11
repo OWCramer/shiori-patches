@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!NTxmXJAQ!4_23JBdbUHjE5tzXJFM3drH63MqWUa_GH8PSq8N-Xr4",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Piopupu.rar",
+          "format": "rar",
+          "size": 136,
+          "sha256": "3190eb944d3f7e2cb412d1080bd6cec67b7c75197817e8843535d22a4968814a"
         }
       ],
       "added": "2026-10-11",

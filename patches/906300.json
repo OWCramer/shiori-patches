@@ -26,6 +26,39 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/QHh2FRhQ#U3i5J744amP8s2wIUWsij6nl__WiwOCfrFhz5QI5VYk",
+          "name": "UnderOneWing-AdultPatch.zip",
+          "format": "zip",
+          "size": 1607839,
+          "sha256": "b7b0465c2879210d6213d676038e9cc80a202715d9581b71ba755dd8cd8a8e13"
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-mosaic-restoration-patch",
+      "name": "Mosaic Restoration Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "kataneer",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r136755",
+        "key": "r136755"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://mega.nz/file/bJE0RZIb#qP3RAxsM0jA7gdFv8J7gChXADco-uKHf9iFc0lPzHGM",
           "name": null,
           "format": null,
           "size": null,

@@ -34,6 +34,171 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Imouto Works",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r45153",
+        "key": "r45153"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://web.archive.org/web/20170307053949/https://wordpress-imoutoworks.rhcloud.com/the-fruit-of-grisaia/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch-2",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Hades",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r84545",
+        "key": "r84545"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://mega.nz/folder/C04VhKST#LvRKPfgFKJbHsCb-7Mq_gQ",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-le-fruit-de-la-grisaia",
+      "name": "Le Fruit de la Grisaia",
+      "kind": "translation",
+      "official": false,
+      "by": "TLWiki",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r20608",
+        "key": "r20608"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://web.archive.org/web/20140213145844/http://tlwiki.org/index.php?title=Grisaia_no_Kajitsu",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-movie-patch",
+      "name": "Movie Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "The Math God",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r83744",
+        "key": "r83744"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.mediafire.com/file/ey6jf6y3p2mrqqj/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-ucg-patch",
+      "name": "UCG patch",
+      "kind": "translation",
+      "official": false,
+      "by": "The Math God",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r83746",
+        "key": "r83746"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.reddit.com/r/vns/comments/zpzlpf/the_ultimate_fruit_of_grisaia_patches/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
     }
   ]
 }

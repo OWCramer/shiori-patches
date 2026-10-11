@@ -13,7 +13,7 @@
     },
     "331470": {
       "title": "Everlasting Summer",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "333600": {
@@ -33,17 +33,17 @@
     },
     "345610": {
       "title": "The Fruit of Grisaia",
-      "patches": 1,
+      "patches": 6,
       "updated": "2026-10-11"
     },
     "345620": {
       "title": "The Labyrinth of Grisaia",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "345630": {
       "title": "The Eden of Grisaia",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "348540": {
@@ -53,7 +53,7 @@
     },
     "349300": {
       "title": "Littlewitch Romanesque: Editio Regia",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "352010": {
@@ -68,7 +68,7 @@
     },
     "366380": {
       "title": "MYTH",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "367020": {
@@ -83,12 +83,12 @@
     },
     "375200": {
       "title": "Sakura Fantasy Chapter 1",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "377670": {
       "title": "G-senjou no Maou - The Devil on G-String",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "379980": {
@@ -103,7 +103,7 @@
     },
     "402180": {
       "title": "Sakura Swim Club",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "404170": {
@@ -151,6 +151,11 @@
       "patches": 1,
       "updated": "2026-10-11"
     },
+    "421660": {
+      "title": "Harmonia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
     "423650": {
       "title": "Summer Fling",
       "patches": 1,
@@ -168,7 +173,7 @@
     },
     "432490": {
       "title": "ATOM GRRRL",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "440640": {
@@ -243,7 +248,7 @@
     },
     "503300": {
       "title": "Super Star",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "508190": {
@@ -406,6 +411,11 @@
       "patches": 1,
       "updated": "2026-10-11"
     },
+    "623080": {
+      "title": "planetarian HD",
+      "patches": 3,
+      "updated": "2026-10-11"
+    },
     "627820": {
       "title": "England Exchange",
       "patches": 1,
@@ -423,7 +433,7 @@
     },
     "632710": {
       "title": "Princess Evangile W Happiness - Steam Edition",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "635730": {
@@ -463,7 +473,7 @@
     },
     "644540": {
       "title": "Dies irae ~Amantes amentes~",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "644560": {
@@ -488,12 +498,12 @@
     },
     "658140": {
       "title": "Sakura Sakura",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "658620": {
       "title": "Wonderful Everyday Down the Rabbit-Hole",
-      "patches": 1,
+      "patches": 8,
       "updated": "2026-10-11"
     },
     "665180": {
@@ -503,7 +513,7 @@
     },
     "668360": {
       "title": "Bokuten - Why I Became an Angel",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "669050": {
@@ -548,7 +558,7 @@
     },
     "686180": {
       "title": "Cat Girl",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "686190": {
@@ -563,17 +573,17 @@
     },
     "689650": {
       "title": "Les Fleursword",
-      "patches": 1,
+      "patches": 4,
       "updated": "2026-10-11"
     },
     "691150": {
       "title": "Saku Saku: Love Blooms with the Cherry Blossoms",
-      "patches": 1,
+      "patches": 4,
       "updated": "2026-10-11"
     },
     "691770": {
       "title": "Eiyu*Senki – The World Conquest",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "692920": {
@@ -603,7 +613,7 @@
     },
     "702050": {
       "title": "The Song of Saya",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "702210": {
@@ -628,12 +638,12 @@
     },
     "712050": {
       "title": "Otaku's Fantasy",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "712790": {
       "title": "Crimson Memories",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "712840": {
@@ -643,12 +653,12 @@
     },
     "714800": {
       "title": "Maitetsu",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "715580": {
       "title": "Hoshizora no Memoria -Wish upon a Shooting Star-",
-      "patches": 1,
+      "patches": 4,
       "updated": "2026-10-11"
     },
     "716340": {
@@ -663,7 +673,7 @@
     },
     "720240": {
       "title": "Legend of Fainn Dynasty ～Battles of Beautiful Warlords～",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "721010": {
@@ -678,7 +688,7 @@
     },
     "727090": {
       "title": "Village of Adventurers 2",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "728780": {
@@ -713,7 +723,7 @@
     },
     "741140": {
       "title": "Baldr Sky",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "744520": {
@@ -733,7 +743,7 @@
     },
     "749520": {
       "title": "Sakura no Mori † Dreamers",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "750990": {
@@ -748,12 +758,12 @@
     },
     "751450": {
       "title": "Nanairo Reincarnation",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "758090": {
       "title": "茂伸奇谈-Monobeno-",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "759220": {
@@ -763,17 +773,17 @@
     },
     "762920": {
       "title": "Glory of the Self-Styled Diehard girl",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "766540": {
       "title": "A Kiss For The Petals - Maidens of Michael",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "768090": {
       "title": "Amatarasu Riddle Star",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "777130": {
@@ -793,7 +803,7 @@
     },
     "788050": {
       "title": "Re;Lord 1 ~The witch of Hertfort and stuffed animals~",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "788130": {
@@ -803,7 +813,7 @@
     },
     "788910": {
       "title": "Apartment of Love",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "790260": {
@@ -843,17 +853,17 @@
     },
     "802870": {
       "title": "The Ditzy Demons Are in Love With Me",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "802880": {
       "title": "Muv-Luv",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "802890": {
       "title": "Muv-Luv Alternative",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "804610": {
@@ -893,7 +903,7 @@
     },
     "822760": {
       "title": "Fureraba ~Friend to Lover~",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "822830": {
@@ -933,7 +943,7 @@
     },
     "831660": {
       "title": "Monobeno-HAPPY END- Deluxe",
-      "patches": 1,
+      "patches": 4,
       "updated": "2026-10-11"
     },
     "834150": {
@@ -983,7 +993,7 @@
     },
     "852910": {
       "title": "sweet pool",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "857200": {
@@ -1018,7 +1028,7 @@
     },
     "868740": {
       "title": "The Cursed Love",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "868980": {
@@ -1058,7 +1068,7 @@
     },
     "888790": {
       "title": "Sabbat of the Witch",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "889770": {
@@ -1111,6 +1121,11 @@
       "patches": 1,
       "updated": "2026-10-11"
     },
+    "897220": {
+      "title": "Summer Pockets",
+      "patches": 4,
+      "updated": "2026-10-11"
+    },
     "897440": {
       "title": "Leviathan ~A Survival RPG~",
       "patches": 1,
@@ -1128,7 +1143,7 @@
     },
     "906300": {
       "title": "Under One Wing",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "907090": {
@@ -1158,7 +1173,7 @@
     },
     "925470": {
       "title": "Endless Jade Sea -Midori no Umi-",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "925670": {
@@ -1193,7 +1208,7 @@
     },
     "942990": {
       "title": "Girls in Glasses",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "946090": {
@@ -1263,7 +1278,7 @@
     },
     "972160": {
       "title": "The Witch's Love Diary",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "973060": {
@@ -1283,7 +1298,7 @@
     },
     "976390": {
       "title": "9-nine-:Episode 1",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "983150": {
@@ -1353,7 +1368,7 @@
     },
     "1009450": {
       "title": "Sankaku Renai: Love Triangle Trouble",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "1009460": {
@@ -1478,7 +1493,7 @@
     },
     "1033420": {
       "title": "9-nine-:Episode 2",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "1033450": {
@@ -1513,7 +1528,7 @@
     },
     "1044620": {
       "title": "Aokana - Four Rhythms Across the Blue",
-      "patches": 2,
+      "patches": 4,
       "updated": "2026-10-11"
     },
     "1045350": {
@@ -1803,12 +1818,12 @@
     },
     "1141100": {
       "title": "Lilitales",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "1142830": {
       "title": "9-nine-:Episode 3",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "1143740": {
@@ -1823,7 +1838,7 @@
     },
     "1144400": {
       "title": "Senren＊Banka",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "1145030": {
@@ -1953,7 +1968,7 @@
     },
     "1171270": {
       "title": "TroubleDays",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1173650": {
@@ -2053,7 +2068,7 @@
     },
     "1200720": {
       "title": "Making*Lovers",
-      "patches": 2,
+      "patches": 4,
       "updated": "2026-10-11"
     },
     "1202280": {
@@ -2278,7 +2293,7 @@
     },
     "1258340": {
       "title": "KukkoroDays",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1259430": {
@@ -2463,7 +2478,7 @@
     },
     "1293820": {
       "title": "YOU and ME and HER: A Love Story",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1295650": {
@@ -2583,7 +2598,7 @@
     },
     "1340140": {
       "title": "DRACU-RIOT!",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1342040": {
@@ -2648,7 +2663,7 @@
     },
     "1359400": {
       "title": "Primal Hearts",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "1361260": {
@@ -2663,12 +2678,12 @@
     },
     "1368010": {
       "title": "Primal Hearts 2",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1369790": {
       "title": "Marshmallow All the Way Home",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1377550": {
@@ -2848,7 +2863,7 @@
     },
     "1424660": {
       "title": "9-nine-:Episode 4",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "1426110": {
@@ -2923,7 +2938,7 @@
     },
     "1460490": {
       "title": "Majikoi",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "1462650": {
@@ -2938,7 +2953,7 @@
     },
     "1465050": {
       "title": "HaremKingdom",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1466680": {
@@ -2978,7 +2993,7 @@
     },
     "1481080": {
       "title": "DRAMAtical Murder",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1485180": {
@@ -3068,7 +3083,7 @@
     },
     "1518430": {
       "title": "Eiyu*Senki Gold - A New Conquest",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1519590": {
@@ -3088,7 +3103,7 @@
     },
     "1540220": {
       "title": "Sugar * Style",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "1542710": {
@@ -3153,7 +3168,7 @@
     },
     "1552140": {
       "title": "Suzukuri Dungeon: Karin in the Mountain",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1555110": {
@@ -3253,7 +3268,7 @@
     },
     "1604380": {
       "title": "Hamidashi Creative",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1605010": {
@@ -3338,7 +3353,7 @@
     },
     "1642260": {
       "title": "Kimagure Temptation",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1644150": {
@@ -3388,7 +3403,7 @@
     },
     "1662850": {
       "title": "Renai Karichaimashita: Koikari - Love For Hire",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "1665210": {
@@ -3543,7 +3558,7 @@
     },
     "1777750": {
       "title": "Ninki Seiyuu: How to Make a Pop Voice Actress",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1786790": {
@@ -3618,7 +3633,7 @@
     },
     "1856480": {
       "title": "KamiYaba: Destiny on a Dicey Deadline",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "1868000": {
@@ -3663,12 +3678,12 @@
     },
     "1934900": {
       "title": "My Slow Life with the Princess Knight and Her Devoted Handmaiden",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1934910": {
       "title": "Kunado Chronicles",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1938120": {
@@ -3688,17 +3703,17 @@
     },
     "1961760": {
       "title": "My Girlfriend’s Special Place",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1977740": {
       "title": "My Little Sister's Special Place",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "1985260": {
       "title": "Kinkoi: Golden Time",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "1989450": {
@@ -3713,7 +3728,7 @@
     },
     "2002010": {
       "title": "My Academy's Special Place",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "2004980": {
@@ -3783,7 +3798,7 @@
     },
     "2122430": {
       "title": "Renai X Royale - Love's a Battle",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "2126870": {
@@ -3848,7 +3863,7 @@
     },
     "2258770": {
       "title": "The Shell Part I: Inferno",
-      "patches": 1,
+      "patches": 5,
       "updated": "2026-10-11"
     },
     "2258940": {
@@ -3868,7 +3883,7 @@
     },
     "2348170": {
       "title": "Kuroinu Redux",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "2350380": {
@@ -3903,12 +3918,12 @@
     },
     "2370530": {
       "title": "Ready or Not - The Deadline is coming!",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "2370540": {
       "title": "My Klutzy Cupid",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "2375080": {
@@ -3938,7 +3953,7 @@
     },
     "2399220": {
       "title": "NUKITASHI",
-      "patches": 1,
+      "patches": 4,
       "updated": "2026-10-11"
     },
     "2417260": {
@@ -3948,12 +3963,12 @@
     },
     "2430160": {
       "title": "Taimanin Asagi",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "2430690": {
       "title": "Clover Day's Plus",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "2459870": {
@@ -3963,7 +3978,7 @@
     },
     "2467540": {
       "title": "Secret Agent",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "2474940": {
@@ -3998,12 +4013,12 @@
     },
     "2579430": {
       "title": "Ego’s Spark",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "2591380": {
       "title": "Irotoridori No Sekai HD - The Colorful World",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "2599880": {
@@ -4013,7 +4028,7 @@
     },
     "2614070": {
       "title": "NUKITASHI 2",
-      "patches": 1,
+      "patches": 5,
       "updated": "2026-10-11"
     },
     "2644010": {
@@ -4033,7 +4048,7 @@
     },
     "2680250": {
       "title": "Holy Maid Academy",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "2693380": {
@@ -4046,9 +4061,14 @@
       "patches": 1,
       "updated": "2026-10-11"
     },
+    "2699690": {
+      "title": "Harmonia Full HD Edition",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
     "2712550": {
       "title": "The Shell Part II: Purgatorio",
-      "patches": 1,
+      "patches": 4,
       "updated": "2026-10-11"
     },
     "2737970": {
@@ -4058,12 +4078,12 @@
     },
     "2737980": {
       "title": "Mashiroiro Symphony HD −Sana Edition−",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "2739700": {
       "title": "Taimanin Yukikaze",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "2741260": {
@@ -4078,17 +4098,17 @@
     },
     "2743780": {
       "title": "Bunny’s Rent-a-Mom Agency",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "2743790": {
       "title": "LOVEJUICED! -Hi Neighbor meet Gamer.-",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "2743810": {
       "title": "Kudo’s Kuppa",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "2754340": {
@@ -4128,7 +4148,7 @@
     },
     "2879090": {
       "title": "NYO-NIN-JIMA -My New Life in Charge of a Tropical Island-",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "2886720": {
@@ -4178,7 +4198,7 @@
     },
     "2947970": {
       "title": "The Restless Sheep & The Lone Wolf -A Tale of Cutthroat Lovers-",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "2947980": {
@@ -4208,12 +4228,12 @@
     },
     "3027600": {
       "title": "Love, Elections, and Chocolate",
-      "patches": 2,
+      "patches": 5,
       "updated": "2026-10-11"
     },
     "3027620": {
       "title": "Kakenuke★Forward to Our Sparking Youth!",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "3031150": {
@@ -4248,22 +4268,22 @@
     },
     "3113990": {
       "title": "Futamata Ren'ai: Two Times the Trouble",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "3125150": {
       "title": "A Maiden's Serenade",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "3137110": {
       "title": "SACRIFICE VILLAINS",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "3143290": {
       "title": "Making*Lovers: First Blush",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "3143300": {
@@ -4298,12 +4318,12 @@
     },
     "3155290": {
       "title": "Hold Me Tight All Night, Onii-chan!",
-      "patches": 2,
+      "patches": 5,
       "updated": "2026-10-11"
     },
     "3171460": {
       "title": "Hatsuyuki Sakura",
-      "patches": 2,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "3173200": {
@@ -4313,7 +4333,7 @@
     },
     "3196500": {
       "title": "Wayblazer Dämmerung",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "3216170": {
@@ -4328,7 +4348,7 @@
     },
     "3224670": {
       "title": "Double Date Dilemma",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "3231630": {
@@ -4358,7 +4378,7 @@
     },
     "3296790": {
       "title": "The Shell Part III: Paradiso",
-      "patches": 1,
+      "patches": 4,
       "updated": "2026-10-11"
     },
     "3304760": {
@@ -4383,12 +4403,17 @@
     },
     "3407830": {
       "title": "Hamidashi Creative Totsu",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "3410670": {
       "title": "Fusty Dungeon",
       "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3418570": {
+      "title": "Summer Pockets REFLECTION BLUE",
+      "patches": 4,
       "updated": "2026-10-11"
     },
     "3419820": {
@@ -4508,7 +4533,7 @@
     },
     "3830560": {
       "title": "AMANATSU+",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "3845600": {
@@ -4538,7 +4563,7 @@
     },
     "3891200": {
       "title": "Cosplaying in Costalia: The Tororo Sisters!",
-      "patches": 1,
+      "patches": 3,
       "updated": "2026-10-11"
     },
     "3903800": {
@@ -4553,7 +4578,7 @@
     },
     "3943440": {
       "title": "Wagamama High Spec OC",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "3971880": {
@@ -4593,7 +4618,7 @@
     },
     "4215660": {
       "title": "TORAWASE: The Girl in the Mirror",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "4258930": {

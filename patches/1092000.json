@@ -26,10 +26,10 @@
         {
           "host": "direct",
           "url": "http://wcute.net/Naked_KeyFiles.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Naked_KeyFiles.zip",
+          "format": "zip",
+          "size": 89770,
+          "sha256": "33abba920f1e4376ac0b488de553f3580fdd344c162fd842a7038d27cd889286"
         }
       ],
       "added": "2026-10-11",

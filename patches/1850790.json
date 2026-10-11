@@ -26,10 +26,10 @@
         {
           "host": "wetransfer",
           "url": "https://we.tl/t-58PLWjgdvL",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "assets.rpa",
+          "format": "file",
+          "size": 35620020,
+          "sha256": "5388777fdd91f18614a9ef1c5130742f53b97f0bda85bc13ca2f682d99aa02a3"
         }
       ],
       "added": "2026-10-11",

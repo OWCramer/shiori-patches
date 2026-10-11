@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!QeRwTbJB!6vKV20JsPIOr3QDzoUHiubOgp-OEh7IE90Nsq-1qvak",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "summerfling-adultpatch.zip",
+          "format": "zip",
+          "size": 301,
+          "sha256": "f43cdd48eeea1bcdd42ef3668f9727ac6592e37d655abbdc14a7469f86b50e96"
         }
       ],
       "added": "2026-10-11",

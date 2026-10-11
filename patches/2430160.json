@@ -28,6 +28,39 @@
           "url": "https://download.patch.moe/Taimanin_Asagi_Patch.zip",
           "name": "Taimanin_Asagi_Patch.zip",
           "format": "zip",
+          "size": 549706285,
+          "sha256": "749760bb453c41e4850af80cde33fee2f33b899de9f2f83480574c173be4befe"
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Dark Translations, BiTrans, Rattan Man Translations",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r64644",
+        "key": "r64644"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://rattanmantrans.blogspot.com/2019/06/taimanin-asagi-premium-box-english.html",
+          "name": null,
+          "format": null,
           "size": null,
           "sha256": null
         }

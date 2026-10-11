@@ -34,6 +34,40 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-uncensored-patch",
+      "name": "Uncensored Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Nukige Nightclub",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r60239",
+        "key": "r60239"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "zh-Hant"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://steamcommunity.com/groups/Nukige#announcements/detail/1648754107865517391",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
     }
   ]
 }

@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!YCYngTwB!a6hG_mBn-0o31pG67zl_Wa1j45b6Too6R-RqlChPlI8",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Monsterxman NSFW mod.zip",
+          "format": "zip",
+          "size": 4688964,
+          "sha256": "211de0f11ae2a8bec742bbe120b2d94e756dec8016d425b4a6657e100d913575"
         }
       ],
       "added": "2026-10-11",

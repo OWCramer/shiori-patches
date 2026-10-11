@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "unsupported",
+      "status": "dead",
       "verified": false,
       "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the patch archive onto your computer Run \"spherias_familiar_patch_v2.exe\" and select your Steam game install folder (from Step 1) when asked to Select Destination Location It's working if: The main menu has a background image instead of just being completely black, and the opening sequence has imagery to go along with the text. uncensorpat.ch checked this patch on PC.",
       "files": [

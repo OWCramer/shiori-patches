@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/DGF3_patch.zip",
           "name": "DGF3_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 728281395,
+          "sha256": "98c752ca6f972e86fea5f48ebcd3719d51b853a136ef6fa0c61f3127fa6f36d2"
         }
       ],
       "added": "2026-10-11",

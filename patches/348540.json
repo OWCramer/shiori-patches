@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!0LZRVLjQ!GFWLDXqnew0KgGmhs9SZKQWJSHxWeU6du_LdaCrj4KQ",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "dsol-patch.zip",
+          "format": "zip",
+          "size": 1606,
+          "sha256": "248b2526edc17f5a2149a949828e13684684ccc3fc0d345da54931336c365951"
         }
       ],
       "added": "2026-10-11",

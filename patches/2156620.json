@@ -28,8 +28,8 @@
           "url": "https://cdn.nekonyansoft.com/patch/futureradio/futureradio_r18_patch.zip",
           "name": "futureradio_r18_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 834291979,
+          "sha256": "9893f871fa94abf13976b1a0481ee2f1892da92553762e7fabca01c1b8e8b4c8"
         }
       ],
       "added": "2026-10-11",

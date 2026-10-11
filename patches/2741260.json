@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,8 +28,9 @@
           "url": "https://cdn.nekonyansoft.com/patch/aoi-tori/aoitori-r18-patch-v1.04.zip",
           "name": "aoitori-r18-patch-v1.04.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 4149752541,
+          "sha256": "8fb7e6ee0b13cf27338091c7ea5924fede9e508b640f7ae78fdd6135eeba6bbe",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
