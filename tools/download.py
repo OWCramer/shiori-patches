@@ -97,7 +97,7 @@ def _mega(url):
     aes_key = struct.pack(">4I", key[0] ^ key[4], key[1] ^ key[5], key[2] ^ key[6], key[3] ^ key[7])
     iv = struct.pack(">4I", key[4], key[5], 0, 0)
     reply = json.loads(fetch("https://g.api.mega.co.nz/cs?id=0",
-                             data=json.dumps([{"a": "g", "g": 1, "p": file_id}]).encode(),
+                             data=json.dumps([{"a": "g", "g": 1, "ssl": 2, "p": file_id}]).encode(),
                              headers={"Content-Type": "application/json"}))[0]
     if isinstance(reply, int):
         raise Unavailable(f"MEGA error {reply}", dead=reply in (-9, -16, -6))
