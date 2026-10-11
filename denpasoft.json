@@ -1,21 +1,24 @@
 {
-  "_about": "Denpasoft's 18+ and uncensor DLCs, kept by hand: denpasoft.com answers automated requests with a bot check, so the Action can't read it. Add a product by its URL slug and game title (as on Steam); price is what Denpasoft charges (\"Free\" for the free ones). Checked 2026-10-11. A product whose title doesn't match on Steam's search gets its \"appID\" set by hand; ones with neither aren't listed yet.",
+  "_about": "Denpasoft's 18+ and uncensor DLCs. tools/sources/denpasoft.py reads them from Denpasoft's public catalog API (denpasoft.com/developers) and keeps this copy, which it falls back to when the API answers a bot check (as it does for most servers). A product whose game title doesn't match on Steam's search gets its \"appID\" set by hand. Read 2026-10-11 through the API in a browser.",
   "products": [
     {
       "slug": "neko-mimi-sweet-housemates-vol-2-18-dlc",
       "game": "NEKO-MIMI SWEET HOUSEMATES Vol. 2",
+      "product": "NEKO-MIMI SWEET HOUSEMATES Vol. 2 – 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "nice-to-meet-you-again-18-dlc",
       "game": "NICE TO MEET YOU, AGAIN",
+      "product": "NICE TO MEET YOU, AGAIN – 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "do-as-i-say-obedience-to-the-village-leader-uncensor-dlc",
       "game": "Do As I Say - Obedience to the Village Leader",
+      "product": "Do As I Say - Obedience to the Village Leader – Uncensor DLC",
       "price": "Free",
       "checked": "2026-10-11",
       "appID": 4463100
@@ -23,6 +26,7 @@
     {
       "slug": "do-as-i-say-obedience-to-the-ninja-master-uncensor-dlc",
       "game": "Do As I Say - Obedience to the Ninja Master",
+      "product": "Do As I Say - Obedience to the Ninja Master – Uncensor DLC",
       "price": "Free",
       "checked": "2026-10-11",
       "appID": 4462790
@@ -30,18 +34,21 @@
     {
       "slug": "katanegai-18-dlc",
       "game": "Katanegai",
+      "product": "Katanegai – 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "welcome-to-cafe-lumiere-a-dragon-girl-concept-cafe-18-dlc",
       "game": "Welcome to Cafe Lumière! ~A Dragon Girl Concept Cafe~",
+      "product": "Welcome to Cafe Lumière! ~A Dragon Girl Concept Cafe~ – 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "do-as-i-say-obedience-to-the-priest-uncensor-dlc",
       "game": "Do As I Say - Obedience to the Priest",
+      "product": "Do As I Say - Obedience to the Priest – Uncensor DLC",
       "price": "Free",
       "checked": "2026-10-11",
       "appID": 3558880
@@ -49,111 +56,718 @@
     {
       "slug": "kami-no-ue-no-mahoutsukai-18-dlc",
       "game": "Kami no Ue no Mahoutsukai",
+      "product": "Kami no Ue no Mahoutsukai - 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "the-shimmering-horizon-and-cursed-blacksmith-18-dlc",
       "game": "The Shimmering Horizon and Cursed Blacksmith",
+      "product": "The Shimmering Horizon and Cursed Blacksmith - 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "a-maidens-serenade-18-dlc",
       "game": "A Maiden's Serenade",
+      "product": "A Maiden's Serenade – 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "wagamama-high-spec-oc-18-dlc",
       "game": "Wagamama High Spec OC",
+      "product": "Wagamama High Spec OC - 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "neko-nin-exheart-spin-loveplus-18-dlc",
       "game": "NEKO-NIN exHeart SPIN! LOVE+PLUS",
+      "product": "NEKO-NIN exHeart SPIN! LOVE+PLUS - 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "amairo-chocolate-3-18-dlc",
       "game": "Amairo Chocolate 3",
+      "product": "Amairo Chocolate 3 - 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "hajimeru-sekai-no-risouron-goodbye-world-index-dlc",
-      "game": "Hajimeru Sekai no Risouron -goodbye world index-",
+      "game": "Hajimeru Sekai no Risouron -goodbye world index",
+      "product": "Hajimeru Sekai no Risouron -goodbye world index-  - 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "nekopara-after-18-dlc",
       "game": "NEKOPARA After",
+      "product": "NEKOPARA After - 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "hamidashi-creative-totsu-18-dlc",
       "game": "Hamidashi Creative Totsu",
+      "product": "Hamidashi Creative Totsu - 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "kuri-kuri-click-my-sweet-model-uncensor-dlc",
       "game": "Kuri Kuri Click! ~My Sweet Model!~",
+      "product": "Kuri Kuri Click! ~My Sweet Model!~ – Uncensor DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "neko-nin-exheart-spin-18-dlc",
       "game": "NEKO-NIN exHeart SPIN!",
+      "product": "NEKO-NIN exHeart SPIN! – 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "fleeting-iris-alansya-chronicles-renpy-edition-18-dlc",
       "game": "Fleeting Iris: Alansya Chronicles Ren'Py Edition",
+      "product": "Fleeting Iris: Alansya Chronicles Ren'Py Edition – 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "kuri-kuri-click-2-my-renaissance-uncensor-dlc",
       "game": "Kuri Kuri Click! ~My Renaissance!~",
+      "product": "Kuri Kuri Click! ~My Renaissance!~ – Uncensor DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "kuri-kuri-click-my-summer-vacation-uncensor-dlc",
       "game": "Kuri Kuri Click! ~My Summer Vacation!~",
+      "product": "Kuri Kuri Click! ~My Summer Vacation!~ – Uncensor DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "princess-quest-18-dlc",
       "game": "Princess Quest",
+      "product": "Princess Quest – 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "the-secret-atelier-uncensor-dlc",
       "game": "The Secret Atelier",
+      "product": "The Secret Atelier – Uncensor DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
       "slug": "marauder-of-dystopia-the-weakest-go-to-the-wall-18-dlc",
       "game": "Marauder of Dystopia: The weakest go to the wall",
+      "product": "Marauder of Dystopia: The weakest go to the wall – 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11"
     },
     {
+      "slug": "kuroinu-redux-18-dlc",
+      "game": "KuroInu Redux",
+      "product": "KuroInu Redux – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "nope-nope-nurses-18-dlc",
+      "game": "Nope Nope Nurses",
+      "product": "Nope Nope Nurses – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "saimin-gakushu-secret-desire-18-dlc",
+      "game": "Saimin Gakushū: Secret Desire",
+      "product": "Saimin Gakushū: Secret Desire – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "nie-no-hakoniwa-dollhouse-of-offerings-18-dlc",
+      "game": "Nie no Hakoniwa - Dollhouse of Offerings",
+      "product": "Nie no Hakoniwa - Dollhouse of Offerings – 18+ DLC",
+      "price": "$9.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "animal-trail-☆-girlish-square-2-18-dlc",
+      "game": "Animal Trail ☆ Girlish Square 2",
+      "product": "Animal Trail ☆ Girlish Square 2 – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "my-academys-special-place-18-dlc",
+      "game": "My Academy's Special Place",
+      "product": "My Academy's Special Place – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "animal-trail-☆-girlish-square-loveplus-18-dlc",
+      "game": "Animal Trail ☆ Girlish Square LOVE+PLUS",
+      "product": "Animal Trail ☆ Girlish Square LOVE+PLUS – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "marshmallow-imouto-succubus-18-dlc",
+      "game": "Marshmallow ☆ Imouto ☆ Succubus",
+      "product": "Marshmallow ☆ Imouto ☆ Succubus – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "virtual-maid-streamer-ramie-18-dlc",
+      "game": "Virtual Maid Streamer Ramie",
+      "product": "Virtual Maid Streamer Ramie – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "amairo-chocolate-2-18-dlc",
+      "game": "Amairo Chocolate 2",
+      "product": "Amairo Chocolate 2 - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "my-little-sisters-special-place-18-dlc",
+      "game": "My Little Sister's Special Place",
+      "product": "My Little Sister's Special Place – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "getting-freaky-with-fujiki-18-dlc",
+      "game": "Getting Freaky With Fujiki",
+      "product": "Getting Freaky With Fujiki – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "revival-quest-18-dlc",
+      "game": "Revival Quest",
+      "product": "Revival Quest – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "slobbish-dragon-princess-3-18-dlc",
+      "game": "Slobbish Dragon Princess 3",
+      "product": "Slobbish Dragon Princess 3 – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "my-girlfriends-special-place-18-dlc",
+      "game": "My Girlfriend’s Special Place",
+      "product": "My Girlfriend’s Special Place – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "qualia-the-path-of-promise-18-dlc",
+      "game": "QUALIA ~The Path of Promise~",
+      "product": "QUALIA ~The Path of Promise~ – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "hoshizora-no-memoria-eternal-heart-18-dlc",
+      "game": "Hoshizora no Memoria -Eternal Heart- HD",
+      "product": "Hoshizora no Memoria -Eternal Heart- HD - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "a-clockwork-ley-line-flowers-falling-in-the-morning-mist-18-dlc",
+      "game": "A Clockwork Ley-Line: Flowers Falling in the Morning Mist",
+      "product": "A Clockwork Ley-Line: Flowers Falling in the Morning Mist - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "raspberry-cube-18-dlc",
+      "game": "Raspberry Cube",
+      "product": "Raspberry Cube- 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "hamidashi-creative-18-dlc",
+      "game": "Hamidashi Creative",
+      "product": "Hamidashi Creative - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "mahou-arms-18-dlc",
+      "game": "Mahou Arms",
+      "product": "Mahou Arms – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "animal-trail-☆-girlish-square-18-dlc",
+      "game": "Animal Trail ☆ Girlish Square",
+      "product": "Animal Trail ☆ Girlish Square – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "miko-no-kanata-curious-tales-from-oguni-shrine-cycles-18-dlc",
+      "game": "Miko no Kanata: Curious Tales from Oguni Shrine -Cycles",
+      "product": "Miko no Kanata: Curious Tales from Oguni Shrine -Cycles- – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "amatsutsumi-18-dlc",
+      "game": "Amatsutsumi",
+      "product": "Amatsutsumi – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "neko-mimi-sweet-housemates-vol-01-18-dlc",
+      "game": "NEKO-MIMI SWEET HOUSEMATES Vol. 01",
+      "product": "NEKO-MIMI SWEET HOUSEMATES Vol. 01 – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "a-clockwork-ley-line-daybreak-of-remnants-shadow-18-dlc",
+      "game": "A Clockwork Ley-Line: Daybreak of Remnants Shadow",
+      "product": "A Clockwork Ley-Line: Daybreak of Remnants Shadow - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "the-seventh-sign-mr-sister-18-dlc",
+      "game": "The Seventh Sign -Mr.Sister",
+      "product": "The Seventh Sign -Mr.Sister- - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "slobbish-dragon-princess-2-18-dlc",
+      "game": "Slobbish Dragon Princess 2",
+      "product": "Slobbish Dragon Princess 2 – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "kimagure-temptation-18-dlc",
+      "game": "Kimagure Temptation",
+      "product": "Kimagure Temptation – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "relord-2-the-witch-of-cologne-and-black-cat-18-dlc",
+      "game": "Re;Lord 2 ~The witch of Cologne and black cat~",
+      "product": "Re;Lord 2 ~The witch of Cologne and black cat~ – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "the-oath-of-the-dark-magic-queen-18-dlc",
+      "game": "The Oath of the Dark Magic Queen",
+      "product": "The Oath of the Dark Magic Queen – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "love-duction-the-guide-for-galactic-lovers-18-dlc",
+      "game": "Love Duction! The Guide for Galactic Lovers",
+      "product": "Love Duction! The Guide for Galactic Lovers – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "oshirabu-waifus-over-husbandos-love-or-die-18-dlc",
+      "game": "OshiRabu: Waifus Over Husbandos ~Love･or･die~",
+      "product": "OshiRabu: Waifus Over Husbandos ~Love･or･die~ – 18+ DLC",
+      "price": "$5.00",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "island-diary-18-dlc",
+      "game": "Island Diary",
+      "product": "Island Diary – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "slobbish-dragon-princess-love-plus-18-dlc",
+      "game": "Slobbish Dragon Princess LOVE + PLUS",
+      "product": "Slobbish Dragon Princess LOVE + PLUS – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "highway-blossoms-18-dlc",
+      "game": "Highway Blossoms",
+      "product": "Highway Blossoms – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "friends-with-benefits-18-dlc",
+      "game": "Friends With Benefits",
+      "product": "Friends With Benefits - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "girls-in-glasses-18-dlc",
+      "game": "Girls in Glasses",
+      "product": "Girls in Glasses - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "9-nine-episode-4-18-dlc",
+      "game": "9-nine-:Episode 4",
+      "product": "9-nine-:Episode 4 - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "slobbish-dragon-princess-18-dlc",
+      "game": "Slobbish Dragon Princess",
+      "product": "Slobbish Dragon Princess - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "summer-memories-expansion",
+      "game": "Summer Memories+",
+      "product": "Summer Memories+ - Expansion DLC",
+      "price": "$9.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "amairo-chocolate-18-dlc",
+      "game": "Amairo Chocolate",
+      "product": "Amairo Chocolate - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "the-ditzy-demons-are-in-love-with-me-fan-disc-18-dlc",
+      "game": "The Ditzy Demons Are In Love With Me Fan Disc",
+      "product": "The Ditzy Demons Are In Love With Me Fan Disc - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "i-walk-among-zombies-vol-0-18-dlc",
+      "game": "I Walk Among Zombies Vol. 0",
+      "product": "I Walk Among Zombies Vol. 0 – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "i-walk-among-zombies-vol-3-18-dlc",
+      "game": "I Walk Among Zombies Vol. 3",
+      "product": "I Walk Among Zombies Vol. 3 - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "nekopara-vol-4-18-dlc",
+      "game": "NEKOPARA Vol. 4",
+      "product": "NEKOPARA Vol. 4 – 18+ DLC",
+      "price": "$9.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "alisa-quest-18-dlc",
+      "game": "Alisa Quest",
+      "product": "Alisa Quest – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "loves-sweet-garnish-2-18-dlc",
+      "game": "Love's Sweet Garnish 2",
+      "product": "Love's Sweet Garnish 2 - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "9-nine-episode-3-18-dlc",
+      "game": "9-nine-:Episode 3",
+      "product": "9-nine-:Episode 3 - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "real-life-plus-ver-kaname-komatsuzaki-18-dlc",
+      "game": "Real Life Plus Ver. Kaname Komatsuzaki",
+      "product": "Real Life Plus Ver. Kaname Komatsuzaki - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "oshirabu-waifus-over-husbandos",
+      "game": "Oshirabu: Waifus Over Husbandos DLC",
+      "product": "Oshirabu: Waifus Over Husbandos DLC",
+      "price": "$5.00",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "wabisabi-18-dlc",
+      "game": "WABISABI",
+      "product": "WABISABI - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "neko-nin-exheart-3-18-dlc",
+      "game": "NEKO-NIN exHeart 3",
+      "product": "NEKO-NIN exHeart 3 - 18+ DLC",
+      "price": "$4.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "how-to-raise-a-wolf-girl-18-dlc",
+      "game": "How to Raise a Wolf Girl",
+      "product": "How to Raise a Wolf Girl - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "nanairo-reincarnation-18-dlc",
+      "game": "Nanairo Reincarnation",
+      "product": "Nanairo Reincarnation - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "9-nine-episode-2-18-dlc",
+      "game": "9-nine-:Episode 2",
+      "product": "9-nine-:Episode 2 - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "the-witchs-love-diary-18-dlc",
+      "game": "The Witch's Love Diary",
+      "product": "The Witch's Love Diary - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "g-senjou-no-maou-the-devil-on-g-string-18-dlc",
+      "game": "G-senjou no Maou - The Devil on G-String",
+      "product": "G-senjou no Maou - The Devil on G-String - 18+ DLC",
+      "price": "$4.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "neko-nin-exheart-2-love-plus-18-dlc",
+      "game": "NEKO-NIN exHeart 2 Love +PLUS",
+      "product": "NEKO-NIN exHeart 2 Love +PLUS – 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "heart-of-the-woods-18-dlc",
+      "game": "Heart of the Woods",
+      "product": "Heart of the Woods - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "fureraba-friend-to-lover-mini-fandisc",
+      "game": "Fureraba ~Friend to Lover~ Mini Fandisc",
+      "product": "Fureraba ~Friend to Lover~ Mini Fandisc",
+      "price": "$7.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "9-nine-episode-1-18-dlc",
+      "game": "9-nine-:Episode 1",
+      "product": "9-nine-:Episode 1 - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "the-ditzy-demons-are-in-love-with-me-18-dlc",
+      "game": "The Ditzy Demons Are In Love With Me",
+      "product": "The Ditzy Demons Are In Love With Me - 18+ DLC",
+      "price": "$9.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "shining-song-starnova-dlc",
+      "game": "Shining Song Starnova",
+      "product": "Shining Song Starnova - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "loves-sweet-garnish-18-dlc",
+      "game": "Love's Sweet Garnish",
+      "product": "Love's Sweet Garnish - 18+ DLC",
+      "price": "$3.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "neko-nin-exheart-2-dlc",
+      "game": "NEKO-NIN exHeart 2",
+      "product": "NEKO-NIN exHeart 2 - 18+ DLC",
+      "price": "$4.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "re-lord-i-18-dlc",
+      "game": "Re;Lord 1 ~The witch of Herfort and stuffed animals~",
+      "product": "Re;Lord 1 ~The witch of Herfort and stuffed animals~ - 18+ DLC",
+      "price": "$9.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "tropical-liquor-18-dlc",
+      "game": "Tropical Liquor",
+      "product": "Tropical Liquor - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "a-clockwork-ley-line-the-borderline-of-dusk-dlc",
+      "game": "A Clockwork Ley-Line: The Borderline of Dusk",
+      "product": "A Clockwork Ley-Line: The Borderline of Dusk - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "hoshizora-no-memoria-wish-upon-a-shooting-star-dlc",
+      "game": "Hoshizora no Memoria -Wish upon a Shooting Star- HD",
+      "product": "Hoshizora no Memoria -Wish upon a Shooting Star- HD - 18+ DLC",
+      "price": "$9.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "eternal-hour-golden-hour-dlc",
+      "game": "Eternal Hour: Golden Hour",
+      "product": "Eternal Hour: Golden Hour - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "neko-nin-exheart-plus-saiha-dlc",
+      "game": "NEKO-NIN exHeart +PLUS Saiha",
+      "product": "NEKO-NIN exHeart +PLUS Saiha - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "karakara2-dlc",
+      "game": "KARAKARA2",
+      "product": "KARAKARA2 - 18+ DLC",
+      "price": "$9.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "neko-nin-exheart-plus-nachi-18-dlc",
+      "game": "NEKO-NIN exHeart +PLUS Nachi",
+      "product": "NEKO-NIN exHeart +PLUS Nachi - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "blackberry-honey-dlc",
+      "game": "Blackberry Honey",
+      "product": "Blackberry Honey - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "ne-no-kami-the-two-princess-knights-of-kyoto-part-2-dlc",
+      "game": "Ne no Kami: The Two Princess Knights of Kyoto Part 2",
+      "product": "Ne no Kami: The Two Princess Knights of Kyoto Part 2 - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11",
+      "appID": 701420
+    },
+    {
+      "slug": "wagamama-high-spec-18-dlc",
+      "game": "Wagamama High Spec",
+      "product": "Wagamama High Spec - 18+ DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "nekopara-vol-3-18-dlc",
+      "game": "NEKOPARA Vol. 3",
+      "product": "NEKOPARA Vol. 3 - 18+ DLC",
+      "price": "$9.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "neko-nin-exheart-18-dlc",
+      "game": "NEKO-NIN exHeart",
+      "product": "NEKO-NIN exHeart - 18+ DLC",
+      "price": "$4.99",
+      "checked": "2026-10-11"
+    },
+    {
       "slug": "ne-no-kami-the-two-princess-knights-of-kyoto-18-dlc",
-      "game": "Ne no Kami - The Two Princess Knights of Kyoto",
+      "game": "Ne no Kami: The Two Princess Knights of Kyoto Part 1",
+      "product": "Ne no Kami: The Two Princess Knights of Kyoto Part 1 - 18+ DLC",
       "price": "Free",
       "checked": "2026-10-11",
       "appID": 490890
+    },
+    {
+      "slug": "karakara-dlc",
+      "game": "KARAKARA",
+      "product": "KARAKARA - 18+ DLC",
+      "price": "$9.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "sunrider-liberation-day-restoration-dlc-1",
+      "game": "Sunrider: Liberation Day",
+      "product": "Sunrider: Liberation Day - 18+ Restoration DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "nekopara-vol-2-18-dlc",
+      "game": "NEKOPARA Vol. 2",
+      "product": "NEKOPARA Vol. 2 - 18+ DLC",
+      "price": "$9.99",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "sunrider-academy-restoration-dlc",
+      "game": "Sunrider: Academy",
+      "product": "Sunrider: Academy - 18+ Restoration DLC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "nekopara-vol-1-18-dlc",
+      "game": "NEKOPARA Vol. 1",
+      "product": "NEKOPARA Vol. 1 - 18+ DLC",
+      "price": "$9.99",
+      "checked": "2026-10-11"
     }
   ]
 }

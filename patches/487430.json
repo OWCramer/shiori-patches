@@ -4,14 +4,14 @@
   "patches": [
     {
       "id": "uncensorpatch-uncensor-patch-to-buy",
-      "name": "Uncensor patch (to buy)",
+      "name": "18+ DLC (Denpasoft, $9.99)",
       "kind": "adult",
       "official": true,
       "by": "Denpasoft",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/487430",
-        "key": "487430"
+        "site": "denpasoft",
+        "page": "https://denpasoft.com/product/karakara-dlc",
+        "key": "karakara-dlc"
       },
       "version": null,
       "languages": [
@@ -21,24 +21,14 @@
       "branch": null,
       "status": "unsupported",
       "verified": false,
-      "notes": "Install (PC): Run the patcher provided by Denpasoft after purchase, and follow the prompts. It's working if: When you're all in the bed together, lewdness ensues between you and Lucia, instead of just cutting to the next morning. uncensorpat.ch checked this patch on PC.",
+      "notes": "Sold by Denpasoft; after buying, download it and use Import in Shiori.",
       "files": [
         {
           "host": "store",
-          "url": "https://denpasoft.com/products/karakara-dlc",
+          "url": "https://denpasoft.com/product/karakara-dlc",
           "name": null,
           "format": null,
-          "mirrors": [
-            {
-              "host": "store",
-              "url": "http://www.dlsite.com/ecchi-eng/dlaf/=/link/work/aid/UncensorPat/id/RE180940.html"
-            },
-            {
-              "host": "store",
-              "url": "https://denpasoft.com/products/karakara-dlc"
-            }
-          ],
-          "installer": true,
+          "price": "$9.99",
           "size": null,
           "sha256": null
         }

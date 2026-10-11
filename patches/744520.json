@@ -4,14 +4,14 @@
   "patches": [
     {
       "id": "uncensorpatch-uncensor-patch-to-buy",
-      "name": "Uncensor patch (to buy)",
+      "name": "18+ DLC (free on Denpasoft)",
       "kind": "adult",
       "official": true,
       "by": "Denpasoft",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/744520",
-        "key": "744520"
+        "site": "denpasoft",
+        "page": "https://denpasoft.com/product/neko-nin-exheart-plus-nachi-18-dlc",
+        "key": "neko-nin-exheart-plus-nachi-18-dlc"
       },
       "version": null,
       "languages": [
@@ -21,19 +21,14 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "",
+      "notes": "Free with a Denpasoft account: claim it on the page, download it, then use Import in Shiori.",
       "files": [
         {
           "host": "store",
-          "url": "https://denpasoft.com/products/neko-nin-exheart-plus-nachi-18-dlc",
+          "url": "https://denpasoft.com/product/neko-nin-exheart-plus-nachi-18-dlc",
           "name": null,
           "format": null,
-          "mirrors": [
-            {
-              "host": "store",
-              "url": "https://denpasoft.com/products/neko-nin-exheart-plus-nachi-18-dlc"
-            }
-          ],
+          "price": "Free",
           "size": null,
           "sha256": null
         }

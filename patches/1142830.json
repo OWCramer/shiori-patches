@@ -3,6 +3,40 @@
   "title": "9-nine-:Episode 3",
   "patches": [
     {
+      "id": "denpasoft-18-dlc-free-on-denpasoft",
+      "name": "18+ DLC (free on Denpasoft)",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft",
+      "source": {
+        "site": "denpasoft",
+        "page": "https://denpasoft.com/product/9-nine-episode-3-18-dlc",
+        "key": "9-nine-episode-3-18-dlc"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Free with a Denpasoft account: claim it on the page, download it, then use Import in Shiori.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://denpasoft.com/product/9-nine-episode-3-18-dlc",
+          "name": null,
+          "format": null,
+          "price": "Free",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",

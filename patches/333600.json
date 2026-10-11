@@ -4,14 +4,14 @@
   "patches": [
     {
       "id": "uncensorpatch-18-dlc-on-steam",
-      "name": "18+ DLC on Steam",
+      "name": "18+ DLC (Denpasoft, $9.99)",
       "kind": "adult",
       "official": true,
-      "by": "Steam",
+      "by": "Denpasoft",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/333600",
-        "key": "333600"
+        "site": "denpasoft",
+        "page": "https://denpasoft.com/product/nekopara-vol-1-18-dlc",
+        "key": "nekopara-vol-1-18-dlc"
       },
       "version": null,
       "languages": [
@@ -21,7 +21,7 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "It's working if: In the \"Effect&Sound\" Config menu, there is a \"Turn H-Animation On\" option (which should be enabled), and when showering after cleaning the store there should be no steam covering nipples.",
+      "notes": "Sold by Denpasoft; after buying, download it and use Import in Shiori.",
       "files": [
         {
           "host": "steam",

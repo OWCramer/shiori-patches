@@ -4,14 +4,14 @@
   "patches": [
     {
       "id": "uncensorpatch-18-dlc-on-steam",
-      "name": "18+ DLC on Steam",
+      "name": "18+ DLC (Denpasoft, $9.99)",
       "kind": "adult",
       "official": true,
-      "by": "Steam",
+      "by": "Denpasoft",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/420110",
-        "key": "420110"
+        "site": "denpasoft",
+        "page": "https://denpasoft.com/product/nekopara-vol-2-18-dlc",
+        "key": "nekopara-vol-2-18-dlc"
       },
       "version": null,
       "languages": [
@@ -21,7 +21,7 @@
       "branch": null,
       "status": "unsupported",
       "verified": false,
-      "notes": "Install (PC): Run the patcher provided by Denpasoft after purchase, and follow the prompts. It's working if: When you go to the Config menu and then the Effect&Sound screen, in the Effects Settings box, there is a \"Turn H-Animation On\" checkbox.",
+      "notes": "Sold by Denpasoft; after buying, download it and use Import in Shiori.",
       "files": [
         {
           "host": "steam",

@@ -4,14 +4,14 @@
   "patches": [
     {
       "id": "uncensorpatch-uncensor-patch-to-buy",
-      "name": "Uncensor patch (to buy)",
+      "name": "18+ DLC (Denpasoft, $4.99)",
       "kind": "adult",
       "official": true,
       "by": "Denpasoft",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/407310",
-        "key": "407310"
+        "site": "denpasoft",
+        "page": "https://denpasoft.com/product/neko-nin-exheart-18-dlc",
+        "key": "neko-nin-exheart-18-dlc"
       },
       "version": null,
       "languages": [
@@ -21,19 +21,14 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "",
+      "notes": "Sold by Denpasoft; after buying, download it and use Import in Shiori.",
       "files": [
         {
           "host": "store",
-          "url": "https://denpasoft.com/products/neko-nin-exheart-18-dlc",
+          "url": "https://denpasoft.com/product/neko-nin-exheart-18-dlc",
           "name": null,
           "format": null,
-          "mirrors": [
-            {
-              "host": "store",
-              "url": "https://denpasoft.com/products/neko-nin-exheart-18-dlc"
-            }
-          ],
+          "price": "$4.99",
           "size": null,
           "sha256": null
         }

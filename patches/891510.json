@@ -4,14 +4,14 @@
   "patches": [
     {
       "id": "uncensorpatch-uncensor-patch-to-buy",
-      "name": "Uncensor patch (to buy)",
+      "name": "18+ DLC (Denpasoft, $3.99)",
       "kind": "adult",
       "official": true,
       "by": "Denpasoft",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/891510",
-        "key": "891510"
+        "site": "denpasoft",
+        "page": "https://denpasoft.com/product/loves-sweet-garnish-18-dlc",
+        "key": "loves-sweet-garnish-18-dlc"
       },
       "version": null,
       "languages": [
@@ -21,19 +21,14 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "",
+      "notes": "Sold by Denpasoft; after buying, download it and use Import in Shiori.",
       "files": [
         {
           "host": "store",
-          "url": "https://denpasoft.com/products/loves-sweet-garnish-18-dlc",
+          "url": "https://denpasoft.com/product/loves-sweet-garnish-18-dlc",
           "name": null,
           "format": null,
-          "mirrors": [
-            {
-              "host": "store",
-              "url": "https://denpasoft.com/products/loves-sweet-garnish-18-dlc"
-            }
-          ],
+          "price": "$3.99",
           "size": null,
           "sha256": null
         }

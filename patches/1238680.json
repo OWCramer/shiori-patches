@@ -4,14 +4,14 @@
   "patches": [
     {
       "id": "uncensorpatch-uncensor-patch-to-buy",
-      "name": "Uncensor patch (to buy)",
+      "name": "18+ DLC (free on Denpasoft)",
       "kind": "adult",
       "official": true,
       "by": "Denpasoft",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/1238680",
-        "key": "1238680"
+        "site": "denpasoft",
+        "page": "https://denpasoft.com/product/amairo-chocolate-18-dlc",
+        "key": "amairo-chocolate-18-dlc"
       },
       "version": null,
       "languages": [
@@ -21,20 +21,14 @@
       "branch": null,
       "status": "unsupported",
       "verified": false,
-      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the self-extracting patch archive from the link below Run \"Amairo Chocolate r18 DLC.sfx.exe\" and select a folder to extract the patch installer into (the default folder should be fine) Run the extracted \"Amairo Chocolate r18 DLC.exe\" patch installer, select the game install f It's working if: When you go to get changed after being shown around the dorm, you walk in on someone else getting changed. uncensorpat.ch checked this patch on PC.",
+      "notes": "Free with a Denpasoft account: claim it on the page, download it, then use Import in Shiori.",
       "files": [
         {
           "host": "store",
           "url": "https://denpasoft.com/product/amairo-chocolate-18-dlc",
           "name": null,
           "format": null,
-          "mirrors": [
-            {
-              "host": "store",
-              "url": "https://denpasoft.com/product/amairo-chocolate-18-dlc"
-            }
-          ],
-          "installer": true,
+          "price": "Free",
           "size": null,
           "sha256": null
         }

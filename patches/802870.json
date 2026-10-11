@@ -3,6 +3,40 @@
   "title": "The Ditzy Demons Are in Love With Me",
   "patches": [
     {
+      "id": "denpasoft-18-dlc-denpasoft-9-99",
+      "name": "18+ DLC (Denpasoft, $9.99)",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft",
+      "source": {
+        "site": "denpasoft",
+        "page": "https://denpasoft.com/product/the-ditzy-demons-are-in-love-with-me-18-dlc",
+        "key": "the-ditzy-demons-are-in-love-with-me-18-dlc"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Sold by Denpasoft; after buying, download it and use Import in Shiori.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://denpasoft.com/product/the-ditzy-demons-are-in-love-with-me-18-dlc",
+          "name": null,
+          "format": null,
+          "price": "$9.99",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
       "id": "uncensorpatch-18-dlc-on-steam",
       "name": "18+ DLC on Steam",
       "kind": "adult",
