@@ -58,6 +58,8 @@ def collect():
                 "version": None,
                 "languages": languages_in(name + " " + file_name),
                 "adult": _kind(name) == "adult",
-                "files": [{"host": "direct", "url": url, "name": file_name, "format": format_of(file_name)}],
+                # A few links are download portals (appendingpulse.jp/dl/…), not files.
+                "files": [{"host": "direct" if "." in file_name else "page", "url": url,
+                           "name": file_name if "." in file_name else None, "format": format_of(file_name) if "." in file_name else None}],
             },
         }

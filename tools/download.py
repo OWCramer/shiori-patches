@@ -140,10 +140,18 @@ def wetransfer_direct(url):
     return reply["direct_link"]
 
 
+def _not_a_page(response):
+    kind = (response.headers.get("Content-Type") or "").lower()
+    if kind.startswith("text/") or "html" in kind:
+        response.close()
+        raise Unavailable(f"the link answers with a page ({kind.split(';')[0]}), not a file", dead=False)
+    return response
+
+
 def open_file(host, url):
     """(byte stream, file name, size or None, transform) for a downloadable file."""
     if host == "direct":
-        response = _open(url)
+        response = _not_a_page(_open(url))
         size = response.headers.get("Content-Length")
         return response, _name_from(response, url), int(size) if size else None, None
     if host == "gdrive":
