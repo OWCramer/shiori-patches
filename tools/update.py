@@ -21,7 +21,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from common import fetch_json, slug, today  # noqa: E402
 import download  # noqa: E402
-from sources import nekonyan, patchmoe, saikey, uncensorpatch, vndb, wingedcloud  # noqa: E402
+from sources import denpasoft, nekonyan, patchmoe, saikey, uncensorpatch, vndb, wingedcloud  # noqa: E402
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 PATCHES = os.path.join(ROOT, "patches")
@@ -87,13 +87,19 @@ def merge(games, entry):
     installer = any(f.get("installer") or f.get("format") == "exe" for f in candidate["files"])
 
     if existing is None:
-        urls = {f["url"] for f in candidate["files"]}
-        other = next((p for p in game["patches"] if any(f["url"] in urls for f in p["files"])), None)
+        def plain(url):
+            return url.split("?")[0].rstrip("/").replace("/products/", "/product/")
+        urls = {plain(f["url"]) for f in candidate["files"]}
+        other = next((p for p in game["patches"]
+                      if any(plain(f["url"]) in urls or any(plain(m["url"]) in urls for m in f.get("mirrors", []))
+                             for f in p["files"])), None)
         if other is not None:
             # Another site already lists this file. The publisher's own listing takes it over.
             if candidate["official"] and other["source"]["site"] == "uncensorpatch":
                 for field in ("name", "kind", "official", "by", "source", "languages", "adult"):
                     other[field] = candidate[field]
+                if other["files"][0]["host"] in ("store", "page") or candidate["files"][0]["host"] not in ("store", "page"):
+                    other["files"] = [dict(f, size=None, sha256=None) if "size" not in f else f for f in candidate["files"]]
                 if candidate.get("notes"):
                     other["notes"] = candidate["notes"]
                 other["checked"] = today()
@@ -208,7 +214,7 @@ def compatibility_app_ids():
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--sources", default="nekonyan,saikey,patchmoe,wingedcloud,uncensorpatch,vndb")
+    parser.add_argument("--sources", default="nekonyan,saikey,patchmoe,wingedcloud,denpasoft,uncensorpatch,vndb")
     parser.add_argument("--full", action="store_true", help="read every uncensorpat.ch page again")
     parser.add_argument("--app-ids", help="comma-separated app ids for uncensorpat.ch and VNDB")
     parser.add_argument("--hash-limit-gb", type=float, default=10)
@@ -237,6 +243,8 @@ def main():
         take("patch.moe", patchmoe.collect())
     if "wingedcloud" in sources:
         take("Winged Cloud", wingedcloud.collect())
+    if "denpasoft" in sources:
+        take("Denpasoft", denpasoft.collect())
     if "uncensorpatch" in sources:
         if only is not None:
             ids = only

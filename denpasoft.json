@@ -1,0 +1,159 @@
+{
+  "_about": "Denpasoft's 18+ and uncensor DLCs, kept by hand: denpasoft.com answers automated requests with a bot check, so the Action can't read it. Add a product by its URL slug and game title (as on Steam); price is what Denpasoft charges (\"Free\" for the free ones). Checked 2026-10-11. A product whose title doesn't match on Steam's search gets its \"appID\" set by hand; ones with neither aren't listed yet.",
+  "products": [
+    {
+      "slug": "neko-mimi-sweet-housemates-vol-2-18-dlc",
+      "game": "NEKO-MIMI SWEET HOUSEMATES Vol. 2",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "nice-to-meet-you-again-18-dlc",
+      "game": "NICE TO MEET YOU, AGAIN",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "do-as-i-say-obedience-to-the-village-leader-uncensor-dlc",
+      "game": "Do As I Say - Obedience to the Village Leader",
+      "price": "Free",
+      "checked": "2026-10-11",
+      "appID": 4463100
+    },
+    {
+      "slug": "do-as-i-say-obedience-to-the-ninja-master-uncensor-dlc",
+      "game": "Do As I Say - Obedience to the Ninja Master",
+      "price": "Free",
+      "checked": "2026-10-11",
+      "appID": 4462790
+    },
+    {
+      "slug": "katanegai-18-dlc",
+      "game": "Katanegai",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "welcome-to-cafe-lumiere-a-dragon-girl-concept-cafe-18-dlc",
+      "game": "Welcome to Cafe Lumière! ~A Dragon Girl Concept Cafe~",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "do-as-i-say-obedience-to-the-priest-uncensor-dlc",
+      "game": "Do As I Say - Obedience to the Priest",
+      "price": "Free",
+      "checked": "2026-10-11",
+      "appID": 3558880
+    },
+    {
+      "slug": "kami-no-ue-no-mahoutsukai-18-dlc",
+      "game": "Kami no Ue no Mahoutsukai",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "the-shimmering-horizon-and-cursed-blacksmith-18-dlc",
+      "game": "The Shimmering Horizon and Cursed Blacksmith",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "a-maidens-serenade-18-dlc",
+      "game": "A Maiden's Serenade",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "wagamama-high-spec-oc-18-dlc",
+      "game": "Wagamama High Spec OC",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "neko-nin-exheart-spin-loveplus-18-dlc",
+      "game": "NEKO-NIN exHeart SPIN! LOVE+PLUS",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "amairo-chocolate-3-18-dlc",
+      "game": "Amairo Chocolate 3",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "hajimeru-sekai-no-risouron-goodbye-world-index-dlc",
+      "game": "Hajimeru Sekai no Risouron -goodbye world index-",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "nekopara-after-18-dlc",
+      "game": "NEKOPARA After",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "hamidashi-creative-totsu-18-dlc",
+      "game": "Hamidashi Creative Totsu",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "kuri-kuri-click-my-sweet-model-uncensor-dlc",
+      "game": "Kuri Kuri Click! ~My Sweet Model!~",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "neko-nin-exheart-spin-18-dlc",
+      "game": "NEKO-NIN exHeart SPIN!",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "fleeting-iris-alansya-chronicles-renpy-edition-18-dlc",
+      "game": "Fleeting Iris: Alansya Chronicles Ren'Py Edition",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "kuri-kuri-click-2-my-renaissance-uncensor-dlc",
+      "game": "Kuri Kuri Click! ~My Renaissance!~",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "kuri-kuri-click-my-summer-vacation-uncensor-dlc",
+      "game": "Kuri Kuri Click! ~My Summer Vacation!~",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "princess-quest-18-dlc",
+      "game": "Princess Quest",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "the-secret-atelier-uncensor-dlc",
+      "game": "The Secret Atelier",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "marauder-of-dystopia-the-weakest-go-to-the-wall-18-dlc",
+      "game": "Marauder of Dystopia: The weakest go to the wall",
+      "price": "Free",
+      "checked": "2026-10-11"
+    },
+    {
+      "slug": "ne-no-kami-the-two-princess-knights-of-kyoto-18-dlc",
+      "game": "Ne no Kami - The Two Princess Knights of Kyoto",
+      "price": "Free",
+      "checked": "2026-10-11",
+      "appID": 490890
+    }
+  ]
+}

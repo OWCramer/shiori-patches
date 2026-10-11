@@ -1,0 +1,40 @@
+{
+  "appID": 4463100,
+  "title": "Do As I Say - Obedience to the Village Leader",
+  "patches": [
+    {
+      "id": "denpasoft-18-dlc-free-on-denpasoft",
+      "name": "18+ DLC (free on Denpasoft)",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft",
+      "source": {
+        "site": "denpasoft",
+        "page": "https://denpasoft.com/product/do-as-i-say-obedience-to-the-village-leader-uncensor-dlc",
+        "key": "do-as-i-say-obedience-to-the-village-leader-uncensor-dlc"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Free with a Denpasoft account: claim it on the page, download it, then use Import in Shiori.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://denpasoft.com/product/do-as-i-say-obedience-to-the-village-leader-uncensor-dlc",
+          "name": null,
+          "format": null,
+          "price": "Free",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

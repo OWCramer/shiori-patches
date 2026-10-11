@@ -15,7 +15,7 @@ One file per game in `patches/<appid>.json`, and `index.json` listing every game
 - `files`: every part of the patch. `host` is how Shiori gets it:
   - `direct`, `gdrive`, `mega` and `wetransfer` download inside Shiori;
   - `steam` is a DLC of the game on Steam;
-  - `store` is a shop that sells it (buy it, then use Import Patch);
+  - `store` is a shop that sells it, or gives it away (`price` says which; buy or claim it, then use Import Patch);
   - `page` opens in a browser.
   
   `mirrors` lists other places to get the same file.
@@ -33,6 +33,7 @@ One file per game in `patches/<appid>.json`, and `index.json` listing every game
 | [Saikey Studios](https://saikeystudios.com/patches/) | Official patches with Steam app ids; files from their Google Drive mirrors. |
 | [uncensorpat.ch](https://www.uncensorpat.ch) | Community database of uncensor patches per Steam app id: Steam DLCs, shops and download links (often MEGA). |
 | [Winged Cloud](https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416) | Official 18+ patches for the Sakura games, from Winged Cloud's public Patreon post, on their WeTransfer portal. |
+| [Denpasoft](https://denpasoft.com/category/dlc-18) | Its 18+ and uncensor DLCs, many free with a Denpasoft account; kept by hand in `denpasoft.json` (the site blocks automated reading). Listed as shop links with their price. |
 | [patch.moe](https://www.patch.moe) | Publishers' DLC patches, listed by title and matched to Steam app ids (`titles.json` holds the matches, for Winged Cloud too; fix a wrong one there). |
 | [VNDB](https://vndb.org) | Fan translations and other fan patches for games with a Steam release; the download link is added by hand. |
 

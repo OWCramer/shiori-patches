@@ -25,7 +25,7 @@
           "required": ["site", "page"],
           "additionalProperties": false,
           "properties": {
-            "site": { "enum": ["nekonyan", "saikey", "uncensorpatch", "patchmoe", "vndb", "wingedcloud", "manual"] },
+            "site": { "enum": ["nekonyan", "saikey", "uncensorpatch", "patchmoe", "vndb", "wingedcloud", "denpasoft", "manual"] },
             "page": { "type": "string", "format": "uri" },
             "key": { "type": "string", "description": "What the site calls this patch; the updater matches on it." }
           }
@@ -81,6 +81,7 @@
         "format": { "enum": ["zip", "7z", "rar", "exe", "file", null] },
         "installer": { "type": "boolean", "description": "The archive holds a Windows installer instead of the game's files." },
         "dlc": { "type": "integer", "description": "Steam app id of the DLC, for host steam." },
+        "price": { "type": "string", "description": "For host store: what the shop charges, \"Free\" when it costs nothing (it may still need an account)." },
         "mirrors": {
           "type": "array",
           "description": "Other places to get the same file, tried in order when the first fails (or offered when it can't be downloaded in Shiori).",

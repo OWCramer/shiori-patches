@@ -1,0 +1,40 @@
+{
+  "appID": 3419820,
+  "title": "Welcome to Cafe Lumière! ~A Dragon Girl Concept Cafe~",
+  "patches": [
+    {
+      "id": "denpasoft-18-dlc-free-on-denpasoft",
+      "name": "18+ DLC (free on Denpasoft)",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft",
+      "source": {
+        "site": "denpasoft",
+        "page": "https://denpasoft.com/product/welcome-to-cafe-lumiere-a-dragon-girl-concept-cafe-18-dlc",
+        "key": "welcome-to-cafe-lumiere-a-dragon-girl-concept-cafe-18-dlc"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Free with a Denpasoft account: claim it on the page, download it, then use Import in Shiori.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://denpasoft.com/product/welcome-to-cafe-lumiere-a-dragon-girl-concept-cafe-18-dlc",
+          "name": null,
+          "format": null,
+          "price": "Free",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}
