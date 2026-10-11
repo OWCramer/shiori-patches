@@ -26,10 +26,10 @@
         {
           "host": "direct",
           "url": "https://c04fa717-4f4a-4269-a863-324fa14a5191.usrfiles.com/archives/c04fa7_5a67d5c600eb4de4b0f2185cff7e2c18.zip?dn=kirakira_stars_idol_project_Nagisa_patch.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "kirakira_stars_idol_project_Nagisa_patch.zip",
+          "format": "zip",
+          "size": 28441,
+          "sha256": "2471b1153a9d6483e732fa681fe571a234d41525e00009eadafed4e90f811d30"
         }
       ],
       "added": "2026-10-11",

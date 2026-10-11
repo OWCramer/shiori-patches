@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "unsupported",
+      "status": "dead",
       "verified": false,
       "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the patch archive onto your computer Run \"drinkbar_maid_reg_patch_v2.exe\" and select your Steam game install folder (from Step 1) when asked to Select Destination Location It's working if: The main menu background has an image of a girl instead of just being a solid colour, and when a DBM talks their image appears. uncensorpat.ch checked this patch on PC.",
       "files": [

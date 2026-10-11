@@ -24,10 +24,10 @@
       "notes": "",
       "files": [
         {
-          "host": "direct",
+          "host": "page",
           "url": "https://appendingpulse.jp/dl/kake567yKFPN",
-          "name": "kake567yKFPN",
-          "format": "file",
+          "name": null,
+          "format": null,
           "size": null,
           "sha256": null
         }

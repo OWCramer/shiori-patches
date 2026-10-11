@@ -28,8 +28,8 @@
           "url": "https://cdn.nekonyansoft.com/patch/happiness/happiness_steam_patch_r18.zip",
           "name": "happiness_steam_patch_r18.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3200240502,
+          "sha256": "d1e390fd53fe743e14901fe3775b650e2fe8540501755e4da8f945a7fedd2301"
         }
       ],
       "added": "2026-10-11",

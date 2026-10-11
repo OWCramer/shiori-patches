@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "dead",
       "verified": false,
       "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive Extract the contents of the downloaded patch archive into the game install folder mentioned above, merging folders and overwriting files if prompted",
       "files": [

@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/FTJXnI4a#vYNcL-obole1sJvGs6Q7tJKh5p7COzWchQy2YGll-gk",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "CinderellaEscape_R12_-_R18_Mod.rar",
+          "format": "rar",
+          "size": 709510,
+          "sha256": "b1e7cdbaf5f1f532c92b2ce476e4755f576e36576ea80620520bb3505cdfcb6e"
         }
       ],
       "added": "2026-10-11",

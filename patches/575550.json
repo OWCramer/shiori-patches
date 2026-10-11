@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!8HRFnKAA!CRpWp_3_sT37t88eaCCBI9RbDsFD6DatOhz-CewsZLU",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "fuli",
+          "format": "file",
+          "size": 2775708,
+          "sha256": "fe84de1f03e22546af4b0fa8875b348a9eddf831090deade6ac6dda88a82c0a1"
         }
       ],
       "added": "2026-10-11",

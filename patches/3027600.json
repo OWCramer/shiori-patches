@@ -57,10 +57,10 @@
       "notes": "",
       "files": [
         {
-          "host": "direct",
+          "host": "page",
           "url": "https://appendingpulse.jp/dl/koi9r7cw5vky",
-          "name": "koi9r7cw5vky",
-          "format": "file",
+          "name": null,
+          "format": null,
           "size": null,
           "sha256": null
         }

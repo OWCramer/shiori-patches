@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!UDJTBA7T!q5ZMfM1GWvl59E69XMNpIcRhTQgxLWdWOxhOtxpe5V4",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "AsNatureIntended.zip",
+          "format": "zip",
+          "size": 130,
+          "sha256": "264be6dda5aab0e0d51e570b322cd1297e5e1b457e4464fab3dfd6a6a6ed90cb"
         }
       ],
       "added": "2026-10-11",

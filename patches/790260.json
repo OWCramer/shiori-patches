@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!VTwy0SpA!cFYPshHI-qg1pX78OZAhiZnIzVEkpGqk9t7d8dPQ6Qg",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Steam Adult patch - kate's test.zip",
+          "format": "zip",
+          "size": 5408191,
+          "sha256": "ad0fbd77580c1d2d063b9467e6c3ed9f8cb0c06341d8b7feb0391ace04ccf425"
         }
       ],
       "added": "2026-10-11",

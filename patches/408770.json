@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!8PhQEYob!nKIaEC6qlpko4Gxs9R8PtMDBoy9Tydt3v6GJzHujt14",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "p-patch.zip",
+          "format": "zip",
+          "size": 487,
+          "sha256": "a27c5af37267f73643bb9eb1d232d980ef7d2070532521b6623f668eeb5be054"
         }
       ],
       "added": "2026-10-11",
