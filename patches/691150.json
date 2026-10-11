@@ -34,6 +34,105 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Shinku Translations",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r36375",
+        "key": "r36375"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://shinku-translations.net/download/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-name-restoration-patch",
+      "name": "Name Restoration Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Fan patch",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r56124",
+        "key": "r56124"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://mega.nz/#!u18RQDjY!ctp5Txnz8oKBqwy_krc0-I6B_LgVRA4vBFOfZnhixvc",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-steam-18-patch",
+      "name": "Steam 18+ Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Rokumei City",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r56898",
+        "key": "r56898"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://vndb.org/r56898",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
     }
   ]
 }

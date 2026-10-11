@@ -67,6 +67,105 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Basic Translations",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r25640",
+        "key": "r25640"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://basicvntls.wordpress.com/2016/07/02/koi-to-senkyo-to-chocolate-english-patch-1-1/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch-2",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Basic Translations",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r44088",
+        "key": "r44088"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://basicvntls.wordpress.com/2015/11/30/koi-to-senkyo-to-chocolate-english-patch-1-0/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch-3",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Lustie",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r81380",
+        "key": "r81380"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://discord.gg/Qc6cJJCgrD",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
     }
   ]
 }

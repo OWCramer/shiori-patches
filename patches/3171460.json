@@ -24,10 +24,10 @@
       "notes": "",
       "files": [
         {
-          "host": "direct",
+          "host": "page",
           "url": "https://appendingpulse.jp/dl/hatu82ns3zcq",
-          "name": "hatu82ns3zcq",
-          "format": "file",
+          "name": null,
+          "format": null,
           "size": null,
           "sha256": null
         }
@@ -61,6 +61,39 @@
           "url": "https://cdn.nekonyansoft.com/patch/hatsuyuki/hatsuyuki_steam_patch_r18.7z",
           "name": "hatsuyuki_steam_patch_r18.7z",
           "format": "7z",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-mosaic-restoration-patch",
+      "name": "Mosaic Restoration Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "kataneer",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r137007",
+        "key": "r137007"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://mega.nz/file/DUVFhToY#I8drS3b4dCS0Sji7vUfeWkOhFptCkiq44-o1Bfl13rc",
+          "name": null,
+          "format": null,
           "size": null,
           "sha256": null
         }

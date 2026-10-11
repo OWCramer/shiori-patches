@@ -40,6 +40,39 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-mosaic-restoration-patch",
+      "name": "Mosaic Restoration Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "kataneer",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r139472",
+        "key": "r139472"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://mega.nz/file/NJZCgTpQ#mCKCSLEdrfiQxUdusNyumZsOG4h-ryQr4xlkooeFbiw",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
     }
   ]
 }

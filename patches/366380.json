@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!NChGnbgT!3FVIO1lSohXegofkRnuNTYVI7RaNiP-Ix-A8lo73pYQ",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "myth_r18.zip",
+          "format": "zip",
+          "size": 27819024,
+          "sha256": "874314c0a5eb32e46f59c6dc2032e4c4fa2887a873d115b2c9a21ec9a38a206d"
         }
       ],
       "added": "2026-10-11",
@@ -37,6 +37,39 @@
       "install": {
         "into": "game"
       }
+    },
+    {
+      "id": "vndb-uncensor-patch",
+      "name": "Uncensor Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Fan patch",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r59041",
+        "key": "r59041"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://github.com/ItaloKnox/myth/releases",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
     }
   ]
 }

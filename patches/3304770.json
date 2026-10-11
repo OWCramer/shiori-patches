@@ -55,7 +55,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "unsupported",
+      "status": "dead",
       "verified": false,
       "notes": "Install (PC): Download the patch archive from the link below Extract the contents of the downloaded patch archive Run the patcher and follow the prompts It's working if: The main menu of the game has three images of the main character, not just the primary one. uncensorpat.ch checked this patch on PC.",
       "files": [

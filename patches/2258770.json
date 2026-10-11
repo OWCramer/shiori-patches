@@ -34,6 +34,138 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-full-voice-hd-size-edition",
+      "name": "FULL VOICE HD SIZE EDITION",
+      "kind": "translation",
+      "official": false,
+      "by": "Oneline's Workshop",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r70062",
+        "key": "r70062"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://web.archive.org/web/20210608111345/https://imgur.com/a/MNwpjHU",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-hd-content-patch",
+      "name": "HD Content Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Oneline's Workshop",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r69645",
+        "key": "r69645"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://mega.nz/#!DWww0CbI!zfGGStwPCKQmtO43GJO7-Ux_qJwGQlaJhNLBdAu7HFM",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-improved-readability-mod",
+      "name": "Improved Readability Mod",
+      "kind": "translation",
+      "official": false,
+      "by": "Fan patch",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r148208",
+        "key": "r148208"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3019084093",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-voice-patch",
+      "name": "Voice Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Oneline's Workshop",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r69603",
+        "key": "r69603"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://mega.nz/#!2b5mgQCJ!HNT6ZHviBo-iaxWyqaLhr02zlOzQNpjBTFZeuD_9whc",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
     }
   ]
 }

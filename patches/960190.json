@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "dead",
       "verified": false,
       "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the downloaded patch archive into the game install folder mentioned above, and enter the password \" havefun2 \" when prompted, and overwrite any files if prompted uncensorpat.ch checked this patch on PC.",
       "files": [

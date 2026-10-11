@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "unsupported",
+      "status": "dead",
       "verified": false,
       "notes": "Install (PC): Download the patch archive from the link below Unzip the archive onto your PC Run the patcher and follow the prompts",
       "files": [

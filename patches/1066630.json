@@ -59,10 +59,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/XdpQ0CzC#thZuorlUNxOdbyl4WSm_q9qVrWMCHVMcyFsUD0vbOMQ",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "patch_e1.xp3",
+          "format": "file",
+          "size": 1342036408,
+          "sha256": "c351c842ed7275fb4188dbd74394dda37830aa946573116da58b567c98cade8c"
         }
       ],
       "added": "2026-10-11",

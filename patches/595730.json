@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!xPAEzZ7C!dWyvD9cBwHR0Zk9YoU69ODsZXUbvEyOB9OT_QYmCuzI",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "nsfw.rpy",
+          "format": "file",
+          "size": 181,
+          "sha256": "7c25373568366d4f0d4e9ac4ff4d85aabda9e140fa97917dbbd5517d5e99cbea"
         }
       ],
       "added": "2026-10-11",

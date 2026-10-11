@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/Heavenly_Island_Patch.zip",
           "name": "Heavenly_Island_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 381630252,
+          "sha256": "ffa51517928e77d1117ba458b9b40e880d19fb269a141ff6ca91aa13e017fe97"
         }
       ],
       "added": "2026-10-11",

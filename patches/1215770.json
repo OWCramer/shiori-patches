@@ -26,10 +26,10 @@
         {
           "host": "direct",
           "url": "http://wcute.net/CPSP_KeyFile.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "CPSP_KeyFile.zip",
+          "format": "zip",
+          "size": 609,
+          "sha256": "e30242c20897f5bb84de1cb210428da97897b84def356da88b728a6aa0319100"
         }
       ],
       "added": "2026-10-11",

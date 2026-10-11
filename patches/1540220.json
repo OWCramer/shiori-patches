@@ -34,6 +34,72 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Fan patch",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r85759",
+        "key": "r85759"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://drive.google.com/file/d/1GknTmwSUxt3JNRjzLeS1m1FPgUoP_mBJ",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-mosaic-restoration-patch",
+      "name": "Mosaic Restoration Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "kataneer",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r139552",
+        "key": "r139552"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://mega.nz/file/0F5AgBxC#ayaa-uuQBJSI64Pb07rQaUsLr9h9M9OAsbC0SNCGB7c",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
     }
   ]
 }

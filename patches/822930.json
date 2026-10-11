@@ -26,10 +26,10 @@
         {
           "host": "direct",
           "url": "http://razzartvisual.com/wp-content/uploads/2018/05/WT-Hpatch.rpa_.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "WT-Hpatch.rpa_.zip",
+          "format": "zip",
+          "size": 659,
+          "sha256": "fc557dca75361698c119e36d5109db57938ec4038f14d56ab47ef50745df0b10"
         }
       ],
       "added": "2026-10-11",

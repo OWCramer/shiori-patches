@@ -1,0 +1,138 @@
+{
+  "appID": 3418570,
+  "title": "Summer Pockets REFLECTION BLUE",
+  "patches": [
+    {
+      "id": "vndb-fan-patch",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Alka Translations",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r65030",
+        "key": "r65030"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://alkatranslations.com/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch-2",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Alka Translations",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r69674",
+        "key": "r69674"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://drive.google.com/file/d/1D-ajjzNkAK7BfP_K10wRNil3lN_Qp2eN/view?usp=sharing",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch-3",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Alka Translations",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r72801",
+        "key": "r72801"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://alkatranslations.com/downloads/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-trial-edition",
+      "name": "Trial Edition",
+      "kind": "translation",
+      "official": false,
+      "by": "Alka Translations",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r58636",
+        "key": "r58636"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://www.alkatranslations.com/downloads/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

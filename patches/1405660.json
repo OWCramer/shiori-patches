@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/dDp0EQBJ#pF0yobU7eVdNGokb-R4ZXSOOi2ov5XsY0RFdtNGRcXc",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Shoot Shoot My Waifu_Data.zip",
+          "format": "zip",
+          "size": 294,
+          "sha256": "ec34ee664dd7bb604c4d6c1153a76a57945b379539acaa8b70eb3ff6834f65f3"
         }
       ],
       "added": "2026-10-11",

@@ -34,6 +34,105 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "SVN",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r113987",
+        "key": "r113987"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://sugoivisualnovel.up.railway.app/vns/12392",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch-2",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "entai2965",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r147495",
+        "key": "r147495"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://pixeldrain.com/u/4g98E5a2",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-patch-3",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "vmarcelo",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r161539",
+        "key": "r161539"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://pixeldrain.com/u/8Ntiq5od",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
     }
   ]
 }

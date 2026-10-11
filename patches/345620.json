@@ -34,6 +34,72 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-hcg-patch",
+      "name": "HCG patch",
+      "kind": "translation",
+      "official": false,
+      "by": "The Math God",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r84527",
+        "key": "r84527"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.mediafire.com/file/jf29gp8yd6dlev7/Grisaia2_HCG_patch.rar/file",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-ucg-patch",
+      "name": "UCG patch",
+      "kind": "translation",
+      "official": false,
+      "by": "The Math God",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r84526",
+        "key": "r84526"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.mediafire.com/file/ro3u0f2qyh8eyb7/Grisaia2_UCG_patch.rar/file",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
     }
   ]
 }

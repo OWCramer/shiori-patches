@@ -34,6 +34,72 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-de-localization-18-repatch-and-tl-fixes",
+      "name": "De-localization 18+ RePatch and TL Fixes",
+      "kind": "translation",
+      "official": false,
+      "by": "RTHRetribution",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r104883",
+        "key": "r104883"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://drive.google.com/drive/folders/1oRwHicm31IeoMHeg_6Uf51IiLj-Fa_sT?usp=share_link",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-de-localization-patch",
+      "name": "De-localization patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Fan patch",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r86590",
+        "key": "r86590"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://anonfiles.com/jfP911Hax1/kamiyaba-1_11_zip",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
     }
   ]
 }

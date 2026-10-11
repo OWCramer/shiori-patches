@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!9LYlQZbR!KEOSGSMk5HE9cDZdNXVcjSsYqwyGvfKvhgzuq-Fp9Qg",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "clublife-patch.zip",
+          "format": "zip",
+          "size": 949,
+          "sha256": "88ec259fd0d19dc81891b1efc8410925a8673cf69833f1dc3e0db1aef737a969"
         }
       ],
       "added": "2026-10-11",
