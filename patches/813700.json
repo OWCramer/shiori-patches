@@ -3,6 +3,39 @@
   "title": "Sakura Sadist",
   "patches": [
     {
+      "id": "wingedcloud-18-patch",
+      "name": "18+ patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Winged Cloud",
+      "source": {
+        "site": "wingedcloud",
+        "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
+        "key": "Sakura Sadist"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Winged Cloud's own patch, from its public Sakura Patch Collection on Patreon.",
+      "files": [
+        {
+          "host": "wetransfer",
+          "url": "https://wingedcloud.wetransfer.com/downloads/ed3444ca9fe32d2aec1ed9da64ee556a20180516191004/43194e",
+          "name": "assets.rpa",
+          "format": "file",
+          "size": 12560541,
+          "sha256": "90dbd0631adaf905c89b04b32b642a151b2128bab07c6ed6c5316151b08771ce"
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -24,7 +57,7 @@
       "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...). Inside that directory, there will be a folder named 'game'. Download the patch file from the link below Move the downloaded 'assets.rpa' file into the 'game' folder mentioned above, overwriting the existing file as prompted",
       "files": [
         {
-          "host": "page",
+          "host": "wetransfer",
           "url": "https://we.tl/S31ZAAwfuO",
           "name": null,
           "format": null,

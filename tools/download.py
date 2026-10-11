@@ -110,6 +110,36 @@ def _mega(url):
     return response, name, reply.get("s"), decryptor.update
 
 
+# WeTransfer
+
+def wetransfer_link(url):
+    """(transfer id, security hash) of a WeTransfer link, following we.tl short links."""
+    if "we.tl/" in url:
+        request = urllib.request.Request(url, method="HEAD", headers={"User-Agent": BROWSER_AGENT})
+        try:
+            url = urllib.request.urlopen(request, timeout=60).geturl()
+        except urllib.error.HTTPError as error:
+            raise Unavailable(f"HTTP {error.code}") from error
+    match = re.search(r"/downloads/([0-9a-f]+)/(?:[0-9a-f]+/)?([0-9a-f]+)", url)
+    return (match.group(1), match.group(2)) if match else None
+
+
+def wetransfer_direct(url):
+    link = wetransfer_link(url)
+    if not link:
+        raise Unavailable("not a WeTransfer download link", dead=False)
+    try:
+        reply = json.loads(fetch(f"https://wetransfer.com/api/v4/transfers/{link[0]}/download",
+                                 data=json.dumps({"security_hash": link[1], "intent": "entire_transfer"}).encode(),
+                                 headers={"Content-Type": "application/json", "X-Requested-With": "XMLHttpRequest"},
+                                 browser=True))
+    except urllib.error.HTTPError as error:
+        raise Unavailable(f"WeTransfer HTTP {error.code}", dead=error.code in (404, 410)) from error
+    if not reply.get("direct_link"):
+        raise Unavailable("WeTransfer gave no download (the transfer may have expired)")
+    return reply["direct_link"]
+
+
 def open_file(host, url):
     """(byte stream, file name, size or None, transform) for a downloadable file."""
     if host == "direct":
@@ -125,6 +155,11 @@ def open_file(host, url):
         return response, _name_from(response, url), int(size) if size else None, None
     if host == "mega":
         return _mega(url)
+    if host == "wetransfer":
+        direct = wetransfer_direct(url)
+        response = _open(direct)
+        size = response.headers.get("Content-Length")
+        return response, _name_from(response, direct), int(size) if size else None, None
     raise Unavailable(f"{host} links aren't downloadable", dead=False)
 
 

@@ -25,7 +25,7 @@
           "required": ["site", "page"],
           "additionalProperties": false,
           "properties": {
-            "site": { "enum": ["nekonyan", "saikey", "uncensorpatch", "patchmoe", "vndb", "manual"] },
+            "site": { "enum": ["nekonyan", "saikey", "uncensorpatch", "patchmoe", "vndb", "wingedcloud", "manual"] },
             "page": { "type": "string", "format": "uri" },
             "key": { "type": "string", "description": "What the site calls this patch; the updater matches on it." }
           }
@@ -71,8 +71,8 @@
       "additionalProperties": false,
       "properties": {
         "host": {
-          "enum": ["direct", "gdrive", "mega", "steam", "store", "page"],
-          "description": "direct/gdrive/mega download in Shiori; steam is a DLC of the game (dlc names it); store is a page to buy it on; page opens in a browser."
+          "enum": ["direct", "gdrive", "mega", "wetransfer", "steam", "store", "page"],
+          "description": "direct/gdrive/mega/wetransfer download in Shiori; steam is a DLC of the game (dlc names it); store is a page to buy it on; page opens in a browser."
         },
         "url": { "type": "string", "format": "uri" },
         "name": { "type": ["string", "null"] },
@@ -89,7 +89,7 @@
             "required": ["host", "url"],
             "additionalProperties": false,
             "properties": {
-              "host": { "enum": ["direct", "gdrive", "mega", "steam", "store", "page"] },
+              "host": { "enum": ["direct", "gdrive", "mega", "wetransfer", "steam", "store", "page"] },
               "url": { "type": "string", "format": "uri" }
             }
           }

@@ -24,7 +24,7 @@
       "notes": "Install (PC): Download the patch archive from the link below Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...), and enter the \"Leveling Up Girls In Another World_Data\" folder Extract the contents of the downloaded patch archive into the folder mentioned above, merging folders and overwriting files if prompted",
       "files": [
         {
-          "host": "page",
+          "host": "wetransfer",
           "url": "https://we.tl/t-ToWX5RS1e2",
           "name": null,
           "format": null,

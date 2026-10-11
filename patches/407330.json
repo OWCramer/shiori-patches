@@ -3,15 +3,15 @@
   "title": "Sakura Dungeon",
   "patches": [
     {
-      "id": "manual-winged-cloud-sakura-patch-collection",
-      "name": "Sakura Patch Collection (Patreon)",
+      "id": "wingedcloud-18-patch",
+      "name": "18+ patch",
       "kind": "adult",
       "official": true,
       "by": "Winged Cloud",
       "source": {
-        "site": "manual",
+        "site": "wingedcloud",
         "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
-        "key": "wingedcloud-sakura-collection"
+        "key": "Sakura Dungeon"
       },
       "version": null,
       "languages": [
@@ -21,15 +21,15 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "Winged Cloud's own patch collection for its Sakura games, a Patreon post for patrons (June 2020). Download the game's patch there, then use Import in Shiori.",
+      "notes": "Winged Cloud's own patch, from its public Sakura Patch Collection on Patreon.",
       "files": [
         {
-          "host": "page",
-          "url": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
-          "name": null,
-          "size": null,
-          "sha256": null,
-          "format": null
+          "host": "wetransfer",
+          "url": "https://wingedcloud.wetransfer.com/downloads/76acc10582ee24a9c0f09acb64d2e81d20170204012429/ecf7ba",
+          "name": "patch0x.rpa",
+          "format": "file",
+          "size": 176778793,
+          "sha256": "0bd9bac6c0210fda5203a1f182a25db231a4387f1923176550147a44de36a56b"
         }
       ],
       "added": "2026-10-11",

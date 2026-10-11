@@ -3,6 +3,39 @@
   "title": "Sakura Nova",
   "patches": [
     {
+      "id": "wingedcloud-18-patch",
+      "name": "18+ patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Winged Cloud",
+      "source": {
+        "site": "wingedcloud",
+        "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
+        "key": "Sakura Nova"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Winged Cloud's own patch, from its public Sakura Patch Collection on Patreon.",
+      "files": [
+        {
+          "host": "wetransfer",
+          "url": "https://wingedcloud.wetransfer.com/downloads/e7dafc4ac5d8b712a67d1abd22383aba20170208225454/968a61",
+          "name": "assets.rpa",
+          "format": "file",
+          "size": 53045065,
+          "sha256": "1cfbe9278e5d6990e23fb0f66d7ff967058eee077797c5609b947545f5b8e6e3"
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",

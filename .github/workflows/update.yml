@@ -21,7 +21,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: sudo apt-get install -y libarchive-tools && pip install cryptography==43.0.3
+      - run: sudo apt-get update -q && sudo apt-get install -y libarchive-tools && pip install cryptography==43.0.3
       - name: Read the sites and hash new files
         run: |
           FULL=""

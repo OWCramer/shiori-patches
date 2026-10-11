@@ -83,7 +83,7 @@
     },
     "375200": {
       "title": "Sakura Fantasy Chapter 1",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "377670": {
@@ -263,7 +263,7 @@
     },
     "521500": {
       "title": "Sakura Space",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "523730": {
@@ -283,7 +283,7 @@
     },
     "539670": {
       "title": "Sakura Nova",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "540610": {
@@ -343,7 +343,7 @@
     },
     "581520": {
       "title": "Sakura Magical Girls",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "588240": {
@@ -693,7 +693,7 @@
     },
     "733740": {
       "title": "Sakura Cupid",
-      "patches": 2,
+      "patches": 1,
       "updated": "2026-10-11"
     },
     "734380": {
@@ -863,7 +863,7 @@
     },
     "813700": {
       "title": "Sakura Sadist",
-      "patches": 1,
+      "patches": 2,
       "updated": "2026-10-11"
     },
     "816220": {
@@ -1168,7 +1168,7 @@
     },
     "935070": {
       "title": "Sakura MMO",
-      "patches": 2,
+      "patches": 1,
       "updated": "2026-10-11"
     },
     "936820": {
@@ -1238,7 +1238,7 @@
     },
     "968950": {
       "title": "Sakura MMO 2",
-      "patches": 2,
+      "patches": 1,
       "updated": "2026-10-11"
     },
     "969700": {
@@ -1543,7 +1543,7 @@
     },
     "1064130": {
       "title": "Sakura MMO 3",
-      "patches": 2,
+      "patches": 1,
       "updated": "2026-10-11"
     },
     "1065940": {
@@ -1903,7 +1903,7 @@
     },
     "1161650": {
       "title": "Sakura Gamer 2",
-      "patches": 2,
+      "patches": 1,
       "updated": "2026-10-11"
     },
     "1163070": {
@@ -2053,7 +2053,7 @@
     },
     "1202310": {
       "title": "Sakura Succubus",
-      "patches": 2,
+      "patches": 1,
       "updated": "2026-10-11"
     },
     "1202770": {
@@ -2083,7 +2083,7 @@
     },
     "1209330": {
       "title": "Sakura Knight",
-      "patches": 2,
+      "patches": 1,
       "updated": "2026-10-11"
     },
     "1211360": {
@@ -2463,7 +2463,7 @@
     },
     "1296260": {
       "title": "Sakura Knight 2",
-      "patches": 2,
+      "patches": 1,
       "updated": "2026-10-11"
     },
     "1299120": {
@@ -3983,6 +3983,11 @@
     },
     "2754340": {
       "title": "Lagoon Lounge 2 : The Secret Roommate",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2788160": {
+      "title": "Sakura Bunny Girls 2",
       "patches": 1,
       "updated": "2026-10-11"
     },

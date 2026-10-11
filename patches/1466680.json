@@ -24,7 +24,7 @@
       "notes": "Install (PC): Download the patch from the link below Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...), and enter the \"game\" folder Move the downloaded \"assets.rpa\" file into the folder, overwriting the existing file if prompted",
       "files": [
         {
-          "host": "page",
+          "host": "wetransfer",
           "url": "https://wingedcloud.wetransfer.com/downloads/3bac73f41324a40674f56c14396f55fc20210111143414/27ea2b",
           "name": null,
           "format": null,

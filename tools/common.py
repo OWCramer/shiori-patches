@@ -67,6 +67,8 @@ def host_of(url):
         return "mega"
     if netloc in ("drive.google.com", "drive.usercontent.google.com", "docs.google.com"):
         return "gdrive"
+    if netloc == "we.tl" or netloc.endswith("wetransfer.com"):
+        return "wetransfer"
     if netloc.endswith("store.steampowered.com"):
         return "steam"
     if any(netloc.endswith(d) for d in STORE_DOMAINS):
@@ -83,7 +85,7 @@ def host_of(url):
 STORE_DOMAINS = ("denpasoft.com", "dlsite.com", "jastusa.com", "mangagamer.com", "fakku.com",
                  "nutaku.net", "johren.games", "kaguragames.com", "gog.com")
 # Links that need a browser (sign-ins, expiring transfers, posts).
-PAGE_DOMAINS = ("patreon.com", "we.tl", "wetransfer.com", "itch.io", "mediafire.com",
+PAGE_DOMAINS = ("patreon.com", "itch.io", "mediafire.com",
                 "pixeldrain.com", "dropbox.com", "onedrive.live.com", "1drv.ms", "anonfiles.com")
 
 

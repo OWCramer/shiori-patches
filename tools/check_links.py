@@ -30,6 +30,8 @@ def alive(host, url):
             if isinstance(reply, int):
                 return False if reply in (-9, -16, -6) else None
             return True
+        if host == "wetransfer":
+            return bool(download.wetransfer_direct(url))
         if host == "gdrive":
             file_id = download.drive_file_id(url)
             if not file_id:
@@ -40,6 +42,8 @@ def alive(host, url):
             return response.status in (200, 206)
     except urllib.error.HTTPError as error:
         return False if error.code in (404, 410) else None
+    except download.Unavailable as error:
+        return False if error.dead else None
     except Exception:
         return None
 
@@ -55,7 +59,7 @@ def main():
             results = []
             for file in patch["files"]:
                 sources = [(file["host"], file["url"])] + [(m["host"], m["url"]) for m in file.get("mirrors", [])]
-                checks = [alive(h, u) for h, u in sources if h in ("direct", "gdrive", "mega")]
+                checks = [alive(h, u) for h, u in sources if h in ("direct", "gdrive", "mega", "wetransfer")]
                 if checks:
                     results.append(True if True in checks else (False if all(c is False for c in checks) else None))
             if not results:

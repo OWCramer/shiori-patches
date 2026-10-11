@@ -3,15 +3,15 @@
   "title": "Sakura Swim Club",
   "patches": [
     {
-      "id": "manual-winged-cloud-sakura-patch-collection",
-      "name": "Sakura Patch Collection (Patreon)",
+      "id": "wingedcloud-18-patch",
+      "name": "18+ patch",
       "kind": "adult",
       "official": true,
       "by": "Winged Cloud",
       "source": {
-        "site": "manual",
+        "site": "wingedcloud",
         "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
-        "key": "wingedcloud-sakura-collection"
+        "key": "Sakura Swim Club"
       },
       "version": null,
       "languages": [
@@ -21,15 +21,15 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "Winged Cloud's own patch collection for its Sakura games, a Patreon post for patrons (June 2020). Download the game's patch there, then use Import in Shiori.",
+      "notes": "Winged Cloud's own patch, from its public Sakura Patch Collection on Patreon.",
       "files": [
         {
-          "host": "page",
-          "url": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
-          "name": null,
-          "size": null,
-          "sha256": null,
-          "format": null
+          "host": "wetransfer",
+          "url": "https://wingedcloud.wetransfer.com/downloads/dad0239c8af156f7054feddf230e128520170204012900/825308",
+          "name": "Sakura_swim_Club_patch.rar",
+          "format": "rar",
+          "size": 216415519,
+          "sha256": "688fc99fc083e3f7af12abab0c4b1ee23138b56916f2618ace6131fb68c3c58b"
         }
       ],
       "added": "2026-10-11",

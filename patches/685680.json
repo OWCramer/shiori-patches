@@ -3,15 +3,15 @@
   "title": "Sakura Gamer",
   "patches": [
     {
-      "id": "manual-winged-cloud-sakura-patch-collection",
-      "name": "Sakura Patch Collection (Patreon)",
+      "id": "wingedcloud-18-patch",
+      "name": "18+ patch",
       "kind": "adult",
       "official": true,
       "by": "Winged Cloud",
       "source": {
-        "site": "manual",
+        "site": "wingedcloud",
         "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
-        "key": "wingedcloud-sakura-collection"
+        "key": "Sakura Gamer"
       },
       "version": null,
       "languages": [
@@ -21,15 +21,15 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "Winged Cloud's own patch collection for its Sakura games, a Patreon post for patrons (June 2020). Download the game's patch there, then use Import in Shiori.",
+      "notes": "Winged Cloud's own patch, from its public Sakura Patch Collection on Patreon.",
       "files": [
         {
-          "host": "page",
-          "url": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
-          "name": null,
-          "size": null,
-          "sha256": null,
-          "format": null
+          "host": "wetransfer",
+          "url": "https://wingedcloud.wetransfer.com/downloads/61997c1379509ff9d2f630a8ec5d5ab420171003121859/085abf",
+          "name": "assets.zip",
+          "format": "zip",
+          "size": 160719038,
+          "sha256": "310d2a792c42a6efbb706781c2c70ab6fbbc2bfc3844d9008225f7dc1988a547"
         }
       ],
       "added": "2026-10-11",

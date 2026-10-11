@@ -3,6 +3,39 @@
   "title": "Sakura Magical Girls",
   "patches": [
     {
+      "id": "wingedcloud-18-patch",
+      "name": "18+ patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Winged Cloud",
+      "source": {
+        "site": "wingedcloud",
+        "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
+        "key": "Sakura Magical Girls"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Winged Cloud's own patch, from its public Sakura Patch Collection on Patreon.",
+      "files": [
+        {
+          "host": "wetransfer",
+          "url": "https://wingedcloud.wetransfer.com/downloads/801eb22834876fb3e93ff19989f994b220170223151258/39015b",
+          "name": "adult.rpa",
+          "format": "file",
+          "size": 24546912,
+          "sha256": "4189259dd328d1c0d000d425dd45f3934d0a13d94efbda66e2862e9e9bf861ff"
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",

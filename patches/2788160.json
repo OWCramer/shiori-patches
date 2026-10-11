@@ -1,0 +1,39 @@
+{
+  "appID": 2788160,
+  "title": "Sakura Bunny Girls 2",
+  "patches": [
+    {
+      "id": "wingedcloud-18-patch",
+      "name": "18+ patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Winged Cloud",
+      "source": {
+        "site": "wingedcloud",
+        "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
+        "key": "Sakura Bunny Girls 2"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Winged Cloud's own patch, from its public Sakura Patch Collection on Patreon.",
+      "files": [
+        {
+          "host": "wetransfer",
+          "url": "https://we.tl/t-TWKYUBJYvw",
+          "name": "assets.rpa",
+          "format": "file",
+          "size": 146031169,
+          "sha256": "0864458e916ea38fd3d26775fe96415bcb976172a22eb13d7f7bc12717d60dc8"
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

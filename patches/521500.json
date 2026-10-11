@@ -3,6 +3,39 @@
   "title": "Sakura Space",
   "patches": [
     {
+      "id": "wingedcloud-18-patch",
+      "name": "18+ patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Winged Cloud",
+      "source": {
+        "site": "wingedcloud",
+        "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
+        "key": "Sakura Space"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Winged Cloud's own patch, from its public Sakura Patch Collection on Patreon.",
+      "files": [
+        {
+          "host": "wetransfer",
+          "url": "https://wingedcloud.wetransfer.com/downloads/5dcdfd911b0ce8b536d39f8bc653868f20170204012746/bee27f",
+          "name": "archive.rpa",
+          "format": "file",
+          "size": 93240140,
+          "sha256": "4517f30c62f36105e127cbd735318bbf7ba7cf4cba1cc814adc0d3186f4af86c"
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",

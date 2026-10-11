@@ -3,48 +3,15 @@
   "title": "Sakura Knight",
   "patches": [
     {
-      "id": "manual-winged-cloud-sakura-patch-collection",
-      "name": "Sakura Patch Collection (Patreon)",
-      "kind": "adult",
-      "official": true,
-      "by": "Winged Cloud",
-      "source": {
-        "site": "manual",
-        "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
-        "key": "wingedcloud-sakura-collection"
-      },
-      "version": null,
-      "languages": [
-        "en"
-      ],
-      "adult": true,
-      "branch": null,
-      "status": "ok",
-      "verified": false,
-      "notes": "Winged Cloud's own patch collection for its Sakura games, a Patreon post for patrons (June 2020). Download the game's patch there, then use Import in Shiori.",
-      "files": [
-        {
-          "host": "page",
-          "url": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
-          "name": null,
-          "size": null,
-          "sha256": null,
-          "format": null
-        }
-      ],
-      "added": "2026-10-11",
-      "checked": "2026-10-11"
-    },
-    {
       "id": "uncensorpatch-uncensor-patch",
-      "name": "Uncensor patch",
+      "name": "18+ patch",
       "kind": "adult",
       "official": true,
       "by": "Winged Cloud",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/1209330",
-        "key": "1209330"
+        "site": "wingedcloud",
+        "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
+        "key": "Sakura Knight"
       },
       "version": null,
       "languages": [
@@ -54,15 +21,15 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "Install (PC): Download the patch from the link below Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...), and enter the \"game\" folder Move the downloaded \"assets.rpa\" file into the folder, overwriting the existing file if prompted",
+      "notes": "Winged Cloud's own patch, from its public Sakura Patch Collection on Patreon.",
       "files": [
         {
-          "host": "page",
+          "host": "wetransfer",
           "url": "https://wingedcloud.wetransfer.com/downloads/053d360856b8190b4d87d29d7b8d53a420200131184203/ea2afe",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "assets.rpa",
+          "format": "file",
+          "size": 47577524,
+          "sha256": "756c4855c61755d9cf6c4d1f243c68543b70a68bfb2500808555d91f6c914efb"
         }
       ],
       "added": "2026-10-11",

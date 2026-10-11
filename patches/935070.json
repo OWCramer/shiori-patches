@@ -3,39 +3,6 @@
   "title": "Sakura MMO",
   "patches": [
     {
-      "id": "manual-winged-cloud-sakura-patch-collection",
-      "name": "Sakura Patch Collection (Patreon)",
-      "kind": "adult",
-      "official": true,
-      "by": "Winged Cloud",
-      "source": {
-        "site": "manual",
-        "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
-        "key": "wingedcloud-sakura-collection"
-      },
-      "version": null,
-      "languages": [
-        "en"
-      ],
-      "adult": true,
-      "branch": null,
-      "status": "ok",
-      "verified": false,
-      "notes": "Winged Cloud's own patch collection for its Sakura games, a Patreon post for patrons (June 2020). Download the game's patch there, then use Import in Shiori.",
-      "files": [
-        {
-          "host": "page",
-          "url": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
-          "name": null,
-          "size": null,
-          "sha256": null,
-          "format": null
-        }
-      ],
-      "added": "2026-10-11",
-      "checked": "2026-10-11"
-    },
-    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -57,7 +24,7 @@
       "notes": "Install (PC): Download the patch from the link below Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...), and enter the \"game\" folder Move the downloaded \"assets.rpa\" file into the folder, overwriting the existing file if prompted",
       "files": [
         {
-          "host": "page",
+          "host": "wetransfer",
           "url": "https://we.tl/t-V8hX0kPAFG",
           "name": null,
           "format": null,

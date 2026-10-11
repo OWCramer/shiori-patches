@@ -4,14 +4,14 @@
   "patches": [
     {
       "id": "uncensorpatch-uncensor-patch",
-      "name": "Uncensor patch",
+      "name": "18+ patch",
       "kind": "adult",
       "official": true,
       "by": "Winged Cloud",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/1157640",
-        "key": "1157640"
+        "site": "wingedcloud",
+        "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
+        "key": "Sakura Fox Adventure"
       },
       "version": null,
       "languages": [
@@ -21,15 +21,15 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "Install (PC): Download the patch from the link below Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...), and enter the \"game\" folder Move the downloaded \"assets.rpa\" file into the folder, overwriting the existing file if prompted",
+      "notes": "Winged Cloud's own patch, from its public Sakura Patch Collection on Patreon.",
       "files": [
         {
-          "host": "page",
+          "host": "wetransfer",
           "url": "https://wingedcloud.wetransfer.com/downloads/f1c49f046bd16d7d70a8374f50155a5020191008143738/01b9cf",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "assets.rpa",
+          "format": "file",
+          "size": 31873628,
+          "sha256": "4ee9aadc299d6c79e4c22ed2276433c5e17e60ed2778781db1e0e45e0a6f9453"
         }
       ],
       "added": "2026-10-11",

@@ -14,7 +14,7 @@ from common import fetch_json, fetch_text, format_of
 
 SITE = "https://www.patch.moe/"
 LANGUAGES = {"en": "en", "zh_tw": "zh-Hant", "zh_cn": "zh-Hans"}
-TITLES = os.path.join(os.path.dirname(__file__), "..", "titles.json")
+TITLES = os.path.join(os.path.dirname(__file__), "..", "..", "titles.json")
 
 
 def _normalise(title):

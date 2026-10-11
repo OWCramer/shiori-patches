@@ -3,6 +3,39 @@
   "title": "Sakura Fantasy Chapter 1",
   "patches": [
     {
+      "id": "wingedcloud-18-patch",
+      "name": "18+ patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Winged Cloud",
+      "source": {
+        "site": "wingedcloud",
+        "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
+        "key": "Sakura Fantasy"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Winged Cloud's own patch, from its public Sakura Patch Collection on Patreon.",
+      "files": [
+        {
+          "host": "wetransfer",
+          "url": "https://wingedcloud.wetransfer.com/downloads/c1f4a8451e9d8fa88429921659aa7e8320170204012540/63aaa8",
+          "name": "archive.rpa",
+          "format": "file",
+          "size": 241270893,
+          "sha256": "eb12b987d3f606c8837f1c1669eeaf3a124ddb08dbba24f69d2dc352b922b213"
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",

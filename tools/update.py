@@ -21,7 +21,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 
 from common import fetch_json, slug, today  # noqa: E402
 import download  # noqa: E402
-from sources import nekonyan, patchmoe, saikey, uncensorpatch, vndb  # noqa: E402
+from sources import nekonyan, patchmoe, saikey, uncensorpatch, vndb, wingedcloud  # noqa: E402
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 PATCHES = os.path.join(ROOT, "patches")
@@ -87,9 +87,18 @@ def merge(games, entry):
     installer = any(f.get("installer") or f.get("format") == "exe" for f in candidate["files"])
 
     if existing is None:
-        urls = {f["url"] for p in game["patches"] for f in p["files"]}
-        if any(f["url"] in urls for f in candidate["files"]):
-            return None  # another site already lists this file
+        urls = {f["url"] for f in candidate["files"]}
+        other = next((p for p in game["patches"] if any(f["url"] in urls for f in p["files"])), None)
+        if other is not None:
+            # Another site already lists this file. The publisher's own listing takes it over.
+            if candidate["official"] and other["source"]["site"] == "uncensorpatch":
+                for field in ("name", "kind", "official", "by", "source", "languages", "adult"):
+                    other[field] = candidate[field]
+                if candidate.get("notes"):
+                    other["notes"] = candidate["notes"]
+                other["checked"] = today()
+                return "updated"
+            return None
         ids = {p["id"] for p in game["patches"]}
         base = slug(f"{candidate['source']['site']}-{candidate['name']}")
         patch_id, n = base, 2
@@ -150,7 +159,7 @@ def hash_files(games, limit_bytes):
     for game in games.values():
         for patch in game["patches"]:
             for file in patch["files"]:
-                if file.get("sha256") or file["host"] not in ("direct", "gdrive", "mega"):
+                if file.get("sha256") or file["host"] not in ("direct", "gdrive", "mega", "wetransfer"):
                     continue
                 if file["host"] == "gdrive" and not download.drive_file_id(file["url"]):
                     folder = download.drive_folder_files(file["url"])
@@ -199,7 +208,7 @@ def compatibility_app_ids():
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--sources", default="nekonyan,saikey,patchmoe,uncensorpatch,vndb")
+    parser.add_argument("--sources", default="nekonyan,saikey,patchmoe,wingedcloud,uncensorpatch,vndb")
     parser.add_argument("--full", action="store_true", help="read every uncensorpat.ch page again")
     parser.add_argument("--app-ids", help="comma-separated app ids for uncensorpat.ch and VNDB")
     parser.add_argument("--hash-limit-gb", type=float, default=10)
@@ -226,6 +235,8 @@ def main():
         take("Saikey", saikey.collect())
     if "patchmoe" in sources:
         take("patch.moe", patchmoe.collect())
+    if "wingedcloud" in sources:
+        take("Winged Cloud", wingedcloud.collect())
     if "uncensorpatch" in sources:
         if only is not None:
             ids = only
