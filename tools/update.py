@@ -95,7 +95,7 @@ def merge(games, entry):
                              for f in p["files"])), None)
         if other is not None:
             # Another site already lists this file. The publisher's own listing takes it over.
-            if candidate["official"] and other["source"]["site"] == "uncensorpatch":
+            if candidate["official"] and other["source"]["site"] == "uncensorpatch" and other["files"][0]["host"] != "steam":
                 for field in ("name", "kind", "official", "by", "source", "languages", "adult"):
                     other[field] = candidate[field]
                 if other["files"][0]["host"] in ("store", "page") or candidate["files"][0]["host"] not in ("store", "page"):
@@ -104,7 +104,9 @@ def merge(games, entry):
                     other["notes"] = candidate["notes"]
                 other["checked"] = today()
                 return "updated"
-            return None
+            if other["files"][0]["host"] != "steam":
+                return None
+            # A Steam DLC that a shop also sells: both are listed.
         ids = {p["id"] for p in game["patches"]}
         base = slug(f"{candidate['source']['site']}-{candidate['name']}")
         patch_id, n = base, 2
