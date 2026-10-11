@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!sXQlwaSD!KqVXeCs6PYoa8WuDcWaGUPaaY4HB-OWhdbXaDemZk6c",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "bbr-patch.zip",
+          "format": "zip",
+          "size": 185,
+          "sha256": "f648af57c44570943bfea9e92487491c7d78b5f2bfd2ca00a16608584f9625eb"
         }
       ],
       "added": "2026-10-11",

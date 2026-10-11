@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!1S5igCZL!kHazJk9ArsgGCrvkTUZq_-zsZUTyNLj8_8OBw13oQUY",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "xrated.key",
+          "format": "file",
+          "size": 1024,
+          "sha256": "8b804cc4ad482bb89c2c8b991d048b15086e629de208d094efb061af354a2a09"
         }
       ],
       "added": "2026-10-11",

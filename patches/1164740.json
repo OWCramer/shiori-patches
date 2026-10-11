@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/IHoU1ZZS#SewDsj8Nc6jP2Lb2rwAjD3eTA0wmevitZDOlv8ZCWic",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "ContentPatch.rpa",
+          "format": "file",
+          "size": 985,
+          "sha256": "8a4f2d0153f1a55e2cf023ade96b2a910060909986ad46e6512196685bdbf4b2"
         }
       ],
       "added": "2026-10-11",

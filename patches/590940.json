@@ -26,11 +26,11 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/VHxSlJKR#zQdFLIG-ch3CmuSWQyVQWa1DvVbYoIARva3zb7q-bYo",
-          "name": null,
-          "format": null,
+          "name": "adult_patch_split_of_knight.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 10178497,
+          "sha256": "9583bd3e994404f8f13599bb8815f83731e05f867d0074babc7bcb097b4dca46"
         }
       ],
       "added": "2026-10-11",

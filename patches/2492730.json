@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/DarkElfHistoriaPatchEN_20240227.zip",
           "name": "DarkElfHistoriaPatchEN_20240227.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 2245507614,
+          "sha256": "af383cc66b2778ce1875b64075bd0e7fdf0e15b728261e7f9b62b83ef60fbcde"
         }
       ],
       "added": "2026-10-11",

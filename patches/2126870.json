@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/himeyoku-dlc-en_Windows_1_1_0.zip",
           "name": "himeyoku-dlc-en_Windows_1_1_0.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3775151598,
+          "sha256": "b5cc0bda900fdfedb0d2c5b42ec249a6b3e20e8f3b23b0cc9f74adeb6840af87"
         }
       ],
       "added": "2026-10-11",

@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/QWhQhBYI#wduvrVpxrOaQ_z42ukz_4mzJ7I9gtId_6i2LL0XsFBs",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "DLCKnife.zip",
+          "format": "zip",
+          "size": 3742,
+          "sha256": "dfac1916b8c2ea38461694c7ae04fdea750918fa65ffe67b3ddcd3b8db66af2d"
         }
       ],
       "added": "2026-10-11",

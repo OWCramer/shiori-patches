@@ -26,10 +26,10 @@
         {
           "host": "gdrive",
           "url": "https://drive.google.com/file/d/14cbzjcktyuplFTEpWc0s6EMlDtaU76iB/view",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "patch.zip",
+          "format": "zip",
+          "size": 6424,
+          "sha256": "38c3d29a2f6232727279448b5bd44eceafc5fcd9026e15d50aab1acbdc06ebf9"
         }
       ],
       "added": "2026-10-11",

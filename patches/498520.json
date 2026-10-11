@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!pCQ2Wb4a!VJr6wiYpzDZwCyGUoTq06h1Ya5XfzxQiNttpXwT_Igg",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "DLC_UC_PATCH.rar",
+          "format": "rar",
+          "size": 3011646,
+          "sha256": "3a2048f13494d52e8f78bac2c4b641efefd5ee07d31098ab1e1b53dd3d8f89d1"
         }
       ],
       "added": "2026-10-11",
