@@ -1,0 +1,39 @@
+{
+  "appID": 409850,
+  "title": "Criminal Girls: Invite Only",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/409850",
+        "key": "409850"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Download the patch archive from the link below (or the Discord mentioned above) Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Extract the 'd3d9.dll' file and 'mods' folder from the downloaded archive into the folder mentioned above It's working if: If the .dll is in the right place, a console window will open when you run the game to give debug output, and you should be able to see the mods get loaded in the console. If it's all there, you're good to go! uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!RS5QiJqA!fHuxY1zSA1zbnoWaSU2LMpyD9e0J8X593ilgMXzDiPQ",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

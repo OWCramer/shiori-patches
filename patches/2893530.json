@@ -1,0 +1,39 @@
+{
+  "appID": 2893530,
+  "title": "Pillaged Village: Humbled by Savages",
+  "patches": [
+    {
+      "id": "patchmoe-pillaged-village-humbled-by-savages-dlc-patch",
+      "name": "Pillaged Village: Humbled by Savages DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/PillagedVillage_Patch.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/PillagedVillage_Patch.zip",
+          "name": "PillagedVillage_Patch.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

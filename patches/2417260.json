@@ -1,0 +1,105 @@
+{
+  "appID": 2417260,
+  "title": "Deceived by the Host",
+  "patches": [
+    {
+      "id": "saikey-deceived-by-the-host-patch-english",
+      "name": "Deceived by the Host patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/86941/deceived-by-the-host/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/86941/81feb13d-2ec2-453b-b956-6ab50c423976"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/86941/81feb13d-2ec2-453b-b956-6ab50c423976",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-deceived-by-the-host-patch-japanese",
+      "name": "Deceived by the Host patch (Japanese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/86941/deceived-by-the-host/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/86941/a3698f5a-da26-4bb1-a6dd-2021d32481b8"
+      },
+      "version": null,
+      "languages": [
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/86941/a3698f5a-da26-4bb1-a6dd-2021d32481b8",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-deceived-by-the-host-patch-simplified-chinese",
+      "name": "Deceived by the Host patch (Simplified Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/86941/deceived-by-the-host/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/86941/5e0d5ef3-136f-4455-946b-2ab6526b64b4"
+      },
+      "version": null,
+      "languages": [
+        "zh-hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/86941/5e0d5ef3-136f-4455-946b-2ab6526b64b4",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

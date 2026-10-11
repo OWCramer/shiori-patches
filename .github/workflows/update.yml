@@ -1,0 +1,43 @@
+name: Update from the patch sites
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily; Sundays read every uncensorpat.ch page again
+  workflow_dispatch:
+    inputs:
+      full:
+        description: Read every uncensorpat.ch page again
+        type: boolean
+        default: false
+permissions:
+  contents: write
+  pull-requests: write
+concurrency: update
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get install -y libarchive-tools && pip install cryptography==43.0.3
+      - name: Read the sites and hash new files
+        run: |
+          FULL=""
+          if [ "${{ inputs.full }}" = "true" ] || [ "$(date -u +%u)" = "7" ]; then FULL="--full"; fi
+          python tools/update.py $FULL --hash-limit-gb 10 --summary "$RUNNER_TEMP/summary.md"
+      - name: Open a pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet; then echo "No changes."; exit 0; fi
+          BRANCH="update/$(date -u +%Y-%m-%d)"
+          git config user.name "shiori-patches bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$BRANCH"
+          git add -A
+          git commit -q -m "Update from the patch sites ($(date -u +%Y-%m-%d))"
+          git push -f origin "$BRANCH"
+          gh pr view "$BRANCH" >/dev/null 2>&1 || gh pr create --base main --head "$BRANCH" \
+            --title "Update from the patch sites ($(date -u +%Y-%m-%d))" --body-file "$RUNNER_TEMP/summary.md"

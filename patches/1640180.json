@@ -1,0 +1,40 @@
+{
+  "appID": 1640180,
+  "title": "反抗吧！纯爱战士！",
+  "patches": [
+    {
+      "id": "uncensorpatch-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "Steam",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1640180",
+        "key": "1640180"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/1666900",
+          "dlc": 1666900,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

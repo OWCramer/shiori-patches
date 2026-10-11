@@ -1,0 +1,40 @@
+{
+  "appID": 1435010,
+  "title": "Succubus★Connect",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1435010",
+        "key": "1435010"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the patch archive onto your computer Run \"succubus_connect_patch_v8.exe\" and select your Steam game install folder (from Step 1) when asked to Select Destination Location It's working if: During the intro cutscene, when the text \"Big bro\" appears, there is an accompanying background image. Also large images of your character appear when talking (such as immediately after the opening cutscene). uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://wasabi.sub.jp/patch/succubus_connect_patch.zip",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

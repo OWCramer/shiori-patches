@@ -1,0 +1,72 @@
+{
+  "appID": 1009450,
+  "title": "Sankaku Renai: Love Triangle Trouble",
+  "patches": [
+    {
+      "id": "nekonyan-sankaku-renai-love-triangle-trouble-18-steam-patch",
+      "name": "Sankaku Renai: Love Triangle Trouble 18+ Steam Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://cdn.nekonyansoft.com/patch/sankaku/sankaku_r18_patch.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://cdn.nekonyansoft.com/patch/sankaku/sankaku_r18_patch.zip",
+          "name": "sankaku_r18_patch.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1009450",
+        "key": "1009450"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the 'evimage.xp3' and 'data.xp3' file from downloaded patch archive into the game install folder mentioned above, overwriting the files when prompted",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://nekonyansoft.com/download/free/21",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

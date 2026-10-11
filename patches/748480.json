@@ -1,0 +1,39 @@
+{
+  "appID": 748480,
+  "title": "Wild Romance: Mofu Mofu Edition",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/748480",
+        "key": "748480"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the 'game' folder within the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch from the link below Copy the 'Patch.rpa' file from the downloaded archive, and place it in the 'game' folder mentioned above It's working if: In the top right hand corner of the main menu it says 'Mofu Mofu Edition'.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!RKxSXaTa!aXOebSXMXQ7JJMtOzfpfjGGBlqprkPXLX1vz7uYuW4o",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

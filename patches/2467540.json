@@ -1,0 +1,39 @@
+{
+  "appID": 2467540,
+  "title": "Secret Agent",
+  "patches": [
+    {
+      "id": "nekonyan-secret-agent-18-steam-patch",
+      "name": "Secret Agent 18+ Steam Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://cdn.nekonyansoft.com/patch/secretagent/secretagent18+patch_1.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://cdn.nekonyansoft.com/patch/secretagent/secretagent18+patch_1.zip",
+          "name": "secretagent18+patch_1.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

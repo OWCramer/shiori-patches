@@ -1,0 +1,39 @@
+{
+  "appID": 2599880,
+  "title": "Happiness! Sakura Celebration!",
+  "patches": [
+    {
+      "id": "nekonyan-happiness-sakura-celebration",
+      "name": "Happiness! Sakura Celebration!",
+      "kind": "other",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://cdn.nekonyansoft.com/patch/happiness/happiness_steam_patch_r18.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://cdn.nekonyansoft.com/patch/happiness/happiness_steam_patch_r18.zip",
+          "name": "happiness_steam_patch_r18.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

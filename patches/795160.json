@@ -1,0 +1,42 @@
+{
+  "appID": 795160,
+  "title": "Tsundere Idol",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/795160",
+        "key": "795160"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...). Inside that directory, there will be a folder named 'game'. Download the patch archive from the link below Extract the 'Patch.rpa' file from the downloaded patch archive into the 'game' folder mentioned above It's working if: The background of the main menu has changed from Rui up on stage to something more adult.",
+      "files": [
+        {
+          "host": "gdrive",
+          "url": "https://drive.google.com/open?id=1GXAdZ9xjwj1uqoRV0p7b1NhffaCzrIf4",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11",
+      "install": {
+        "into": "game"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "appID": 1934910,
+  "title": "Kunado Chronicles",
+  "patches": [
+    {
+      "id": "patchmoe-kunado-chronicles-dlc-patch",
+      "name": "Kunado Chronicles DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/kunado_r18patch_20231218update.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/kunado_r18patch_20231218update.zip",
+          "name": "kunado_r18patch_20231218update.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

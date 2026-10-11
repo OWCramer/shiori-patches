@@ -1,0 +1,46 @@
+{
+  "appID": 1148360,
+  "title": "Alisa Quest",
+  "patches": [
+    {
+      "id": "uncensorpatch-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "Steam",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1148360",
+        "key": "1148360"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/1482290",
+          "dlc": 1482290,
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://denpasoft.com/product/alisa-quest-18-dlc"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

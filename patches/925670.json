@@ -1,0 +1,39 @@
+{
+  "appID": 925670,
+  "title": "Dungeon Kitty",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/925670",
+        "key": "925670"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, merging the folders and overwriting the files when prompted",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!teA2iaKT!I-t4X3-nR8DbOq-OABlHamCU0I7KuzOL3jhweg2aCOU",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

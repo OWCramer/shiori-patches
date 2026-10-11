@@ -1,0 +1,43 @@
+{
+  "appID": 3845630,
+  "title": "The Taming Massage Parlor ~Mari’s Story~",
+  "patches": [
+    {
+      "id": "saikey-the-taming-massage-parlor-mari-s-story-patch",
+      "name": "The Taming Massage Parlor ~Mari’s Story~ patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/129699/the-taming-massage-parlor-maris-story/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/129699/55899c45-a2e4-4ee1-8c66-da8ed0daee63"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/129699/55899c45-a2e4-4ee1-8c66-da8ed0daee63",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

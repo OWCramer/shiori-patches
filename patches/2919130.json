@@ -1,0 +1,138 @@
+{
+  "appID": 2919130,
+  "title": "Countdown to NTR",
+  "patches": [
+    {
+      "id": "saikey-countdown-to-ntr-patch-english",
+      "name": "Countdown to NTR patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/106193/countdown-to-ntr/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106193/c11f8b19-3727-4877-ba86-4b2b11ed78ae"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106193/c11f8b19-3727-4877-ba86-4b2b11ed78ae",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-countdown-to-ntr-patch-japanese",
+      "name": "Countdown to NTR patch (Japanese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/106193/countdown-to-ntr/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106193/cc33606c-5b8c-4039-ab4f-de3d7c4b49d4"
+      },
+      "version": null,
+      "languages": [
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106193/cc33606c-5b8c-4039-ab4f-de3d7c4b49d4",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-countdown-to-ntr-patch-russian",
+      "name": "Countdown to NTR patch (Russian)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/106193/countdown-to-ntr/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106193/808cef8e-b769-40a1-ada9-c2d69b869685"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106193/808cef8e-b769-40a1-ada9-c2d69b869685",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-countdown-to-ntr-patch-simplified-chinese",
+      "name": "Countdown to NTR patch (Simplified Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/106193/countdown-to-ntr/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106193/cf205944-6e59-471c-a7f8-1a43bc9d397a"
+      },
+      "version": null,
+      "languages": [
+        "zh-hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106193/cf205944-6e59-471c-a7f8-1a43bc9d397a",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

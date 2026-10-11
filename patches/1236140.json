@@ -1,0 +1,40 @@
+{
+  "appID": 1236140,
+  "title": "Hentai Girl Seek",
+  "patches": [
+    {
+      "id": "uncensorpatch-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "Steam",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1236140",
+        "key": "1236140"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/1246830",
+          "dlc": 1246830,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

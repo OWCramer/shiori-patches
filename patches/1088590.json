@@ -1,0 +1,39 @@
+{
+  "appID": 1088590,
+  "title": "love love love",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1088590",
+        "key": "1088590"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into whichever folder in the game install folder mentioned above contains the \"resources.assets\" file, overwriting the file if prompted",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/hCQAFTpS#cYKvpRp7nt2RULJd9kZhrx3qrdxwh1hJmJ8TdyRw0h4",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

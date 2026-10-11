@@ -1,0 +1,45 @@
+{
+  "appID": 1145030,
+  "title": "ef - the latter tale.",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "MangaGamer",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1145030",
+        "key": "1145030"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.mangagamer.com/r18/freedownload.php?product_name=ef%20-%20the%20latter%20tale.%20(download)",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://www.mangagamer.com/r18/freedownload.php?product_name=ef%20-%20the%20latter%20tale.%20(download)"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "appID": 793450,
+  "title": "Desecration of Wings",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/793450",
+        "key": "793450"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Download the patch installer (DoW_1.0.2_R18_patch.exe) from the link below Run the patch installer Select the game directory - this folder can be found by right clicking the game in Steam and then going to Properties, Local Files, Browse Local Files... It's working if: The game install folder has a file named \"patch\" in it.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!Tt1jxJaA!FbJcUHeGoSGPQgz3PNQFu4ElHYEuYSuPoUZyvwovdP4",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

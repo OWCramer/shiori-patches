@@ -1,0 +1,39 @@
+{
+  "appID": 925470,
+  "title": "Endless Jade Sea -Midori no Umi-",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/925470",
+        "key": "925470"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, merging folders and overwriting file if prompted It's working if: When you get Chisha Bad End 1, there is a lewd scene before the end. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/8SI3iCIR#eP8B4T4DvRjBaNJuR53TnPOwm0nhd9Z8MBQyOQWm_NI",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

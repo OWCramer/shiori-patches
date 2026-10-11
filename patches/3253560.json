@@ -1,0 +1,42 @@
+{
+  "appID": 3253560,
+  "title": "Shining Princess Lapisphilia",
+  "patches": [
+    {
+      "id": "saikey-shining-princess-lapisphilia-patch",
+      "name": "Shining Princess Lapisphilia patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/111434/shining-princess-lapisphilia/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/111434/c40d2eed-747f-4ded-a59b-7b8bbc19f56f"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/111434/c40d2eed-747f-4ded-a59b-7b8bbc19f56f",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

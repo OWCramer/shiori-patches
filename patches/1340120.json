@@ -1,0 +1,72 @@
+{
+  "appID": 1340120,
+  "title": "IxSHE Tell",
+  "patches": [
+    {
+      "id": "nekonyan-ixshe-tell-18-steam-patch",
+      "name": "IxShe Tell 18+ Steam Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://cdn.nekonyansoft.com/patch/ixshe/ixshetell_r18steampatch1.04a.7z"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://cdn.nekonyansoft.com/patch/ixshe/ixshetell_r18steampatch1.04a.7z",
+          "name": "ixshetell_r18steampatch1.04a.7z",
+          "format": "7z",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1340120",
+        "key": "1340120"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract all the 'root.pfs' files from the downloaded patch archive into the game install folder mentioned above, overwriting the files when prompted",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://nekonyansoft.com/download/free/34",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

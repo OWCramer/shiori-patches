@@ -1,0 +1,39 @@
+{
+  "appID": 1062220,
+  "title": "Succubus Contract",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1062220",
+        "key": "1062220"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Create a file in the game install folder just called 'ShowMeMoreBaby' (no extension), or download the premade file from the link below and move it to the folder",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/cCxGAbhb#q6scpOIkQJ8tQX9EbZa2nzf7DXDnkXtIAAAAAAAAAAA",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "appID": 1189440,
+  "title": "VenusBlood FRONTIER International",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "JAST",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1189440",
+        "key": "1189440"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the 'extra.xp3' and 'extra2.xp3' files from the downloaded patch archive into the game install folder mentioned above It's working if: When you start the game, the version information on the bottom left of the screen should have \"EN-R\" at the end of it.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://jastusa.com/venusblood-frontier-patch-and-demo",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://jastusa.com/venusblood-frontier-patch-and-demo"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

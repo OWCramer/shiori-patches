@@ -1,0 +1,39 @@
+{
+  "appID": 483960,
+  "title": "Purino Party",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/483960",
+        "key": "483960"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Copy the \"xrated.FLT\" file into the folder in which Purino Party is installed. You can locate the Purino Party installation folder via the Steam client by opening the Local Files tab in the Properties window for the game and clicking \"Browse Local Files...\". To uninstall the patch, simply delete the \"xrated.FLT\" file which was previously copied to the Purino Party install folder. NOTE: Please clos It's working if: When the patch has been installed successfully, the title screen for the game will change to say \"X-RATED\". uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!Vb4FhQTC!M9BfE5t8VMx1neVcFAq-4tJcK83jfdxcGHM_Z5cyvnQ",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

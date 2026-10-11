@@ -1,0 +1,40 @@
+{
+  "appID": 1933650,
+  "title": "The Imperial Gatekeeper",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "Kagura Games",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1933650",
+        "key": "1933650"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Download the patcher from the Kagura Games website via the link below (on the page you will need to scroll down below the images and click on the \"PATCH\" tab to reveal the download links) Run the patcher and follow the instructions, or go to the [https://www.kaguragames.com/patch-instructions/] Kagura Games website for more detailed instructions",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.kaguragames.com/product/the-imperial-gatekeeper-patch/",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

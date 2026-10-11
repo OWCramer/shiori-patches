@@ -1,0 +1,45 @@
+{
+  "appID": 1266370,
+  "title": "Real Life Plus Ver. Kaname Komatsuzaki",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1266370",
+        "key": "1266370"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...), and navigate into the 'game' folder Retrieve the patch archive from the Denpasoft website using the link below Extract the .rpa files from the downloaded patch archive into the 'game' folder mentioned above, overwriting any files if prompted",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://denpasoft.com/product/real-life-plus-ver-kaname-komatsuzaki-18-dlc",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://denpasoft.com/product/real-life-plus-ver-kaname-komatsuzaki-18-dlc"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

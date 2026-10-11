@@ -1,0 +1,73 @@
+{
+  "appID": 888790,
+  "title": "Sabbat of the Witch",
+  "patches": [
+    {
+      "id": "nekonyan-sabbat-of-the-witch-18-steam-patch",
+      "name": "Sabbat of the Witch 18+ Steam Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://cdn.nekonyansoft.com/patch/sanobawitch/sabbatofthewitch_steam_r18dlc.rar"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://cdn.nekonyansoft.com/patch/sanobawitch/sabbatofthewitch_steam_r18dlc.rar",
+          "name": "sabbatofthewitch_steam_r18dlc.rar",
+          "format": "rar",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "uncensorpatch-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "Steam",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/888790",
+        "key": "888790"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/967420",
+          "dlc": 967420,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

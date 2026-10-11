@@ -1,0 +1,39 @@
+{
+  "appID": 1585700,
+  "title": "Trap Genesis",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1585700",
+        "key": "1585700"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Download the patch archive from the link below Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Extract the 'patch.xp3' file from the patch archive into the game install folder It's working if: The titlebar of the game has \"R-18 Ver.\" at the end of it. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://erogejapan.com/patch/Trap_Genesis/Trap_Genesis_Patch.zip",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

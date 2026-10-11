@@ -1,0 +1,138 @@
+{
+  "appID": 2841070,
+  "title": "Kabukicho – Dropped Into The Modern World",
+  "patches": [
+    {
+      "id": "saikey-kabukicho-dropped-into-the-modern-world-patch-english",
+      "name": "Kabukicho – Dropped Into The Modern World patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/106078/kabukicho-dropped-into-the-modern-world/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106078/623265ba-8ca1-4bbb-8c97-56518032fbe7"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106078/623265ba-8ca1-4bbb-8c97-56518032fbe7",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-kabukicho-dropped-into-the-modern-world-patch-japanes",
+      "name": "Kabukicho – Dropped Into The Modern World patch (Japanese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/106078/kabukicho-dropped-into-the-modern-world/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106078/82b473f3-263b-4f0d-87c5-8660001ddc62"
+      },
+      "version": null,
+      "languages": [
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106078/82b473f3-263b-4f0d-87c5-8660001ddc62",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-kabukicho-dropped-into-the-modern-world-patch-simplif",
+      "name": "Kabukicho – Dropped Into The Modern World patch (Simplified Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/106078/kabukicho-dropped-into-the-modern-world/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106078/a51fc3a3-ea30-44fc-81a8-9a4db2e7c1e4"
+      },
+      "version": null,
+      "languages": [
+        "zh-hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106078/a51fc3a3-ea30-44fc-81a8-9a4db2e7c1e4",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-kabukicho-dropped-into-the-modern-world-patch-traditi",
+      "name": "Kabukicho – Dropped Into The Modern World patch (Traditional Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/106078/kabukicho-dropped-into-the-modern-world/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106078/a851f89e-a2de-47b1-8789-8d0bcdf60225"
+      },
+      "version": null,
+      "languages": [
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/106078/a851f89e-a2de-47b1-8789-8d0bcdf60225",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

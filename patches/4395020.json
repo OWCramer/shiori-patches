@@ -1,0 +1,42 @@
+{
+  "appID": 4395020,
+  "title": "Chronicles of Clams Island",
+  "patches": [
+    {
+      "id": "saikey-chronicles-of-clams-island-patch",
+      "name": "Chronicles of Clams Island patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/173543/chronicles-of-clams-island/",
+        "key": "https://saikeystudios.com/patches/?patch_product=173543&patch_item=235ff559-6879-461b-ae57-b5ff34cd9284"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=173543&patch_item=235ff559-6879-461b-ae57-b5ff34cd9284",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

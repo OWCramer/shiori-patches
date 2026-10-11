@@ -1,0 +1,39 @@
+{
+  "appID": 1751630,
+  "title": "Hello Lady! - Complete Edition",
+  "patches": [
+    {
+      "id": "nekonyan-hello-lady-18-steam-patch",
+      "name": "Hello Lady 18+ Steam Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://cdn.nekonyansoft.com/patch/hello-lady/hl_r18_dlc.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://cdn.nekonyansoft.com/patch/hello-lady/hl_r18_dlc.zip",
+          "name": "hl_r18_dlc.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

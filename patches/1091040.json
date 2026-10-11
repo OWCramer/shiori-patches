@@ -1,0 +1,39 @@
+{
+  "appID": 1091040,
+  "title": "Sougetsu Ninja: Kikyou",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1091040",
+        "key": "1091040"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) From the game install folder, navigate into the 'asset' folder Download the patch archive from the link below Extract the 'data' folder from the downloaded patch archive into the 'asset' folder mentioned above, merging folders and overwriting files if prompted",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://dokuro.itch.io/sougetsu-ninja-kikyou-r18-patch",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

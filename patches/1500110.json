@@ -1,0 +1,40 @@
+{
+  "appID": 1500110,
+  "title": "KNIGHT SLAVE -The Dark Valkyrie of Depravity-",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1500110",
+        "key": "1500110"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the patch archive onto your computer Run \"Knightslave_patch_v2.exe\" and select your Steam game install folder (from Step 1) when asked to Select Destination Location It's working if: The main menu shows two girls and the title instead of just some balls of light, and during the intro fight you can see your character. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://wasabi.sub.jp/patch/Knightslave_patch_v2.zip",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

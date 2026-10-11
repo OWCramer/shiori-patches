@@ -1,0 +1,45 @@
+{
+  "appID": 2138000,
+  "title": "Hoshizora no Memoria -Eternal Heart- HD",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/2138000",
+        "key": "2138000"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://denpasoft.com/product/hoshizora-no-memoria-eternal-heart-18-dlc",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://denpasoft.com/product/hoshizora-no-memoria-eternal-heart-18-dlc"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

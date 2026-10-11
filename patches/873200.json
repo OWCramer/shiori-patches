@@ -1,0 +1,40 @@
+{
+  "appID": 873200,
+  "title": "Teleportals. I swear it's a nice game.",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/873200",
+        "key": "873200"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patcher from the link below Move the downloaded \"Uncens.exe\" patcher into the game install folder mentioned above Run the patcher, enter the password \" havefun \" when prompted, and overwrite any files if prompted uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "gdrive",
+          "url": "https://drive.google.com/open?id=1JnBlb6ltrqdGuEhU-FRsowPCWPTtMgPP",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "appID": 1275290,
+  "title": "Dream Catcher",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1275290",
+        "key": "1275290"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, merging folders and overwriting file if prompted It's working if: When you win a level there is a heart button which takes you to a lewd scene when clicked. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/FaZlDCoJ#9hv2DLxD194BDK_kZi66D-0-ntzzetOILusok28FCh0",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

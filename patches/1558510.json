@@ -1,0 +1,40 @@
+{
+  "appID": 1558510,
+  "title": "MECHANICA: A Ballad of the Rabbit and Mercury",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1558510",
+        "key": "1558510"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Download the patcher from the link below Run the patcher and follow the prompts",
+      "files": [
+        {
+          "host": "gdrive",
+          "url": "https://drive.google.com/file/d/16wlCL4n6AFIohAMBCO_udtCL-oSdFfZr/view?usp=sharing",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

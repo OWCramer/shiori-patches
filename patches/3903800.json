@@ -1,0 +1,43 @@
+{
+  "appID": 3903800,
+  "title": "Mom Stolen in Space",
+  "patches": [
+    {
+      "id": "saikey-mom-stolen-in-space-patch",
+      "name": "Mom Stolen in Space patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/129778/mom-stolen-in-space/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/129778/c43d5697-52b2-43d9-a3cd-ff049d2a2763"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/129778/c43d5697-52b2-43d9-a3cd-ff049d2a2763",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

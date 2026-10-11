@@ -1,0 +1,39 @@
+{
+  "appID": 726990,
+  "title": "Succubus Rem",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/726990",
+        "key": "726990"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, overwriting the files when prompted This concludes installing the uncensor patch! To install the 'battle mode' appearance mod, continue fol It's working if: When your older sister shows you how to do naughty things in the intro, there's accompanying imagery. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/tDAjBAgC#Vg16dqH9NnhN7cmqvbLzorLv3k7mSy9r0fWU9zGuayo",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

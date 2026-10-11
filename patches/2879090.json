@@ -1,0 +1,39 @@
+{
+  "appID": 2879090,
+  "title": "NYO-NIN-JIMA -My New Life in Charge of a Tropical Island-",
+  "patches": [
+    {
+      "id": "patchmoe-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-is",
+      "name": "NYO-NIN-JIMA -My New Life in Charge of a Tropical Island- DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/Nyoninjima_patch_20240814.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/Nyoninjima_patch_20240814.zip",
+          "name": "Nyoninjima_patch_20240814.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "appID": 432490,
+  "title": "ATOM GRRRL",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/432490",
+        "key": "432490"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...). Inside that directory, there will be a folder named 'game'. Download the patch archive from the link below Extract the contents of the downloaded patch archive into the 'game' folder mentioned above, merging folders and overwriting files as prompted",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!APwFVSSI!EfaX9jkm39PsO6nBiPQ2RgtpukjpPx24xWTFu8O9ZOc",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11",
+      "install": {
+        "into": "game"
+      }
+    }
+  ]
+}

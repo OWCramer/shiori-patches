@@ -1,0 +1,42 @@
+{
+  "appID": 3248580,
+  "title": "New Eromancer",
+  "patches": [
+    {
+      "id": "saikey-new-eromancer-patch",
+      "name": "New Eromancer patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/111424/new-eromancer/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/111424/4af5424b-58d6-4c86-aa47-a2516d786236"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/111424/4af5424b-58d6-4c86-aa47-a2516d786236",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

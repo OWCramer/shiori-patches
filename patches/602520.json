@@ -1,0 +1,50 @@
+{
+  "appID": 602520,
+  "title": "NEKOPARA Vol. 3",
+  "patches": [
+    {
+      "id": "uncensorpatch-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "Steam",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/602520",
+        "key": "602520"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "It's working if: In the \"Effect&Sound\" Config menu, there is a \"Turn H-Animation On\" option (which should be enabled), and after cutting Vanilla and Kashou's nails there should be a scene where they get intimate with you, instead of skipping straight past it.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/947670",
+          "dlc": 947670,
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://denpasoft.com/products/nekopara-vol-3-18-dlc"
+            },
+            {
+              "host": "store",
+              "url": "http://www.dlsite.com/ecchi-eng/dlaf/=/link/work/aid/UncensorPat/id/RE200911.html"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

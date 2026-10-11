@@ -1,0 +1,39 @@
+{
+  "appID": 1150730,
+  "title": "Island Saga",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1150730",
+        "key": "1150730"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): If installing a patch for a language other than English, change the game language in Steam first by right clicking on the game in Steam, go to Properties, and change the language in the Language tab Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded  It's working if: You should see four busty girls on the title screen, and there should be a \"Gallery\" option.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/tbxjXBLB#M7vONpn3bRCWOY1wI3S9QXeJwUr-4qflCMJGkstaz34",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

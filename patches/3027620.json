@@ -1,0 +1,72 @@
+{
+  "appID": 3027620,
+  "title": "Kakenuke★Forward to Our Sparking Youth!",
+  "patches": [
+    {
+      "id": "nekonyan",
+      "name": "中文版用户可以从这里下载《绽放★青春全力向前冲！》的额外内容",
+      "kind": "other",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://appendingpulse.jp/dl/kake567yKFPN"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://appendingpulse.jp/dl/kake567yKFPN",
+          "name": "kake567yKFPN",
+          "format": "file",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "nekonyan-kakenuke-18-steam-patch",
+      "name": "Kakenuke 18+ Steam Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://cdn.nekonyansoft.com/patch/kakenuke/kakenuke-steam-patch.7z"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://cdn.nekonyansoft.com/patch/kakenuke/kakenuke-steam-patch.7z",
+          "name": "kakenuke-steam-patch.7z",
+          "format": "7z",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

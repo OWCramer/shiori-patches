@@ -1,0 +1,45 @@
+{
+  "appID": 658620,
+  "title": "Wonderful Everyday Down the Rabbit-Hole",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "JAST",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/658620",
+        "key": "658620"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive somewhere onto your computer Copy the contents of the 'Wonderfuleveryday_18patch_ver2.0' folder into the game install folder mentioned above, overwriting the files when prompted It's working if: The subtitle changes to the German one - Diskontinuierliches Dasein.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.jastusa.com/wonderful-everyday",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://www.jastusa.com/outbound/wonderful-everyday-18patch-for-steam-v2"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

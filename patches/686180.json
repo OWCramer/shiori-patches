@@ -1,0 +1,40 @@
+{
+  "appID": 686180,
+  "title": "Cat Girl",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/686180",
+        "key": "686180"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): This patch requires .NET Framework 4.5 or above, so if you have an older OS (such as Windows 7) you will need to manually install this before the patcher will run - download can be found [https://www.microsoft.com/net/download/dotnet-framework-runtime] here Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive ",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!APRkkLTK!HCftEbAD8MXEN0fq-yoQMlKQlaV_UAWHaH3d7NeHeKE",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

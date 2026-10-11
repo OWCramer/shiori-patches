@@ -1,0 +1,138 @@
+{
+  "appID": 1477770,
+  "title": "Shokuo Shoujo",
+  "patches": [
+    {
+      "id": "saikey-shokuo-shoujo-patch-english",
+      "name": "Shokuo Shoujo patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109694/shokuo-shoujo/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109694/1e29bea8-a58c-47c3-9f46-cfd6aa452869"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109694/1e29bea8-a58c-47c3-9f46-cfd6aa452869",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-shokuo-shoujo-patch-japanese",
+      "name": "Shokuo Shoujo patch (Japanese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109694/shokuo-shoujo/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109694/3d4aa0f2-b74e-4fad-807a-930d520c7434"
+      },
+      "version": null,
+      "languages": [
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109694/3d4aa0f2-b74e-4fad-807a-930d520c7434",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-shokuo-shoujo-patch-simplified-chinese",
+      "name": "Shokuo Shoujo patch (Simplified Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109694/shokuo-shoujo/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109694/7357fb91-455d-432c-97c2-85259ab45dee"
+      },
+      "version": null,
+      "languages": [
+        "zh-hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109694/7357fb91-455d-432c-97c2-85259ab45dee",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-shokuo-shoujo-patch-traditional-chinese",
+      "name": "Shokuo Shoujo patch (Traditional Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109694/shokuo-shoujo/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109694/66c9da50-220f-4bb1-9bcb-8ee9a4a9815c"
+      },
+      "version": null,
+      "languages": [
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109694/66c9da50-220f-4bb1-9bcb-8ee9a4a9815c",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

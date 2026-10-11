@@ -1,0 +1,50 @@
+{
+  "appID": 906030,
+  "title": "NOCE",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "DLsite",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/906030",
+        "key": "906030"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Download the patch archive from the link below Extract the contents of the downloaded patch archive Run 'NOCEforR18.exe' and follow the prompts",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.dlsite.com/modpub/patch-plaza/index.html#",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://www.dlsite.com/maniax/dlaf/=/t/n/link/work/aid/UncensorPat/locale/en_US/id/RJ226247.html/?locale=en_US"
+            },
+            {
+              "host": "store",
+              "url": "http://www.dlsite.com/modpub/patch-plaza/R18patch/906030_NOCE_R18patch.zip"
+            }
+          ],
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

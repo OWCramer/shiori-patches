@@ -1,0 +1,78 @@
+{
+  "appID": 1610290,
+  "title": "Chihiro Himukai Always Walks Away",
+  "patches": [
+    {
+      "id": "patchmoe-chihiro-himukai-always-walks-away-dlc-patch",
+      "name": "Chihiro Himukai Always Walks Away DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/himukaichihiroha-dlc-en-zh_Windows_1_1_0.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/himukaichihiroha-dlc-en-zh_Windows_1_1_0.zip",
+          "name": "himukaichihiroha-dlc-en-zh_Windows_1_1_0.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "Publisher",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1610290",
+        "key": "1610290"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the \"Himukai_R18_Patch\" folder inside the downloaded patch archive into the game install folder mentioned above, overwriting files if prompted",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.johren.games/games/download/himukaichihiroha-dlc-en-zh/",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://www.johren.games/games/download/himukaichihiroha-dlc-en-zh/"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

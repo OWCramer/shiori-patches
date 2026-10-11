@@ -1,0 +1,39 @@
+{
+  "appID": 1846330,
+  "title": "Nope Nope Nurses",
+  "patches": [
+    {
+      "id": "patchmoe-nope-nope-nurses-dlc-patch",
+      "name": "Nope Nope Nurses DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/nope-nope-nurses-dlc-en-zh_Windows_2_1_1.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/nope-nope-nurses-dlc-en-zh_Windows_2_1_1.zip",
+          "name": "nope-nope-nurses-dlc-en-zh_Windows_2_1_1.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

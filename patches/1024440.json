@@ -1,0 +1,39 @@
+{
+  "appID": 1024440,
+  "title": "兔耳冒险谭/Usamimi Adventure",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1024440",
+        "key": "1024440"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!9l4EAKaT!Vp6FMVIaAjNuurCfr4VkMi80bgpYwjZF90JN8tYKGxc",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

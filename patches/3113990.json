@@ -1,0 +1,72 @@
+{
+  "appID": 3113990,
+  "title": "Futamata Ren'ai: Two Times the Trouble",
+  "patches": [
+    {
+      "id": "nekonyan-futamata-renai-two-times-the-trouble-18-steam-patch",
+      "name": "Futamata Renai: Two Times the Trouble 18+ Steam Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://cdn.nekonyansoft.com/patch/futamata-renai/futamata-renai-patch-r18-v1.01.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://cdn.nekonyansoft.com/patch/futamata-renai/futamata-renai-patch-r18-v1.01.zip",
+          "name": "futamata-renai-patch-r18-v1.01.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "nekonyan-futamata-renai-two-times-the-trouble-cn-18-steam-pa",
+      "name": "Futamata Renai: Two Times the Trouble (CN) 18+ Steam Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://cdn.nekonyansoft.com/patch/futamata-renai/futamata-renai-cn-r18-patch.zip"
+      },
+      "version": null,
+      "languages": [
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://cdn.nekonyansoft.com/patch/futamata-renai/futamata-renai-cn-r18-patch.zip",
+          "name": "futamata-renai-cn-r18-patch.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

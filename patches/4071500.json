@@ -1,0 +1,43 @@
+{
+  "appID": 4071500,
+  "title": "Lilim Clicker",
+  "patches": [
+    {
+      "id": "saikey-lilim-clicker-patch",
+      "name": "Lilim Clicker patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/194554/lilim-clicker/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/194554/b81be00d-0fce-4a21-ad91-861440249b2c"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/194554/b81be00d-0fce-4a21-ad91-861440249b2c",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "appID": 3231630,
+  "title": "Princess Burst",
+  "patches": [
+    {
+      "id": "saikey-princess-burst-patch",
+      "name": "Princess Burst patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/111253/princess-burst/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/111253/012a4941-42f1-433a-b356-4e5492d135e2"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/111253/012a4941-42f1-433a-b356-4e5492d135e2",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

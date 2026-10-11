@@ -1,0 +1,39 @@
+{
+  "appID": 1023740,
+  "title": "7 Sexy Sins",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1023740",
+        "key": "1023740"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Go to the games Steam files: \\Steam\\steamapps\\common\\7SexySins\\7SexySins_Data (or right click on the game in Steam, Properties, Local Files, Browse Local Files, and go into the 7SexySins_Data folder) Create a new text file and rename to \"nude_patch.txt\" (the .txt may be hidden by default on some Windows systems) - or download the pre-created file from the link below and place it in this folder It's working if: When removing the underwear from the first girl, there is no white splotches over girls nipples / crotch. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!dHpXnKLS!LR-2deSu4LfWRRdbQn-oRsXLWgntxplOAAAAAAAAAAA",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

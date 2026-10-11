@@ -1,0 +1,39 @@
+{
+  "appID": 575550,
+  "title": "Hell Girls",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/575550",
+        "key": "575550"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Download the patch file from below Place the 'fuli' file in the game Steam folder (right click on the game in Steam, Properties, Local Files, Browse Local Files...) uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!8HRFnKAA!CRpWp_3_sT37t88eaCCBI9RbDsFD6DatOhz-CewsZLU",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

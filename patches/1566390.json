@@ -1,0 +1,39 @@
+{
+  "appID": 1566390,
+  "title": "Seed of the Dead: Sweet Home",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1566390",
+        "key": "1566390"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, merging folders and overwriting files if prompted It's working if: On the main menu, the game version ends in 'R'.",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://erogejapan.com/r18patch/sodsh/SoD_SH_Patch_1.201R.zip",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "appID": 358750,
+  "title": "Sunrider: Liberation Day - Captain's Edition",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/358750",
+        "key": "358750"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "It's working if: A content warning appears when you start the game, and \"DENPA EDITION\" appears at the top left hand corner of the main menu. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://denpasoft.com/products/sunrider-liberation-day-restoration-dlc-1",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://denpasoft.com/products/sunrider-liberation-day-restoration-dlc-1"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "appID": 3031150,
+  "title": "Secret Hot Springs Girl",
+  "patches": [
+    {
+      "id": "saikey-secret-hot-springs-girl-patch",
+      "name": "Secret Hot Springs Girl patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/108193/secret-hot-springs-girl/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/108193/149c71c7-d257-4c8d-88a7-819484808231"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/108193/149c71c7-d257-4c8d-88a7-819484808231",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

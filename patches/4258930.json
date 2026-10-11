@@ -1,0 +1,39 @@
+{
+  "appID": 4258930,
+  "title": "Modified Girl Eurie!",
+  "patches": [
+    {
+      "id": "patchmoe-modified-girl-eurie-dlc-patch",
+      "name": "Modified Girl Eurie! DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/Modified_Girl_Eurie_patch.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/Modified_Girl_Eurie_patch.zip",
+          "name": "Modified_Girl_Eurie_patch.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

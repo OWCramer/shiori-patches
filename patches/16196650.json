@@ -1,0 +1,39 @@
+{
+  "appID": 16196650,
+  "title": "16196650",
+  "patches": [
+    {
+      "id": "nekonyan-making-lovers-after-stories-18-steam-patch",
+      "name": "Making＊Lovers After Stories 18+ Steam Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://cdn.nekonyansoft.com/patch/making-lovers-fd/makingloversfd_r18dlc.7z"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://cdn.nekonyansoft.com/patch/making-lovers-fd/makingloversfd_r18dlc.7z",
+          "name": "makingloversfd_r18dlc.7z",
+          "format": "7z",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

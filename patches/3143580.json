@@ -1,0 +1,39 @@
+{
+  "appID": 3143580,
+  "title": "Holy Valkyrie ExS-TIA: Concerto 2",
+  "patches": [
+    {
+      "id": "patchmoe-holy-valkyrie-exs-tia-concerto-2-dlc-patch",
+      "name": "Holy Valkyrie ExS-TIA: Concerto 2 DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/EXS-TiA_Concerto_2_Patch.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/EXS-TiA_Concerto_2_Patch.zip",
+          "name": "EXS-TiA_Concerto_2_Patch.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

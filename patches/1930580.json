@@ -1,0 +1,138 @@
+{
+  "appID": 1930580,
+  "title": "Devil’s 5 Days Mischief Game",
+  "patches": [
+    {
+      "id": "saikey-devil-s-5-days-mischief-game-patch-english",
+      "name": "Devil’s 5 Days Mischief Game patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109659/devils-5-days-mischief-game/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109659/9fa23872-0a08-4d6d-b456-82f71130f626"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109659/9fa23872-0a08-4d6d-b456-82f71130f626",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-devil-s-5-days-mischief-game-patch-japanese",
+      "name": "Devil’s 5 Days Mischief Game patch (Japanese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109659/devils-5-days-mischief-game/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109659/d2cfa4fa-ae79-4fb2-bbe0-a4c163c2177e"
+      },
+      "version": null,
+      "languages": [
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109659/d2cfa4fa-ae79-4fb2-bbe0-a4c163c2177e",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-devil-s-5-days-mischief-game-patch-simplified-chinese",
+      "name": "Devil’s 5 Days Mischief Game patch (Simplified Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109659/devils-5-days-mischief-game/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109659/26eae151-d41f-445f-9843-d7351d7f62fd"
+      },
+      "version": null,
+      "languages": [
+        "zh-hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109659/26eae151-d41f-445f-9843-d7351d7f62fd",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-devil-s-5-days-mischief-game-patch-traditional-chines",
+      "name": "Devil’s 5 Days Mischief Game patch (Traditional Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109659/devils-5-days-mischief-game/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109659/1cdd393b-80c4-4e3b-ab21-54732f5dac63"
+      },
+      "version": null,
+      "languages": [
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109659/1cdd393b-80c4-4e3b-ab21-54732f5dac63",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

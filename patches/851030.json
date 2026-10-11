@@ -1,0 +1,40 @@
+{
+  "appID": 851030,
+  "title": "Mega Milk Story",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/851030",
+        "key": "851030"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Download the patch from one of the links below, or one of the mirrors on the [http://citadeltr.com/patch.html] Citadel Translations website [https://mega.nz/#!wqI0wSZT!F5itHXBOdojrtNs9rRmgsmRGk2FPfdVFXXk2yNu-Ulk] English patch download [https://mega.nz/#!oi5RGbCL!wWv_XIKPe1HhsUR7v5PneA-Ck-ORrvBSDzwy5NtDjRg] Chinese patch download Run the downloaded 'CitadelPatcher' program Select \"Auto Find Game F",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!wqI0wSZT!F5itHXBOdojrtNs9rRmgsmRGk2FPfdVFXXk2yNu-Ulk",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "appID": 4285110,
+  "title": "Tunnel Escape Fates Entwined",
+  "patches": [
+    {
+      "id": "saikey-tunnel-escape-fates-entwined-patch",
+      "name": "Tunnel Escape Fates Entwined patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/168130/tunnel-escape-fates-entwined/",
+        "key": "https://saikeystudios.com/patches/?patch_product=168130&patch_item=c49a422e-b217-409b-908d-94661c6060a9"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "gdrive",
+          "url": "https://drive.google.com/drive/folders/1zhoSpnYmfx_akW46iHAPzdf3k22VmUc2?usp=sharing",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://saikeystudios.com/patches/?patch_product=168130&patch_item=c49a422e-b217-409b-908d-94661c6060a9"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

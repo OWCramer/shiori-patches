@@ -1,0 +1,39 @@
+{
+  "appID": 1509090,
+  "title": "Seek Girl Ⅷ",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1509090",
+        "key": "1509090"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Navigate into the \"Seek Girl ⅤⅢ_Data\" folder Download the patch archive from the link below Extract the contents of the downloaded patch archive into the \"Seek Girl ⅤⅢ_Data\" folder mentioned above, merging folders and overwriting files if prompted It's working if: On the mission menu there are pictures of girls for the level previews (not just blue boxes), and when you finish the first mission there is a lewd mini-game, not just a clothed picture of the girl. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/EPhSnSjJ#15E33y6tCzDSwA0UcrhwsZ_ufFBSzMqP89Z2zNCXzw0",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

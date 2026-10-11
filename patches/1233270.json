@@ -1,0 +1,53 @@
+{
+  "appID": 1233270,
+  "title": "OshiRabu: Waifus Over Husbandos",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1233270",
+        "key": "1233270"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://denpasoft.com/product/oshirabu-waifus-over-husbandos",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://www.mangagamer.com/r18/detail.php?aflg=18over&product_code=1172&af=a7d5e0347542a24ff7dd9ff371644124"
+            },
+            {
+              "host": "store",
+              "url": "https://jastusa.com/oshirabu-waifus-over-husbandos"
+            },
+            {
+              "host": "store",
+              "url": "https://denpasoft.com/product/oshirabu-waifus-over-husbandos"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

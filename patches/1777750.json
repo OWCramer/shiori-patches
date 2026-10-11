@@ -1,0 +1,39 @@
+{
+  "appID": 1777750,
+  "title": "Ninki Seiyuu: How to Make a Pop Voice Actress",
+  "patches": [
+    {
+      "id": "patchmoe-ninki-seiyuu-how-to-make-a-pop-voice-actress-dlc-pa",
+      "name": "Ninki Seiyuu: How to Make a Pop Voice Actress DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/ninki-seiyuu-dlc-en_Windows_2_1_1.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/ninki-seiyuu-dlc-en_Windows_2_1_1.zip",
+          "name": "ninki-seiyuu-dlc-en_Windows_2_1_1.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

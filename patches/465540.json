@@ -1,0 +1,39 @@
+{
+  "appID": 465540,
+  "title": "Adventure World",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/465540",
+        "key": "465540"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...). Inside that directory, there will be a folder named 'pic'. Download the patch from the link below (or through the itch.io page mentioned above) Move the downloaded 'cg.tad' file into the 'pic' folder mentioned above, overwriting the existing file It's working if: When you lose a fight, it shows a fully drawn lewd CG, rather than a non-lewd chibi image. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!1TAhGCiT!chI9dIlG_ASORNaLkODzCBumMAHNABJqRwBAsT1bqXE",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

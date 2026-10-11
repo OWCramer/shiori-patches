@@ -1,0 +1,40 @@
+{
+  "appID": 611790,
+  "title": "House Party",
+  "patches": [
+    {
+      "id": "uncensorpatch-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "Steam",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/611790",
+        "key": "611790"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "It's working if: Once in game: In the 'PAUSE' menu there is a 'CENSOR NUDITY' checkbox (leave it unchecked) If you press 'P' and look down, your junk will not have a mosaic over it",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/944540",
+          "dlc": 944540,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

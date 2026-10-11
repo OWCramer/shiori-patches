@@ -1,0 +1,39 @@
+{
+  "appID": 3296790,
+  "title": "The Shell Part III: Paradiso",
+  "patches": [
+    {
+      "id": "patchmoe-the-shell-part-iii-paradiso-dlc-patch",
+      "name": "The Shell Part III: Paradiso DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/The_Shell_Part_III_Steam_Patch_20250128.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/The_Shell_Part_III_Steam_Patch_20250128.zip",
+          "name": "The_Shell_Part_III_Steam_Patch_20250128.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

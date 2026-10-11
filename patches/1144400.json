@@ -1,0 +1,73 @@
+{
+  "appID": 1144400,
+  "title": "Senren＊Banka",
+  "patches": [
+    {
+      "id": "nekonyan-senren-banka-18-steam-patch",
+      "name": "Senren＊Banka 18+ Steam Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://cdn.nekonyansoft.com/patch/senren-banka/senrenbanka_r18patch.7z"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://cdn.nekonyansoft.com/patch/senren-banka/senrenbanka_r18patch.7z",
+          "name": "senrenbanka_r18patch.7z",
+          "format": "7z",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1144400",
+        "key": "1144400"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Download the patch archive from the link below Extract the contents of the downloaded patch archive somewhere, and run the \"SenrenBanka_Steam_R18DLC.exe\" patch installer application Follow the prompts in the patch installer to complete patch installation",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://nekonyansoft.com/download/free/28",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

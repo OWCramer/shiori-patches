@@ -1,0 +1,39 @@
+{
+  "appID": 1025140,
+  "title": "LAMUNATION",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1025140",
+        "key": "1025140"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Download the patch from the link below Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Move the downloaded \"patch.xp3\" file into the game install folder folder",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/MH5imD4T#8rlL8XvyCG0aE5TCotBgjNPUK6U33bl9hU1PRPc3QK0",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

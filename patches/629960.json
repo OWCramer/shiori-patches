@@ -1,0 +1,39 @@
+{
+  "appID": 629960,
+  "title": "夏花的轨迹——A summer promise to forever",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/629960",
+        "key": "629960"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch from the link below Extract the contents of the patch archive into the game install folder mentioned above It's working if: After finishing the game, and 'EXTRA' option should appear on the main menu. If you click on 'REPLY' at the top of the menu, there will be 2 scene options, the one on the right being obviously lewd. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!8KBlVL5J!ECYQpjoeDo-Ey_nGaH6S1Lc-YKZN-RPkDgo7ms8CZd0",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

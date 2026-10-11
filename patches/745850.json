@@ -1,0 +1,49 @@
+{
+  "appID": 745850,
+  "title": "KARAKARA2",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/745850",
+        "key": "745850"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://denpasoft.com/products/karakara2-dlc",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "http://www.dlsite.com/ecchi-eng/dlaf/=/link/work/aid/UncensorPat/id/RE214947.html"
+            },
+            {
+              "host": "store",
+              "url": "https://denpasoft.com/products/karakara2-dlc"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

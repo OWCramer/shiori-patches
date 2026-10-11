@@ -1,0 +1,39 @@
+{
+  "appID": 498540,
+  "title": "Evil Maze Horror Forest DLC",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/498540",
+        "key": "498540"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Download the patch from the link below Navigate to the Steam game install folder (right click on the base game 'EvilMaze' in the Steam library, Properties, Local Files, Browse Local Files...) Copy the patch into the HORROR FOREST DLC folder and replace the original files",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!RHpWmQRI!Y7Jo0E1a12NkgBVdwi5OwLT8op1am6O_emGSN_YzwiE",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

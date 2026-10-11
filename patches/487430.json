@@ -1,0 +1,50 @@
+{
+  "appID": 487430,
+  "title": "KARAKARA",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/487430",
+        "key": "487430"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Run the patcher provided by Denpasoft after purchase, and follow the prompts. It's working if: When you're all in the bed together, lewdness ensues between you and Lucia, instead of just cutting to the next morning. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://denpasoft.com/products/karakara-dlc",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "http://www.dlsite.com/ecchi-eng/dlaf/=/link/work/aid/UncensorPat/id/RE180940.html"
+            },
+            {
+              "host": "store",
+              "url": "https://denpasoft.com/products/karakara-dlc"
+            }
+          ],
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

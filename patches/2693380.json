@@ -1,0 +1,105 @@
+{
+  "appID": 2693380,
+  "title": "Survival Mission Z",
+  "patches": [
+    {
+      "id": "saikey-survival-mission-z-patch-english",
+      "name": "Survival Mission Z patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/100755/survival-mission-z/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100755/ae35e056-c597-490e-9cb7-46382c3ce1a8"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100755/ae35e056-c597-490e-9cb7-46382c3ce1a8",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-survival-mission-z-patch-japanese",
+      "name": "Survival Mission Z patch (Japanese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/100755/survival-mission-z/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100755/ed383da1-b34c-4ce3-9b43-ab4212a662a1"
+      },
+      "version": null,
+      "languages": [
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100755/ed383da1-b34c-4ce3-9b43-ab4212a662a1",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-survival-mission-z-patch-simplified-chinese",
+      "name": "Survival Mission Z patch (Simplified Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/100755/survival-mission-z/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100755/69b44624-8700-4562-9941-e75c9204c284"
+      },
+      "version": null,
+      "languages": [
+        "zh-hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100755/69b44624-8700-4562-9941-e75c9204c284",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

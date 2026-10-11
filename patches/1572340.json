@@ -1,0 +1,40 @@
+{
+  "appID": 1572340,
+  "title": "Ark of Artemis",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1572340",
+        "key": "1572340"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Download the patch archive from the link below Unzip the archive onto your PC Run the patcher and follow the prompts",
+      "files": [
+        {
+          "host": "gdrive",
+          "url": "https://drive.google.com/file/d/1EZHX6hGwFZgRsZvkjNyz-CoxIMJ9Nu5o/view?usp=sharing",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

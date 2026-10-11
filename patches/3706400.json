@@ -1,0 +1,42 @@
+{
+  "appID": 3706400,
+  "title": "Little Witch Inuko",
+  "patches": [
+    {
+      "id": "saikey-little-witch-inuko-patch",
+      "name": "Little Witch Inuko patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/121682/little-witch-inuko/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/121682/405a3cc6-f531-48a6-943f-8c908b72d6d7"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/121682/405a3cc6-f531-48a6-943f-8c908b72d6d7",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

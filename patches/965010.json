@@ -1,0 +1,46 @@
+{
+  "appID": 965010,
+  "title": "Trinoline",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "MangaGamer",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/965010",
+        "key": "965010"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Download the patch archive from the link below Extract the contents of the archive somewhere on your PC Run 'trinoline_en_R18Path_setup.exe', and follow the prompts",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.mangagamer.com/r18/freedownload.php?product_name=Trinoline+%28download%29",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://www.mangagamer.com/r18/S3_download.php?product_code=1113&type=adult_patch"
+            }
+          ],
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

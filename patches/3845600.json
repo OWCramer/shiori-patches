@@ -1,0 +1,43 @@
+{
+  "appID": 3845600,
+  "title": "Living With a Little Fox Girl",
+  "patches": [
+    {
+      "id": "saikey-living-with-a-little-fox-girl-patch",
+      "name": "Living With a Little Fox Girl patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/128498/living-with-a-little-fox-girl/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/128498/de5dd382-4693-48ce-a0d2-3017e9b14eb4"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/128498/de5dd382-4693-48ce-a0d2-3017e9b14eb4",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

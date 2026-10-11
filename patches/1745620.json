@@ -1,0 +1,45 @@
+{
+  "appID": 1745620,
+  "title": "The Oath of the Dark Magic Queen",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1745620",
+        "key": "1745620"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, merging folders and overwriting files if prompted It's working if: When you go to \"Extra\" from the main menu, there are 10 places for CGs instead of 8. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://denpasoft.com/product/the-oath-of-the-dark-magic-queen-18-dlc",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://denpasoft.com/product/the-oath-of-the-dark-magic-queen-18-dlc"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

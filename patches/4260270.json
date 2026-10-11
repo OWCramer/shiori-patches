@@ -1,0 +1,49 @@
+{
+  "appID": 4260270,
+  "title": "Stranded with You",
+  "patches": [
+    {
+      "id": "saikey-stranded-with-you-patch",
+      "name": "Stranded with You patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/160112/stranded-with-you/",
+        "key": "https://saikeystudios.com/patches/?patch_product=160112&patch_item=d715bd4d-bc69-4670-8c33-731979ca4bac"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant",
+        "ko"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "gdrive",
+          "url": "https://drive.google.com/file/d/1eSFf8pq5QYwBgtd65J_xyEaXsqKQNKuZ/view?usp=drive_link",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://saikeystudios.com/patches/?patch_product=160112&patch_item=d715bd4d-bc69-4670-8c33-731979ca4bac"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

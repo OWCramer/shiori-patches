@@ -1,0 +1,39 @@
+{
+  "appID": 1026370,
+  "title": "My Fair Princess",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1026370",
+        "key": "1026370"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch from the link below Move the downloaded 'data04.ykc' file into the game install folder mentioned above",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/NOQmwLpC#9CSH9fXkwE8IU-n5gOG_qhMkjTDL2GRqrGhR4W8ZQPw",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

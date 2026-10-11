@@ -1,0 +1,39 @@
+{
+  "appID": 498520,
+  "title": "Evil Maze Game Gallery DLC",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/498520",
+        "key": "498520"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Download the patch from the link below Navigate to the Steam game install folder (right click on the base game 'EvilMaze' in the Steam library, Properties, Local Files, Browse Local Files...) Copy the patch into the GALLERY DLC folder and replace the original files",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!pCQ2Wb4a!VJr6wiYpzDZwCyGUoTq06h1Ya5XfzxQiNttpXwT_Igg",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

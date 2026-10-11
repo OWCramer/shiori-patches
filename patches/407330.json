@@ -1,0 +1,75 @@
+{
+  "appID": 407330,
+  "title": "Sakura Dungeon",
+  "patches": [
+    {
+      "id": "manual-winged-cloud-sakura-patch-collection",
+      "name": "Sakura Patch Collection (Patreon)",
+      "kind": "adult",
+      "official": true,
+      "by": "Winged Cloud",
+      "source": {
+        "site": "manual",
+        "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
+        "key": "wingedcloud-sakura-collection"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Winged Cloud's own patch collection for its Sakura games, a Patreon post for patrons (June 2020). Download the game's patch there, then use Import in Shiori.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
+          "name": null,
+          "size": null,
+          "sha256": null,
+          "format": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/407330",
+        "key": "407330"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Place the 'patch0x.rpa' file in the \"game\" folder inside the Sakura Dungeon Steam directory (right click on the game in Steam, Properties, Local Files, Browse Local Files...) It's working if: After defeating the rabbit at the beginning of the game, if her chest is exposed, the patch is working and you're good to go! uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!QaQnwJhA!nhb-z8-nVxf_TcdvH7CTmdEy-kE7f84VDbXt-zoMFOo",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11",
+      "install": {
+        "into": "game"
+      }
+    }
+  ]
+}

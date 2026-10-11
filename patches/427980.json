@@ -1,0 +1,39 @@
+{
+  "appID": 427980,
+  "title": "Aozora Meikyuu",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/427980",
+        "key": "427980"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Download the patch from the link below Copy archive.rpa (from the download) to the 'game' folder in the Steam game install directory (right click on the game in Steam, Properties, Local Files, Browse Local Files...) and overwrite the old file",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!9GRXGBZQ!Y77VrPeBVlxHSZJOCvX2KQ-AprO3qqdq5OWP1xSkLxs",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

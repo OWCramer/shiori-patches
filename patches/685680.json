@@ -1,0 +1,75 @@
+{
+  "appID": 685680,
+  "title": "Sakura Gamer",
+  "patches": [
+    {
+      "id": "manual-winged-cloud-sakura-patch-collection",
+      "name": "Sakura Patch Collection (Patreon)",
+      "kind": "adult",
+      "official": true,
+      "by": "Winged Cloud",
+      "source": {
+        "site": "manual",
+        "page": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
+        "key": "wingedcloud-sakura-collection"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Winged Cloud's own patch collection for its Sakura games, a Patreon post for patrons (June 2020). Download the game's patch there, then use Import in Shiori.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
+          "name": null,
+          "size": null,
+          "sha256": null,
+          "format": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/685680",
+        "key": "685680"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Download the patch from the link below. Once you have downloaded the file, locate the steam directory for the game (right click on the game in Steam, Properties, Local Files, Browse Local Files...). Inside that directory, there will be a folder named 'game'. To apply the patch, copy the contents of the patch zip-file to that directory. Overwrite any existing files if prompted.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!VCwhhDJJ!CZOlHOTPAFDOTy0C3TP3zaD0pD08FohVfpmgeajVov4",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11",
+      "install": {
+        "into": "game"
+      }
+    }
+  ]
+}

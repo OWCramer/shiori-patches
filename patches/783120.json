@@ -1,0 +1,39 @@
+{
+  "appID": 783120,
+  "title": "HELLO LADY",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/783120",
+        "key": "783120"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from either of the links below [http://appendingpulse.jp/dl/1w18pftah6pg/patch_sc.7z] Simplified Chinese [http://appendingpulse.jp/dl/1w18pftah6pg/patch_tc.7z] Traditional Chinese Using 7-zip, extract the 'patch.xp3' file from the patch archive into the game",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://appendingpulse.jp/dl/1w18pftah6pg/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

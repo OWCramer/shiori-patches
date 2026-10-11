@@ -1,0 +1,39 @@
+{
+  "appID": 1595310,
+  "title": "Barbarian Legend",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1595310",
+        "key": "1595310"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, merging folders and overwriting file if prompted It's working if: When you press the \"CG\" option on the main menu it opens up the CG window instead of just saying \"Coming soon\". Also when you torture the valkyrie, there is a minigame involved instead of the stat just increasing.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/IOZV2IwL#_SQdkqXa7UpCPZLpQ-N1LZzdpN8MAzg_AAsmZ9VXrbg",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

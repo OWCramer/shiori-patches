@@ -1,0 +1,39 @@
+{
+  "appID": 3224670,
+  "title": "Double Date Dilemma",
+  "patches": [
+    {
+      "id": "patchmoe-double-date-dilemma-dlc-patch",
+      "name": "Double Date Dilemma DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/Double_Date_Dilemma_patch_EN_20260525.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/Double_Date_Dilemma_patch_EN_20260525.zip",
+          "name": "Double_Date_Dilemma_patch_EN_20260525.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

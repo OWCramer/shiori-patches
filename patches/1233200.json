@@ -1,0 +1,49 @@
+{
+  "appID": 1233200,
+  "title": "Wanko of Marriage ~Welcome to The Dog's Tail",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "DLsite",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1233200",
+        "key": "1233200"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the 'update.bin' and 'pix.xml' files from the downloaded patch archive into the game install folder mentioned above",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.dlsite.com/modpub/patch-plaza/index.html#",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://www.dlsite.com/maniax/dlaf/=/t/n/link/work/aid/UncensorPat/locale/en_US/id/RJ293627.html/?locale=en_US"
+            },
+            {
+              "host": "store",
+              "url": "http://www.dlsite.com/modpub/patch-plaza/R18patch/1233200_Wanko_R18patch1.00.zip"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

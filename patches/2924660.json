@@ -1,0 +1,42 @@
+{
+  "appID": 2924660,
+  "title": "Fault – Broken Promises",
+  "patches": [
+    {
+      "id": "saikey-fault-broken-promises-patch",
+      "name": "Fault – Broken Promises patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/105815/fault-broken-promises/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/105815/f0ebc478-57cc-4180-8146-c28503103b22"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/105815/f0ebc478-57cc-4180-8146-c28503103b22",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

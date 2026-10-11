@@ -1,0 +1,76 @@
+{
+  "appID": 3304770,
+  "title": "Exposed Livestream",
+  "patches": [
+    {
+      "id": "saikey-exposed-livestream-patch",
+      "name": "Exposed Livestream patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/113215/exposed-livestream/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/113215/90edec49-8526-43d1-8dfb-50f3249263e8"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/113215/90edec49-8526-43d1-8dfb-50f3249263e8",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/3304770",
+        "key": "3304770"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Download the patch archive from the link below Extract the contents of the downloaded patch archive Run the patcher and follow the prompts It's working if: The main menu of the game has three images of the main character, not just the primary one. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/kg4EhYiC#SRnyWheXJmJu8Pq5ZbITSKS3kAwd0a9GX6Gxlj-RlwE",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

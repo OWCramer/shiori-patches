@@ -1,0 +1,39 @@
+{
+  "appID": 3891200,
+  "title": "Cosplaying in Costalia: The Tororo Sisters!",
+  "patches": [
+    {
+      "id": "patchmoe-cosplaying-in-costalia-the-tororo-sisters-dlc-patch",
+      "name": "Cosplaying in Costalia: The Tororo Sisters! DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/Role_player_Tororo_patch_en.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/Role_player_Tororo_patch_en.zip",
+          "name": "Role_player_Tororo_patch_en.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

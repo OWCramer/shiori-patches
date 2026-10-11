@@ -1,0 +1,39 @@
+{
+  "appID": 1197590,
+  "title": "Waifu Uncovered",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1197590",
+        "key": "1197590"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Either create a file called 'uncensor.me' (ensuring that it does not have any other extensions, such as 'uncensor.me.txt') or download the pre-made file from the link below Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Move the 'uncensor.me' file into the game install folder mentioned above",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/YTgBWIIA#HTFllEdc9EqZb9qaYNUAVBKazCzhu0WKAAAAAAAAAAA",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

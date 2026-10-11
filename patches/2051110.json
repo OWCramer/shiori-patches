@@ -1,0 +1,39 @@
+{
+  "appID": 2051110,
+  "title": "BETA-SIXDOUZE",
+  "patches": [
+    {
+      "id": "patchmoe-beta-sixdouze-dlc-patch",
+      "name": "BETA-SIXDOUZE DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/betasixdouze-dlc-en_Windows_1_1_0.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/betasixdouze-dlc-en_Windows_1_1_0.zip",
+          "name": "betasixdouze-dlc-en_Windows_1_1_0.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

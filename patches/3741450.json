@@ -1,0 +1,42 @@
+{
+  "appID": 3741450,
+  "title": "Risty and the Village of Bocchino",
+  "patches": [
+    {
+      "id": "saikey-risty-and-the-village-of-bocchino-patch",
+      "name": "Risty and the Village of Bocchino patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/124937/risty-and-the-village-of-bocchino/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/124937/fb736a7a-e0e8-452d-b21e-19759e5fdeee"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/124937/fb736a7a-e0e8-452d-b21e-19759e5fdeee",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

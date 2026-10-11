@@ -1,0 +1,40 @@
+{
+  "appID": 1413970,
+  "title": "Fox Girls Never Play Dirty",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "Kagura Games",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1413970",
+        "key": "1413970"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Download the patch from the link below Run the 'Fox Girls Never Play Dirty EN Patch v1.02.exe' patch and follow the instructions, or go to the [https://www.kaguragames.com/patch-instructions/] Kagura Games website for more detailed instructions It's working if: The main menu has \"Recollection Room\" and \"Credits\" options, and the background for the menu shows two fox girls (instead of some grass). uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.kaguragames.com/product/fox-girls-never-play-dirty-patch/",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "appID": 570840,
+  "title": "Nekojishi",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/570840",
+        "key": "570840"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Windows: Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...). Inside that directory, there will be a folder named 'game'. Download the patch archive from the link below Extract the 'adult.rpa' file from the patch archive into the 'game' folder mentioned above Mac: Right click the app and click \"Show Package Contents\" Navigate into Cont It's working if: You have the option to switch between standard and Limited Edition modes.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/4WgjkKjR#ZZJb10gCbTW1ofT4IntFLy4XMJTpC0alSZg_8r0_9WI",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11",
+      "install": {
+        "into": "game"
+      }
+    }
+  ]
+}

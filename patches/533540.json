@@ -1,0 +1,39 @@
+{
+  "appID": 533540,
+  "title": "MONMUSU",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/533540",
+        "key": "533540"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the 'patch18plus.bin' file from within the downloaded archive into the game install folder mentioned above It's working if: There is a heart icon next to the Kobold's special scene. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "direct",
+          "url": "http://tentacle.studio/product/01_mo/monmusu_r18.zip",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

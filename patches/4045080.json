@@ -1,0 +1,39 @@
+{
+  "appID": 4045080,
+  "title": "Jezebel",
+  "patches": [
+    {
+      "id": "saikey-jezebel-patch",
+      "name": "Jezebel patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/129872/jezebel/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/129872/e3c1d8a6-57cf-4a70-805f-cc4a730f3b1f"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/129872/e3c1d8a6-57cf-4a70-805f-cc4a730f3b1f",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

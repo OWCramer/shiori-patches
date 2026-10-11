@@ -1,0 +1,39 @@
+{
+  "appID": 632710,
+  "title": "Princess Evangile W Happiness - Steam Edition",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/632710",
+        "key": "632710"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below or directly from [https://www.mangagamer.com/r18/freedownload.php?product_name=Princess%20Evangile%20WHappiness%20(download)] MangaGamer Extract the contents of the downloaded patch archive into the game install folder mentioned above, ov It's working if: In the 'EXTRA' menu from the main menu, there are 7 'Unknown' boxes for Rise, not 2. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/gOoBESRI#m2v28065BTXLKFB2wIe_MURfNfhsCmUwmp1SCwGDNVU",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "appID": 1357840,
+  "title": "Salthe",
+  "patches": [
+    {
+      "id": "patchmoe-salthe-dlc-patch",
+      "name": "Salthe DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/Salthe_R18_Patch.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/Salthe_R18_Patch.zip",
+          "name": "Salthe_R18_Patch.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1357840",
+        "key": "1357840"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below (or from the So iree website linked above) Extract the 'adult.xp3' file from the downloaded patch archive into the game install folder mentioned above, alongside the 'Salthe.exe' file",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/OFoSiCqY#o5Oq6octfJBvw7ZX4uAVzGM9Oz7MMSimZbMGij983d0",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

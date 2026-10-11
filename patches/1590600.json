@@ -1,0 +1,40 @@
+{
+  "appID": 1590600,
+  "title": "OPPAI Academy Big, Bouncy, Booby Babes",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1590600",
+        "key": "1590600"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Download the patch archive from the link below Extract the contents of the downloaded patch archive onto your computer Run 'hmaho_Steam_R18DLC.exe' and follow the prompts",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/JXhFgC6Q#y2gWVbhrys2yjSm21BLx5aa0jhST4vA3ERO_bBoSUaQ",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "appID": 766540,
+  "title": "A Kiss For The Petals - Maidens of Michael",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/766540",
+        "key": "766540"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!oWQgRAzZ!oCK6YZB2Nb9B4c49ZyiqGDei5gbs7UZ5F1AaIFp_4Mw",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

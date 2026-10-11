@@ -1,0 +1,39 @@
+{
+  "appID": 2737970,
+  "title": "Mashiroiro Symphony HD -Love is Pure White-",
+  "patches": [
+    {
+      "id": "patchmoe-mashiroiro-symphony-hd-love-is-pure-white-dlc-patch",
+      "name": "Mashiroiro Symphony HD -Love is Pure White- DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/mashiroiro_fhd_PATCH_20240612.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/mashiroiro_fhd_PATCH_20240612.zip",
+          "name": "mashiroiro_fhd_PATCH_20240612.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

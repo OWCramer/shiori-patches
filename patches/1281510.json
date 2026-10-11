@@ -1,0 +1,39 @@
+{
+  "appID": 1281510,
+  "title": "Kirakira stars idol project Nagisa",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1281510",
+        "key": "1281510"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the 'kirakira_stars_idol_project_Nagisa_Data' folder from the downloaded patch archive into the game install folder mentioned above, merging the folder if prompted",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://c04fa717-4f4a-4269-a863-324fa14a5191.usrfiles.com/archives/c04fa7_5a67d5c600eb4de4b0f2185cff7e2c18.zip?dn=kirakira_stars_idol_project_Nagisa_patch.zip",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

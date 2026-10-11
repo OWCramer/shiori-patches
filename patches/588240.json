@@ -1,0 +1,39 @@
+{
+  "appID": 588240,
+  "title": "Frisky Business",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/588240",
+        "key": "588240"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Do either of the following: Download the patch archive from the link below, and unarchive the 'AsNatureIntended' file into the game install folder OR create an empty file in the game install folder named just 'AsNatureIntended' (with no file extension)",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!UDJTBA7T!q5ZMfM1GWvl59E69XMNpIcRhTQgxLWdWOxhOtxpe5V4",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

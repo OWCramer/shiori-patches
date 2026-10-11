@@ -1,0 +1,138 @@
+{
+  "appID": 3070600,
+  "title": "Senpai and the Mysterious Island",
+  "patches": [
+    {
+      "id": "saikey-senpai-and-the-mysterious-island-patch-english",
+      "name": "Senpai and the Mysterious Island patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109522/senpai-and-the-mysterious-island/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109522/6c4750da-8401-45b5-a732-2a1c4979d0fd"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109522/6c4750da-8401-45b5-a732-2a1c4979d0fd",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-senpai-and-the-mysterious-island-patch-japanese",
+      "name": "Senpai and the Mysterious Island patch (Japanese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109522/senpai-and-the-mysterious-island/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109522/8bbc9cf3-b2b4-4bc5-9c2e-3810004d94b3"
+      },
+      "version": null,
+      "languages": [
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109522/8bbc9cf3-b2b4-4bc5-9c2e-3810004d94b3",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-senpai-and-the-mysterious-island-patch-simplified-chi",
+      "name": "Senpai and the Mysterious Island patch (Simplified Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109522/senpai-and-the-mysterious-island/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109522/025e800b-41a3-49e5-82a6-149ed1a12f16"
+      },
+      "version": null,
+      "languages": [
+        "zh-hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109522/025e800b-41a3-49e5-82a6-149ed1a12f16",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-senpai-and-the-mysterious-island-patch-traditional-ch",
+      "name": "Senpai and the Mysterious Island patch (Traditional Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109522/senpai-and-the-mysterious-island/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109522/a292deec-23db-485c-998e-0bcbaeae37d7"
+      },
+      "version": null,
+      "languages": [
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/109522/a292deec-23db-485c-998e-0bcbaeae37d7",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

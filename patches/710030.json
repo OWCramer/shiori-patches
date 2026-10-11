@@ -1,0 +1,39 @@
+{
+  "appID": 710030,
+  "title": "Cinderella Escape 2 Revenge",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/710030",
+        "key": "710030"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch from the link below Move the downloaded 'ce2_patch.mod' file into the game install folder mentioned above",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.patreon.com/file?h=18591454&i=2146367",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

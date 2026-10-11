@@ -1,0 +1,39 @@
+{
+  "appID": 788910,
+  "title": "Apartment of Love",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/788910",
+        "key": "788910"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, overwriting the \"bgimage.xp3\" and \"patch.xp3\" files when prompted",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/pXYxlARR#3-ZewDqcsWKEks06ZJaUMSThavTK_nCGInObbAigfAU",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

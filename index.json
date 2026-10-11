@@ -1,0 +1,4455 @@
+{
+  "version": 1,
+  "games": {
+    "313730": {
+      "title": "Sunrider: Mask of Arcadius",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "317300": {
+      "title": "Roommates",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "331470": {
+      "title": "Everlasting Summer",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "333600": {
+      "title": "NEKOPARA Vol. 1",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "339800": {
+      "title": "HuniePop",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "340730": {
+      "title": "Sunrider Academy",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "345610": {
+      "title": "The Fruit of Grisaia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "345620": {
+      "title": "The Labyrinth of Grisaia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "345630": {
+      "title": "The Eden of Grisaia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "348540": {
+      "title": "Divine Slice of Life",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "349300": {
+      "title": "Littlewitch Romanesque: Editio Regia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "352010": {
+      "title": "Beach Bounce",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "358750": {
+      "title": "Sunrider: Liberation Day - Captain's Edition",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "366380": {
+      "title": "MYTH",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "367020": {
+      "title": "No One But You",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "372330": {
+      "title": "Beauty Bounce",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "375200": {
+      "title": "Sakura Fantasy Chapter 1",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "377670": {
+      "title": "G-senjou no Maou - The Devil on G-String",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "379980": {
+      "title": "Panzermadels: Tank Dating Simulator",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "387100": {
+      "title": "Walkerman",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "402180": {
+      "title": "Sakura Swim Club",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "404170": {
+      "title": "Battle Girls",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "404180": {
+      "title": "Club Life",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "407310": {
+      "title": "NEKO-NIN exHeart",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "407330": {
+      "title": "Sakura Dungeon",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "408000": {
+      "title": "Cinderella Escape",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "408770": {
+      "title": "Highschool Possession",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "409850": {
+      "title": "Criminal Girls: Invite Only",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "420110": {
+      "title": "NEKOPARA Vol. 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "420980": {
+      "title": "Army Gals",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "423650": {
+      "title": "Summer Fling",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "427980": {
+      "title": "Aozora Meikyuu",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "432100": {
+      "title": "Negligee",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "432490": {
+      "title": "ATOM GRRRL",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "440640": {
+      "title": "Sweet F. Cake",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "446610": {
+      "title": "Bunny Bounce",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "451760": {
+      "title": "Highway Blossoms",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "455310": {
+      "title": "Bloody Chronicles - New Cycle of Death",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "457370": {
+      "title": "Alexa's Wild Night",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "459550": {
+      "title": "Catch Canvas",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "459820": {
+      "title": "Crush Crush",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "465540": {
+      "title": "Adventure World",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "483960": {
+      "title": "Purino Party",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "487430": {
+      "title": "KARAKARA",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "490890": {
+      "title": "Ne no Kami - The Two Princess Knights of Kyoto",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "496260": {
+      "title": "Corona Blossom Vol.1 Gift From the Galaxy",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "498520": {
+      "title": "Evil Maze Game Gallery DLC",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "498540": {
+      "title": "Evil Maze Horror Forest DLC",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "503300": {
+      "title": "Super Star",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "508190": {
+      "title": "Dragon Knight",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "508260": {
+      "title": "Treasure of a Blizzard",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "512060": {
+      "title": "Stay",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "521500": {
+      "title": "Sakura Space",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "523730": {
+      "title": "Sweet Volley High",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "531730": {
+      "title": "Corona Blossom Vol.2 The Truth From Beyond",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "533540": {
+      "title": "MONMUSU",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "539670": {
+      "title": "Sakura Nova",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "540610": {
+      "title": "Delicious",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "542260": {
+      "title": "The Herbalist",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "552280": {
+      "title": "tayutama 2 -you're the only one-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "559610": {
+      "title": "Love Ribbon",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "560000": {
+      "title": "Ladykiller in a Bind",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "560250": {
+      "title": "Galaxy Girls",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "562480": {
+      "title": "Corona Blossom Vol.3 Journey to the Stars",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "570840": {
+      "title": "Nekojishi",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "575480": {
+      "title": "WAGAMAMA HIGH SPEC",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "575510": {
+      "title": "Sakura Agent",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "575550": {
+      "title": "Hell Girls",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "581520": {
+      "title": "Sakura Magical Girls",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "588240": {
+      "title": "Frisky Business",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "590800": {
+      "title": "Rainbow Dreams",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "590940": {
+      "title": "Split Of Knight",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "595730": {
+      "title": "Ascendant Hearts",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "602520": {
+      "title": "NEKOPARA Vol. 3",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "603120": {
+      "title": "Happy Campers",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "606690": {
+      "title": "Ecchi Sketch: Draw Cute Girls Every Day",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "611790": {
+      "title": "House Party",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "618430": {
+      "title": "Episicava - Vol. I",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "618550": {
+      "title": "Chess of Blades",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "620080": {
+      "title": "A Clockwork Ley-Line: The Borderline of Dusk",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "627820": {
+      "title": "England Exchange",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "628920": {
+      "title": "Tomboys Need Love Too",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "629960": {
+      "title": "夏花的轨迹——A summer promise to forever",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "632710": {
+      "title": "Princess Evangile W Happiness - Steam Edition",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "635730": {
+      "title": "Dragonia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "638160": {
+      "title": "Moero Chronicle",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "638930": {
+      "title": "Dal Segno",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "639780": {
+      "title": "DEEP SPACE WAIFU: FLAT JUSTICE",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "639790": {
+      "title": "Deep Space Waifu",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "640990": {
+      "title": "Fashioning Little Miss Lonesome",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "642090": {
+      "title": "Coming Out on Top",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "644540": {
+      "title": "Dies irae ~Amantes amentes~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "644560": {
+      "title": "Mirror",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "644570": {
+      "title": "Material Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "649580": {
+      "title": "Twins of the Pasture",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "655770": {
+      "title": "Crimson Gray",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "658140": {
+      "title": "Sakura Sakura",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "658620": {
+      "title": "Wonderful Everyday Down the Rabbit-Hole",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "665180": {
+      "title": "Dark Elf",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "668360": {
+      "title": "Bokuten - Why I Became an Angel",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "669050": {
+      "title": "Mutiny",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "669950": {
+      "title": "Big Drunk Satanic Massacre",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "675240": {
+      "title": "Shining Song Starnova",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "676090": {
+      "title": "Legend Of Mercy 神医魔导",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "677730": {
+      "title": "Karmasutra",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "678190": {
+      "title": "King Of Bali",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "680320": {
+      "title": "The Heiress",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "685680": {
+      "title": "Sakura Gamer",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "686180": {
+      "title": "Cat Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "686190": {
+      "title": "Killing Time",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "687920": {
+      "title": "Tropical Liquor",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "689650": {
+      "title": "Les Fleursword",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "691150": {
+      "title": "Saku Saku: Love Blooms with the Cherry Blossoms",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "691770": {
+      "title": "Eiyu*Senki – The World Conquest",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "692920": {
+      "title": "XXZ",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "695760": {
+      "title": "Girls and Dungeons",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "700470": {
+      "title": "Selenophobia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "701420": {
+      "title": "Ne no Kami - The Two Princess Knights of Kyoto Part 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "701540": {
+      "title": "EVIL STAR",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "702050": {
+      "title": "The Song of Saya",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "702210": {
+      "title": "Princess Serena ~Raid of Demon Legion~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "703730": {
+      "title": "Sorcery Jokers",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "710030": {
+      "title": "Cinderella Escape 2 Revenge",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "711990": {
+      "title": "Elise the Devil",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "712050": {
+      "title": "Otaku's Fantasy",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "712790": {
+      "title": "Crimson Memories",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "712840": {
+      "title": "King Exit",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "714800": {
+      "title": "Maitetsu",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "715580": {
+      "title": "Hoshizora no Memoria -Wish upon a Shooting Star-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "716340": {
+      "title": "Blackberry Honey",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "719430": {
+      "title": "Taima Miko Yuugi",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "720240": {
+      "title": "Legend of Fainn Dynasty ～Battles of Beautiful Warlords～",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "721010": {
+      "title": "Newton and the Apple Tree",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "726990": {
+      "title": "Succubus Rem",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "727090": {
+      "title": "Village of Adventurers 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "728780": {
+      "title": "Grozdana Kakra - Bonus Route",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "728781": {
+      "title": "Elizabeth Margaret - Bonus Route",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "729330": {
+      "title": "The Girl on the Train",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "733740": {
+      "title": "Sakura Cupid",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "734380": {
+      "title": "Sacrament",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "734910": {
+      "title": "Eternal Hour: Golden Hour",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "741140": {
+      "title": "Baldr Sky",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "744520": {
+      "title": "NEKO-NIN exHeart +PLUS Nachi",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "745850": {
+      "title": "KARAKARA2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "748480": {
+      "title": "Wild Romance: Mofu Mofu Edition",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "749520": {
+      "title": "Sakura no Mori † Dreamers",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "750990": {
+      "title": "NEKO-NIN exHeart +PLUS Saiha",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "751440": {
+      "title": "VR_Kanojo",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "751450": {
+      "title": "Nanairo Reincarnation",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "758090": {
+      "title": "茂伸奇谈-Monobeno-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "759220": {
+      "title": "Hinedere Beat",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "762920": {
+      "title": "Glory of the Self-Styled Diehard girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "766540": {
+      "title": "A Kiss For The Petals - Maidens of Michael",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "768090": {
+      "title": "Amatarasu Riddle Star",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "777130": {
+      "title": "Blush Blush",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "778700": {
+      "title": "Amorous",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "783120": {
+      "title": "HELLO LADY",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "788050": {
+      "title": "Re;Lord 1 ~The witch of Hertfort and stuffed animals~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "788130": {
+      "title": "Otaku's Fantasy 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "788910": {
+      "title": "Apartment of Love",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "790260": {
+      "title": "Kate's Test",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "791330": {
+      "title": "Fallen ~Makina and the City of Ruins~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "793450": {
+      "title": "Desecration of Wings",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "795160": {
+      "title": "Tsundere Idol",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "800180": {
+      "title": "Momoiro Closet",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "800820": {
+      "title": "2236 A.D.",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "802360": {
+      "title": "King of Mazes",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "802870": {
+      "title": "The Ditzy Demons Are in Love With Me",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "802880": {
+      "title": "Muv-Luv",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "802890": {
+      "title": "Muv-Luv Alternative",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "804610": {
+      "title": "MONMUSU * FIGHT",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "807770": {
+      "title": "Frequent Flyer: A Long Distance Love Story",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "813700": {
+      "title": "Sakura Sadist",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "816220": {
+      "title": "Analistica Academy",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "817840": {
+      "title": "Max Gentlemen Sexy Business",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "818940": {
+      "title": "Oakwood Academy of Spells and Sorcery",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "821880": {
+      "title": "Idol Manager",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "822760": {
+      "title": "Fureraba ~Friend to Lover~",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "822830": {
+      "title": "Ouroboros",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "822930": {
+      "title": "Wolf Tails",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "825300": {
+      "title": "To Trust an Incubus",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "825550": {
+      "title": "BlueberryNOVA",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "828070": {
+      "title": "Treasure Hunter Claire",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "828580": {
+      "title": "NEKO-NIN exHeart 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "831540": {
+      "title": "Norilsk",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "831660": {
+      "title": "Monobeno-HAPPY END- Deluxe",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "834150": {
+      "title": "Glare1more",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "836440": {
+      "title": "MonsterxMan: Inheritance To Lust",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "840190": {
+      "title": "INSECT HAZARD",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "844660": {
+      "title": "Heart of the Woods",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "844730": {
+      "title": "Piopupu",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "845380": {
+      "title": "Instinct",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "846250": {
+      "title": "Devious",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "849740": {
+      "title": "Love Esquire",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "851030": {
+      "title": "Mega Milk Story",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "852910": {
+      "title": "sweet pool",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "857200": {
+      "title": "Planet Stronghold 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "857690": {
+      "title": "Lagoon Lounge : The Poisonous Fountain",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "859680": {
+      "title": "DEEP SPACE WAIFU: FANTASY",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "863810": {
+      "title": "SMASH BOY Ver.KZ",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "867120": {
+      "title": "Lilipalace",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "867700": {
+      "title": "The Wilting Amaranth",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "868740": {
+      "title": "The Cursed Love",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "868980": {
+      "title": "DEEP SPACE WAIFU: NEKOMIMI",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "872130": {
+      "title": "DEEP SPACE WAIFU: WORLD",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "873200": {
+      "title": "Teleportals. I swear it's a nice game.",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "878150": {
+      "title": "Core Awaken ~The Yuka~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "879510": {
+      "title": "Lucy Got Problems",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "880220": {
+      "title": "~Azur Ring~virgin and slave's phylacteries",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "887530": {
+      "title": "President Yukino",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "888790": {
+      "title": "Sabbat of the Witch",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "889770": {
+      "title": "UnHolY DisAsTeR",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "891510": {
+      "title": "Love's Sweet Garnish",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "891870": {
+      "title": "King of Phoenix",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "892630": {
+      "title": "Mojo: Hanako",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "892760": {
+      "title": "Seed of Evil",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "892980": {
+      "title": "My Heart Grows Fonder",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "892990": {
+      "title": "Sable's Grimoire: A Dragon's Treasure",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "893010": {
+      "title": "Slave's Sword",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "893020": {
+      "title": "Slave's Sword 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "893500": {
+      "title": "Reign of the Succubus",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "897440": {
+      "title": "Leviathan ~A Survival RPG~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "899990": {
+      "title": "LVN Fake News",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "906030": {
+      "title": "NOCE",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "906300": {
+      "title": "Under One Wing",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "907090": {
+      "title": "Cursed Armor/诅咒铠甲",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "907210": {
+      "title": "Phantom Thief Celianna",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "916060": {
+      "title": "Loca-Love My Cute Roommate",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "920520": {
+      "title": "Sexy Jigsaw",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "924520": {
+      "title": "Sunny Shine Funland",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "925470": {
+      "title": "Endless Jade Sea -Midori no Umi-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "925670": {
+      "title": "Dungeon Kitty",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "933230": {
+      "title": "Signed and Sealed With a Kiss",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "935070": {
+      "title": "Sakura MMO",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "936820": {
+      "title": "J-Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "939600": {
+      "title": "LOVE³ -Love Cube-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "942580": {
+      "title": "An Adventurer's Tale",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "946090": {
+      "title": "Hentai Neighbors",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "946600": {
+      "title": "Girl with a big SWORD",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "950370": {
+      "title": "Tactics & Strategy Master 2:Princess of Holy Light（圣光战姬）",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "951000": {
+      "title": "Trap Shrine",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "957410": {
+      "title": "King of Queendoms",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "959880": {
+      "title": "Dungeon Town",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "959890": {
+      "title": "Sister Travel",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "960190": {
+      "title": "Maytroid. I swear it's a nice game too",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "965010": {
+      "title": "Trinoline",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "965670": {
+      "title": "Niplheim's Hunter - Branded Azel",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "968950": {
+      "title": "Sakura MMO 2",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "969700": {
+      "title": "NekoMiko",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "970400": {
+      "title": "Our Lovely Escape",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "972160": {
+      "title": "The Witch's Love Diary",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "973060": {
+      "title": "Evil Maze 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "973240": {
+      "title": "Anime And Your Life",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "975120": {
+      "title": "~necromancy~Emily's Escape",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "976390": {
+      "title": "9-nine-:Episode 1",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "983150": {
+      "title": "Sakura no Mori † Dreamers 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "985400": {
+      "title": "Marle: The Labyrinth of the Black Sea",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "985430": {
+      "title": "Terrible Laboratory",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "985760": {
+      "title": "3D Custom Lady Maker",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "985830": {
+      "title": "SUCCUBUS",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "986020": {
+      "title": "Kunoichi Botan",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "989550": {
+      "title": "Million Arthur: Arcana Blood",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "998220": {
+      "title": "The Dungeon of Lulu Farea",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "998930": {
+      "title": "Seek Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1000280": {
+      "title": "Tower of Origin 2-Worm's Nest",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1001220": {
+      "title": "BoneCraft",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1003520": {
+      "title": "Hentai Crush",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1008280": {
+      "title": "Fairy Picturebook of Hero and Sorceress / 勇者と魔法使いとおとぎの絵本",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1009450": {
+      "title": "Sankaku Renai: Love Triangle Trouble",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1009460": {
+      "title": "Hello, Goodbye",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1011940": {
+      "title": "Ideology in Friction",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1012030": {
+      "title": "Detective Girl of the Steam City",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1013870": {
+      "title": "Leanna's Slice of Life",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1015620": {
+      "title": "Hentai Sweet Battle",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1015710": {
+      "title": "Holy Road",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1015720": {
+      "title": "Alternate DiMansion Diary",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1015730": {
+      "title": "Apostle",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1015750": {
+      "title": "Escape from Fortress Lugohm",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1015770": {
+      "title": "Tina: Swordswoman of the Scarlet Prison",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1015790": {
+      "title": "Dark Hero Party",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1015800": {
+      "title": "Ordeal of Princess Eris",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1015830": {
+      "title": "DreamEater 噬梦者",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1017940": {
+      "title": "King of Texas",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1022640": {
+      "title": "Lgnorant girl doll",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1023740": {
+      "title": "7 Sexy Sins",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1024440": {
+      "title": "兔耳冒险谭/Usamimi Adventure",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1025070": {
+      "title": "淑女同萌！-New Division-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1025140": {
+      "title": "LAMUNATION",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1026370": {
+      "title": "My Fair Princess",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1027130": {
+      "title": "NEKO-NIN exHeart 2 Love +PLUS",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1027620": {
+      "title": "The Language of Love",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1027970": {
+      "title": "LesLove: Jessica and Ashley",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1028130": {
+      "title": "Gamble Fight Plus",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1033420": {
+      "title": "9-nine-:Episode 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1033450": {
+      "title": "Treasure chest Corps-結界を維持するため、魔物を退治した",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1035610": {
+      "title": "Hentai Mosaique Vip Room",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1041400": {
+      "title": "Fight Angel/格斗天使",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1041840": {
+      "title": "Fight Angel Special Edition",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1042020": {
+      "title": "Trapped on Monster Island",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1042170": {
+      "title": "Summon of Asmodeus",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1044620": {
+      "title": "Aokana - Four Rhythms Across the Blue",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1045350": {
+      "title": "Hentai Pussy",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1050130": {
+      "title": "Sakura Melody",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1056750": {
+      "title": "Shera and the Three Treasures",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1058060": {
+      "title": "Princesses Never Lose",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1058530": {
+      "title": "H-Rescue",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1060670": {
+      "title": "Taboos: Cracks",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1062220": {
+      "title": "Succubus Contract",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1064130": {
+      "title": "Sakura MMO 3",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1065940": {
+      "title": "Country Girl Keiko",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1065950": {
+      "title": "Cage of the Succubi",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1066630": {
+      "title": "Master Magistrate",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1071220": {
+      "title": "After I met that catgirl, my questlist got too long",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1071490": {
+      "title": "Miss Lisette's Assassin Maid",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1073440": {
+      "title": "コイカツ！ / Koikatsu Party",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1075980": {
+      "title": "NinNinDays",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1078280": {
+      "title": "Ruins Seeker",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1078320": {
+      "title": "Public Defense Corp",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1078330": {
+      "title": "Liz ~The Tower and the Grimoire~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1078350": {
+      "title": "Ambrosia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1078370": {
+      "title": "Succubus x Saint",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1078380": {
+      "title": "Zefira",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1079310": {
+      "title": "Elemental Girls",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1086030": {
+      "title": "Dating Life: Miley X Emily",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1086310": {
+      "title": "Lust Selection: Episode One",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1088590": {
+      "title": "love love love",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1091040": {
+      "title": "Sougetsu Ninja: Kikyou",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1092000": {
+      "title": "Naked Story",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1094100": {
+      "title": "The Lost Game",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1094530": {
+      "title": "ALIA’s CARNIVAL！ (爱丽娅的明日盛典",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1096720": {
+      "title": "CATGIRL LOVER",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1096750": {
+      "title": "Girls & Dungeons 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1097580": {
+      "title": "CUSTOM ORDER MAID 3D2 It's a Night Magic",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1097880": {
+      "title": "Super Naughty Maid 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1101270": {
+      "title": "Anime Artist",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1101450": {
+      "title": "Miss Neko",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1106080": {
+      "title": "Princess Project",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1106940": {
+      "title": "How to Raise a Wolf Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1109360": {
+      "title": "Hentai Mosaique Fix-IT Shoppe",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1111370": {
+      "title": "A Summer's End - Hong Kong 1986",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1113680": {
+      "title": "Hentai Girl Division",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1116870": {
+      "title": "Duel Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1117040": {
+      "title": "武道戰姬 - 女僕(武道戦姫 - メイド / Budo Girl War - Maid)",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1117630": {
+      "title": "I got a cat maid",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1121300": {
+      "title": "Mizuchi 白蛇心傳",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1122040": {
+      "title": "Kaede the Eliminator / Eliminator 小枫",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1122730": {
+      "title": "Magna Fortuna",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1123550": {
+      "title": "Desire Gambling House/欲望赌馆",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1126290": {
+      "title": "Lost",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1127290": {
+      "title": "Battle Survive Hentai",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1129010": {
+      "title": "Dress-up Traveller",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1129250": {
+      "title": "NEKO-NIN exHeart 3",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1131410": {
+      "title": "Sable's Grimoire: Man And Elf",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1131550": {
+      "title": "I Walk Among Zombies Vol. 3",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1132690": {
+      "title": "Knights of Messiah",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1135830": {
+      "title": "Brave Alchemist Colette",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1138080": {
+      "title": "斗地主少女/ Landlord Girls",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1141100": {
+      "title": "Lilitales",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1142830": {
+      "title": "9-nine-:Episode 3",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1143740": {
+      "title": "PUZZLETIME: Castle Party",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1144300": {
+      "title": "ef - the first tale.",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1144400": {
+      "title": "Senren＊Banka",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1145030": {
+      "title": "ef - the latter tale.",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1146630": {
+      "title": "Yokai's Secret",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1147450": {
+      "title": "Divine Miko Koyori",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1147510": {
+      "title": "Hentai Asmodeus",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1148360": {
+      "title": "Alisa Quest",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1148510": {
+      "title": "Pretty Angel",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1149660": {
+      "title": "Seek Girl Ⅱ",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1150720": {
+      "title": "Monster Girl Club Bifrost",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1150730": {
+      "title": "Island Saga",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1150890": {
+      "title": "The Bunker 69",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1151530": {
+      "title": "Synthetic Lover",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1152810": {
+      "title": "Love with Kadyrov",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1153430": {
+      "title": "Love wish",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1156730": {
+      "title": "Holy Knight Luviria",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1157640": {
+      "title": "Sakura Fox Adventure",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1157750": {
+      "title": "CATGIRL LOVER 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1158010": {
+      "title": "UnHolY ToRturEr",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1160900": {
+      "title": "Antarctic Girl 南極娘",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1161650": {
+      "title": "Sakura Gamer 2",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1163070": {
+      "title": "RaiOhGar: Asuka and the King of Steel",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1164740": {
+      "title": "Salting the Earth",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1165140": {
+      "title": "Picross Love",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1165870": {
+      "title": "Mahou Arms",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1166120": {
+      "title": "SisterFight",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1170290": {
+      "title": "Lovely Heroines",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1171270": {
+      "title": "TroubleDays",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1173650": {
+      "title": "SWEET MILF",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1174690": {
+      "title": "Love Wish 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1178710": {
+      "title": "The Legend of Arcadieu",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1179440": {
+      "title": "Disaster Dragon x Girls from Different Worlds",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1184890": {
+      "title": "Fleeting Iris",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1184990": {
+      "title": "Huuma Mina: The Secret of Immortality",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1185520": {
+      "title": "Hentai Crush: Love Rhythm",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1185680": {
+      "title": "White Wings ホワイトウィングス",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1186880": {
+      "title": "OctoFurry",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1187130": {
+      "title": "Crimson Colosseum",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1189050": {
+      "title": "Hot And Lovely",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1189440": {
+      "title": "VenusBlood FRONTIER International",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1191210": {
+      "title": "Seek Girl Ⅲ",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1192640": {
+      "title": "Hentai Mosaique Neko Waifus",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1195020": {
+      "title": "Guardians of the Ashes",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1195320": {
+      "title": "Mokoko",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1197590": {
+      "title": "Waifu Uncovered",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1198850": {
+      "title": "How to Build a Magnificent Kingdom",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1199550": {
+      "title": "Star girls",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1200720": {
+      "title": "Making*Lovers",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1202280": {
+      "title": "Slave Princess Sarah",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1202300": {
+      "title": "Eternal Liiivie - EP1 Liiivie Isolated From the World",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1202310": {
+      "title": "Sakura Succubus",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1202770": {
+      "title": "Kirakira stars project Ai",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1205240": {
+      "title": "Tentacle Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1205260": {
+      "title": "Defeated Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1207780": {
+      "title": "Wish",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1209000": {
+      "title": "romantic player",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1209330": {
+      "title": "Sakura Knight",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1211360": {
+      "title": "NEOMORPH",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1211830": {
+      "title": "Explorers of the Abyss",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1212620": {
+      "title": "Pretty Neko",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1212830": {
+      "title": "Seek Girl Ⅳ",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1215260": {
+      "title": "Efflorescence of Lust",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1215770": {
+      "title": "Naked Story (Sports Festival Ver)",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1216370": {
+      "title": "DarkLight",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1217570": {
+      "title": "Lessons with Chii-chan",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1219620": {
+      "title": "Lovely Overseer",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1220540": {
+      "title": "Maiden and Swordsman",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1221800": {
+      "title": "Anime Artist 2: Lovely Danya",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1226530": {
+      "title": "Trap Legend",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1227890": {
+      "title": "Summer Memories",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1229510": {
+      "title": "Hentai Seek Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1233200": {
+      "title": "Wanko of Marriage ~Welcome to The Dog's Tail",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1233270": {
+      "title": "OshiRabu: Waifus Over Husbandos",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1236140": {
+      "title": "Hentai Girl Seek",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1236430": {
+      "title": "Fxxx Me Royally",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1236480": {
+      "title": "King of Volleyball",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1238680": {
+      "title": "Amairo Chocolate",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1239970": {
+      "title": "The Yolk Street",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1240890": {
+      "title": "Seek Girl 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1244850": {
+      "title": "Witch College 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1246400": {
+      "title": "Ideology in Friction Append",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1249500": {
+      "title": "Apprehend;Girlfriend",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1249850": {
+      "title": "King of Vikings",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1250650": {
+      "title": "AI＊Shoujo/AI＊少女",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1252560": {
+      "title": "Love Breakout",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1252760": {
+      "title": "Ancient charm",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1253390": {
+      "title": "Yukikoi Melt",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1256610": {
+      "title": "Dream Date",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1256690": {
+      "title": "Hot And Lovely 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1257170": {
+      "title": "Saint Emiliana",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1257200": {
+      "title": "False Myth",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1257840": {
+      "title": "Hentai Splash",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1258340": {
+      "title": "KukkoroDays",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1259430": {
+      "title": "First Snow",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1259610": {
+      "title": "Virus Buster",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1261910": {
+      "title": "Sweet Story Fallen Angel",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1263370": {
+      "title": "Seek Girl:Fog Ⅰ",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1265240": {
+      "title": "Uniform Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1266370": {
+      "title": "Real Life Plus Ver. Kaname Komatsuzaki",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1266800": {
+      "title": "Adorable Crush",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1268110": {
+      "title": "ISEKAI QUEST",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1268870": {
+      "title": "Deskmate Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1269810": {
+      "title": "The Curse of Kubel",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1269820": {
+      "title": "Kozue's Strange Journey",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1271630": {
+      "title": "Hentai I'm coming",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1271740": {
+      "title": "Magical Swordmaiden",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1274300": {
+      "title": "Cyber Agent",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1274610": {
+      "title": "LesLove.Club: Emily and Sarah",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1275290": {
+      "title": "Dream Catcher",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1277930": {
+      "title": "Riddle Joker",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1277940": {
+      "title": "Kinkoi: Golden Loveriche",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1278390": {
+      "title": "Succumate",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1278650": {
+      "title": "Sweet Story Bad Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1278770": {
+      "title": "Sweet Story Bunny Club",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1279260": {
+      "title": "Lelie Navigation",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1279270": {
+      "title": "7 Girls War",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1279280": {
+      "title": "Welcome to the Adventurer Inn",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1281510": {
+      "title": "Kirakira stars idol project Nagisa",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1284280": {
+      "title": "Nurse Sofi",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1284300": {
+      "title": "King of Spies",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1284390": {
+      "title": "The Elven Educator ~another ver~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1284610": {
+      "title": "Faptastic Journey",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1284820": {
+      "title": "Desktop Kanojo",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1285090": {
+      "title": "INFINITY",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1287140": {
+      "title": "Sonia and the Hypnotic City",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1289960": {
+      "title": "Core Awaken ~Jilelen and LittleSnow~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1290070": {
+      "title": "Hot And Lovely 3",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1290720": {
+      "title": "Calm Girls",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1291310": {
+      "title": "MINE",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1293820": {
+      "title": "YOU and ME and HER: A Love Story",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1295650": {
+      "title": "Sweet Story Neko",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1295730": {
+      "title": "Leveling up girls in another world",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1296260": {
+      "title": "Sakura Knight 2",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1299120": {
+      "title": "Mosaique Neko Waifus 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1303740": {
+      "title": "Love n Dream",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1303820": {
+      "title": "Aim Master H",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1309440": {
+      "title": "Sweet House Love",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1316560": {
+      "title": "Otaku's Rage: Waifu Strikes Back",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1319780": {
+      "title": "Holy Sisters",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1322260": {
+      "title": "Santa Monica Paradise",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1326000": {
+      "title": "Sakura Succubus 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1327080": {
+      "title": "Tower and Sword of Succubus",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1328890": {
+      "title": "Succubus Affection",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1328900": {
+      "title": "Explorer of Yggdrasil",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1328910": {
+      "title": "Otome the Exorcist",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1328920": {
+      "title": "Mira and the Mysteries of Alchemy",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1330070": {
+      "title": "UnHolY ToRturEr Update patch \"Escape from hell\"",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1330250": {
+      "title": "Taimanin Collection: Battle Arena",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1336600": {
+      "title": "Cabin Fever",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1337120": {
+      "title": "Holy SIsters 3D",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1338460": {
+      "title": "Jiangshi x Daoshi",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1340120": {
+      "title": "IxSHE Tell",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1340130": {
+      "title": "Aokana - Four Rhythms Across the Blue - EXTRA1",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1340140": {
+      "title": "DRACU-RIOT!",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1342040": {
+      "title": "Sylphy and the Sleepless Island",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1342050": {
+      "title": "Lisa and the Grimoire",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1342060": {
+      "title": "The Dead End",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1342070": {
+      "title": "The Triumphant Return of Diabolos",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1342100": {
+      "title": "Evening Starter",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1342120": {
+      "title": "Castaway of the Ardusta Sea",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1342890": {
+      "title": "Who Needs a Hero?",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1349120": {
+      "title": "球球少女",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1351370": {
+      "title": "Sakura Knight 3",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1354230": {
+      "title": "Love Tavern",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1355500": {
+      "title": "ベオグラードメトロの子供たち / Children of Belgrade Metro",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1357840": {
+      "title": "Salthe",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1359400": {
+      "title": "Primal Hearts",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1361260": {
+      "title": "Tequila Sunrise",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1362980": {
+      "title": "Hanapon Princess",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1368010": {
+      "title": "Primal Hearts 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1369790": {
+      "title": "Marshmallow All the Way Home",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1377550": {
+      "title": "~Be a maid in the Demon World~ The Secret Café of the Demon Angel Hero.",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1378040": {
+      "title": "Tear and the Library of Labyrinths",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1379110": {
+      "title": "Anime Feet",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1379830": {
+      "title": "Cyber Crush 2069",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1379900": {
+      "title": "Shikokushi ~food and sightseeing and beauties~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1382840": {
+      "title": "Space Bar At The End Of The Galaxy",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1382940": {
+      "title": "Sweet Story Wet-Bottom Pie",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1383680": {
+      "title": "Isekai Succubus ~My Genderbent Saga in Another World~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1385730": {
+      "title": "Mosaique Neko Waifus 3",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1390150": {
+      "title": "Summer Memories+ - Expansion DLC",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1393410": {
+      "title": "Seek Girl V",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1394550": {
+      "title": "Tales From The Under-Realm: Hazel",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1394800": {
+      "title": "Rebirth:Mr Wang",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1396150": {
+      "title": "Sutekina kanojo no tsukurikata",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1398720": {
+      "title": "Water Girls",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1399370": {
+      "title": "Cute Honey 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1405470": {
+      "title": "Scars of Summer",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1405660": {
+      "title": "Shoot Shoot My Waifu",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1406020": {
+      "title": "Sakura Succubus 3",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1406990": {
+      "title": "NEKOPARA Vol. 4",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1410980": {
+      "title": "Serafina and the Key to the Egg",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1413960": {
+      "title": "Chevalier Historie",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1413970": {
+      "title": "Fox Girls Never Play Dirty",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1413980": {
+      "title": "The Demon Lord Is New in Town",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1413990": {
+      "title": "The Heart of Darkness",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1414000": {
+      "title": "Obscurite Magie: The City of Sin",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1418090": {
+      "title": "Cafe Deux Femmes",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1418160": {
+      "title": "Happy Quest",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1418180": {
+      "title": "MUSICUS",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1419750": {
+      "title": "Apostle: Rebellion",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1420830": {
+      "title": "Happy Numbers",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1421700": {
+      "title": "BegieAde ~a lyric of lie and retribution~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1422610": {
+      "title": "Aurora",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1424660": {
+      "title": "9-nine-:Episode 4",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1426110": {
+      "title": "Love n Dream: Virtual Happiness",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1426120": {
+      "title": "Re:Destiny",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1430980": {
+      "title": "Space Love Delta",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1431570": {
+      "title": "GLASS",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1433420": {
+      "title": "Hero by Chance",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1434650": {
+      "title": "Monster Girl Incursion",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1435010": {
+      "title": "Succubus★Connect",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1441840": {
+      "title": "FALL IN LABYRINTH",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1444360": {
+      "title": "Aisling and the Tavern of Elves",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1445110": {
+      "title": "The Legend of Arcadieu 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1449330": {
+      "title": "DRINK BAR MAID -REGRESSION-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1450460": {
+      "title": "CUSTOM ORDER MAID 3D2 GP-01",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1455220": {
+      "title": "Succubus Farm",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1458590": {
+      "title": "Anime Artist 3: Harem",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1460490": {
+      "title": "Majikoi",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1462650": {
+      "title": "LAST EMBRYO -EITHER OF BRAVE TO STORY-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1464930": {
+      "title": "Seek Girl Ⅶ",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1465050": {
+      "title": "HaremKingdom",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1466680": {
+      "title": "Sakura MMO Extra",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1466690": {
+      "title": "Sakura Succubus 4",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1467780": {
+      "title": "Geminism",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1469910": {
+      "title": "Slobbish Dragon Princess",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1471200": {
+      "title": "YUME",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1471940": {
+      "title": "Bahamian Rhapsody",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1477770": {
+      "title": "Shokuo Shoujo",
+      "patches": 4,
+      "updated": "2026-10-11"
+    },
+    "1481080": {
+      "title": "DRAMAtical Murder",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1485180": {
+      "title": "コイカツ！ / Koikatsu Party - After Party",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1487430": {
+      "title": "Muse:Night Out",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1490410": {
+      "title": "The fairy tale you don't know",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1500020": {
+      "title": "GodGirl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1500100": {
+      "title": "Spheria's Familiar",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1500110": {
+      "title": "KNIGHT SLAVE -The Dark Valkyrie of Depravity-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1500120": {
+      "title": "DARK SPHERE",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1502230": {
+      "title": "Tower of Waifus",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1502770": {
+      "title": "Re;Lord 2 ~The witch of Cologne and black cat~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1504020": {
+      "title": "Mosaique Neko Waifus 4",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1506280": {
+      "title": "EroPhone",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1506600": {
+      "title": "我的上司有點不正常",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1508680": {
+      "title": "Love n War: Warlord by Chance",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1509090": {
+      "title": "Seek Girl Ⅷ",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1515820": {
+      "title": "Guns of Succubus",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1516080": {
+      "title": "That Time I Got Reincarnated as an Orc",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1517960": {
+      "title": "Rebirth:Beware of Mr.Wang",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1518430": {
+      "title": "Eiyu*Senki Gold - A New Conquest",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1519590": {
+      "title": "Sentimental Trickster: Yaoi BL Gay Visual Novel",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1520060": {
+      "title": "Sheep Love",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1524650": {
+      "title": "Sakura Forest Girls",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1540220": {
+      "title": "Sugar * Style",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1542710": {
+      "title": "Dreams of an Exile",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1543080": {
+      "title": "Cute Honey 3",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1543690": {
+      "title": "Bara Giants",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1544580": {
+      "title": "Would you like to run an idol café?",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1546010": {
+      "title": "Fallen girl - Black rose and the fire of desire",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1547930": {
+      "title": "Romeo Must Live",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1549160": {
+      "title": "Childhood Friends",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1551510": {
+      "title": "Psychic Guardian Super Splendor",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1551520": {
+      "title": "Kamikaze Kommittee Ouka 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1551540": {
+      "title": "Tower of Ardia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1551570": {
+      "title": "Kung Fu Grand King",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1551620": {
+      "title": "Letina's Odyssey",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1552140": {
+      "title": "Suzukuri Dungeon: Karin in the Mountain",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1555110": {
+      "title": "Chasing Tails -A Promise in the Snow-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1558510": {
+      "title": "MECHANICA: A Ballad of the Rabbit and Mercury",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1560770": {
+      "title": "Tower of Waifus 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1562040": {
+      "title": "LuvSic",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1566390": {
+      "title": "Seed of the Dead: Sweet Home",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1572330": {
+      "title": "Hero of the Demon",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1572340": {
+      "title": "Ark of Artemis",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1573060": {
+      "title": "ネジ込みシミュレーターVol1 -おかっぱ巨乳ちゃんを簡単マウス操作で極太ディルドーにずぽずぽさせる疑似オナホアプリ-【拡張・オナホ化・石化・時間停止】",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1575920": {
+      "title": "Cyberdunk Anime Edition",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1585540": {
+      "title": "Snow-Swept Quest",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1585570": {
+      "title": "Workplace Rhapsody",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1585700": {
+      "title": "Trap Genesis",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1590600": {
+      "title": "OPPAI Academy Big, Bouncy, Booby Babes",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1592640": {
+      "title": "Sakura Alien",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1592970": {
+      "title": "Colorado Cocoa Club",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1595310": {
+      "title": "Barbarian Legend",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1597280": {
+      "title": "Live Empire 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1602490": {
+      "title": "Waifus Smash",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1605010": {
+      "title": "Adorable Witch",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1607170": {
+      "title": "Magical girl Noble Rose",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1607280": {
+      "title": "YUME 2 : Sleepless Night",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1610290": {
+      "title": "Chihiro Himukai Always Walks Away",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1611300": {
+      "title": "Happy Guy",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1618230": {
+      "title": "恋爱关系/Romance",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1620110": {
+      "title": "Slobbish Dragon Princess LOVE + PLUS",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1624380": {
+      "title": "Horny Sekai",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1627680": {
+      "title": "Love n War: Hero by Chance II",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1630490": {
+      "title": "Sakura Forest Girls 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1630500": {
+      "title": "Would you like to run an idol café? 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1631790": {
+      "title": "Dawnbreaker - Aeon's Reach",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1631860": {
+      "title": "PAGANGIRL",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1636260": {
+      "title": "Detective Rosie Morgan: Murder on the River Thames",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1639120": {
+      "title": "Anime Sunset Ride",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1640180": {
+      "title": "反抗吧！纯爱战士！",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1644150": {
+      "title": "OshiRabu: Waifus Over Husbandos ~Love･or･die~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1647940": {
+      "title": "Anime Artist: Tiffy’s Notty Secret",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1648560": {
+      "title": "Nursery Slime",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1648590": {
+      "title": "Undercover Agent",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1650830": {
+      "title": "No",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1652220": {
+      "title": "Adventurer Liz and the Erotic Dungeon",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1653030": {
+      "title": "Ren the Summoner and the Erotic Dungeon",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1659800": {
+      "title": "Sweet House",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1660990": {
+      "title": "NejicomiSimulator Vol.2 (Gapping, Amputee sex slave, Petrify, Time Stop)",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1662850": {
+      "title": "Renai Karichaimashita: Koikari - Love For Hire",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1665210": {
+      "title": "Sakura Forest Girls 3",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1666510": {
+      "title": "Magical Valkyrie Lyristia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1667110": {
+      "title": "Metempsychosis",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1667720": {
+      "title": "Demon Lord Jill -REVIVAL-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1670890": {
+      "title": "Lamia's Plan",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1676710": {
+      "title": "Robogal",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1678140": {
+      "title": "Shades of Sakura",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1678770": {
+      "title": "Ecstasy Elf Shotenken -Naruru's Sexy Adventure-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1684750": {
+      "title": "I deserve a happy ending",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1697780": {
+      "title": "Life Can Be Amazing",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1698030": {
+      "title": "NinNinDays2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1700940": {
+      "title": "Anime Zodiac",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1702830": {
+      "title": "BLACKJACK and WAIFUS",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1704310": {
+      "title": "Burning Horns: A Bara Isekai JRPG",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1709500": {
+      "title": "Adorable Witch 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1709590": {
+      "title": "Honey*Honey*Honey！",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "1722770": {
+      "title": "Dream Girls Collection",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1724320": {
+      "title": "Noelle Does Her Best",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1731200": {
+      "title": "TRATRITLE",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1731520": {
+      "title": "Ark Mobius: Censored Edition",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1740000": {
+      "title": "Cute Honey: Bunny Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1745620": {
+      "title": "The Oath of the Dark Magic Queen",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1746530": {
+      "title": "Confessions at Candlewood Lake",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1751630": {
+      "title": "Hello Lady! - Complete Edition",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1752150": {
+      "title": "Slobbish Dragon Princess 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1755270": {
+      "title": "Cosmic Cube",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1770390": {
+      "title": "Bound by Love",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1770400": {
+      "title": "Re:BF",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1777750": {
+      "title": "Ninki Seiyuu: How to Make a Pop Voice Actress",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1786790": {
+      "title": "Magical Girl Celesphonia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1788100": {
+      "title": "Saimin Gakushū: Secret Desire",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1788780": {
+      "title": "VenusBlood HOLLOW International",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1795430": {
+      "title": "Sakura Succubus 5",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1809530": {
+      "title": "Renryuu: Ascension",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1819160": {
+      "title": "Meteor World Actor: Badge & Dagger",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1829980": {
+      "title": "Café Stella and the Reaper's Butterflies",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1839340": {
+      "title": "Dawn of Kagura: Hatsuka’s Story",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1839350": {
+      "title": "Dawn of Kagura: Natsu’s Story",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1839360": {
+      "title": "Dawn of Kagura: Keika’s Story",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1839700": {
+      "title": "Milk Bottle And Monster Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1846330": {
+      "title": "Nope Nope Nurses",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1850790": {
+      "title": "Would you like to run an idol café? 3",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1856480": {
+      "title": "KamiYaba: Destiny on a Dicey Deadline",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1868000": {
+      "title": "Resist the succubus—The end of the female Knight",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1883090": {
+      "title": "The Symbiant",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1892370": {
+      "title": "Riding to Bounce City",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1917560": {
+      "title": "Milk Bottle And Monster Girl 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1930580": {
+      "title": "Devil’s 5 Days Mischief Game",
+      "patches": 4,
+      "updated": "2026-10-11"
+    },
+    "1930640": {
+      "title": "Lost2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1933650": {
+      "title": "The Imperial Gatekeeper",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1934900": {
+      "title": "My Slow Life with the Princess Knight and Her Devoted Handmaiden",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1934910": {
+      "title": "Kunado Chronicles",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1960830": {
+      "title": "Tamayura Mirai",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1961390": {
+      "title": "Sakura Succubus 6",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1985260": {
+      "title": "Kinkoi: Golden Time",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "1989450": {
+      "title": "Public Defense Corp: The Ambassador of Peace",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2004980": {
+      "title": "Revenge of the Orcs: Flag of Conquest",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2006230": {
+      "title": "Chevalier Historie Append",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2017640": {
+      "title": "Sakura Gym Girls",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2018930": {
+      "title": "Sakura Gym Girls: Prologue",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2021690": {
+      "title": "Sakura Alien 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2021710": {
+      "title": "Sakura Succubus 7",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2051100": {
+      "title": "ALPHA-NIGHTHAWK",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2051110": {
+      "title": "BETA-SIXDOUZE",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2060000": {
+      "title": "Great Deceiver",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2073570": {
+      "title": "Holy Paladin Cynthia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2096400": {
+      "title": "TAMAKAGURA: Tales of Turmoil",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2096790": {
+      "title": "Assassin's Vol.",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2122430": {
+      "title": "Renai X Royale - Love's a Battle",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2126870": {
+      "title": "HimeYoku: A Sacrifice of Lust and Grace",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2138000": {
+      "title": "Hoshizora no Memoria -Eternal Heart- HD",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2156620": {
+      "title": "The Future Radio and the Artificial Pigeons",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2165610": {
+      "title": "Mosaique Neko Waifus 5",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2182450": {
+      "title": "Fairy Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2203970": {
+      "title": "My Incubi Harem",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2206340": {
+      "title": "Aokana - Four Rhythms Across the Blue - EXTRA2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2228340": {
+      "title": "Burning Secrets - A Bara Visual Novel",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2258770": {
+      "title": "The Shell Part I: Inferno",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2258940": {
+      "title": "Mage Kanade's Futanari Dungeon Quest",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2261240": {
+      "title": "Nope Nope Nope Nurses",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2316290": {
+      "title": "Cerulean Days",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2348170": {
+      "title": "Kuroinu Redux",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2350380": {
+      "title": "Level Up: The Gamer Girls",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2361690": {
+      "title": "Succubus Sessions: Mami Mamiya’s Sweet Slice of Hell",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2361700": {
+      "title": "Destiny Star Girlfriend",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2361740": {
+      "title": "Destiny Star Girlfriend 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2361750": {
+      "title": "Destiny Star Girlfriend 3",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2361760": {
+      "title": "Real Anime Situation! 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2370530": {
+      "title": "Ready or Not - The Deadline is coming!",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2370540": {
+      "title": "My Klutzy Cupid",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2375080": {
+      "title": "Sakura Bunny Girls",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2375180": {
+      "title": "Hypno-Mart",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2375190": {
+      "title": "Queen of the Otaku: THERE CAN ONLY BE ONE",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2379520": {
+      "title": "VR Fitness",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2386350": {
+      "title": "Marauder of Dystopia: The weakest go to the wall",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2399220": {
+      "title": "NUKITASHI",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2417260": {
+      "title": "Deceived by the Host",
+      "patches": 3,
+      "updated": "2026-10-11"
+    },
+    "2430160": {
+      "title": "Taimanin Asagi",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2430690": {
+      "title": "Clover Day's Plus",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "2459870": {
+      "title": "Drop Doll",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2467540": {
+      "title": "Secret Agent",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2474940": {
+      "title": "Nope Nope Nope Nope Nurses",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2487490": {
+      "title": "Sakura Succubus 8",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2492730": {
+      "title": "Dark Elf Historia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2544760": {
+      "title": "Kuroinu 2 Redux",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2552420": {
+      "title": "Tenioha! feat. Mami",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2553910": {
+      "title": "Amazing Grace —What color is your attribute?—",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2579430": {
+      "title": "Ego’s Spark",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2591380": {
+      "title": "Irotoridori No Sekai HD - The Colorful World",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2599880": {
+      "title": "Happiness! Sakura Celebration!",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2614070": {
+      "title": "NUKITASHI 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2644010": {
+      "title": "Nebel Geisterjäger ~ The First Lamb",
+      "patches": 4,
+      "updated": "2026-10-11"
+    },
+    "2668840": {
+      "title": "Kagura Genesis: Kuon’s Story",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2676960": {
+      "title": "Lost Love Island",
+      "patches": 4,
+      "updated": "2026-10-11"
+    },
+    "2680250": {
+      "title": "Holy Maid Academy",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2693380": {
+      "title": "Survival Mission Z",
+      "patches": 3,
+      "updated": "2026-10-11"
+    },
+    "2693410": {
+      "title": "The Reason for your Smile",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2712550": {
+      "title": "The Shell Part II: Purgatorio",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2737970": {
+      "title": "Mashiroiro Symphony HD -Love is Pure White-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2737980": {
+      "title": "Mashiroiro Symphony HD −Sana Edition−",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2739700": {
+      "title": "Taimanin Yukikaze",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2741260": {
+      "title": "Aoi Tori",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2743760": {
+      "title": "Real Anime Situation! DT",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2743780": {
+      "title": "Bunny’s Rent-a-Mom Agency",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2743790": {
+      "title": "LOVEJUICED! -Hi Neighbor meet Gamer.-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2743810": {
+      "title": "Kudo’s Kuppa",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2754340": {
+      "title": "Lagoon Lounge 2 : The Secret Roommate",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2799690": {
+      "title": "The Secret Atelier",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2820940": {
+      "title": "Minako: Beloved Wife in the Countryside",
+      "patches": 4,
+      "updated": "2026-10-11"
+    },
+    "2825300": {
+      "title": "AMANATSU ~Perfect Edition~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2836340": {
+      "title": "Breakthru",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "2841070": {
+      "title": "Kabukicho – Dropped Into The Modern World",
+      "patches": 4,
+      "updated": "2026-10-11"
+    },
+    "2879090": {
+      "title": "NYO-NIN-JIMA -My New Life in Charge of a Tropical Island-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2892500": {
+      "title": "Shy Girl’s Makeover",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2893530": {
+      "title": "Pillaged Village: Humbled by Savages",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2908950": {
+      "title": "Tunnel Escape",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2919130": {
+      "title": "Countdown to NTR",
+      "patches": 4,
+      "updated": "2026-10-11"
+    },
+    "2922180": {
+      "title": "Bonds of Yachiyo",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2924660": {
+      "title": "Fault – Broken Promises",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2939770": {
+      "title": "Labyrinth Flowers",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2947970": {
+      "title": "The Restless Sheep & The Lone Wolf -A Tale of Cutthroat Lovers-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2947980": {
+      "title": "The Restless Sheep & The Lone Wolf -Woolly Eyes GAIDEN-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "2976870": {
+      "title": "Taiwan Love Story⁵",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3017630": {
+      "title": "Princess Colosseum",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3027600": {
+      "title": "Love, Elections, and Chocolate",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "3027620": {
+      "title": "Kakenuke★Forward to Our Sparking Youth!",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "3031150": {
+      "title": "Secret Hot Springs Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3070560": {
+      "title": "Slum Guide",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3070600": {
+      "title": "Senpai and the Mysterious Island",
+      "patches": 4,
+      "updated": "2026-10-11"
+    },
+    "3070610": {
+      "title": "Magical Princess Lily",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3070620": {
+      "title": "Ninja Ordinance",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3111930": {
+      "title": "Fallen Priestess: My Sister’s Demonic Bloodline",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3113990": {
+      "title": "Futamata Ren'ai: Two Times the Trouble",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "3137110": {
+      "title": "SACRIFICE VILLAINS",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3143290": {
+      "title": "Making*Lovers: First Blush",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "3143540": {
+      "title": "Encode Encore!",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3143550": {
+      "title": "Liz and Rose’s Alchemy Factory",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3143560": {
+      "title": "Another Way of Gettin' Paid",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3143570": {
+      "title": "Holy Valkyrie ExS-TIA: Concerto 1",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3143580": {
+      "title": "Holy Valkyrie ExS-TIA: Concerto 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3155290": {
+      "title": "Hold Me Tight All Night, Onii-chan!",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "3171460": {
+      "title": "Hatsuyuki Sakura",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "3196500": {
+      "title": "Wayblazer Dämmerung",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3216170": {
+      "title": "Succubers! Dark Covenant",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3216190": {
+      "title": "Yokai Busters",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3224670": {
+      "title": "Double Date Dilemma",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3231630": {
+      "title": "Princess Burst",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3239270": {
+      "title": "Night Shift Nurses",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3248580": {
+      "title": "New Eromancer",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3253560": {
+      "title": "Shining Princess Lapisphilia",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3260080": {
+      "title": "Valkyrie Destruction",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3296790": {
+      "title": "The Shell Part III: Paradiso",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3304760": {
+      "title": "Ethereal Sunder",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3304770": {
+      "title": "Exposed Livestream",
+      "patches": 2,
+      "updated": "2026-10-11"
+    },
+    "3332860": {
+      "title": "Sexual Sealing Dungeon: Eronest",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3397100": {
+      "title": "Eye of the Incubus",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3410670": {
+      "title": "Fusty Dungeon",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3442040": {
+      "title": "Dream Life in the Country Side",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3443640": {
+      "title": "Detective Araka",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3478020": {
+      "title": "Living with my Little Sister",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3500590": {
+      "title": "Cicada Communication",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3517070": {
+      "title": "Agent Sirius",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3536260": {
+      "title": "Dyed in White",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3591400": {
+      "title": "Cosplayer's Quest",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3641720": {
+      "title": "Hell’s 8 Avenue: Miori’s Mysterious Notebook",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3644610": {
+      "title": "My Summer Vacation",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3670820": {
+      "title": "Restore",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3690240": {
+      "title": "Project Android",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3690260": {
+      "title": "Girls’ Dorm -Managing an all-girls’ dormitory-",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3690270": {
+      "title": "Girls’ Dorm -Managing an all-girls’ dormitory- After",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3700370": {
+      "title": "A Tragedy in Elvish",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3706400": {
+      "title": "Little Witch Inuko",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3741450": {
+      "title": "Risty and the Village of Bocchino",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3742820": {
+      "title": "Home Sweet Homecoming",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3775540": {
+      "title": "School Ghost Stories",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3779540": {
+      "title": "The Dragon and the Sword",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3779570": {
+      "title": "Heavenly Island",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3830560": {
+      "title": "AMANATSU+",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3845600": {
+      "title": "Living With a Little Fox Girl",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3845610": {
+      "title": "Bound by Destiny",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3845630": {
+      "title": "The Taming Massage Parlor ~Mari’s Story~",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3845640": {
+      "title": "My Isekai Hotel",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3883290": {
+      "title": "LABYRINTHOS: The Depths Want You",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3891200": {
+      "title": "Cosplaying in Costalia: The Tororo Sisters!",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3903800": {
+      "title": "Mom Stolen in Space",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "3903830": {
+      "title": "Arena of Sacrifice",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "4045080": {
+      "title": "Jezebel",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "4071430": {
+      "title": "Tame Me Hard!",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "4071460": {
+      "title": "Tentacle Locker 2",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "4071500": {
+      "title": "Lilim Clicker",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "4077960": {
+      "title": "Infiltrating Roudille",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "4215660": {
+      "title": "TORAWASE: The Girl in the Mirror",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "4258930": {
+      "title": "Modified Girl Eurie!",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "4260270": {
+      "title": "Stranded with You",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "4260530": {
+      "title": "Rina’s Undercover Train Operation",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "4285110": {
+      "title": "Tunnel Escape Fates Entwined",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "4395020": {
+      "title": "Chronicles of Clams Island",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "4395030": {
+      "title": "B-Prison Unchain",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "4429950": {
+      "title": "Kunugi’s Life Is a Mess!",
+      "patches": 1,
+      "updated": "2026-10-11"
+    },
+    "16196650": {
+      "title": "16196650",
+      "patches": 1,
+      "updated": "2026-10-11"
+    }
+  }
+}

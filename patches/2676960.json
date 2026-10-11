@@ -1,0 +1,138 @@
+{
+  "appID": 2676960,
+  "title": "Lost Love Island",
+  "patches": [
+    {
+      "id": "saikey-lost-love-island-patch-english",
+      "name": "Lost Love Island patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/100348/lost-love-island/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100348/306a13ee-aa31-4b6a-8eb5-a54d4f5eb712"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100348/306a13ee-aa31-4b6a-8eb5-a54d4f5eb712",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-lost-love-island-patch-japanese",
+      "name": "Lost Love Island patch (Japanese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/100348/lost-love-island/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100348/49236272-c1a7-4f1a-bba7-3cd25e04732d"
+      },
+      "version": null,
+      "languages": [
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100348/49236272-c1a7-4f1a-bba7-3cd25e04732d",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-lost-love-island-patch-russian",
+      "name": "Lost Love Island patch (Russian)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/100348/lost-love-island/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100348/73d5e1e4-5a42-4600-ad9a-b1d86199d33e"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100348/73d5e1e4-5a42-4600-ad9a-b1d86199d33e",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-lost-love-island-patch-simplified-chinese",
+      "name": "Lost Love Island patch (Simplified Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/100348/lost-love-island/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100348/b88a3149-0d6c-49e6-80ec-846b6384474e"
+      },
+      "version": null,
+      "languages": [
+        "zh-hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/100348/b88a3149-0d6c-49e6-80ec-846b6384474e",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

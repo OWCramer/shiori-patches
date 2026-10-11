@@ -1,0 +1,39 @@
+{
+  "appID": 408000,
+  "title": "Cinderella Escape",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/408000",
+        "key": "408000"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) From the game install folder, navigate into the \"CinderellaEscape!_R12_Data\" folder, and then the \"Managed\" folder Download the patch archive from the link below Extract the \"CinderellaEscape!_R12_Data\" folder from the patch archive into the game install folder mentioned above, mergin It's working if: On the main menu, there is an \"R18\" symbol on the bottom left hand corner of the screen. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/FTJXnI4a#vYNcL-obole1sJvGs6Q7tJKh5p7COzWchQy2YGll-gk",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

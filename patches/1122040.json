@@ -1,0 +1,39 @@
+{
+  "appID": 1122040,
+  "title": "Kaede the Eliminator / Eliminator 小枫",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1122040",
+        "key": "1122040"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Navigate into the 'Eliminator ver 1.2_Data' folder inside the game install folder Download the patch archive from the link below Extract the 'Kaede_patch.moyashi' file from the downloaded patch archive into the 'Eliminator ver 1.2_Data' folder mentioned above",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/JOgSjQDC#KrS3U4pFX0df6xm54sQquzyQRuixwOErdFQRvGRpafU",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

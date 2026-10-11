@@ -1,0 +1,39 @@
+{
+  "appID": 440640,
+  "title": "Sweet F. Cake",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/440640",
+        "key": "440640"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Download the patch archive from the link below Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Extract the contents of the downloaded patch archive into the game install folder, merging folders and overwriting files if prompted Ensure that the \"Advanced\" option is enabled in the game settings",
+      "files": [
+        {
+          "host": "gdrive",
+          "url": "https://drive.google.com/file/d/1J8bpDqU2mfPuufal7njn0wled8s5khzj/view?usp=sharing",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

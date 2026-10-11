@@ -1,0 +1,39 @@
+{
+  "appID": 687920,
+  "title": "Tropical Liquor",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/687920",
+        "key": "687920"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch from the link below Move the downloaded patch file (xrated.key) into the game install folder mentioned above It's working if: The game shows a \"H SCENE\" option in the main menu, above \"QUIT\".",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!1S5igCZL!kHazJk9ArsgGCrvkTUZq_-zsZUTyNLj8_8OBw13oQUY",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

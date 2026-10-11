@@ -1,0 +1,42 @@
+{
+  "appID": 3442040,
+  "title": "Dream Life in the Country Side",
+  "patches": [
+    {
+      "id": "saikey-dream-life-in-the-country-side-patch",
+      "name": "Dream Life in the Country Side patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/114374/dream-life-in-the-country-side/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/114374/52eba730-0ad9-41f1-834d-75c31c51aa0d"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/114374/52eba730-0ad9-41f1-834d-75c31c51aa0d",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

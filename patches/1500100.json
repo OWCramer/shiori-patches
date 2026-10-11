@@ -1,0 +1,40 @@
+{
+  "appID": 1500100,
+  "title": "Spheria's Familiar",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1500100",
+        "key": "1500100"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the patch archive onto your computer Run \"spherias_familiar_patch_v2.exe\" and select your Steam game install folder (from Step 1) when asked to Select Destination Location It's working if: The main menu has a background image instead of just being completely black, and the opening sequence has imagery to go along with the text. uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://wasabi.sub.jp/patch/spherias_familiar_patch_v2.zip",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

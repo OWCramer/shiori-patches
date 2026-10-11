@@ -1,0 +1,39 @@
+{
+  "appID": 1121300,
+  "title": "Mizuchi 白蛇心傳",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1121300",
+        "key": "1121300"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Navigate into the 'Mizuchi-1.0-market' folder, and then into the 'game' folder Download the patch archive from the link below Extract the 'patch.rpa' contents from the downloaded patch archive into the 'game' folder mentioned above, overwriting the file if prompted It's working if: There is a a Mature Content toggle within the game.",
+      "files": [
+        {
+          "host": "gdrive",
+          "url": "https://drive.google.com/open?id=1gWkZ-c2KfDrSHQP-StOb5f1YqGoYLPlG",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

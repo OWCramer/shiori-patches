@@ -1,0 +1,42 @@
+{
+  "appID": 375200,
+  "title": "Sakura Fantasy Chapter 1",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/375200",
+        "key": "375200"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Download the patch from the link below. Once you have downloaded the file, locate the steam directory for the game (right click on the game in Steam, Properties, Local Files, Browse Local Files...). Inside that directory, there will be a folder named 'game'. To apply the patch, copy the 'archive.rpa' file to that directory. Backup the existing 'archive.rpa' prior to putting the new on in there if ",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!VOJ0SLaL!-QRJEL4EvrO-vuPzp0TEj8LSptQ2ycAGJs8UlyGYdsA",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11",
+      "install": {
+        "into": "game"
+      }
+    }
+  ]
+}

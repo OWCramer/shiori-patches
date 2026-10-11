@@ -1,0 +1,138 @@
+{
+  "appID": 2820940,
+  "title": "Minako: Beloved Wife in the Countryside",
+  "patches": [
+    {
+      "id": "saikey-minako-beloved-wife-in-the-countryside-patch-english",
+      "name": "Minako: Beloved Wife in the Countryside patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/101698/minako-beloved-wife-in-the-countryside/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/101698/c8ec0503-9ae1-4864-8b0b-fa07ab260e0c"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/101698/c8ec0503-9ae1-4864-8b0b-fa07ab260e0c",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-minako-beloved-wife-in-the-countryside-patch-japanese",
+      "name": "Minako: Beloved Wife in the Countryside patch (Japanese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/101698/minako-beloved-wife-in-the-countryside/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/101698/91cb6098-e594-41ec-a082-270872501440"
+      },
+      "version": null,
+      "languages": [
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/101698/91cb6098-e594-41ec-a082-270872501440",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-minako-beloved-wife-in-the-countryside-patch-russian",
+      "name": "Minako: Beloved Wife in the Countryside patch (Russian)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/101698/minako-beloved-wife-in-the-countryside/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/101698/9a8ba4cd-8009-405d-bf26-324bd29b7abd"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/101698/9a8ba4cd-8009-405d-bf26-324bd29b7abd",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    },
+    {
+      "id": "saikey-minako-beloved-wife-in-the-countryside-patch-simplifi",
+      "name": "Minako: Beloved Wife in the Countryside patch (Simplified Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/101698/minako-beloved-wife-in-the-countryside/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/101698/87eb59f8-7951-4b53-8c32-1ca50ced4b45"
+      },
+      "version": null,
+      "languages": [
+        "zh-hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/101698/87eb59f8-7951-4b53-8c32-1ca50ced4b45",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

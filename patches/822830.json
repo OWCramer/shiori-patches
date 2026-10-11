@@ -1,0 +1,40 @@
+{
+  "appID": 822830,
+  "title": "Ouroboros",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/822830",
+        "key": "822830"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Download the patch archive from the link below Extract the 'Ouroboros_2.2.0_R18_patch.exe' file from the archive, and then run it Select the Game Install Folder in the patcher - the relevant directory can be found by right clicking the game in Steam, and then selecting Properties, Local Files, Browse Local Files... Once the patcher says Complete, it can be closed",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!KlU2RbiC!xFDT_pz76gs34CTCI6-pfctknGyvJVNBD_7wcEKGPzI",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

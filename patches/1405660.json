@@ -1,0 +1,39 @@
+{
+  "appID": 1405660,
+  "title": "Shoot Shoot My Waifu",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/1405660",
+        "key": "1405660"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Navigate into the 'Shoot Shoot My Waifu_Data' folder Create two files in this folder, one named 'nude_patch' and one called 'nude_patch.txt' (one file works for some, the other for others, creating both is just easier than trying each) Alternatively, download the patch archive from th It's working if: The waifus can be stripped completely naked, with nothing left covering their sensitive areas.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/dDp0EQBJ#pF0yobU7eVdNGokb-R4ZXSOOi2ov5XsY0RFdtNGRcXc",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

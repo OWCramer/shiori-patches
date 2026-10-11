@@ -1,0 +1,41 @@
+{
+  "appID": 2693410,
+  "title": "The Reason for your Smile",
+  "patches": [
+    {
+      "id": "saikey-the-reason-for-your-smile-patch",
+      "name": "The Reason for your Smile patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/101356/the-reason-for-your-smile/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/101356/d28ed2f9-4d4e-43c7-bc14-012569ba1c91"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/101356/d28ed2f9-4d4e-43c7-bc14-012569ba1c91",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

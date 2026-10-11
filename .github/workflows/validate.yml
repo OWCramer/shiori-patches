@@ -1,0 +1,32 @@
+name: Validate
+on: [push, pull_request]
+jobs:
+  schema:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install jsonschema==4.23.0
+      - name: Check every game file against schema.json, and the index against the files
+        run: |
+          python - <<'PY'
+          import glob, json, os, sys
+          from jsonschema import Draft202012Validator
+          validator = Draft202012Validator(json.load(open("schema.json")))
+          failed = False
+          index = json.load(open("index.json"))["games"]
+          for path in sorted(glob.glob("patches/*.json")):
+              game = json.load(open(path))
+              for error in validator.iter_errors(game):
+                  print(f"{path}: {'/'.join(map(str, error.path))}: {error.message}"); failed = True
+              if os.path.basename(path) != f"{game['appID']}.json":
+                  print(f"{path}: file name doesn't match appID {game['appID']}"); failed = True
+              ids = [p["id"] for p in game["patches"]]
+              if len(ids) != len(set(ids)):
+                  print(f"{path}: duplicate patch ids"); failed = True
+              if str(game["appID"]) not in index:
+                  print(f"{path}: missing from index.json (run tools/update.py --sources none)"); failed = True
+          sys.exit(1 if failed else 0)
+          PY

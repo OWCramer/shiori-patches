@@ -1,0 +1,39 @@
+{
+  "appID": 638160,
+  "title": "Moero Chronicle",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/638160",
+        "key": "638160"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the 'data' folder within the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) If you want to revert to the censored version at any point, backup the 'MA00000.PAC' file found in the 'data' folder Download the patch from the link below Extract the contents of the archive into the 'data' folder mentioned above It's working if: During Leche's \"Nude Flash\", there are no hearts covering her sensitive areas uncensorpat.ch checked this patch on PC.",
+      "files": [
+        {
+          "host": "gdrive",
+          "url": "https://drive.google.com/open?id=0Bxz_2LTmqX3aQXdRdUpzdm5EODA",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

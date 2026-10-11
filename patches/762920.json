@@ -1,0 +1,39 @@
+{
+  "appID": 762920,
+  "title": "Glory of the Self-Styled Diehard girl",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/762920",
+        "key": "762920"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, overwriting any files if prompted It's working if: The starting menu obviously shows that the patch has been applied.",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!gLw0mLrS!Ai_Gv57ds4wkZptq-9V6YbLLY8X4sb2M25atnGr14eA",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

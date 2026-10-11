@@ -1,0 +1,45 @@
+{
+  "appID": 668360,
+  "title": "Bokuten - Why I Became an Angel",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch-to-buy",
+      "name": "Uncensor patch (to buy)",
+      "kind": "adult",
+      "official": true,
+      "by": "MangaGamer",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/668360",
+        "key": "668360"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, overwriting the files when prompted",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.mangagamer.com/r18/freedownload.php?product_name=Bokuten%20-%20Why%20I%20Became%20an%20Angel%20(download)",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "store",
+              "url": "https://www.mangagamer.com/r18/S3_download.php?product_code=1092&type=adult_patch"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}

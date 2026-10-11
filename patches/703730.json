@@ -1,0 +1,40 @@
+{
+  "appID": 703730,
+  "title": "Sorcery Jokers",
+  "patches": [
+    {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": false,
+      "by": "uncensorpat.ch community",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/703730",
+        "key": "703730"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Install (PC): Download the patch installer from the link below Extract the patch installer from the archive it comes downloaded in Run the extracted 'SorceryJokers_ADULT_PATCH.exe' file, and follow any prompts it gives (your install location should be automatically detected)",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/#!5D5WDZIY!_rR5I_UU7jKgOrTPXjy0y4h-cHI9eNXMgtSh9eF2AZc",
+          "name": null,
+          "format": null,
+          "installer": true,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-11"
+    }
+  ]
+}
