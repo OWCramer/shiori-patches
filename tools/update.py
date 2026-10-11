@@ -168,7 +168,11 @@ def hash_files(games, limit_bytes):
                 if file.get("sha256") or file["host"] not in ("direct", "gdrive", "mega", "wetransfer"):
                     continue
                 if file["host"] == "gdrive" and not download.drive_file_id(file["url"]):
-                    folder = download.drive_folder_files(file["url"])
+                    try:
+                        folder = download.drive_folder_files(file["url"])
+                    except Exception as error:
+                        print(f"{game['appID']} {patch['id']}: Drive folder: {error}")
+                        continue
                     archives = [f for f in folder if f[1].lower().endswith((".zip", ".7z", ".rar"))]
                     if len(archives) != 1:
                         continue
@@ -249,7 +253,11 @@ def main():
         if only is not None:
             ids = only
         else:
-            listed = uncensorpatch.patched_app_ids()
+            try:
+                listed = uncensorpatch.patched_app_ids()
+            except Exception as error:
+                print(f"uncensorpat.ch list failed: {error}")
+                listed = []
             known = {g["appID"] for g in games.values()
                      if any(p["source"]["site"] == "uncensorpatch" for p in g["patches"])}
             ids = listed if args.full else [i for i in listed if i not in known]
@@ -258,8 +266,10 @@ def main():
         ids = only if only is not None else sorted(set(games) | compatibility_app_ids())
         take("VNDB", vndb.collect(ids))
 
-    hash_files(games, int(args.hash_limit_gb * (1 << 30)))
-    save(games)
+    try:
+        hash_files(games, int(args.hash_limit_gb * (1 << 30)))
+    finally:
+        save(games)  # keep what was read and hashed even if something failed late
 
     lines = [f"- Added {item}" for item in results["added"]] + [f"- Updated {item}" for item in results["updated"]]
     print("\n".join(lines) or "No changes from the sites.")

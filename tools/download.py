@@ -184,6 +184,12 @@ def inspect(host, url, limit=None):
                 temp.write(chunk)
                 total += len(chunk)
         temp.flush()
+        if total < 4096:
+            # Error pages, "file not found" notes and redirects to a login aren't patches.
+            temp.seek(0)
+            head = temp.read(4096).lower()
+            if total == 0 or b"<html" in head or b"<!doctype" in head or (name or "").lower().endswith((".html", ".htm")):
+                raise Unavailable(f"the link gave a {total}-byte page, not a file", dead=False)
         listing = subprocess.run(["bsdtar", "-tf", temp.name], capture_output=True, text=True)
         entries = listing.stdout.splitlines() if listing.returncode == 0 else None
     return {"name": name, "size": total, "sha256": digest.hexdigest(), "entries": entries}
