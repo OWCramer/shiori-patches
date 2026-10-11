@@ -39,5 +39,6 @@ jobs:
           git add -A
           git commit -q -m "Update from the patch sites ($(date -u +%Y-%m-%d))"
           git push -f origin "$BRANCH"
-          gh pr view "$BRANCH" >/dev/null 2>&1 || gh pr create --base main --head "$BRANCH" \
+          # Only an open pull request for the branch counts; a merged one from earlier the same day doesn't.
+          [ "$(gh pr list --head "$BRANCH" --state open --json number -q length)" != "0" ] || gh pr create --base main --head "$BRANCH" \
             --title "Update from the patch sites ($(date -u +%Y-%m-%d))" --body-file "$RUNNER_TEMP/summary.md"
