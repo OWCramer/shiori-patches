@@ -26,11 +26,11 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/JbYngSIK#kWfrZtuHot8PCIByjbqgT87WI25bKVtdW1s2NWyJCeo",
-          "name": null,
-          "format": null,
+          "name": "MuvLuv_DirectorsCut.exe",
+          "format": "exe",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 278040165,
+          "sha256": "fb6486ff044218039bd812ec6dafdfbdcfc81fcf803c2fe2ba9d20d7fed34ef6"
         }
       ],
       "added": "2026-10-11",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     }
   ]
 }

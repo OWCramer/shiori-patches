@@ -33,7 +33,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     },
     {
       "id": "vndb-gurigucha-live",
@@ -66,11 +66,11 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     },
     {
       "id": "vndb-gurigucha-live-append-ai-tl",
-      "name": "Gurigucha LIVE! - Append+ [AI TL]",
+      "name": "Gurigucha LIVE! - Append+",
       "kind": "translation",
       "official": false,
       "by": "HTranslations, CarbyneX",
@@ -99,7 +99,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     }
   ]
 }

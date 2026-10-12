@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     },
     {
       "id": "vndb-re-edit-patch",
@@ -100,7 +100,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     }
   ]
 }

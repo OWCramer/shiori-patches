@@ -33,7 +33,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     },
     {
       "id": "vndb-fan-patch",
@@ -66,7 +66,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     },
     {
       "id": "vndb-improvement-patch",
@@ -99,7 +99,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     },
     {
       "id": "vndb-jp-restoration-patch-with-dual-language-display",
@@ -133,7 +133,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     }
   ]
 }

@@ -23,27 +23,28 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
         {
           "host": "gdrive",
           "url": "https://drive.google.com/file/d/1eSFf8pq5QYwBgtd65J_xyEaXsqKQNKuZ/view?usp=drive_link",
-          "name": null,
-          "format": null,
+          "name": "Stranded with You Reconstruction Patch v1.0.1.2.zip",
+          "format": "zip",
           "mirrors": [
             {
               "host": "page",
               "url": "https://saikeystudios.com/patches/?patch_product=160112&patch_item=d715bd4d-bc69-4670-8c33-731979ca4bac"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 89413077,
+          "sha256": "84529782aad735036234b1d9a3d329dbe014afdf11f423c85da96a20fe00b7da",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     }
   ]
 }

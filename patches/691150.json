@@ -66,7 +66,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     },
     {
       "id": "vndb-name-restoration-patch",
@@ -99,7 +99,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     },
     {
       "id": "vndb-steam-18-patch",
@@ -132,7 +132,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-12"
     }
   ]
 }
