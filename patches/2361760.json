@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Real_Anime_Situation_2_Patch.zip",
           "name": "Real_Anime_Situation_2_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3778158351,
+          "sha256": "cda30d383270d3c5c42526e09c8c004f0e4694944396defb0460858d89eb1eee"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-13"
     }
   ]
 }

@@ -28,12 +28,12 @@
           "url": "https://cdn.nekonyansoft.com/patch/enki/ready-or-not-deadline-is-coming-patch.zip",
           "name": "ready-or-not-deadline-is-coming-patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1972285993,
+          "sha256": "e22651c67f0d2b1c2e949ce3098028dbbd6d7ce7f057517ca61e849d66d1dacf"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-13"
     },
     {
       "id": "vndb-fan-patch",
@@ -66,7 +66,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-13"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
@@ -99,7 +99,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-13"
     }
   ]
 }
