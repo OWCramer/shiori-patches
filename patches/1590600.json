@@ -26,11 +26,11 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/JXhFgC6Q#y2gWVbhrys2yjSm21BLx5aa0jhST4vA3ERO_bBoSUaQ",
-          "name": null,
-          "format": null,
+          "name": "oppai-academy_steamextrapatch_uncensored.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 1908375124,
+          "sha256": "e4459a6f406e65c2e2f9875c72818272d2b849408dc32527c2784897d3263f12"
         }
       ],
       "added": "2026-10-11",
