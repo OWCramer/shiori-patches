@@ -3,18 +3,17 @@
   "title": "Isekai Succubus ~My Genderbent Saga in Another World~",
   "patches": [
     {
-      "id": "uncensorpatch-uncensor-patch",
-      "name": "Uncensor patch",
+      "id": "erogejapan-r18-patch",
+      "name": "R18 patch",
       "kind": "adult",
       "official": true,
-      "by": "Publisher",
+      "by": "Eroge Japan",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/1383680",
-        "key": "1383680",
-        "origin": "https://erogejapan.com/patch/isekai_succubus/"
+        "site": "erogejapan",
+        "page": "https://erogejapan.com/patch/isekai_succubus/",
+        "key": "isekai_succubus"
       },
-      "version": null,
+      "version": "1.08",
       "languages": [
         "en"
       ],
@@ -22,20 +21,26 @@
       "branch": null,
       "status": "unsupported",
       "verified": false,
-      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above Run the \"Succubus_R18Patch.exe\" patcher and follow the prompts It's working if: On the main menu you can see the characters legs and underwear.",
+      "notes": "",
       "files": [
         {
           "host": "direct",
-          "url": "https://erogejapan.com/r18patch/isekai_succubus/Succubus_R18Patch_Ver.1.07.zip",
-          "name": null,
-          "format": null,
+          "url": "https://erogejapan.com/r18patch/isekai_succubus/Succubus_R18Patch_Ver.1.08.zip",
+          "name": "Succubus_R18Patch_Ver.1.08.zip",
+          "format": "zip",
           "installer": true,
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/jnlne9z418ynqf8/Succubus_R18Patch_Ver.1.08.zip/file"
+            }
+          ],
           "size": null,
           "sha256": null
         }
       ],
-      "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "added": "2026-10-15",
+      "checked": "2026-10-15"
     }
   ]
 }

@@ -22,7 +22,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from common import fetch_json, slug, today  # noqa: E402
 import datetime  # noqa: E402
 import download  # noqa: E402
-from sources import denpasoft, kagami, nekonyan, patchmoe, sakurapatcher, saikey, uncensorpatch, vndb, wingedcloud  # noqa: E402
+from sources import denpasoft, erogejapan, kagami, nekonyan, patchmoe, sakurapatcher, saikey, uncensorpatch, vndb, wingedcloud  # noqa: E402
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 PATCHES = os.path.join(ROOT, "patches")
@@ -31,6 +31,10 @@ ENGINES = ("renpy", "artemis", "kirikiri", "siglus", "luca")
 SITE_FIELDS = ("name", "official", "by", "languages", "adult")
 # Lists that only fill gaps: they never take over a patch another site already lists.
 FILL_IN_SITES = ("sakurapatcher",)
+# Publishers read from their own site, and how their patches show on other sites. For a game
+# such a site lists, other sites' copies of its patches (of the same kind) are dropped: the
+# copies keep the links from when they were read, which the publisher may have moved since.
+PUBLISHER_SITES = {"erogejapan": ("erogejapan.com", "eroge japan")}
 
 
 def load():
@@ -104,6 +108,9 @@ def merge(games, entry):
     installer = any(f.get("installer") or f.get("format") == "exe" for f in candidate["files"])
 
     if existing is None:
+        if _copy_of_publisher(game, candidate):
+            return None
+
         def plain(url):
             return url.split("?")[0].rstrip("/").replace("/products/", "/product/")
         urls = {plain(f["url"]) for f in candidate["files"]}
@@ -170,15 +177,39 @@ def merge(games, entry):
             changed = True
     if len(files) != len(existing["files"]):
         changed = True
-    existing["files"] = files
-    if existing.get("status") == "dead":
+    links = lambda fs: [(f["host"], f["url"]) for f in fs]  # noqa: E731
+    if existing.get("status") == "dead" and links(files) != links(existing["files"]):
+        # A new link may work; the link that was found dead stays dead until the link check
+        # (or hashing) sees it answer, however often the site still lists it.
         existing["status"] = "ok"
         changed = True
+    existing["files"] = files
     if not existing.get("notes") and candidate.get("notes"):
         existing["notes"] = candidate["notes"]
         changed = True
     _touch(existing, changed)
     return "updated" if changed else None
+
+
+def _copy_of_publisher(game, patch):
+    """Whether `patch`, from another site, copies one the publisher's own site lists for `game`."""
+    if patch["source"]["site"] in PUBLISHER_SITES or patch["source"]["site"] == "manual":
+        return False
+    text = " ".join([patch["by"], patch["source"].get("origin", "")] + [f["url"] for f in patch["files"]]
+                    + [m["url"] for f in patch["files"] for m in f.get("mirrors", [])]).lower()
+    return any(p["source"]["site"] == site and p["kind"] == patch["kind"] and any(mark in text for mark in marks)
+               for site, marks in PUBLISHER_SITES.items() for p in game["patches"])
+
+
+def drop_copies(games):
+    """Removes other sites' copies of patches a publisher's own site lists (a copy someone
+    verified in Shiori stays, for a person to decide). Returns what went."""
+    dropped = []
+    for game in games.values():
+        for patch in [p for p in game["patches"] if not p.get("verified") and _copy_of_publisher(game, p)]:
+            game["patches"].remove(patch)
+            dropped.append(f"{game['appID']} {patch['id']} ({patch['source']['site']})")
+    return dropped
 
 
 def hash_files(games, limit_bytes):
@@ -220,8 +251,7 @@ def hash_files(games, limit_bytes):
                     lower = info["name"].lower()
                     file["format"] = next((e for e in ("zip", "7z", "rar", "exe") if lower.endswith("." + e)), "file")
                 entries = info["entries"] or []
-                exes = [e for e in entries if e.lower().endswith(".exe")]
-                if file["format"] == "exe" or (exes and len(exes) * 2 >= len([e for e in entries if not e.endswith("/")])):
+                if file["format"] == "exe" or download.is_installer(entries):
                     file["installer"] = True
                     patch["status"] = "unsupported"
                 print(f"{game['appID']} {patch['id']}: {info['size']} bytes, {len(entries)} entries")
@@ -240,7 +270,7 @@ def compatibility_app_ids():
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--sources", default="nekonyan,saikey,kagami,patchmoe,wingedcloud,sakurapatcher,denpasoft,uncensorpatch,vndb")
+    parser.add_argument("--sources", default="nekonyan,saikey,kagami,erogejapan,patchmoe,wingedcloud,sakurapatcher,denpasoft,uncensorpatch,vndb")
     parser.add_argument("--full", action="store_true", help="read every uncensorpat.ch page again")
     parser.add_argument("--app-ids", help="comma-separated app ids for uncensorpat.ch and VNDB")
     parser.add_argument("--hash-limit-gb", type=float, default=10)
@@ -250,7 +280,7 @@ def main():
     games = load()
     sources = args.sources.split(",")
     only = [int(x) for x in args.app_ids.split(",")] if args.app_ids else None
-    results = {"added": [], "updated": []}
+    results = {"added": [], "updated": [], "removed": []}
 
     def take(name, entries):
         try:
@@ -267,6 +297,8 @@ def main():
         take("Saikey", saikey.collect())
     if "kagami" in sources:
         take("Kagami Games", kagami.collect())
+    if "erogejapan" in sources:
+        take("Eroge Japan", erogejapan.collect())
     if "patchmoe" in sources:
         take("patch.moe", patchmoe.collect())
     if "wingedcloud" in sources:
@@ -285,7 +317,7 @@ def main():
                 print(f"uncensorpat.ch list failed: {error}")
                 listed = []
             known = {g["appID"] for g in games.values()
-                     if any(p["source"]["site"] == "uncensorpatch" for p in g["patches"])}
+                     if any(p["source"]["site"] in ("uncensorpatch", *PUBLISHER_SITES) for p in g["patches"])}
             ids = listed if args.full else [i for i in listed if i not in known]
         take("uncensorpat.ch", uncensorpatch.collect(ids))
     if "vndb" in sources:
@@ -298,12 +330,15 @@ def main():
                                         for p in g["patches"]))
         take("VNDB", vndb.collect(ids, has_official))
 
+    results["removed"] = drop_copies(games)
+
     try:
         hash_files(games, int(args.hash_limit_gb * (1 << 30)))
     finally:
         save(games)  # keep what was read and hashed even if something failed late
 
-    lines = [f"- Added {item}" for item in results["added"]] + [f"- Updated {item}" for item in results["updated"]]
+    lines = ([f"- Added {item}" for item in results["added"]] + [f"- Updated {item}" for item in results["updated"]]
+             + [f"- Removed {item}: the publisher's own site lists it" for item in results["removed"]])
     print("\n".join(lines) or "No changes from the sites.")
     if args.summary:
         open(args.summary, "w").write(("\n".join(lines) or "Recorded file sizes and hashes.") + "\n")

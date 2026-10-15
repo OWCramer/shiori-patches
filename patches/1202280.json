@@ -3,16 +3,15 @@
   "title": "Slave Princess Sarah",
   "patches": [
     {
-      "id": "uncensorpatch-uncensor-patch",
-      "name": "Uncensor patch",
+      "id": "erogejapan-r18-patch",
+      "name": "R18 patch",
       "kind": "adult",
-      "official": false,
-      "by": "uncensorpat.ch community",
+      "official": true,
+      "by": "Eroge Japan",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/1202280",
-        "key": "1202280",
-        "origin": "https://erogejapan.com/r18patch/"
+        "site": "erogejapan",
+        "page": "https://erogejapan.com/patch/slave_princess_sarah/",
+        "key": "slave_princess_sarah"
       },
       "version": null,
       "languages": [
@@ -22,19 +21,19 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, merging folders and overwriting files if prompted",
+      "notes": "",
       "files": [
         {
           "host": "direct",
-          "url": "https://erogejapan.com/patch/Slave_Princess_Sarah/Sarah_R18_Patch.zip",
-          "name": null,
-          "format": null,
+          "url": "https://erogejapan.com/r18patch/slave_princess_sarah/Sarah_R18_Patch.zip",
+          "name": "Sarah_R18_Patch.zip",
+          "format": "zip",
           "size": null,
           "sha256": null
         }
       ],
-      "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "added": "2026-10-15",
+      "checked": "2026-10-15"
     }
   ]
 }

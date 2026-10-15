@@ -39,7 +39,14 @@ def alive(host, url):
             url = f"https://drive.usercontent.google.com/download?id={file_id}&export=download&confirm=t"
         request = urllib.request.Request(url, headers={"User-Agent": BROWSER_AGENT, "Range": "bytes=0-0"})
         with urllib.request.urlopen(request, timeout=60) as response:
-            return response.status in (200, 206)
+            if response.status not in (200, 206):
+                return None
+            kind = (response.headers.get("Content-Type") or "").lower()
+            if host == "direct" and (kind.startswith("text/") or "html" in kind):
+                # A site that answers a moved file with its own "not found" page (or a redirect
+                # to its home page) still says 200; a page is not the patch.
+                return False
+            return True
     except urllib.error.HTTPError as error:
         return False if error.code in (404, 410) else None
     except download.Unavailable as error:

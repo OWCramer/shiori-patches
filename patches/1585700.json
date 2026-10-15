@@ -3,53 +3,15 @@
   "title": "Trap Genesis",
   "patches": [
     {
-      "id": "vndb-h-scenes-append-patch",
-      "name": "H-scenes Append Patch",
+      "id": "erogejapan-r18-patch",
+      "name": "R18 patch",
       "kind": "adult",
       "official": true,
       "by": "Eroge Japan",
       "source": {
-        "site": "vndb",
-        "page": "https://vndb.org/r83144",
-        "key": "r83144",
-        "origin": "https://no-strike.jp/genesis/download.html"
-      },
-      "version": null,
-      "languages": [
-        "en",
-        "ja",
-        "zh-Hans",
-        "zh-Hant"
-      ],
-      "adult": true,
-      "branch": null,
-      "status": "ok",
-      "verified": false,
-      "notes": "Listed on VNDB; the download is on the patch's own page.",
-      "files": [
-        {
-          "host": "page",
-          "url": "https://no-strike.jp/genesis/download.html",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
-        }
-      ],
-      "added": "2026-10-14",
-      "checked": "2026-10-14"
-    },
-    {
-      "id": "uncensorpatch-uncensor-patch",
-      "name": "Uncensor patch",
-      "kind": "adult",
-      "official": false,
-      "by": "uncensorpat.ch community",
-      "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/1585700",
-        "key": "1585700",
-        "origin": "https://no-strike.jp/genesis/download-en.html"
+        "site": "erogejapan",
+        "page": "https://erogejapan.com/patch/trap_genesis/",
+        "key": "trap_genesis"
       },
       "version": null,
       "languages": [
@@ -59,19 +21,25 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "Install (PC): Download the patch archive from the link below Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Extract the 'patch.xp3' file from the patch archive into the game install folder It's working if: The titlebar of the game has \"R-18 Ver.\" at the end of it. uncensorpat.ch checked this patch on PC.",
+      "notes": "",
       "files": [
         {
           "host": "direct",
-          "url": "https://erogejapan.com/patch/Trap_Genesis/Trap_Genesis_Patch.zip",
-          "name": null,
-          "format": null,
+          "url": "https://erogejapan.com/r18patch/trap_genesis/Trap_Genesis_Patch.zip",
+          "name": "Trap_Genesis_Patch.zip",
+          "format": "zip",
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/uxjd8md1d24ecy8/Trap_Genesis_Patch.zip/file"
+            }
+          ],
           "size": null,
           "sha256": null
         }
       ],
-      "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "added": "2026-10-15",
+      "checked": "2026-10-15"
     }
   ]
 }

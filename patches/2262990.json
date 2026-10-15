@@ -1,0 +1,45 @@
+{
+  "appID": 2262990,
+  "title": "Manager can be Tough!: Case of the Kidnapped Waitress",
+  "patches": [
+    {
+      "id": "erogejapan-r18-patch",
+      "name": "R18 patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Eroge Japan",
+      "source": {
+        "site": "erogejapan",
+        "page": "https://erogejapan.com/patch/manager_can_be_tough/",
+        "key": "manager_can_be_tough"
+      },
+      "version": "1.06",
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://erogejapan.com/r18patch/manager_can_be_tough/Manager_R18Patch_1.06.zip",
+          "name": "Manager_R18Patch_1.06.zip",
+          "format": "zip",
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/r68t6c8tz4shyve/Manager_R18Patch_1.06.zip/file"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-15",
+      "checked": "2026-10-15"
+    }
+  ]
+}
