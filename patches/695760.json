@@ -11,7 +11,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/695760",
-        "key": "695760"
+        "key": "695760",
+        "origin": "https://tophat.studio/games/girls-and-dungeons/"
       },
       "version": null,
       "languages": [
@@ -33,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

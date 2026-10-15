@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r97031",
-        "key": "r97031"
+        "key": "r97031",
+        "origin": "https://sugoivisualnovel.up.railway.app/vns/22899"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-improvement-patch",
@@ -77,7 +78,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r109660",
-        "key": "r109660"
+        "key": "r109660",
+        "origin": "https://www.mediafire.com/folder/w68viewzzqt3k/Nukitashi+Improvement+Patch"
       },
       "version": null,
       "languages": [
@@ -99,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-jp-restoration-patch-with-dual-language-display",
@@ -110,14 +112,15 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r161402",
-        "key": "r161402"
+        "key": "r161402",
+        "origin": "https://that-ruben.vercel.app/nukitashi"
       },
       "version": null,
       "languages": [
         "en",
         "ja"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -133,7 +136,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

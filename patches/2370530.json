@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r86397",
-        "key": "r86397"
+        "key": "r86397",
+        "origin": "https://vnmtl.blogspot.com/2022/03/uchi-wa-mou-enki-dekinai-18-machine.html"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
@@ -77,13 +78,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r161608",
-        "key": "r161608"
+        "key": "r161608",
+        "origin": "https://mega.nz/file/r0ADFazA#a3qc76bRvipDlt--S9Da7WTnmD-MATUkOzY7DAmfUyI"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -99,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

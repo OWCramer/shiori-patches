@@ -18,6 +18,27 @@ jobs:
     timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Continue the open update, if there is one
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Each run builds on the update still waiting for review, so the files it hashed are kept
+          # and its pull request grows, instead of a new one from main every day that redoes them.
+          git config user.name "shiori-patches bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          OPEN="$(gh pr list --state open --json headRefName -q '[.[].headRefName | select(startswith("update/"))] | sort | last // ""')"
+          if [ -n "$OPEN" ]; then
+            git checkout -B "$OPEN" "origin/$OPEN"
+            if git merge -q --no-edit origin/main; then
+              echo "BRANCH=$OPEN" >> "$GITHUB_ENV"
+            else
+              echo "$OPEN doesn't merge with main; starting from main."
+              git merge --abort
+              git checkout -q main
+            fi
+          fi
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -31,14 +52,20 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if git diff --quiet; then echo "No changes."; exit 0; fi
-          BRANCH="update/$(date -u +%Y-%m-%d)"
-          git config user.name "shiori-patches bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -B "$BRANCH"
           git add -A
+          if git diff --cached --quiet; then
+            # Merging main may still have moved the branch.
+            if [ -n "$BRANCH" ] && [ "$(git rev-parse HEAD)" != "$(git rev-parse "origin/$BRANCH")" ]; then git push origin "$BRANCH"; fi
+            echo "No changes."; exit 0
+          fi
+          BRANCH="${BRANCH:-update/$(date -u +%Y-%m-%d)}"
+          git checkout -q -B "$BRANCH"
           git commit -q -m "Update from the patch sites ($(date -u +%Y-%m-%d))"
           git push -f origin "$BRANCH"
           # Only an open pull request for the branch counts; a merged one from earlier the same day doesn't.
-          [ "$(gh pr list --head "$BRANCH" --state open --json number -q length)" != "0" ] || gh pr create --base main --head "$BRANCH" \
-            --title "Update from the patch sites ($(date -u +%Y-%m-%d))" --body-file "$RUNNER_TEMP/summary.md"
+          if [ "$(gh pr list --head "$BRANCH" --state open --json number -q length)" != "0" ]; then
+            gh pr comment "$BRANCH" --body-file "$RUNNER_TEMP/summary.md"
+          else
+            gh pr create --base main --head "$BRANCH" \
+              --title "Update from the patch sites ($(date -u +%Y-%m-%d))" --body-file "$RUNNER_TEMP/summary.md"
+          fi

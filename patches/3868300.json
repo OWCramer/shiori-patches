@@ -1,0 +1,43 @@
+{
+  "appID": 3868300,
+  "title": "Los Angeles 1985",
+  "patches": [
+    {
+      "id": "vndb-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "TasteT Games",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r139488",
+        "key": "r139488-3869700"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/3869700",
+          "dlc": 3869700,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

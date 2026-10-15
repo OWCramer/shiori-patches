@@ -1,0 +1,46 @@
+{
+  "appID": 4838470,
+  "title": "My (♂) Life as a Vampire's Maid (♀)",
+  "patches": [
+    {
+      "id": "kagami-steam-patch",
+      "name": "Steam patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Kagami Games",
+      "source": {
+        "site": "kagami",
+        "page": "https://patches.kagamied.com/",
+        "key": "https://kagami.zip/Patch/KG008sD2xS4v.zip"
+      },
+      "version": "1.0",
+      "languages": [
+        "en",
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Kagami Games' own patch: restores the content cut from the Steam release.",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://kagami.zip/Patch/KG008sD2xS4v.zip",
+          "name": "KG008sD2xS4v.zip",
+          "format": "zip",
+          "mirrors": [
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/drive/folders/1xTGv0K_LJN_KNG16_JJSzpLWgN3zuZas?usp=sharing"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

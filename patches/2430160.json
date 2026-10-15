@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r64644",
-        "key": "r64644"
+        "key": "r64644",
+        "origin": "https://rattanmantrans.blogspot.com/2019/06/taimanin-asagi-premium-box-english.html"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -11,7 +11,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/878150",
-        "key": "878150"
+        "key": "878150",
+        "origin": "https://celusisstudio.blogspot.com/p/patch.html"
       },
       "version": null,
       "languages": [
@@ -19,7 +20,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "dead",
+      "status": "ok",
       "verified": false,
       "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Navigate into the 'BioLab2' folder Download the patch archive from the link below Extract the contents of the downloaded patch archive into the 'BioDungeon' folder mentioned above, merging folders and overwriting files if prompted",
       "files": [
@@ -33,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

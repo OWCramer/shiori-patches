@@ -6,12 +6,13 @@
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
-      "official": false,
-      "by": "uncensorpat.ch community",
+      "official": true,
+      "by": "Winged Cloud",
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1064130",
-        "key": "1064130"
+        "key": "1064130",
+        "origin": "https://www.patreon.com/wingedcloud/posts?filters[tag]=patch"
       },
       "version": null,
       "languages": [
@@ -33,10 +34,44 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11",
+      "checked": "2026-10-14",
       "install": {
         "into": "game"
       }
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "GrownUpByTheSakuraDungeon",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r108465",
+        "key": "r108465",
+        "origin": "https://anivisual.net/stuff/2-1-0-5123"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://anivisual.net/stuff/2-1-0-5123",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

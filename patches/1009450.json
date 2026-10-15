@@ -44,7 +44,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1009450",
-        "key": "1009450"
+        "key": "1009450",
+        "origin": "https://nekonyansoft.com/shop/product/21"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
@@ -77,13 +78,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r137255",
-        "key": "r137255"
+        "key": "r137255",
+        "origin": "https://mega.nz/file/WIEEGCKD#I9AO1SgQ_tHOtptsQAKkFlXaYgOB0vACAIChaw-6mhc"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -99,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

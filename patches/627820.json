@@ -3,6 +3,40 @@
   "title": "England Exchange",
   "patches": [
     {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "other",
+      "official": true,
+      "by": "Hanako Games",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54382",
+        "key": "r54382",
+        "origin": "http://www.hanakogames.com/ee/hpatch.txt"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://www.hanakogames.com/ee/hpatch.txt",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +45,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/627820",
-        "key": "627820"
+        "key": "627820",
+        "origin": "https://steamcommunity.com/app/627820/discussions/0/1474221865204996381/"
       },
       "version": null,
       "languages": [
@@ -33,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11",
+      "checked": "2026-10-14",
       "install": {
         "into": "game"
       }

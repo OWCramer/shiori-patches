@@ -1,0 +1,40 @@
+{
+  "appID": 2077400,
+  "title": "Lust Trip 💕",
+  "patches": [
+    {
+      "id": "vndb-18-scenes",
+      "name": "18+ Scenes",
+      "kind": "adult",
+      "official": true,
+      "by": "Love Seekers",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r115049",
+        "key": "r115049-2086240"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/2086240",
+          "dlc": 2086240,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

@@ -3,6 +3,43 @@
   "title": "Jiangshi x Daoshi",
   "patches": [
     {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "other",
+      "official": true,
+      "by": "Fruitbat Factory",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r73132",
+        "key": "r73132",
+        "origin": "https://fruitbatfactory.com/daoshi/"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://fruitbatfactory.com/daoshi/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +48,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1338460",
-        "key": "1338460"
+        "key": "1338460",
+        "origin": "https://fruitbatfactory.com/daoshi/"
       },
       "version": null,
       "languages": [
@@ -33,7 +71,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

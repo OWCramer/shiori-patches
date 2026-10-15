@@ -1,0 +1,40 @@
+{
+  "appID": 1965960,
+  "title": "House Of Chavez",
+  "patches": [
+    {
+      "id": "vndb-uncensor-patch",
+      "name": "Uncensor Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Winter Wolves",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r122208",
+        "key": "r122208-2937980"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/2937980",
+          "dlc": 2937980,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

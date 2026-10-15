@@ -73,14 +73,15 @@
     },
     {
       "id": "vndb-fan-patch",
-      "name": "Fan patch",
+      "name": "Fan translation",
       "kind": "translation",
       "official": false,
       "by": "Visual Novels Translate RU",
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r49961",
-        "key": "r49961"
+        "key": "r49961",
+        "origin": "http://steamcommunity.com/sharedfiles/filedetails/?id=843590336"
       },
       "version": null,
       "languages": [
@@ -103,7 +104,75 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "LuiggiixD",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r45932",
+        "key": "r45932",
+        "origin": "https://www.facebook.com/LuiggiixD-423472481050568/"
+      },
+      "version": null,
+      "languages": [
+        "es"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.facebook.com/LuiggiixD-423472481050568/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-2",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "EF Visual Novel Traduções",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r61501",
+        "key": "r61501",
+        "origin": "https://vnptbr.blogspot.com/"
+      },
+      "version": null,
+      "languages": [
+        "pt-br"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://vnptbr.blogspot.com/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "appID": 4192830,
+  "title": "Once Upon a Throne of Thorns",
+  "patches": [
+    {
+      "id": "vndb-adult-patch",
+      "name": "Adult Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "ebi-hime",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r159166",
+        "key": "r159166-4842560"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/4842560",
+          "dlc": 4842560,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

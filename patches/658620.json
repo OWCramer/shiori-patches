@@ -50,7 +50,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r21950",
-        "key": "r21950"
+        "key": "r21950",
+        "origin": "https://web.archive.org/web/20161209000135/https://tlwiki.org/?title=Subarashiki_Hibi"
       },
       "version": null,
       "languages": [
@@ -72,7 +73,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch",
@@ -83,7 +84,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r57318",
-        "key": "r57318"
+        "key": "r57318",
+        "origin": "https://web.archive.org/web/20230118151943mp_/https://cdn-127.anonfiles.com/M9H341S2y5/ed7d9d74-1674055754/Patch.rar"
       },
       "version": null,
       "languages": [
@@ -105,7 +107,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-2",
@@ -116,7 +118,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r59204",
-        "key": "r59204"
+        "key": "r59204",
+        "origin": "https://mega.nz/#!gFAiXQ6B!mBd2V-2N7RQUFMM2AE_8vL84tO1clh-pHaFayAfeVak"
       },
       "version": null,
       "languages": [
@@ -138,7 +141,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-3",
@@ -149,13 +152,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r66338",
-        "key": "r66338"
+        "key": "r66338",
+        "origin": "https://mega.nz/file/WepBiKID#UphVOFSGwLZFdunFNM1xguwS-bYzDB1u9d2nqjMOCoU"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -171,7 +175,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-4",
@@ -182,7 +186,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r148508",
-        "key": "r148508"
+        "key": "r148508",
+        "origin": "https://mega.nz/file/PZs20D7J#DwkrGfY52VwYTln1yHzbFQTYvcMEWvWoPoOLkXdt2Cc"
       },
       "version": null,
       "languages": [
@@ -204,7 +209,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-knockin-on-heavens-door-patch",
@@ -215,7 +220,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r92856",
-        "key": "r92856"
+        "key": "r92856",
+        "origin": "https://mega.nz/file/4x5wxCyR#xNw65DvUQjWEmpCx-ohO-aueDedf6Y464JBqTaEtGeQ"
       },
       "version": null,
       "languages": [
@@ -237,7 +243,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
@@ -248,13 +254,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r127408",
-        "key": "r127408"
+        "key": "r127408",
+        "origin": "https://www.mediafire.com/file/ifymtsx7mk4eew3/SubaHibi_FVHD_Mosaic_Restoration.zip/file"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -270,7 +277,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

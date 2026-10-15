@@ -3,6 +3,181 @@
   "title": "Corona Blossom Vol.3 Journey to the Stars",
   "patches": [
     {
+      "id": "vndb-18-patch",
+      "name": "18+ Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Frontwing",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r47236",
+        "key": "r47236",
+        "origin": "https://www.dlsite.com/pro/work/=/product_id/VJ010348.html"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.dlsite.com/pro/work/=/product_id/VJ010348.html",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-18-patch-2",
+      "name": "18+ Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Frontwing",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r48626",
+        "key": "r48626",
+        "origin": "https://www.dlsite.com/pro/work/=/product_id/VJ010559.html"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.dlsite.com/pro/work/=/product_id/VJ010559.html",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-18-patch-3",
+      "name": "18+ Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Frontwing",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r50085",
+        "key": "r50085",
+        "origin": "https://web.archive.org/web/20200324175031/https://www.jlist.com/fwng003"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://web.archive.org/web/20200324175031/https://www.jlist.com/fwng003",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-18-patch-4",
+      "name": "18+ Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Frontwing",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r50385",
+        "key": "r50385",
+        "origin": "https://www.dlsite.com/pro/work/=/product_id/VJ010789.html"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.dlsite.com/pro/work/=/product_id/VJ010789.html",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-18-patch-5",
+      "name": "18+ Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Frontwing",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r57683",
+        "key": "r57683",
+        "origin": "https://jastusa.com/games/fwng002/corona-blossom-vol.2-18+-dlc-steam"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://jastusa.com/games/fwng002/corona-blossom-vol.2-18+-dlc-steam",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +186,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/562480",
-        "key": "562480"
+        "key": "562480",
+        "origin": "https://jlist.com/fwng003?___store=jlist&acc=1110"
       },
       "version": null,
       "languages": [
@@ -33,7 +209,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

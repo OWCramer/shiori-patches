@@ -45,7 +45,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r56421",
-        "key": "r56421"
+        "key": "r56421",
+        "origin": "https://hybtranslation.wordpress.com/"
       },
       "version": null,
       "languages": [
@@ -67,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-2",
@@ -78,7 +79,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r56423",
-        "key": "r56423"
+        "key": "r56423",
+        "origin": "https://lazytranslations.wordpress.com/2017/01/15/01152017-release-v0-772-app-some-girls-talk-too-much/"
       },
       "version": null,
       "languages": [
@@ -100,7 +102,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

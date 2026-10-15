@@ -78,13 +78,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r107816",
-        "key": "r107816"
+        "key": "r107816",
+        "origin": "https://f95zone.to/threads/kuroinu-redux-final-liquid.160472/post-10832007"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -100,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -3,6 +3,40 @@
   "title": "Battle Girls",
   "patches": [
     {
+      "id": "vndb-adult-patch",
+      "name": "Adult Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Dharker Studios Limited, StudioX",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r52217",
+        "key": "r52217",
+        "origin": "http://dharkerstudio.com/uncensored.html"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://dharkerstudio.com/uncensored.html",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +45,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/404170",
-        "key": "404170"
+        "key": "404170",
+        "origin": "https://dharker.studio/battle-girls-1/"
       },
       "version": null,
       "languages": [
@@ -19,7 +54,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "dead",
+      "status": "ok",
       "verified": false,
       "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the 'game' folder from the downloaded patch archive into the game install folder mentioned above, merging the 'game' folders and overwriting any files as prompted It's working if: It says 'uncensored version' (instead of 'Steam version') on the main menu of the game.",
       "files": [
@@ -33,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

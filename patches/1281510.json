@@ -3,6 +3,42 @@
   "title": "Kirakira stars idol project Nagisa",
   "patches": [
     {
+      "id": "vndb-r18-patch",
+      "name": "R18 Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Sushi soft",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r72542",
+        "key": "r72542",
+        "origin": "https://www.sushi-soft.com/kirakira-stars-nagisa"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.sushi-soft.com/kirakira-stars-nagisa",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +47,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1281510",
-        "key": "1281510"
+        "key": "1281510",
+        "origin": "https://en.sushi-soft.com/kirakira-stars-nagisa"
       },
       "version": null,
       "languages": [
@@ -33,7 +70,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -79,7 +79,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r78765",
-        "key": "r78765"
+        "key": "r78765",
+        "origin": "https://files.catbox.moe/jiinz3.zip"
       },
       "version": null,
       "languages": [
@@ -101,7 +102,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

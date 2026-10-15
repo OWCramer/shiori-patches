@@ -3,6 +3,40 @@
   "title": "Under One Wing",
   "patches": [
     {
+      "id": "vndb-18-steam-patch",
+      "name": "18+ Steam Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Sol Press, Panty Press",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r60964",
+        "key": "r60964",
+        "origin": "https://mega.nz/file/bhpXEYrZ#6PHMGJ1CIGoCoKhFbeKjaw7NZdC3RJjC6RoxOn7JvT8"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://mega.nz/file/bhpXEYrZ#6PHMGJ1CIGoCoKhFbeKjaw7NZdC3RJjC6RoxOn7JvT8",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +45,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/906300",
-        "key": "906300"
+        "key": "906300",
+        "origin": "https://pantypress.com/product/544/under-one-wing"
       },
       "version": null,
       "languages": [
@@ -33,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
@@ -44,13 +79,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r136755",
-        "key": "r136755"
+        "key": "r136755",
+        "origin": "https://mega.nz/file/bJE0RZIb#qP3RAxsM0jA7gdFv8J7gChXADco-uKHf9iFc0lPzHGM"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -66,7 +102,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

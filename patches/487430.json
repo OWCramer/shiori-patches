@@ -35,6 +35,42 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-18-dlc",
+      "name": "18+ DLC",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft, calme",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r44992",
+        "key": "r44992-947680"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/947680",
+          "dlc": 947680,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

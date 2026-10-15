@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r70062",
-        "key": "r70062"
+        "key": "r70062",
+        "origin": "http://web.archive.org/web/20210608111345/https://imgur.com/a/MNwpjHU"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-hd-content-patch",
@@ -77,7 +78,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r69645",
-        "key": "r69645"
+        "key": "r69645",
+        "origin": "https://mega.nz/#!DWww0CbI!zfGGStwPCKQmtO43GJO7-Ux_qJwGQlaJhNLBdAu7HFM"
       },
       "version": null,
       "languages": [
@@ -99,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-improved-readability-mod",
@@ -110,7 +112,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r148208",
-        "key": "r148208"
+        "key": "r148208",
+        "origin": "https://steamcommunity.com/sharedfiles/filedetails/?id=3019084093"
       },
       "version": null,
       "languages": [
@@ -132,7 +135,44 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-japanese-language-restoration-hotkey-toggle-patch",
+      "name": "Japanese Language Restoration & Hotkey Toggle Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "That-Ruben",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r160910",
+        "key": "r160910",
+        "origin": "https://that-ruben.vercel.app/kara-no-shoujo"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://that-ruben.vercel.app/kara-no-shoujo",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-voice-patch",
@@ -143,7 +183,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r69603",
-        "key": "r69603"
+        "key": "r69603",
+        "origin": "https://mega.nz/#!2b5mgQCJ!HNT6ZHviBo-iaxWyqaLhr02zlOzQNpjBTFZeuD_9whc"
       },
       "version": null,
       "languages": [
@@ -165,7 +206,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

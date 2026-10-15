@@ -3,6 +3,40 @@
   "title": "Tomboys Need Love Too",
   "patches": [
     {
+      "id": "vndb-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "Zetsubou Games",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r51671",
+        "key": "r51671-943180"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/943180",
+          "dlc": 943180,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +45,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/628920",
-        "key": "628920"
+        "key": "628920",
+        "origin": "https://zetsubou.games/notes/18+-content-patch/"
       },
       "version": null,
       "languages": [
@@ -33,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11",
+      "checked": "2026-10-14",
       "install": {
         "into": "game"
       }

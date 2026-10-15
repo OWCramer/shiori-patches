@@ -45,7 +45,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1165870",
-        "key": "1165870"
+        "key": "1165870",
+        "origin": "https://mahouarms.com/"
       },
       "version": null,
       "languages": [
@@ -67,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

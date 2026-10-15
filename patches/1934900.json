@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r116711",
-        "key": "r116711"
+        "key": "r116711",
+        "origin": "https://drive.google.com/drive/folders/1Zsndb8GGhpv8EguS6DGr-D4YUnMtDoMo?usp=sharing"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

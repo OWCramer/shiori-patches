@@ -3,6 +3,40 @@
   "title": "夏花的轨迹——A summer promise to forever",
   "patches": [
     {
+      "id": "vndb-a-summer-promise-to-forever-adult-patch",
+      "name": "A summer promise to forever - Adult Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Publisher",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54421",
+        "key": "r54421",
+        "origin": "http://steamcommunity.com/app/629960/discussions/0/1480982338961974751/"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://steamcommunity.com/app/629960/discussions/0/1480982338961974751/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +45,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/629960",
-        "key": "629960"
+        "key": "629960",
+        "origin": "https://steamcommunity.com/app/629960/discussions/0/1496741765123393844/"
       },
       "version": null,
       "languages": [
@@ -33,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

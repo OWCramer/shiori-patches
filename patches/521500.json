@@ -70,6 +70,40 @@
       "install": {
         "into": "game"
       }
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "GrownUpByTheSakuraDungeon",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r123844",
+        "key": "r123844",
+        "origin": "https://boosty.to/sdungeon/posts/fa819669-7a54-478b-9554-0ffc8044fd18"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://boosty.to/sdungeon/posts/fa819669-7a54-478b-9554-0ffc8044fd18",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

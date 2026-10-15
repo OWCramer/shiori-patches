@@ -26,7 +26,7 @@ def _page(path):
 
 def _text(html):
     html = re.sub(r"<script.*?</script>|<style.*?</style>", "", html, flags=re.S)
-    html = re.sub(r'<a [^>]*href="([^"]+)"[^>]*>', r" [\1] ", html)
+    html = re.sub(r'<a [^>]*href="([^"]+)"[^>]*>', r" ⟦\1⟧ ", html)
     html = re.sub(r"<br\s*/?>|</p>|</li>", "\n", html)
     html = re.sub(r"<[^>]+>", " ", html)
     return re.sub(r"[ \t]+", " ", htmllib.unescape(html))
@@ -49,7 +49,7 @@ def _section(text, start, ends):
 
 def _links(section):
     links = []
-    for url in re.findall(r"\[(https?://[^\]\s]+)\]", section):
+    for url in re.findall(r"⟦(https?://[^⟧\s]+)⟧", section):
         url = url.replace("&amp;", "&")
         if url not in links:
             links.append(url)
@@ -88,7 +88,7 @@ def read(app_id):
     info = _section(text, "Patch Information:", ends)
 
     files = []
-    dlc = re.search(r"found as DLC for the game on the Steam Store: \[https://store\.steampowered\.com/app/(\d+)", text)
+    dlc = re.search(r"found as DLC for the game on the Steam Store: ⟦https://store\.steampowered\.com/app/(\d+)", text)
     stores = [_clean_store(u) for u in _links(info) + downloads if host_of(u) == "store"]
     if dlc:
         dlc_id = int(dlc.group(1))
@@ -115,7 +115,11 @@ def read(app_id):
 
     publisher_link = "publisher's link" in info or any(
         h in (files[0]["url"] or "") for h in PUBLISHER_HOSTS)
-    official = bool(dlc) or publisher_link or files[0]["host"] == "store"
+    # "The patch information is taken from the [link] Winged Cloud Patreon": the publisher's
+    # own post, which is where the patch comes from.
+    origin = next((u for u in _links(info) if "uncensorpat.ch" not in u and host_of(u) not in ("steam", "store")), None)
+    from_publisher = "taken from the" in info and _publisher(info) != "Publisher"
+    official = bool(dlc) or publisher_link or from_publisher or files[0]["host"] == "store"
     installer = bool(re.search(r"\.exe\b|patch installer|patcher", install, re.I))
     notes = []
     if install:
@@ -132,7 +136,8 @@ def read(app_id):
         "kind": "adult",
         "official": official,
         "by": "Steam" if dlc else _publisher(info + " " + " ".join(f["url"] for f in files)) if official else "uncensorpat.ch community",
-        "source": {"site": "uncensorpatch", "page": f"{SITE}/game/{app_id}", "key": str(app_id)},
+        "source": {"site": "uncensorpatch", "page": f"{SITE}/game/{app_id}", "key": str(app_id),
+                   **({"origin": origin} if origin else {})},
         "version": None,
         "languages": ["en"],
         "adult": True,

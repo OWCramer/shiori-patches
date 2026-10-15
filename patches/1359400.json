@@ -44,13 +44,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r82989",
-        "key": "r82989"
+        "key": "r82989",
+        "origin": "https://files.catbox.moe/v6vnjr.rar"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-loli-uncensor-patch",
@@ -77,13 +78,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r81867",
-        "key": "r81867"
+        "key": "r81867",
+        "origin": "https://files.catbox.moe/tsomby.rar"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -99,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

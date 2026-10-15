@@ -45,7 +45,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r9721",
-        "key": "r9721"
+        "key": "r9721",
+        "origin": "https://web.archive.org/web/20170619220659/http://staircasesubs.com/hoshizora-no-memoria/"
       },
       "version": null,
       "languages": [
@@ -67,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-2",
@@ -78,7 +79,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r78298",
-        "key": "r78298"
+        "key": "r78298",
+        "origin": "https://bit.ly/3rOc5Km"
       },
       "version": null,
       "languages": [
@@ -100,7 +102,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-readability-patch",
@@ -111,13 +113,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r162100",
-        "key": "r162100"
+        "key": "r162100",
+        "origin": "https://github.com/HareChaser/HoshimemoHdReadabilityPatch/tree/main"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -133,7 +136,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

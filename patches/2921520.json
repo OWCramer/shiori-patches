@@ -1,0 +1,40 @@
+{
+  "appID": 2921520,
+  "title": "You Are My Treasure",
+  "patches": [
+    {
+      "id": "vndb-18-patch",
+      "name": "18+ Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Little Black Book Entertainment",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r122137",
+        "key": "r122137-2945310"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/2945310",
+          "dlc": 2945310,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

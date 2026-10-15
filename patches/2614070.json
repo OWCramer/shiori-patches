@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r97203",
-        "key": "r97203"
+        "key": "r97203",
+        "origin": "https://sugoivisualnovel.up.railway.app/vns/23741"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-improvement-patch",
@@ -110,14 +111,15 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r161402",
-        "key": "r161402"
+        "key": "r161402",
+        "origin": "https://that-ruben.vercel.app/nukitashi"
       },
       "version": null,
       "languages": [
         "en",
         "ja"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -133,7 +135,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-name-order-honorifics-patch",
@@ -144,7 +146,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r123772",
-        "key": "r123772"
+        "key": "r123772",
+        "origin": "https://drive.google.com/file/d/16lz38YngQkV68yulhh2Xt4NaNZ224phF/view?usp=sharing"
       },
       "version": null,
       "languages": [
@@ -166,7 +169,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

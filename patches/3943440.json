@@ -45,7 +45,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r98353",
-        "key": "r98353"
+        "key": "r98353",
+        "origin": "https://sugoivisualnovel.up.railway.app/vns/20524"
       },
       "version": null,
       "languages": [
@@ -67,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

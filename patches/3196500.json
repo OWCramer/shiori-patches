@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r128081",
-        "key": "r128081"
+        "key": "r128081",
+        "origin": "https://www.zapinterlations.com/2024/10/hyakusen-no-jou-ni-kawatareshi-toki.html"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

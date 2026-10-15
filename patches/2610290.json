@@ -1,0 +1,41 @@
+{
+  "appID": 2610290,
+  "title": "Teacher Seduction",
+  "patches": [
+    {
+      "id": "vndb-18-patch",
+      "name": "18+ Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Love Seekers, Above Love Games",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r115187",
+        "key": "r115187-2693620"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/2693620",
+          "dlc": 2693620,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

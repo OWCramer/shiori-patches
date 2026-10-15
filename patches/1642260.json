@@ -38,21 +38,22 @@
     },
     {
       "id": "vndb-fan-patch",
-      "name": "Fan patch",
+      "name": "Fan translation",
       "kind": "translation",
       "official": false,
       "by": "kataneer",
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r138335",
-        "key": "r138335"
+        "key": "r138335",
+        "origin": "https://mega.nz/file/TR8myTYS#_Lt6-y0XDptH3mhHhixJs0LJ3bDya50liaWOatUa3R0"
       },
       "version": null,
       "languages": [
         "en",
         "ru"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -68,7 +69,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -3,6 +3,42 @@
   "title": "Muv-Luv Alternative",
   "patches": [
     {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Komodo",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r43058",
+        "key": "r43058",
+        "origin": "http://muvluv.moe/"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://muvluv.moe/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -45,13 +81,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r10816",
-        "key": "r10816"
+        "key": "r10816",
+        "origin": "https://web.archive.org/web/20190610201853/https://amaterasu.tindabox.net/"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -67,7 +104,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

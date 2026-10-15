@@ -35,6 +35,42 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-18-patch",
+      "name": "18+ Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54457",
+        "key": "r54457-947690"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/947690",
+          "dlc": 947690,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

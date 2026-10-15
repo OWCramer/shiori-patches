@@ -45,7 +45,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/687920",
-        "key": "687920"
+        "key": "687920",
+        "origin": "http://tentacle.studio/product/02_tl/patch_en.html"
       },
       "version": null,
       "languages": [
@@ -67,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -77,13 +77,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r139500",
-        "key": "r139500"
+        "key": "r139500",
+        "origin": "https://mega.nz/file/IZ5hxRSa#7fVTJM-aqyPUjjk6RdzVPemooVuRYvLPzgInKG4d0W0"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -99,7 +100,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

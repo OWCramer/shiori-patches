@@ -11,7 +11,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1094530",
-        "key": "1094530"
+        "key": "1094530",
+        "origin": "http://appendingpulse.jp/dl/alias_carnival_steam_patch/"
       },
       "version": null,
       "languages": [
@@ -33,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

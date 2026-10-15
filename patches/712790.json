@@ -44,14 +44,15 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r54345",
-        "key": "r54345"
+        "key": "r54345",
+        "origin": "https://www.uncensorpat.ch/game/712790"
       },
       "version": null,
       "languages": [
         "en",
         "zh-Hant"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -67,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

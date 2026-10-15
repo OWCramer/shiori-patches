@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r96455",
-        "key": "r96455"
+        "key": "r96455",
+        "origin": "https://files.catbox.moe/y5sz60.rar"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-love-s-a-battle-mosaic-restoration-patch",
@@ -77,13 +78,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r137272",
-        "key": "r137272"
+        "key": "r137272",
+        "origin": "https://mega.nz/file/Kd12yALI#8kzLhW-_PkmVzojeCRgYmWMFVZFUMNSjNSYsgXgmIXg"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -99,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

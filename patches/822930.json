@@ -3,6 +3,40 @@
   "title": "Wolf Tails",
   "patches": [
     {
+      "id": "vndb-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "Razzart Visual",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r56759",
+        "key": "r56759-943850"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/943850",
+          "dlc": 943850,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +45,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/822930",
-        "key": "822930"
+        "key": "822930",
+        "origin": "http://razzartvisual.com/2018/05/02/wolf-tails-18-patch/"
       },
       "version": null,
       "languages": [
@@ -33,10 +68,44 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11",
+      "checked": "2026-10-14",
       "install": {
         "into": "game"
       }
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "White Novels",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r68823",
+        "key": "r68823",
+        "origin": "https://whitenovelstraducciones.wordpress.com/2020/01/06/wolf-tails/"
+      },
+      "version": null,
+      "languages": [
+        "es"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://whitenovelstraducciones.wordpress.com/2020/01/06/wolf-tails/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -3,6 +3,80 @@
   "title": "Nekojishi",
   "patches": [
     {
+      "id": "vndb-jia-you-damao-expansion-pack-tianqi-qing-jia-you-damao",
+      "name": "Jia You Damao Expansion Pack: Tianqi Qing + Jia You Damao Voice Pack",
+      "kind": "other",
+      "official": true,
+      "by": "Orange Juice Dog, Team Nekojishi, Studio Klondike",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r57684",
+        "key": "r57684",
+        "origin": "https://web.archive.org/web/20190322191137/https://store.nekojishi.tw/en/product/expansion_pack_en/"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://web.archive.org/web/20190322191137/https://store.nekojishi.tw/en/product/expansion_pack_en/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-limited-edition-patch",
+      "name": "Limited Edition Patch",
+      "kind": "other",
+      "official": true,
+      "by": "Team Nekojishi",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r56612",
+        "key": "r56612",
+        "origin": "https://web.archive.org/web/20190322191138/https://store.nekojishi.tw/en/product/nekojishi_limited-en/"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://web.archive.org/web/20190322191138/https://store.nekojishi.tw/en/product/nekojishi_limited-en/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",

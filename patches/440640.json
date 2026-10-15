@@ -3,6 +3,42 @@
   "title": "Sweet F. Cake",
   "patches": [
     {
+      "id": "vndb-extended-version",
+      "name": "Extended version",
+      "kind": "other",
+      "official": true,
+      "by": "Texic, Bear in the Night Studio",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r72199",
+        "key": "r72199",
+        "origin": "https://steamcommunity.com/app/440640/discussions/0/2273701484014167010/"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ru",
+        "zh-Hans"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://steamcommunity.com/app/440640/discussions/0/2273701484014167010/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +47,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/440640",
-        "key": "440640"
+        "key": "440640",
+        "origin": "https://steamcommunity.com/app/440640/discussions/0/2273701484014167010/"
       },
       "version": null,
       "languages": [
@@ -33,7 +70,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

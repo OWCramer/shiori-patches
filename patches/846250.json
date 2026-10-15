@@ -11,7 +11,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/846250",
-        "key": "846250"
+        "key": "846250",
+        "origin": "http://tophat.studio/portfolio/devious/"
       },
       "version": null,
       "languages": [
@@ -19,7 +20,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "dead",
+      "status": "ok",
       "verified": false,
       "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, overwriting the files when prompted It's working if: \"SFW\" is no longer listed on the settings menu.",
       "files": [
@@ -33,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

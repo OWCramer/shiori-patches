@@ -1,0 +1,74 @@
+{
+  "appID": 2146500,
+  "title": "Unluckily in Love",
+  "patches": [
+    {
+      "id": "vndb-adult-patch",
+      "name": "Adult Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "ebi-hime",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r152352",
+        "key": "r152352-2350130"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/2350130",
+          "dlc": 2350130,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "iqdhk8t0hxww",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r120499",
+        "key": "r120499",
+        "origin": "https://pornolab.net/forum/viewtopic.php?t=3073768"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://pornolab.net/forum/viewtopic.php?t=3073768",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

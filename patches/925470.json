@@ -11,7 +11,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/925470",
-        "key": "925470"
+        "key": "925470",
+        "origin": "https://lastkingdom.tistory.com/1268"
       },
       "version": null,
       "languages": [
@@ -33,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch",
@@ -44,13 +45,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r61790",
-        "key": "r61790"
+        "key": "r61790",
+        "origin": "https://lastkingdom.tistory.com/1268"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -66,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

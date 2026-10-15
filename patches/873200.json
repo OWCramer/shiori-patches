@@ -11,7 +11,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/873200",
-        "key": "873200"
+        "key": "873200",
+        "origin": "https://discord.gg/TH4MCCG"
       },
       "version": null,
       "languages": [
@@ -19,7 +20,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "dead",
+      "status": "ok",
       "verified": false,
       "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patcher from the link below Move the downloaded \"Uncens.exe\" patcher into the game install folder mentioned above Run the patcher, enter the password \" havefun \" when prompted, and overwrite any files if prompted uncensorpat.ch checked this patch on PC.",
       "files": [
@@ -34,7 +35,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

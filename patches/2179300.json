@@ -1,0 +1,44 @@
+{
+  "appID": 2179300,
+  "title": "Blades of Jianghu: Ballad of Wind and Dust",
+  "patches": [
+    {
+      "id": "vndb-r18-dlc",
+      "name": "R18 DLC -",
+      "kind": "adult",
+      "official": true,
+      "by": "Eternal Alice Studio",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r119585",
+        "key": "r119585-2183310"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/2183310",
+          "dlc": 2183310,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "appID": 1600930,
+  "title": "Foul Play - Yuri Visual Novel",
+  "patches": [
+    {
+      "id": "vndb-18-adult-content-dlc",
+      "name": "18+ Adult Content DLC",
+      "kind": "adult",
+      "official": true,
+      "by": "Bandit Visual Games",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r84101",
+        "key": "r84101-1774670"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/1774670",
+          "dlc": 1774670,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

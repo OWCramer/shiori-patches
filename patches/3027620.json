@@ -77,13 +77,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r139668",
-        "key": "r139668"
+        "key": "r139668",
+        "origin": "https://mega.nz/file/NcpFlarQ#XlJeAo4jfj_SeWvfk49RdbSSt0-Hn13hvkAw-pQ7DRo"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -99,7 +100,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

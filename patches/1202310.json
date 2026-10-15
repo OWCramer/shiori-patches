@@ -37,6 +37,74 @@
       "install": {
         "into": "game"
       }
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "KityKat",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r108468",
+        "key": "r108468",
+        "origin": "https://anivisual.net/stuff/2-1-0-5126"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://anivisual.net/stuff/2-1-0-5126",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-uncensored-patch",
+      "name": "Uncensored Patch",
+      "kind": "adult",
+      "official": false,
+      "by": "Eromangá",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r74073",
+        "key": "r74073",
+        "origin": "https://eromangatranslations.blogspot.com/2020/05/sakura-succubus.html"
+      },
+      "version": null,
+      "languages": [
+        "pt-br"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://eromangatranslations.blogspot.com/2020/05/sakura-succubus.html",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

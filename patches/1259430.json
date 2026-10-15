@@ -3,6 +3,40 @@
   "title": "First Snow",
   "patches": [
     {
+      "id": "vndb-18-patch",
+      "name": "18+ Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Salty Salty Studios",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r73810",
+        "key": "r73810",
+        "origin": "https://firstsnow.salty-salty-studios.com/"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://firstsnow.salty-salty-studios.com/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +45,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1259430",
-        "key": "1259430"
+        "key": "1259430",
+        "origin": "https://firstsnow.salty-salty-studios.com/h.html"
       },
       "version": null,
       "languages": [
@@ -33,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11",
+      "checked": "2026-10-14",
       "install": {
         "into": "game"
       }

@@ -1,0 +1,82 @@
+{
+  "appID": 4838460,
+  "title": "HimaNatsu: Of Churches, Sunflowers, and Long Summers",
+  "patches": [
+    {
+      "id": "kagami-steam-patch",
+      "name": "Steam patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Kagami Games",
+      "source": {
+        "site": "kagami",
+        "page": "https://patches.kagamied.com/",
+        "key": "https://kagami.zip/Patch/KG010V0C6V5E-VER100.zip"
+      },
+      "version": "1.0.0",
+      "languages": [
+        "en",
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Kagami Games' own patch: restores the content cut from the Steam release.",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://kagami.zip/Patch/KG010V0C6V5E-VER100.zip",
+          "name": "KG010V0C6V5E-VER100.zip",
+          "format": "zip",
+          "mirrors": [
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/drive/folders/1a4iqabZKYNPDT6GnZKwu-SkMzLeGt1o7?usp=sharing"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-2k-patch",
+      "name": "2K Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Fan patch",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r165334",
+        "key": "r165334",
+        "origin": "https://mega.nz/file/hZYGnRoI#zubgNLqVdS7t1eTYt6LB4-wHXzEiB_q__aNIfFUuFsE"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://mega.nz/file/hZYGnRoI#zubgNLqVdS7t1eTYt6LB4-wHXzEiB_q__aNIfFUuFsE",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

@@ -3,6 +3,40 @@
   "title": "Sacrament",
   "patches": [
     {
+      "id": "vndb-uncensored-patch",
+      "name": "Uncensored Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Publisher",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r57181",
+        "key": "r57181",
+        "origin": "https://web.archive.org/web/20180316093647/https://steamcommunity.com/app/734380/discussions/0/1698293255120174921/"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://web.archive.org/web/20180316093647/https://steamcommunity.com/app/734380/discussions/0/1698293255120174921/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",

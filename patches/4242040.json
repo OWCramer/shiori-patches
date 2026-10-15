@@ -1,0 +1,80 @@
+{
+  "appID": 4242040,
+  "title": "Koikata: How Our Love Grows",
+  "patches": [
+    {
+      "id": "kagami-steam-patch",
+      "name": "Steam patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Kagami Games",
+      "source": {
+        "site": "kagami",
+        "page": "https://patches.kagamied.com/",
+        "key": "https://kagami.zip/Patch/KG009M7V5S1E-VER110.zip"
+      },
+      "version": "1.1.0",
+      "languages": [
+        "en",
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Kagami Games' own patch: restores the content cut from the Steam release.",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://kagami.zip/Patch/KG009M7V5S1E-VER110.zip",
+          "name": "KG009M7V5S1E-VER110.zip",
+          "format": "zip",
+          "mirrors": [
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/drive/folders/1Sh3D_cxZcDf5V4iU8DEdP9yBYeh6TSQf?usp=sharing"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-patch",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "SVN",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r151692",
+        "key": "r151692",
+        "origin": "https://greatvisualnovel.up.railway.app/vns/17632"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://greatvisualnovel.up.railway.app/vns/17632",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

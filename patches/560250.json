@@ -3,6 +3,40 @@
   "title": "Galaxy Girls",
   "patches": [
     {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Dharker Studios Limited",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r53572",
+        "key": "r53572",
+        "origin": "https://dharker.studio/brightly-studios/#/galaxygirls/"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://dharker.studio/brightly-studios/#/galaxygirls/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",

@@ -1,0 +1,110 @@
+{
+  "appID": 2313140,
+  "title": "OPPAI Ero App Academy Bigger, Better, Electric Boobaloo!",
+  "patches": [
+    {
+      "id": "vndb-18-dlc",
+      "name": "18+ DLC",
+      "kind": "adult",
+      "official": true,
+      "by": "Frontwing",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r107859",
+        "key": "r107859-2998690"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/2998690",
+          "dlc": 2998690,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-patch",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Fan patch",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r78795",
+        "key": "r78795",
+        "origin": "https://mega.nz/folder/JAYXDSAJ#xvQtA_X3W7lxL_HVgwBHrQ"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://mega.nz/folder/JAYXDSAJ#xvQtA_X3W7lxL_HVgwBHrQ",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-patch-2",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "SVN",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r102195",
+        "key": "r102195",
+        "origin": "https://sugoivisualnovel.up.railway.app/vns/25964"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://sugoivisualnovel.up.railway.app/vns/25964",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

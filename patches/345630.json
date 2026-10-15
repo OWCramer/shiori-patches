@@ -44,13 +44,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r84544",
-        "key": "r84544"
+        "key": "r84544",
+        "origin": "https://www.mediafire.com/file/7523qhp21q70ofa/Grisaia3_HCG_patch.rar/file"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-ucg-patch",
@@ -77,13 +78,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r84543",
-        "key": "r84543"
+        "key": "r84543",
+        "origin": "https://www.mediafire.com/file/k94rczei51t2qw5/Grisaia3_UCG_patch_.rar/file"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -99,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

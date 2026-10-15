@@ -4,14 +4,15 @@
   "patches": [
     {
       "id": "uncensorpatch-uncensor-patch",
-      "name": "Uncensor patch",
+      "name": "Patch",
       "kind": "adult",
-      "official": false,
-      "by": "uncensorpat.ch community",
+      "official": true,
+      "by": "Yume Creations",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/1249500",
-        "key": "1249500"
+        "site": "vndb",
+        "page": "https://vndb.org/r72466",
+        "key": "r72466",
+        "origin": "http://yumecreations.de/Downloads/ApprehendGirlfriendPatch.zip"
       },
       "version": null,
       "languages": [
@@ -21,7 +22,7 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...), and navigate into the 'game' folder Download the patch archive from the link below Extract the 'R18.rpa' file from the downloaded patch archive into the 'game' folder mentioned above",
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
       "files": [
         {
           "host": "direct",
@@ -33,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

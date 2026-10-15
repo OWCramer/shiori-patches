@@ -11,7 +11,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1466680",
-        "key": "1466680"
+        "key": "1466680",
+        "origin": "https://www.patreon.com/posts/sakura-mmo-extra-46073693"
       },
       "version": null,
       "languages": [
@@ -33,10 +34,44 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11",
+      "checked": "2026-10-14",
       "install": {
         "into": "game"
       }
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "iqdhk8t0hxww",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r121473",
+        "key": "r121473",
+        "origin": "https://pornolab.net/forum/viewtopic.php?t=3073223"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://pornolab.net/forum/viewtopic.php?t=3073223",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

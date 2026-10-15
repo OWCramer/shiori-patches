@@ -50,7 +50,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r28599",
-        "key": "r28599"
+        "key": "r28599",
+        "origin": "http://aarinfantasy.com/forum/f16/t103632-sweet-pool-translation-project-p27.html#post4133003"
       },
       "version": null,
       "languages": [
@@ -72,7 +73,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

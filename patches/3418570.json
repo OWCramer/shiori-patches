@@ -3,6 +3,42 @@
   "title": "Summer Pockets REFLECTION BLUE",
   "patches": [
     {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "other",
+      "official": true,
+      "by": "Key, PROTOTYPE, VISUAL ARTS Co.,Ltd.",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r140659",
+        "key": "r140659",
+        "origin": "https://va-trialdist.azureedge.net/key/summer_rb/index.html"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hans"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://va-trialdist.azureedge.net/key/summer_rb/index.html",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "vndb-fan-patch",
       "name": "Fan patch",
       "kind": "translation",
@@ -11,7 +47,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r65030",
-        "key": "r65030"
+        "key": "r65030",
+        "origin": "http://alkatranslations.com/"
       },
       "version": null,
       "languages": [
@@ -33,7 +70,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-2",
@@ -44,7 +81,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r69674",
-        "key": "r69674"
+        "key": "r69674",
+        "origin": "https://drive.google.com/file/d/1D-ajjzNkAK7BfP_K10wRNil3lN_Qp2eN/view?usp=sharing"
       },
       "version": null,
       "languages": [
@@ -66,7 +104,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-3",
@@ -77,7 +115,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r72801",
-        "key": "r72801"
+        "key": "r72801",
+        "origin": "https://alkatranslations.com/downloads/"
       },
       "version": null,
       "languages": [
@@ -99,7 +138,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-trial-edition",

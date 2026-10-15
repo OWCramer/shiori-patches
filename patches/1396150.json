@@ -4,24 +4,28 @@
   "patches": [
     {
       "id": "uncensorpatch-uncensor-patch",
-      "name": "Uncensor patch",
+      "name": "R18 Patch",
       "kind": "adult",
-      "official": false,
-      "by": "uncensorpat.ch community",
+      "official": true,
+      "by": "Sushi soft",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/1396150",
-        "key": "1396150"
+        "site": "vndb",
+        "page": "https://vndb.org/r79391",
+        "key": "r79391",
+        "origin": "https://272fd711-e80c-4a68-95fe-a4e0028f2587.usrfiles.com/archives/272fd7_5e198f09084d4b1aa80af997e2f9e359.zip?dn=Sutekina_kanojo_no_tsukurikata_patch.zip"
       },
       "version": null,
       "languages": [
-        "en"
+        "en",
+        "ja",
+        "zh-Hans",
+        "zh-Hant"
       ],
       "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, merging folders and overwriting files if prompted",
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
       "files": [
         {
           "host": "direct",
@@ -33,7 +37,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

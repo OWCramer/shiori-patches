@@ -77,7 +77,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r100400",
-        "key": "r100400"
+        "key": "r100400",
+        "origin": "https://sugoivisualnovel.up.railway.app/vns/22345"
       },
       "version": null,
       "languages": [
@@ -99,7 +100,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-2",
@@ -110,7 +111,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r124607",
-        "key": "r124607"
+        "key": "r124607",
+        "origin": "https://mega.nz/file/9E5mFTbD#H2Zhiyuvf5SmHdEkMwKE57zpQ1xm4UjXifIq-2sOBPo"
       },
       "version": null,
       "languages": [
@@ -132,7 +134,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
@@ -143,13 +145,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r141666",
-        "key": "r141666"
+        "key": "r141666",
+        "origin": "https://mega.nz/file/QYQwRaZA#650DZRx0A9zfw8WezxZm5ZVU2LQirZx1m1bFL5ZRYUc"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -165,7 +168,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

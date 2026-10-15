@@ -11,7 +11,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1500120",
-        "key": "1500120"
+        "key": "1500120",
+        "origin": "https://wasabi.sub.jp/"
       },
       "version": null,
       "languages": [
@@ -19,7 +20,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "dead",
+      "status": "ok",
       "verified": false,
       "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the patch archive onto your computer Run \"dark_spehere_patch_v3.exe\" and select your Steam game install folder (from Step 1) when asked to Select Destination Location It's working if: The main menu shows the title and girl on it instead of just being plain black, and a large image of Rifuz is shown during the conversation with the Master Elder. uncensorpat.ch checked this patch on PC.",
       "files": [
@@ -34,7 +35,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

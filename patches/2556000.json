@@ -1,0 +1,40 @@
+{
+  "appID": 2556000,
+  "title": "Manhattan Dolls",
+  "patches": [
+    {
+      "id": "vndb-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "TasteT Games",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r124645",
+        "key": "r124645-3064070"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/3064070",
+          "dlc": 3064070,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

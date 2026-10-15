@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r45715",
-        "key": "r45715"
+        "key": "r45715",
+        "origin": "http://theoxfordcommaissuperiorsubs.com/2016/04/02/dracu-riot-completion-project-announced/"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

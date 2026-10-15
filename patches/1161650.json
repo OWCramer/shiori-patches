@@ -37,6 +37,40 @@
       "install": {
         "into": "game"
       }
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "GrownUpByTheSakuraDungeon",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r108467",
+        "key": "r108467",
+        "origin": "https://anivisual.net/stuff/2-1-0-5125"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://anivisual.net/stuff/2-1-0-5125",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

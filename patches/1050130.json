@@ -6,12 +6,13 @@
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
-      "official": false,
-      "by": "uncensorpat.ch community",
+      "official": true,
+      "by": "Winged Cloud",
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1050130",
-        "key": "1050130"
+        "key": "1050130",
+        "origin": "https://www.patreon.com/posts/sakura-melody-74657685"
       },
       "version": null,
       "languages": [
@@ -33,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

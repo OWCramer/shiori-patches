@@ -3,6 +3,43 @@
   "title": "LAMUNATION",
   "patches": [
     {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Love Lab",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r59805",
+        "key": "r59805",
+        "origin": "https://www.lovelabjapan.com/en/patches/"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.lovelabjapan.com/en/patches/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +48,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1025140",
-        "key": "1025140"
+        "key": "1025140",
+        "origin": "http://whitepowder.jp/patch/"
       },
       "version": null,
       "languages": [
@@ -33,7 +71,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

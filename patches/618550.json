@@ -3,6 +3,40 @@
   "title": "Chess of Blades",
   "patches": [
     {
+      "id": "vndb-r18-patch",
+      "name": "R18 Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Argent Games LLC",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r55013",
+        "key": "r55013",
+        "origin": "https://argent-games.itch.io/chess-of-blades"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://argent-games.itch.io/chess-of-blades",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +45,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/618550",
-        "key": "618550"
+        "key": "618550",
+        "origin": "https://argent-games.itch.io/chess-of-blades"
       },
       "version": null,
       "languages": [
@@ -33,10 +68,44 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11",
+      "checked": "2026-10-14",
       "install": {
         "into": "game"
       }
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "iqdhk8t0hxww",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r120498",
+        "key": "r120498",
+        "origin": "https://pornolab.net/forum/viewtopic.php?t=3073768"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://pornolab.net/forum/viewtopic.php?t=3073768",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

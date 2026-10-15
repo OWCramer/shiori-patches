@@ -1,0 +1,176 @@
+{
+  "appID": 3094010,
+  "title": "HENPRI: HENTAI PRISON",
+  "patches": [
+    {
+      "id": "patchmoe-henpri-hentai-prison-dlc-patch",
+      "name": "HENPRI: HENTAI PRISON DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/HENTAI_PRISON_PATCH_20250630.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/HENTAI_PRISON_PATCH_20250630.zip",
+          "name": "HENTAI_PRISON_PATCH_20250630.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-patch",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "SVN",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r116333",
+        "key": "r116333",
+        "origin": "https://sugoivisualnovel.up.railway.app/vns/31055"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://sugoivisualnovel.up.railway.app/vns/31055",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-honorifics-improvement-patch",
+      "name": "Honorifics/Improvement Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Fan patch",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r133199",
+        "key": "r133199",
+        "origin": "https://drive.google.com/file/d/1ZCud4ayKFCzlxqJhMajopJ5khXHvCwj1/view?usp=sharing"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://drive.google.com/file/d/1ZCud4ayKFCzlxqJhMajopJ5khXHvCwj1/view?usp=sharing",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-improvement-patch",
+      "name": "Improvement Patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Fan patch",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r160348",
+        "key": "r160348",
+        "origin": "https://www.mediafire.com/file/c0j6zcqu5jtb4au/HENPRI_Improvement_Patch_Setup.exe/file"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.mediafire.com/file/c0j6zcqu5jtb4au/HENPRI_Improvement_Patch_Setup.exe/file",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-jp-restoration-patch",
+      "name": "JP restoration patch",
+      "kind": "adult",
+      "official": false,
+      "by": "That-Ruben",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r160772",
+        "key": "r160772",
+        "origin": "https://that-ruben.vercel.app/henpri"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://that-ruben.vercel.app/henpri",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

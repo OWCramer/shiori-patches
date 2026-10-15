@@ -44,13 +44,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r139802",
-        "key": "r139802"
+        "key": "r139802",
+        "origin": "https://mega.nz/file/RYIkEajZ#SjQfvPcJv20AkkxmlT0y7Os_j7L1r-N0RzcXAHjwu5o"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

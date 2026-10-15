@@ -35,6 +35,77 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-uncensored-adult-patch",
+      "name": "Uncensored Adult Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "ebi-hime",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r80584",
+        "key": "r80584-1075720"
+      },
+      "version": null,
+      "languages": [
+        "de",
+        "en",
+        "ru",
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/1075720",
+          "dlc": 1075720,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Re: LieF TranslatioN",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r71423",
+        "key": "r71423",
+        "origin": "https://relieftranslation.com/vnpcandroidblackberry-honey-18/"
+      },
+      "version": null,
+      "languages": [
+        "vi"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://relieftranslation.com/vnpcandroidblackberry-honey-18/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

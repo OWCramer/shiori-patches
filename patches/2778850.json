@@ -1,0 +1,46 @@
+{
+  "appID": 2778850,
+  "title": "One Iced Latte With Your Breast Milk, Please!",
+  "patches": [
+    {
+      "id": "vndb-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "azaly, nemuaki",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r141167",
+        "key": "r141167-3815950"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "es",
+        "fr",
+        "ja",
+        "ko",
+        "pl",
+        "ru"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/3815950",
+          "dlc": 3815950,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}
