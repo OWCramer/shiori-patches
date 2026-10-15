@@ -22,13 +22,15 @@ sys.path.insert(0, os.path.dirname(__file__))
 from common import fetch_json, slug, today  # noqa: E402
 import datetime  # noqa: E402
 import download  # noqa: E402
-from sources import denpasoft, kagami, nekonyan, patchmoe, saikey, uncensorpatch, vndb, wingedcloud  # noqa: E402
+from sources import denpasoft, kagami, nekonyan, patchmoe, sakurapatcher, saikey, uncensorpatch, vndb, wingedcloud  # noqa: E402
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 PATCHES = os.path.join(ROOT, "patches")
 COMPATIBILITY = "https://raw.githubusercontent.com/OWCramer/shiori-compatibility/main/engines/{}.json"
 ENGINES = ("renpy", "artemis", "kirikiri", "siglus", "luca")
 SITE_FIELDS = ("name", "official", "by", "languages", "adult")
+# Lists that only fill gaps: they never take over a patch another site already lists.
+FILL_IN_SITES = ("sakurapatcher",)
 
 
 def load():
@@ -110,7 +112,10 @@ def merge(games, entry):
                              for f in p["files"])), None)
         if other is not None:
             # Another site already lists this file. The publisher's own listing takes it over.
-            if candidate["official"] and other["source"]["site"] == "uncensorpatch" and other["files"][0]["host"] != "steam":
+            # So does any other site's for a patch only a fill-in list had.
+            if (candidate["source"]["site"] not in FILL_IN_SITES and other["files"][0]["host"] != "steam"
+                    and ((candidate["official"] and other["source"]["site"] == "uncensorpatch")
+                         or other["source"]["site"] in FILL_IN_SITES)):
                 for field in ("name", "kind", "official", "by", "source", "languages", "adult"):
                     other[field] = candidate[field]
                 if other["files"][0]["host"] in ("store", "page") or candidate["files"][0]["host"] not in ("store", "page"):
@@ -235,7 +240,7 @@ def compatibility_app_ids():
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--sources", default="nekonyan,saikey,kagami,patchmoe,wingedcloud,denpasoft,uncensorpatch,vndb")
+    parser.add_argument("--sources", default="nekonyan,saikey,kagami,patchmoe,wingedcloud,sakurapatcher,denpasoft,uncensorpatch,vndb")
     parser.add_argument("--full", action="store_true", help="read every uncensorpat.ch page again")
     parser.add_argument("--app-ids", help="comma-separated app ids for uncensorpat.ch and VNDB")
     parser.add_argument("--hash-limit-gb", type=float, default=10)
@@ -266,6 +271,8 @@ def main():
         take("patch.moe", patchmoe.collect())
     if "wingedcloud" in sources:
         take("Winged Cloud", wingedcloud.collect())
+    if "sakurapatcher" in sources:
+        take("sakura-patcher", sakurapatcher.collect())
     if "denpasoft" in sources:
         take("Denpasoft", denpasoft.collect())
     if "uncensorpatch" in sources:
