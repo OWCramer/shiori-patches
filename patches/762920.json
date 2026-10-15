@@ -3,6 +3,41 @@
   "title": "Glory of the Self-Styled Diehard girl",
   "patches": [
     {
+      "id": "vndb-uncensored-patch",
+      "name": "Uncensored Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Publisher",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r57302",
+        "key": "r57302",
+        "origin": "https://steamcommunity.com/app/762920/discussions/0/3288067088087306469/"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://steamcommunity.com/app/762920/discussions/0/3288067088087306469/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-15",
+      "checked": "2026-10-15"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -45,7 +80,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r93432",
-        "key": "r93432"
+        "key": "r93432",
+        "origin": "https://dargtls.wordpress.com/2022/07/12/orebichi-a-hardcore-mans-man-turns-into-a-massive-slut-tl/"
       },
       "version": null,
       "languages": [
@@ -67,7 +103,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-15"
     }
   ]
 }

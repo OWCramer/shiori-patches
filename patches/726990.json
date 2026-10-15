@@ -27,10 +27,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/tDAjBAgC#Vg16dqH9NnhN7cmqvbLzorLv3k7mSy9r0fWU9zGuayo",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Succubus Rem Patch v1.1 [English].zip",
+          "format": "zip",
+          "size": 355799018,
+          "sha256": "001b7268bdd76ddb825686cb228698582615651262b7b26aa98af8205497d2f2"
         }
       ],
       "added": "2026-10-11",

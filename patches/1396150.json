@@ -28,16 +28,16 @@
       "notes": "Listed on VNDB; the download is on the patch's own page.",
       "files": [
         {
-          "host": "direct",
+          "host": "page",
           "url": "https://272fd711-e80c-4a68-95fe-a4e0028f2587.usrfiles.com/archives/272fd7_5e198f09084d4b1aa80af997e2f9e359.zip?dn=Sutekina_kanojo_no_tsukurikata_patch.zip",
-          "name": "Sutekina_kanojo_no_tsukurikata_patch.zip",
-          "format": "zip",
-          "size": 28433,
-          "sha256": "8fbbd0bdc87fea0d20a0d91a1342122deafe1e57f0bc84223012821605d11067"
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-15"
     }
   ]
 }

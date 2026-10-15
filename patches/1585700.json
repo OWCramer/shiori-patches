@@ -57,7 +57,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "dead",
       "verified": false,
       "notes": "Install (PC): Download the patch archive from the link below Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Extract the 'patch.xp3' file from the patch archive into the game install folder It's working if: The titlebar of the game has \"R-18 Ver.\" at the end of it. uncensorpat.ch checked this patch on PC.",
       "files": [
