@@ -3,6 +3,40 @@
   "title": "Love Ribbon",
   "patches": [
     {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "other",
+      "official": true,
+      "by": "Sakashi Plans",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r60507",
+        "key": "r60507",
+        "origin": "https://sakashiplans.wordpress.com/2018/11/12/love-ribbon/"
+      },
+      "version": null,
+      "languages": [
+        "es"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://sakashiplans.wordpress.com/2018/11/12/love-ribbon/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +45,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/559610",
-        "key": "559610"
+        "key": "559610",
+        "origin": "http://razzartvisual.com/2017/01/24/love-ribbon-18-patch/"
       },
       "version": null,
       "languages": [
@@ -33,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11",
+      "checked": "2026-10-14",
       "install": {
         "into": "game"
       }

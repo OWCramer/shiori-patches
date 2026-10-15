@@ -1,0 +1,40 @@
+{
+  "appID": 1772810,
+  "title": "Tails and Pines",
+  "patches": [
+    {
+      "id": "vndb-18-extra-scenes",
+      "name": "18+ Extra Scenes",
+      "kind": "adult",
+      "official": true,
+      "by": "Dirty Fox Games, Lollipop Revival",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r88007",
+        "key": "r88007-1854230"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/1854230",
+          "dlc": 1854230,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

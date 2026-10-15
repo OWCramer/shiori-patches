@@ -1,0 +1,74 @@
+{
+  "appID": 2415010,
+  "title": "A Date with Death",
+  "patches": [
+    {
+      "id": "vndb-beyond-the-bet-adult-patch",
+      "name": "Beyond the Bet Adult Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Two and a Half Studios",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r123155",
+        "key": "r123155-3216270"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/3216270",
+          "dlc": 3216270,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Pufkein Translate Limited™ ©",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r165741",
+        "key": "r165741",
+        "origin": "https://steamcommunity.com/sharedfiles/filedetails/?id=3646387498"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3646387498",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

@@ -11,7 +11,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1073440",
-        "key": "1073440"
+        "key": "1073440",
+        "origin": "http://koikatsuparty.illusion.jp/"
       },
       "version": null,
       "languages": [
@@ -33,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

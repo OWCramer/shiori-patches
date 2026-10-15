@@ -1,0 +1,40 @@
+{
+  "appID": 2439580,
+  "title": "Hawaii Detective: Killing of a Krypto King",
+  "patches": [
+    {
+      "id": "vndb-adults-only-18-patch",
+      "name": "Adults Only 18+ Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Little Black Book Entertainment",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r123567",
+        "key": "r123567-2814780"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/2814780",
+          "dlc": 2814780,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

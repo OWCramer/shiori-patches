@@ -3,6 +3,45 @@
   "title": "Lagoon Lounge 2 : The Secret Roommate",
   "patches": [
     {
+      "id": "vndb-r-18-patch",
+      "name": "R-18 Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Kaijyu-09",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r118933",
+        "key": "r118933",
+        "origin": "https://kaiju09.com/lagoon_lounge/jp/"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "es",
+        "ja",
+        "ko",
+        "th",
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://kaiju09.com/lagoon_lounge/jp/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +50,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/2754340",
-        "key": "2754340"
+        "key": "2754340",
+        "origin": "http://kaiju09.com/lagoon_lounge/en/"
       },
       "version": null,
       "languages": [
@@ -33,7 +73,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "appID": 1398210,
+  "title": "Selene ~Apoptosis~",
+  "patches": [
+    {
+      "id": "vndb-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "Flat Chest Dev, Viscum key",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r103856",
+        "key": "r103856-1398260"
+      },
+      "version": null,
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "pl",
+        "pt-br",
+        "ru",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/1398260",
+          "dlc": 1398260,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

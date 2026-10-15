@@ -3,6 +3,42 @@
   "title": "Kirakira stars project Ai",
   "patches": [
     {
+      "id": "vndb-r18-patch",
+      "name": "R18 Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Sushi soft",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r69650",
+        "key": "r69650",
+        "origin": "https://www.sushi-soft.com/kirakira-stars-idol-project-ai"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.sushi-soft.com/kirakira-stars-idol-project-ai",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +47,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1202770",
-        "key": "1202770"
+        "key": "1202770",
+        "origin": "https://en.sushi-soft.com/kirakira-stars-idol-project-ai"
       },
       "version": null,
       "languages": [
@@ -33,7 +70,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

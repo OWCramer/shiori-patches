@@ -1,0 +1,41 @@
+{
+  "appID": 1468430,
+  "title": "Freezer Pops",
+  "patches": [
+    {
+      "id": "vndb-a-hot-bara-business-18-dlc",
+      "name": "A Hot Bara Business - 18+ DLC",
+      "kind": "adult",
+      "official": true,
+      "by": "Male Doll",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r84099",
+        "key": "r84099-1468450"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "pt-br"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/1468450",
+          "dlc": 1468450,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

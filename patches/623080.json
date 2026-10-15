@@ -11,7 +11,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r71",
-        "key": "r71"
+        "key": "r71",
+        "origin": "http://insani.org/planetarian/index.html"
       },
       "version": null,
       "languages": [
@@ -33,18 +34,19 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-2",
-      "name": "Fan patch",
+      "name": "Fan translation",
       "kind": "translation",
       "official": false,
       "by": "Sep7, Mashedmonk",
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r85548",
-        "key": "r85548"
+        "key": "r85548",
+        "origin": "https://drive.google.com/drive/folders/10cgV8Mf8G8VAtzpIeqwr1QHBusI_UnyP"
       },
       "version": null,
       "languages": [
@@ -67,7 +69,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-katawa-shoujo-port",
@@ -78,7 +80,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r108512",
-        "key": "r108512"
+        "key": "r108512",
+        "origin": "https://ks.fhs.sh/viewtopic.php?f=3&t=13530"
       },
       "version": null,
       "languages": [
@@ -100,7 +103,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

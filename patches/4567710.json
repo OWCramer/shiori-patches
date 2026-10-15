@@ -1,0 +1,47 @@
+{
+  "appID": 4567710,
+  "title": "Template!! An Angel's Gift",
+  "patches": [
+    {
+      "id": "kagami-steam-patch",
+      "name": "Steam patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Kagami Games",
+      "source": {
+        "site": "kagami",
+        "page": "https://patches.kagamied.com/",
+        "key": "https://kagami.zip/Patch/KG006W5s6bg51.zip"
+      },
+      "version": "1.1.0",
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Kagami Games' own patch: restores the content cut from the Steam release.",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://kagami.zip/Patch/KG006W5s6bg51.zip",
+          "name": "KG006W5s6bg51.zip",
+          "format": "zip",
+          "mirrors": [
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/drive/folders/1_oV96wKCrqxwBfCFVaXCLtjwkxzZsbde"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

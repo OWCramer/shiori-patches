@@ -3,6 +3,90 @@
   "title": "White Wings ホワイトウィングス",
   "patches": [
     {
+      "id": "vndb-adult-patch",
+      "name": "Adult Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Pureworks",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r73242",
+        "key": "r73242",
+        "origin": "https://web.archive.org/web/20220506203423/https://en.purew0rks.com/download"
+      },
+      "version": null,
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://web.archive.org/web/20220506203423/https://en.purew0rks.com/download",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Pureworks",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r114929",
+        "key": "r114929",
+        "origin": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=29818"
+      },
+      "version": null,
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=29818",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +95,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1185680",
-        "key": "1185680"
+        "key": "1185680",
+        "origin": "https://www.pureworks.jp/whitewings"
       },
       "version": null,
       "languages": [
@@ -33,7 +118,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

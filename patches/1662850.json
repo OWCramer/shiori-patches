@@ -44,7 +44,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1662850",
-        "key": "1662850"
+        "key": "1662850",
+        "origin": "https://nekonyansoft.com/shop/product/44"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-love-for-hire-mosaic-restoration-patch",
@@ -77,13 +78,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r137240",
-        "key": "r137240"
+        "key": "r137240",
+        "origin": "https://mega.nz/file/2BdwwT6K#UtpN3qmoGUaH8MgUmBApPeTDhsFOKgr9VEsD0L5GL9k"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -99,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

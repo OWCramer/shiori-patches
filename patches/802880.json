@@ -3,6 +3,41 @@
   "title": "Muv-Luv",
   "patches": [
     {
+      "id": "vndb-director-s-cut-patch",
+      "name": "Director's Cut Patch",
+      "kind": "other",
+      "official": true,
+      "by": "Komodo",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r43056",
+        "key": "r43056",
+        "origin": "http://muvluv.moe/"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://muvluv.moe/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -45,13 +80,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r7856",
-        "key": "r7856"
+        "key": "r7856",
+        "origin": "https://web.archive.org/web/20190610201853/https://amaterasu.tindabox.net/"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -67,7 +103,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

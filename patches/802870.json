@@ -85,7 +85,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r45684",
-        "key": "r45684"
+        "key": "r45684",
+        "origin": "http://koikumatranslation.github.io/permalink/patch/interface/patch2.xp3"
       },
       "version": null,
       "languages": [
@@ -107,7 +108,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

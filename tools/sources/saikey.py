@@ -2,6 +2,7 @@
 patch and a Google Drive mirror. (The site's own download goes through its launcher.)"""
 
 import html
+import urllib.error
 
 from common import fetch_json, host_of
 
@@ -21,7 +22,12 @@ def _name(product, link):
 def collect():
     seen = set()
     for page in range(0, 40):
-        items = fetch_json(API.format(page=page), browser=True)
+        try:
+            items = fetch_json(API.format(page=page), browser=True)
+        except urllib.error.HTTPError as error:
+            if error.code == 404 and page > 0:
+                break  # past the last page
+            raise
         if not items:
             break
         fresh = 0

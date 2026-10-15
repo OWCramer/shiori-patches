@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r45835",
-        "key": "r45835"
+        "key": "r45835",
+        "origin": "https://yukikazeacute.tumblr.com/post/145677190142/taimanin-yukikaze-animation-english-patch"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

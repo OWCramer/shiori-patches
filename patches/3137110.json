@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r124263",
-        "key": "r124263"
+        "key": "r124263",
+        "origin": "https://f95zone.to/threads/sacrifice-villains-final-clockup.151116/post-13910581"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

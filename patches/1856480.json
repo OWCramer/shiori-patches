@@ -44,13 +44,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r104883",
-        "key": "r104883"
+        "key": "r104883",
+        "origin": "https://drive.google.com/drive/folders/1oRwHicm31IeoMHeg_6Uf51IiLj-Fa_sT?usp=share_link"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-de-localization-patch",
@@ -77,7 +78,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r86590",
-        "key": "r86590"
+        "key": "r86590",
+        "origin": "https://anonfiles.com/jfP911Hax1/kamiyaba-1_11_zip"
       },
       "version": null,
       "languages": [
@@ -99,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "appID": 2282810,
+  "title": "Rich MILF Drama",
+  "patches": [
+    {
+      "id": "vndb-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "Eromantis",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r106462",
+        "key": "r106462-2286040"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/2286040",
+          "dlc": 2286040,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

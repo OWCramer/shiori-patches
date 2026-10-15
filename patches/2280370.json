@@ -1,0 +1,40 @@
+{
+  "appID": 2280370,
+  "title": "Save The World",
+  "patches": [
+    {
+      "id": "vndb-uncensor-patch",
+      "name": "Uncensor Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Winter Wolves",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r108253",
+        "key": "r108253-2433590"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/2433590",
+          "dlc": 2433590,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

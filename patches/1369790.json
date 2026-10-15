@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r85939",
-        "key": "r85939"
+        "key": "r85939",
+        "origin": "https://www.mediafire.com/file/2frzqdbsmxasi43/mashimaro_patch_fixed.rar/file"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

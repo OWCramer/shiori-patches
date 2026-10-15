@@ -50,7 +50,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r22594",
-        "key": "r22594"
+        "key": "r22594",
+        "origin": "http://aarinfantasy.com/forum/f16/t171722-dramatical-murder-complete-english.html"
       },
       "version": null,
       "languages": [
@@ -72,7 +73,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

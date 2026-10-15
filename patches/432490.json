@@ -47,13 +47,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r45324",
-        "key": "r45324"
+        "key": "r45324",
+        "origin": "https://wordpress-imoutoworks.rhcloud.com/atom-grrrl/"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -69,7 +70,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

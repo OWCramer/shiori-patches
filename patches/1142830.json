@@ -79,7 +79,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r75311",
-        "key": "r75311"
+        "key": "r75311",
+        "origin": "https://files.catbox.moe/umhh3z.zip"
       },
       "version": null,
       "languages": [
@@ -101,7 +102,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

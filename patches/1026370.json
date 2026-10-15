@@ -3,6 +3,40 @@
   "title": "My Fair Princess",
   "patches": [
     {
+      "id": "vndb-18-patch",
+      "name": "18+ Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Sol Press, Panty Press",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r60369",
+        "key": "r60369",
+        "origin": "https://pantypress.com/product/778/my-fair-princess"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://pantypress.com/product/778/my-fair-princess",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",

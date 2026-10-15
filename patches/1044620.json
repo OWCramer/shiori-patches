@@ -44,7 +44,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1044620",
-        "key": "1044620"
+        "key": "1044620",
+        "origin": "https://nekonyansoft.com/shop/product/23"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch",
@@ -77,7 +78,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r49187",
-        "key": "r49187"
+        "key": "r49187",
+        "origin": "https://drive.google.com/open?id=0B6rrDy33xQSMeDVQaUljd0FsMFE"
       },
       "version": null,
       "languages": [
@@ -99,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-linux-patch",
@@ -110,7 +112,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r79480",
-        "key": "r79480"
+        "key": "r79480",
+        "origin": "https://web.archive.org/web/20230205213509/https://forums.fuwanovel.net/topic/23163-extra1-linux-port-done-ao-no-kanata-no-four-rythm-extra1-linux-port-18-patch-for-nintendo-switch"
       },
       "version": null,
       "languages": [
@@ -135,7 +138,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

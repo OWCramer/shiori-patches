@@ -1,0 +1,52 @@
+{
+  "appID": 3511020,
+  "title": "I drink Sorrel Coffee to reboot reality, but I'm being hunted by Monster Girls and armed agents",
+  "patches": [
+    {
+      "id": "vndb-dlc-18",
+      "name": "DLC 18+",
+      "kind": "adult",
+      "official": true,
+      "by": "ST Sinovar, TopHouse Studio",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r136431",
+        "key": "r136431-3649220"
+      },
+      "version": null,
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "pl",
+        "pt-br",
+        "ru",
+        "tr",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/3649220",
+          "dlc": 3649220,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

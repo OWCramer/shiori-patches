@@ -77,7 +77,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r107172",
-        "key": "r107172"
+        "key": "r107172",
+        "origin": "https://sinicalnetwork.wixsite.com/home/Projects/when-sword-sinks-into-flowers"
       },
       "version": null,
       "languages": [
@@ -99,7 +100,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-uncensored-patch",
@@ -110,14 +111,15 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r54071",
-        "key": "r54071"
+        "key": "r54071",
+        "origin": "https://www.uncensorpat.ch/checked/game/689650"
       },
       "version": null,
       "languages": [
         "en",
         "zh-Hant"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -133,7 +135,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

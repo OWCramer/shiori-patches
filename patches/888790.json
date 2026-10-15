@@ -78,7 +78,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r150641",
-        "key": "r150641"
+        "key": "r150641",
+        "origin": "https://momo-mods.github.io/sanoba-witch-fhd-english-patch/"
       },
       "version": null,
       "languages": [
@@ -100,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

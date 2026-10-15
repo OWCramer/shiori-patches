@@ -3,6 +3,40 @@
   "title": "Panzermadels: Tank Dating Simulator",
   "patches": [
     {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "other",
+      "official": true,
+      "by": "DEVGRU-P",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r51352",
+        "key": "r51352",
+        "origin": "http://www.devgru-p.com/panzermadels.html"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://www.devgru-p.com/panzermadels.html",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +45,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/379980",
-        "key": "379980"
+        "key": "379980",
+        "origin": "https://www.devgru-p.com/panzermadels.html"
       },
       "version": null,
       "languages": [
@@ -34,7 +69,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

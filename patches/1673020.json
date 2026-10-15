@@ -1,0 +1,42 @@
+{
+  "appID": 1673020,
+  "title": "All Ashes and Illusions",
+  "patches": [
+    {
+      "id": "vndb-18-patch",
+      "name": "18+ Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "ebi-hime",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r82885",
+        "key": "r82885-1734710"
+      },
+      "version": null,
+      "languages": [
+        "de",
+        "en",
+        "ru"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/1734710",
+          "dlc": 1734710,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

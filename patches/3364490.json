@@ -1,0 +1,40 @@
+{
+  "appID": 3364490,
+  "title": "Maid For My Master",
+  "patches": [
+    {
+      "id": "vndb-adult-patch",
+      "name": "Adult Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "ebi-hime",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r137321",
+        "key": "r137321-3810690"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/3810690",
+          "dlc": 3810690,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

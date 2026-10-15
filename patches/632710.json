@@ -3,6 +3,40 @@
   "title": "Princess Evangile W Happiness - Steam Edition",
   "patches": [
     {
+      "id": "vndb-18-patch",
+      "name": "18+ Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "MangaGamer",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r60596",
+        "key": "r60596",
+        "origin": "https://mangagammer.s3.amazonaws.com/AP1026.zip?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJIIGLWPXRQFOP2PA%2F20260823%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260823T160618Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=6e7dbdf5bef86769240139564bd83a310d5a3dd18bbe05695c10bf850e25086e"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://mangagammer.s3.amazonaws.com/AP1026.zip?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJIIGLWPXRQFOP2PA%2F20260823%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260823T160618Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=6e7dbdf5bef86769240139564bd83a310d5a3dd18bbe05695c10bf850e25086e",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -44,13 +78,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r138769",
-        "key": "r138769"
+        "key": "r138769",
+        "origin": "https://mega.nz/file/HUdwDRhA#zA5cll68XwJKx77Dcu6-tzk0Yo9AMLeGYsyN8aoxrTQ"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -66,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "appID": 3397120,
+  "title": "Holy Valkyrie ExS-TIA P Parallel Episode 1: Magical Girl Pastel Marie",
+  "patches": [
+    {
+      "id": "patchmoe-holy-valkyrie-exs-tia-p-parallel-episode-1-magical",
+      "name": "Holy Valkyrie ExS-TIA P Parallel Episode 1: Magical Girl Pastel Marie DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/EXS-TiA_P_patch.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/EXS-TiA_P_patch.zip",
+          "name": "EXS-TiA_P_patch.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

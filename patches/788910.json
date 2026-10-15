@@ -44,14 +44,15 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r60239",
-        "key": "r60239"
+        "key": "r60239",
+        "origin": "https://steamcommunity.com/groups/Nukige#announcements/detail/1648754107865517391"
       },
       "version": null,
       "languages": [
         "en",
         "zh-Hant"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -67,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

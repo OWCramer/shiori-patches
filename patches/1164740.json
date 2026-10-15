@@ -3,6 +3,40 @@
   "title": "Salting the Earth",
   "patches": [
     {
+      "id": "vndb-content-patch",
+      "name": "Content Patch",
+      "kind": "other",
+      "official": true,
+      "by": "BitterBerries",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r72424",
+        "key": "r72424",
+        "origin": "https://drive.google.com/drive/folders/1y1semLpL_0AaWfpa00kg83xg7IWR8XTu?usp=drive_open"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://drive.google.com/drive/folders/1y1semLpL_0AaWfpa00kg83xg7IWR8XTu?usp=drive_open",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",

@@ -50,7 +50,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r36877",
-        "key": "r36877"
+        "key": "r36877",
+        "origin": "http://forums.fuwanovel.net/topic/6556-majikoi-translation-project/"
       },
       "version": null,
       "languages": [
@@ -72,7 +73,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-voice-restoration-patch",
@@ -83,7 +84,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r76635",
-        "key": "r76635"
+        "key": "r76635",
+        "origin": "https://mega.nz/file/KhliwYaR#TWjr9ys2F6IM9qUuthUG20NFmiG4yW6id54iD8j29Ck"
       },
       "version": null,
       "languages": [
@@ -105,7 +107,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

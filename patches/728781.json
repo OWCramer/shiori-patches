@@ -3,6 +3,108 @@
   "title": "Elizabeth Margaret - Bonus Route",
   "patches": [
     {
+      "id": "vndb-mangagamer-edition",
+      "name": "MangaGamer Edition",
+      "kind": "other",
+      "official": true,
+      "by": "MangaGamer, Lupiesoft",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r57000",
+        "key": "r57000",
+        "origin": "https://www.mangagamer.com/r18/detail.php?product_code=1040"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.mangagamer.com/r18/detail.php?product_code=1040",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Lupiesoft",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54164",
+        "key": "r54164",
+        "origin": "http://lupiesoft.com/2017/10/20/mutiny-adult-patches-installation-faq/"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://lupiesoft.com/2017/10/20/mutiny-adult-patches-installation-faq/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-patch-2",
+      "name": "Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Lupiesoft",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r57001",
+        "key": "r57001",
+        "origin": "https://www.patreon.com/posts/12229048"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.patreon.com/posts/12229048",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +113,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/728781",
-        "key": "728781"
+        "key": "728781",
+        "origin": "http://lupiesoft.com/2017/10/20/mutiny-adult-patches-installation-faq/"
       },
       "version": null,
       "languages": [
@@ -33,7 +136,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

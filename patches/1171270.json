@@ -6,12 +6,13 @@
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
-      "official": false,
-      "by": "uncensorpat.ch community",
+      "official": true,
+      "by": "MangaGamer",
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1171270",
-        "key": "1171270"
+        "key": "1171270",
+        "origin": "https://qureate.net/troubledays/patch/"
       },
       "version": null,
       "languages": [
@@ -33,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-18-patch-uncensored",
@@ -44,7 +45,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r88216",
-        "key": "r88216"
+        "key": "r88216",
+        "origin": "https://www.mediafire.com/file/f8h03sexoq0tiul/Patch.7z/file"
       },
       "version": null,
       "languages": [
@@ -53,7 +55,7 @@
         "zh-Hans",
         "zh-Hant"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -69,7 +71,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

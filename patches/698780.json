@@ -1,0 +1,822 @@
+{
+  "appID": 698780,
+  "title": "Doki Doki Literature Club!",
+  "patches": [
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "07th Inquisition",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54038",
+        "key": "r54038",
+        "origin": "http://mediafire.com/?jua2a3728i7y0"
+      },
+      "version": null,
+      "languages": [
+        "es"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://mediafire.com/?jua2a3728i7y0",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-10",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Entuziasty Team",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54904",
+        "key": "r54904",
+        "origin": "https://vk.com/wall-73391729_6800"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://vk.com/wall-73391729_6800",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-11",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "BakaYume Çeviri Ekibi",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r55324",
+        "key": "r55324",
+        "origin": "https://bakayumeceviri.wordpress.com/ddek"
+      },
+      "version": null,
+      "languages": [
+        "tr"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://bakayumeceviri.wordpress.com/ddek",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-12",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Proudust",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r55499",
+        "key": "r55499",
+        "origin": "https://steamcommunity.com/sharedfiles/filedetails/?id=1296040205"
+      },
+      "version": null,
+      "languages": [
+        "ja"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1296040205",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-13",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Zeno Chame",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r55696",
+        "key": "r55696",
+        "origin": "https://www.youtube.com/watch?v=S2R6UW7PYUI"
+      },
+      "version": null,
+      "languages": [
+        "pl"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.youtube.com/watch?v=S2R6UW7PYUI",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-14",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Fan patch",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r65847",
+        "key": "r65847",
+        "origin": "https://sites.google.com/view/dokidokikor/"
+      },
+      "version": null,
+      "languages": [
+        "ko"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://sites.google.com/view/dokidokikor/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-15",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Glow Translations",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r80396",
+        "key": "r80396",
+        "origin": "https://tradusquare.es/ficha.php?ddlc"
+      },
+      "version": null,
+      "languages": [
+        "es"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://tradusquare.es/ficha.php?ddlc",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-16",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Mossis Games",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r80397",
+        "key": "r80397",
+        "origin": "https://www.mossisgames.com/DDLCEspLat"
+      },
+      "version": null,
+      "languages": [
+        "es"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.mossisgames.com/DDLCEspLat",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-17",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Fighting for Reality",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r80399",
+        "key": "r80399",
+        "origin": "https://www.facebook.com/DDF4R/posts/735857910400758"
+      },
+      "version": null,
+      "languages": [
+        "es"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.facebook.com/DDF4R/posts/735857910400758",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-18",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "BakaYume Çeviri Ekibi, passionplus",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r93407",
+        "key": "r93407",
+        "origin": "https://bakayumeceviri.com/ddek-arti/"
+      },
+      "version": null,
+      "languages": [
+        "tr"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://bakayumeceviri.com/ddek-arti/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-19",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Cimosoft Codelicious",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r97745",
+        "key": "r97745",
+        "origin": "https://ddlcmoe.cimosoft.com/"
+      },
+      "version": null,
+      "languages": [
+        "id"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://ddlcmoe.cimosoft.com/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-2",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Hoshi Translation",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54075",
+        "key": "r54075",
+        "origin": "http://hoshivsub.com/2017/10/tuyen-nhan-su-cau-lac-bo-van-hoc-vui.html"
+      },
+      "version": null,
+      "languages": [
+        "vi"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://hoshivsub.com/2017/10/tuyen-nhan-su-cau-lac-bo-van-hoc-vui.html",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-20",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Eternal Dream Arabization",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r118954",
+        "key": "r118954",
+        "origin": "https://etrdream.com/doki-doki-litterature-club/"
+      },
+      "version": null,
+      "languages": [
+        "ar"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://etrdream.com/doki-doki-litterature-club/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-21",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Gekkou Translations",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r158148",
+        "key": "r158148",
+        "origin": "https://github.com/Gekkou-Translations/ddlc-fa-patch"
+      },
+      "version": null,
+      "languages": [
+        "fa"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://github.com/Gekkou-Translations/ddlc-fa-patch",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-22",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Fan patch",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r161667",
+        "key": "r161667",
+        "origin": "https://animablisher.neocities.org/ddlc_re"
+      },
+      "version": null,
+      "languages": [
+        "ar"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://animablisher.neocities.org/ddlc_re",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-23",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Anibel",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r165464",
+        "key": "r165464",
+        "origin": "https://anibel.net/games/doki-doki-literature-club"
+      },
+      "version": null,
+      "languages": [
+        "be"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://anibel.net/games/doki-doki-literature-club",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-3",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "dumb, Javelin&Tea, TBGN, Pizza Hime",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54233",
+        "key": "r54233",
+        "origin": "http://steamcommunity.com/sharedfiles/filedetails/?id=1176221672"
+      },
+      "version": null,
+      "languages": [
+        "zh-Hans"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://steamcommunity.com/sharedfiles/filedetails/?id=1176221672",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-4",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "VNX+",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54462",
+        "key": "r54462",
+        "origin": "http://vnx.uvnworks.com/doki-doki-literature-club/"
+      },
+      "version": null,
+      "languages": [
+        "pt-br"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://vnx.uvnworks.com/doki-doki-literature-club/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-5",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Doki-Team",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54675",
+        "key": "r54675",
+        "origin": "https://vk.com/ddlc_ru"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://vk.com/ddlc_ru",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-6",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Yarashii",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54697",
+        "key": "r54697",
+        "origin": "https://www.yarashii.fr/2018/01/doki-doki-literature-club-vn-fr/"
+      },
+      "version": null,
+      "languages": [
+        "fr"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.yarashii.fr/2018/01/doki-doki-literature-club-vn-fr/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-7",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Vinicius Dias",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54713",
+        "key": "r54713",
+        "origin": "https://steamcommunity.com/app/698780/discussions/0/2425614539589896223/?ctp=6"
+      },
+      "version": null,
+      "languages": [
+        "pt-br"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://steamcommunity.com/app/698780/discussions/0/2425614539589896223/?ctp=6",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-8",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "All-Ice Team",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54849",
+        "key": "r54849",
+        "origin": "https://alliceteam.altervista.org/doki-doki-literature-club-patch-ita/"
+      },
+      "version": null,
+      "languages": [
+        "it"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://alliceteam.altervista.org/doki-doki-literature-club-patch-ita/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-9",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "German Doki Doki Literature Club",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r54895",
+        "key": "r54895",
+        "origin": "https://discord.gg/36XjGNw"
+      },
+      "version": null,
+      "languages": [
+        "de"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://discord.gg/36XjGNw",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-french-voice-patch",
+      "name": "French voice patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Touhoppai",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r76435",
+        "key": "r76435",
+        "origin": "https://touhoppai.moe/ddlc"
+      },
+      "version": null,
+      "languages": [
+        "fr"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://touhoppai.moe/ddlc",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

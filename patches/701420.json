@@ -35,6 +35,40 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-the-two-princess-knights-of-kyoto-part-2-18-dlc",
+      "name": "The Two Princess Knights of Kyoto Part 2 18+ DLC",
+      "kind": "adult",
+      "official": true,
+      "by": "Denpasoft",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r46476",
+        "key": "r46476-947760"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/947760",
+          "dlc": 947760,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r85749",
-        "key": "r85749"
+        "key": "r85749",
+        "origin": "https://visualnovelmtl.xyz/visualnovel/nemurenu-hitsuji-to-kodoku-na-ookami-a-tale-of-love-and-cutthroat/"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

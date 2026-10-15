@@ -77,7 +77,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r25640",
-        "key": "r25640"
+        "key": "r25640",
+        "origin": "https://basicvntls.wordpress.com/2016/07/02/koi-to-senkyo-to-chocolate-english-patch-1-1/"
       },
       "version": null,
       "languages": [
@@ -99,7 +100,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-2",
@@ -110,13 +111,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r44088",
-        "key": "r44088"
+        "key": "r44088",
+        "origin": "https://basicvntls.wordpress.com/2015/11/30/koi-to-senkyo-to-chocolate-english-patch-1-0/"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -132,7 +134,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-3",
@@ -143,7 +145,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r81380",
-        "key": "r81380"
+        "key": "r81380",
+        "origin": "https://discord.gg/Qc6cJJCgrD"
       },
       "version": null,
       "languages": [
@@ -165,7 +168,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

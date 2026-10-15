@@ -45,13 +45,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r137168",
-        "key": "r137168"
+        "key": "r137168",
+        "origin": "https://mega.nz/file/rMc1jDIL#fJegvUPC-0EGnwzni3TShZ6zM_W02s35Q-dX12A9xdM"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -67,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-re-edit-patch",
@@ -78,7 +79,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r69135",
-        "key": "r69135"
+        "key": "r69135",
+        "origin": "https://mega.nz/file/gKZA1CJR#h6kFycWL-tQzO-_Ih09PYe44_9KMH6quhafm6eAEH_c"
       },
       "version": null,
       "languages": [
@@ -100,7 +102,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

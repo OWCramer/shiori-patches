@@ -74,6 +74,40 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Flowers ESP",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r65056",
+        "key": "r65056",
+        "origin": "https://flowersesp.wordpress.com/"
+      },
+      "version": null,
+      "languages": [
+        "es"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://flowersesp.wordpress.com/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

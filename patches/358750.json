@@ -4,14 +4,14 @@
   "patches": [
     {
       "id": "uncensorpatch-uncensor-patch-to-buy",
-      "name": "Uncensor patch (to buy)",
+      "name": "18+ DLC (free on Denpasoft)",
       "kind": "adult",
       "official": true,
       "by": "Denpasoft",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/358750",
-        "key": "358750"
+        "site": "denpasoft",
+        "page": "https://denpasoft.com/product/sunrider-liberation-day-restoration-dlc-1",
+        "key": "sunrider-liberation-day-restoration-dlc-1"
       },
       "version": null,
       "languages": [
@@ -21,25 +21,190 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "It's working if: A content warning appears when you start the game, and \"DENPA EDITION\" appears at the top left hand corner of the main menu. uncensorpat.ch checked this patch on PC.",
+      "notes": "Free with a Denpasoft account: claim it on the page, download it, then use Import in Shiori.",
       "files": [
         {
           "host": "store",
-          "url": "https://denpasoft.com/products/sunrider-liberation-day-restoration-dlc-1",
+          "url": "https://denpasoft.com/product/sunrider-liberation-day-restoration-dlc-1",
           "name": null,
           "format": null,
-          "mirrors": [
-            {
-              "host": "store",
-              "url": "https://denpasoft.com/products/sunrider-liberation-day-restoration-dlc-1"
-            }
-          ],
+          "price": "Free",
           "size": null,
           "sha256": null
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-captain-s-edition",
+      "name": "Captain's Edition",
+      "kind": "translation",
+      "official": false,
+      "by": "SUN-TEAM",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r46548",
+        "key": "r46548",
+        "origin": "https://steamcommunity.com/sharedfiles/filedetails/?id=656613081"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=656613081",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-captain-s-edition-re-turn",
+      "name": "Captain's Edition [RE]turn",
+      "kind": "adult",
+      "official": false,
+      "by": "MIÐGARÐ",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r58189",
+        "key": "r58189",
+        "origin": "https://vk.com/topic-168278984_38531392"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://vk.com/topic-168278984_38531392",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Pastolle",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r46549",
+        "key": "r46549",
+        "origin": "http://steamcn.com/forum.php?mod=viewthread&tid=180846&fromuid=240181"
+      },
+      "version": null,
+      "languages": [
+        "zh-Hans"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://steamcn.com/forum.php?mod=viewthread&tid=180846&fromuid=240181",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-2",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Gate of Steiner",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r59189",
+        "key": "r59189",
+        "origin": "http://forum.loveinspace.moe/post/4487"
+      },
+      "version": null,
+      "languages": [
+        "es"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://forum.loveinspace.moe/post/4487",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-3",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "SoraNya",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r85828",
+        "key": "r85828",
+        "origin": "https://forum.loveinspace.moe/thread/688"
+      },
+      "version": null,
+      "languages": [
+        "es"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://forum.loveinspace.moe/thread/688",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

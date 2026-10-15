@@ -44,7 +44,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1200720",
-        "key": "1200720"
+        "key": "1200720",
+        "origin": "https://nekonyansoft.com/shop/product/30"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch",
@@ -77,7 +78,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r85756",
-        "key": "r85756"
+        "key": "r85756",
+        "origin": "https://drive.google.com/file/d/1M8z0IX1yVD9m4Ia4xbEbC-PmySbsBUF-/view"
       },
       "version": null,
       "languages": [
@@ -99,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
@@ -110,13 +112,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r139468",
-        "key": "r139468"
+        "key": "r139468",
+        "origin": "https://mega.nz/file/8dZUTCII#UV_BYqX6Q-zRcBoK989dOF69sYE78xp22NS16yCByPw"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -132,7 +135,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

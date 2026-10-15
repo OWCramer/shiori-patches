@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r162095",
-        "key": "r162095"
+        "key": "r162095",
+        "origin": "https://drive.proton.me/urls/H64018RNZG#79TnMV0ZHTRk"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

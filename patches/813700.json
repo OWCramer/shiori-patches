@@ -3,6 +3,43 @@
   "title": "Sakura Sadist",
   "patches": [
     {
+      "id": "uncensorpatch-uncensor-patch",
+      "name": "Uncensor patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Winged Cloud",
+      "source": {
+        "site": "uncensorpatch",
+        "page": "https://www.uncensorpat.ch/game/813700",
+        "key": "813700",
+        "origin": "https://www.patreon.com/posts/sakura-sadist-19029245"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...). Inside that directory, there will be a folder named 'game'. Download the patch file from the link below Move the downloaded 'assets.rpa' file into the 'game' folder mentioned above, overwriting the existing file as prompted",
+      "files": [
+        {
+          "host": "wetransfer",
+          "url": "https://we.tl/S31ZAAwfuO",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-14",
+      "install": {
+        "into": "game"
+      }
+    },
+    {
       "id": "wingedcloud-18-patch",
       "name": "18+ patch",
       "kind": "adult",
@@ -36,40 +73,72 @@
       "checked": "2026-10-11"
     },
     {
-      "id": "uncensorpatch-uncensor-patch",
-      "name": "Uncensor patch",
-      "kind": "adult",
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
       "official": false,
-      "by": "uncensorpat.ch community",
+      "by": "MIÐGARÐ",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/813700",
-        "key": "813700"
+        "site": "vndb",
+        "page": "https://vndb.org/r64723",
+        "key": "r64723",
+        "origin": "https://vk.com/topic-168278984_39763268"
       },
       "version": null,
       "languages": [
-        "en"
+        "ru"
       ],
-      "adult": true,
+      "adult": false,
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...). Inside that directory, there will be a folder named 'game'. Download the patch file from the link below Move the downloaded 'assets.rpa' file into the 'game' folder mentioned above, overwriting the existing file as prompted",
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
       "files": [
         {
-          "host": "wetransfer",
-          "url": "https://we.tl/S31ZAAwfuO",
+          "host": "page",
+          "url": "https://vk.com/topic-168278984_39763268",
           "name": null,
           "format": null,
           "size": null,
           "sha256": null
         }
       ],
-      "added": "2026-10-11",
-      "checked": "2026-10-11",
-      "install": {
-        "into": "game"
-      }
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-translation-2",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "GrownUpByTheSakuraDungeon",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r108466",
+        "key": "r108466",
+        "origin": "https://anivisual.net/stuff/2-1-0-5124"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://anivisual.net/stuff/2-1-0-5124",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

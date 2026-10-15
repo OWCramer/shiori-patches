@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r150775",
-        "key": "r150775"
+        "key": "r150775",
+        "origin": "https://f95zone.to/threads/my-translations-and-engine-specific-game-translation-tutorial.289229/"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

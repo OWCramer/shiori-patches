@@ -3,6 +3,43 @@
   "title": "NinNinDays",
   "patches": [
     {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "qureate, iMel Inc., MediBang Inc.",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r65404",
+        "key": "r65404",
+        "origin": "https://qureate.net/ninnindays/en/patch/"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://qureate.net/ninnindays/en/patch/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +48,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1075980",
-        "key": "1075980"
+        "key": "1075980",
+        "origin": "https://qureate.net/ninnindays/en/patch/"
       },
       "version": null,
       "languages": [
@@ -33,7 +71,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -4,24 +4,26 @@
   "patches": [
     {
       "id": "uncensorpatch-uncensor-patch",
-      "name": "Uncensor patch",
+      "name": "Patch",
       "kind": "adult",
-      "official": false,
-      "by": "uncensorpat.ch community",
+      "official": true,
+      "by": "KISS",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/1097580",
-        "key": "1097580"
+        "site": "vndb",
+        "page": "https://vndb.org/r67321",
+        "key": "r67321",
+        "origin": "https://dl-en.s-court.me/item.php?iid=104"
       },
       "version": null,
       "languages": [
-        "en"
+        "en",
+        "ja"
       ],
       "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "",
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
       "files": [
         {
           "host": "page",
@@ -33,7 +35,77 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "other",
+      "official": true,
+      "by": "Publisher",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r97611",
+        "key": "r97611",
+        "origin": "http://com3d2.world/r18/pgp01/"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://com3d2.world/r18/pgp01/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-patch-2",
+      "name": "Patch",
+      "kind": "other",
+      "official": true,
+      "by": "Publisher",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r97672",
+        "key": "r97672",
+        "origin": "https://com3d2.world/r18/gp02/"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://com3d2.world/r18/gp02/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -1,0 +1,80 @@
+{
+  "appID": 4710010,
+  "title": "Triple Pairing",
+  "patches": [
+    {
+      "id": "kagami-steam-patch",
+      "name": "Steam patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Kagami Games",
+      "source": {
+        "site": "kagami",
+        "page": "https://patches.kagamied.com/",
+        "key": "https://kagami.zip/Patch/KG011K9U7K2Y-VER100.zip"
+      },
+      "version": "1.0.0",
+      "languages": [
+        "en",
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Kagami Games' own patch: restores the content cut from the Steam release.",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://kagami.zip/Patch/KG011K9U7K2Y-VER100.zip",
+          "name": "KG011K9U7K2Y-VER100.zip",
+          "format": "zip",
+          "mirrors": [
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/drive/folders/1AnGeYVEFL5C9Mo_LVz5lvCnVLb8pzSu9?usp=sharing"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-mosaic-restoration-patch",
+      "name": "Mosaic Restoration Patch",
+      "kind": "adult",
+      "official": false,
+      "by": "kataneer",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r166337",
+        "key": "r166337",
+        "origin": "https://mega.nz/file/rhg2VZDI#vT3NawgODqIX3rJGvltIpkWX5U5pVX3wdAaP-4ZqQqQ"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://mega.nz/file/rhg2VZDI#vT3NawgODqIX3rJGvltIpkWX5U5pVX3wdAaP-4ZqQqQ",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

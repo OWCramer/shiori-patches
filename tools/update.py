@@ -20,8 +20,9 @@ import sys
 sys.path.insert(0, os.path.dirname(__file__))
 
 from common import fetch_json, slug, today  # noqa: E402
+import datetime  # noqa: E402
 import download  # noqa: E402
-from sources import denpasoft, nekonyan, patchmoe, saikey, uncensorpatch, vndb, wingedcloud  # noqa: E402
+from sources import denpasoft, kagami, nekonyan, patchmoe, saikey, uncensorpatch, vndb, wingedcloud  # noqa: E402
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 PATCHES = os.path.join(ROOT, "patches")
@@ -66,6 +67,20 @@ def steam_title(app_id):
         return None
 
 
+RECHECK_DAYS = 7
+
+
+def _touch(patch, changed):
+    """Marks a patch as seen on its site today: always when it changed, otherwise once a week,
+    so a daily run that finds nothing new doesn't rewrite every file just for the date."""
+    try:
+        age = (datetime.date.fromisoformat(today()) - datetime.date.fromisoformat(patch["checked"])).days
+    except (KeyError, ValueError):
+        age = RECHECK_DAYS
+    if changed or age >= RECHECK_DAYS:
+        patch["checked"] = today()
+
+
 def _same_file(old, new):
     return old.get("url") == new.get("url") and old.get("host") == new.get("host")
 
@@ -102,9 +117,9 @@ def merge(games, entry):
                     other["files"] = [dict(f, size=None, sha256=None) if "size" not in f else f for f in candidate["files"]]
                 if candidate.get("notes"):
                     other["notes"] = candidate["notes"]
-                other["checked"] = today()
+                _touch(other, True)
                 return "updated"
-            if other["files"][0]["host"] != "steam":
+            if other["files"][0]["host"] != "steam" or candidate["files"][0]["host"] == "steam":
                 return None
             # A Steam DLC that a shop also sells: both are listed.
         ids = {p["id"] for p in game["patches"]}
@@ -157,7 +172,7 @@ def merge(games, entry):
     if not existing.get("notes") and candidate.get("notes"):
         existing["notes"] = candidate["notes"]
         changed = True
-    existing["checked"] = today()
+    _touch(existing, changed)
     return "updated" if changed else None
 
 
@@ -220,7 +235,7 @@ def compatibility_app_ids():
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--sources", default="nekonyan,saikey,patchmoe,wingedcloud,denpasoft,uncensorpatch,vndb")
+    parser.add_argument("--sources", default="nekonyan,saikey,kagami,patchmoe,wingedcloud,denpasoft,uncensorpatch,vndb")
     parser.add_argument("--full", action="store_true", help="read every uncensorpat.ch page again")
     parser.add_argument("--app-ids", help="comma-separated app ids for uncensorpat.ch and VNDB")
     parser.add_argument("--hash-limit-gb", type=float, default=10)
@@ -245,6 +260,8 @@ def main():
         take("NekoNyan", nekonyan.collect())
     if "saikey" in sources:
         take("Saikey", saikey.collect())
+    if "kagami" in sources:
+        take("Kagami Games", kagami.collect())
     if "patchmoe" in sources:
         take("patch.moe", patchmoe.collect())
     if "wingedcloud" in sources:
@@ -265,8 +282,14 @@ def main():
             ids = listed if args.full else [i for i in listed if i not in known]
         take("uncensorpat.ch", uncensorpatch.collect(ids))
     if "vndb" in sources:
+        if only is None:
+            take("VNDB (Steam DLC)", vndb.collect_official_dlc())
         ids = only if only is not None else sorted(set(games) | compatibility_app_ids())
-        take("VNDB", vndb.collect(ids))
+        # Official patches from VNDB's own pages only fill in for games nothing else covers.
+        has_official = frozenset(g["appID"] for g in games.values()
+                                 if any(p["official"] and (p["source"]["site"] != "vndb" or p["files"][0]["host"] == "steam")
+                                        for p in g["patches"]))
+        take("VNDB", vndb.collect(ids, has_official))
 
     try:
         hash_files(games, int(args.hash_limit_gb * (1 << 30)))

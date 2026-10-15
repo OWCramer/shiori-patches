@@ -3,6 +3,40 @@
   "title": "A Kiss For The Petals - Maidens of Michael",
   "patches": [
     {
+      "id": "vndb-maidens-of-michael-adult-patch",
+      "name": "Maidens of Michael - Adult Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "MangaGamer",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r55741",
+        "key": "r55741",
+        "origin": "https://www.mangagamer.com/r18/detail.php?product_code=1044"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.mangagamer.com/r18/detail.php?product_code=1044",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -44,13 +78,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r150043",
-        "key": "r150043"
+        "key": "r150043",
+        "origin": "https://mega.nz/file/vgpXkRIC#2-tGIB5gGBTIpEBD9qyj3s_fic1Gr2M59IuWBVIj8fk"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -66,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

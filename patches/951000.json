@@ -3,6 +3,42 @@
   "title": "Trap Shrine",
   "patches": [
     {
+      "id": "vndb-18-scenes-append-file",
+      "name": "18+ Scenes Append File",
+      "kind": "adult",
+      "official": true,
+      "by": "No~Strike, Eroge Japan",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r62938",
+        "key": "r62938",
+        "origin": "http://no-strike.jp/shrine/download-en.html"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://no-strike.jp/shrine/download-en.html",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +47,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/951000",
-        "key": "951000"
+        "key": "951000",
+        "origin": "https://no-strike.jp/shrine/download-en.html"
       },
       "version": null,
       "languages": [
@@ -19,7 +56,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "dead",
+      "status": "ok",
       "verified": false,
       "notes": "Install (PC): Download the patch archive from the link below Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...), and enter the \"pac\" folder Extract the contents of the patch archive into the \"pac\" folder, overwriting any files as prompted It's working if: When Yui says they will service Masato, a lewd scene follows, instead of just cutting to the next day. uncensorpat.ch checked this patch on PC.",
       "files": [
@@ -33,7 +70,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

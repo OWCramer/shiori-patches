@@ -1,0 +1,41 @@
+{
+  "appID": 2074000,
+  "title": "One Eleven",
+  "patches": [
+    {
+      "id": "vndb-18-uncensored-dlc",
+      "name": "18+ Uncensored DLC",
+      "kind": "adult",
+      "official": true,
+      "by": "ViviLatvia",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r116157",
+        "key": "r116157-2619530"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/2619530",
+          "dlc": 2619530,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

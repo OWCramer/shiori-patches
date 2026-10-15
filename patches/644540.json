@@ -4,24 +4,25 @@
   "patches": [
     {
       "id": "uncensorpatch-uncensor-patch",
-      "name": "Uncensor patch",
-      "kind": "adult",
-      "official": false,
-      "by": "uncensorpat.ch community",
+      "name": "Patch",
+      "kind": "other",
+      "official": true,
+      "by": "Views Co., Ltd",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/644540",
-        "key": "644540"
+        "site": "vndb",
+        "page": "https://vndb.org/r49319",
+        "key": "r49319",
+        "origin": "https://s3-ap-northeast-1.amazonaws.com/diesirae/dies_irae_r18_patch.zip"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": true,
+      "adult": false,
       "branch": null,
       "status": "unsupported",
       "verified": false,
-      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned above, overwriting the files when prompted Run the file named “malie_fabla.exe”. You will now be able to play the English version of “Dies irae ~A",
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
       "files": [
         {
           "host": "direct",
@@ -34,7 +35,41 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "other",
+      "official": true,
+      "by": "Views Co., Ltd",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r59864",
+        "key": "r59864",
+        "origin": "https://www.kickstarter.com/projects/1986219362/dies-irae-english-localization-project-commences/posts/2299713"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.kickstarter.com/projects/1986219362/dies-irae-english-localization-project-commences/posts/2299713",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch",
@@ -45,7 +80,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r125642",
-        "key": "r125642"
+        "key": "r125642",
+        "origin": "https://mega.nz/file/mEt2xQwS#1bPU5diYj3geKcVKNPIh1JsY6EtAd-rnxs0N4uocqAc"
       },
       "version": null,
       "languages": [
@@ -67,7 +103,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

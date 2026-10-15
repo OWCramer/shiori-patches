@@ -45,14 +45,15 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r54070",
-        "key": "r54070"
+        "key": "r54070",
+        "origin": "https://www.uncensorpat.ch/game/686180"
       },
       "version": null,
       "languages": [
         "en",
         "zh-Hant"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -68,7 +69,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

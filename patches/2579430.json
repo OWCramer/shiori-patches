@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r98286",
-        "key": "r98286"
+        "key": "r98286",
+        "origin": "https://sugoivisualnovel.up.railway.app/vns/37252"
       },
       "version": null,
       "languages": [
@@ -66,18 +67,19 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-2",
-      "name": "Fan patch",
+      "name": "Fan translation",
       "kind": "translation",
       "official": false,
       "by": "Poppin'Party Seisan Kousha",
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r100283",
-        "key": "r100283"
+        "key": "r100283",
+        "origin": "https://popipa.org/post/kisskara/"
       },
       "version": null,
       "languages": [
@@ -102,7 +104,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

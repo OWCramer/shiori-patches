@@ -1,0 +1,41 @@
+{
+  "appID": 2416500,
+  "title": "Legends of Savvarah: Time of Pariah",
+  "patches": [
+    {
+      "id": "vndb-18-dlc-on-steam",
+      "name": "18+ DLC on Steam",
+      "kind": "adult",
+      "official": true,
+      "by": "ST Sinovar",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r125818",
+        "key": "r125818-2949830"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/2949830",
+          "dlc": 2949830,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

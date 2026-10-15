@@ -11,7 +11,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/868740",
-        "key": "868740"
+        "key": "868740",
+        "origin": "https://pan.baidu.com/s/1fQXFpInZke4v15XuvPyH8g"
       },
       "version": null,
       "languages": [
@@ -33,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-uncensored-patch",
@@ -44,14 +45,15 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r60238",
-        "key": "r60238"
+        "key": "r60238",
+        "origin": "https://steamcommunity.com/groups/Nukige#announcements/detail/1684796856665431154"
       },
       "version": null,
       "languages": [
         "en",
         "zh-Hans"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -67,7 +69,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

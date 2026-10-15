@@ -45,7 +45,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r164211",
-        "key": "r164211"
+        "key": "r164211",
+        "origin": "https://discord.gg/gzNqDKPDDY"
       },
       "version": null,
       "languages": [
@@ -67,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

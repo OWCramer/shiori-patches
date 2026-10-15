@@ -3,6 +3,112 @@
   "title": "Seed of the Dead: Sweet Home",
   "patches": [
     {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Eroge Japan, TeamKRAMA",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r83839",
+        "key": "r83839",
+        "origin": "https://erogejapan.com/r18patch/sod_sh/"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://erogejapan.com/r18patch/sod_sh/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-patch-2",
+      "name": "Patch",
+      "kind": "other",
+      "official": true,
+      "by": "TeamKRAMA",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r142602",
+        "key": "r142602",
+        "origin": "https://www.dlsite.com/maniax-touch/work/=/product_id/RJ01109096.html"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "store",
+          "url": "https://www.dlsite.com/maniax-touch/work/=/product_id/RJ01109096.html",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-patch-3",
+      "name": "Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Eroge Japan",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r142604",
+        "key": "r142604",
+        "origin": "https://erogejapan.com/patch/sod_sh/"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://erogejapan.com/patch/sod_sh/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +117,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1566390",
-        "key": "1566390"
+        "key": "1566390",
+        "origin": "https://erogejapan.com/patch/sod_sh/"
       },
       "version": null,
       "languages": [
@@ -33,7 +140,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

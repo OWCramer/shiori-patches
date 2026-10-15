@@ -11,7 +11,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/831660",
-        "key": "831660"
+        "key": "831660",
+        "origin": "http://appendingpulse.jp/dl/monohe_patch/"
       },
       "version": null,
       "languages": [
@@ -33,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch",
@@ -44,7 +45,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r113987",
-        "key": "r113987"
+        "key": "r113987",
+        "origin": "https://sugoivisualnovel.up.railway.app/vns/12392"
       },
       "version": null,
       "languages": [
@@ -66,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-2",
@@ -77,7 +79,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r147495",
-        "key": "r147495"
+        "key": "r147495",
+        "origin": "https://pixeldrain.com/u/4g98E5a2"
       },
       "version": null,
       "languages": [
@@ -99,7 +102,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch-3",
@@ -110,7 +113,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r161539",
-        "key": "r161539"
+        "key": "r161539",
+        "origin": "https://pixeldrain.com/u/8Ntiq5od"
       },
       "version": null,
       "languages": [
@@ -132,7 +136,41 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
+    },
+    {
+      "id": "vndb-fan-patch-4",
+      "name": "Fan patch",
+      "kind": "adult",
+      "official": false,
+      "by": "sakuramusubi",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r164124",
+        "key": "r164124",
+        "origin": "https://drive.proton.me/urls/FVSAK3R8FG#iWxtN6PEZ4iI"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://drive.proton.me/urls/FVSAK3R8FG#iWxtN6PEZ4iI",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

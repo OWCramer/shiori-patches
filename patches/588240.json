@@ -3,6 +3,40 @@
   "title": "Frisky Business",
   "patches": [
     {
+      "id": "vndb-as-nature-intended-patch",
+      "name": "As Nature Intended Patch",
+      "kind": "other",
+      "official": true,
+      "by": "KBros Games",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r50997",
+        "key": "r50997",
+        "origin": "https://web.archive.org/web/20180218160543/http://www.kbrosinc.com/friskybusiness/"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://web.archive.org/web/20180218160543/http://www.kbrosinc.com/friskybusiness/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",

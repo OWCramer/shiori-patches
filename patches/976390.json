@@ -78,7 +78,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r65536",
-        "key": "r65536"
+        "key": "r65536",
+        "origin": "https://files.catbox.moe/aikqd2.zip"
       },
       "version": null,
       "languages": [
@@ -100,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

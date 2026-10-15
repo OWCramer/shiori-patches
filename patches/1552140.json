@@ -44,7 +44,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r107358",
-        "key": "r107358"
+        "key": "r107358",
+        "origin": "https://f95zone.to/threads/eng-suzukuri-karin-chan-last-game-of-bunny-black-dev-team-a-shin-koihime-musou-spinoff-with-gameplay-like-arknight-append-patch-available.75019/"
       },
       "version": null,
       "languages": [
@@ -66,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

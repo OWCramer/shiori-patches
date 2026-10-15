@@ -1,0 +1,48 @@
+{
+  "appID": 2355140,
+  "title": "The Symbiant Re:Union",
+  "patches": [
+    {
+      "id": "vndb-adult-patch",
+      "name": "Adult Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "HeartCoreDev",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r116742",
+        "key": "r116742-2758890"
+      },
+      "version": null,
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ja",
+        "ko",
+        "ru",
+        "zh-Hans",
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "A DLC of the game on Steam: once owned, it downloads with the game.",
+      "files": [
+        {
+          "host": "steam",
+          "url": "https://store.steampowered.com/app/2758890",
+          "dlc": 2758890,
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

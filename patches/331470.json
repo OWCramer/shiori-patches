@@ -3,6 +3,41 @@
   "title": "Everlasting Summer",
   "patches": [
     {
+      "id": "vndb-hentai-patch",
+      "name": "Hentai Patch",
+      "kind": "other",
+      "official": true,
+      "by": "Soviet Games",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r132208",
+        "key": "r132208",
+        "origin": "http://web.archive.org/web/20141222055931/http://everlastingsummer.su/"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://web.archive.org/web/20141222055931/http://everlastingsummer.su/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -11,7 +46,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/331470",
-        "key": "331470"
+        "key": "331470",
+        "origin": "https://www.youtube.com/watch?time_continue=2&v=VnKnHLTcdjA"
       },
       "version": null,
       "languages": [
@@ -33,28 +69,29 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11",
+      "checked": "2026-10-14",
       "install": {
         "into": "game"
       }
     },
     {
       "id": "vndb-fan-patch",
-      "name": "Fan patch",
+      "name": "Fan translation",
       "kind": "translation",
       "official": false,
       "by": "Fan patch",
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r124430",
-        "key": "r124430"
+        "key": "r124430",
+        "origin": "https://steamcommunity.com/sharedfiles/filedetails/?id=1118110148"
       },
       "version": null,
       "languages": [
         "en",
         "ru"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -70,7 +107,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

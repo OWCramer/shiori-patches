@@ -1,0 +1,39 @@
+{
+  "appID": 3508150,
+  "title": "Holy Valkyrie ExS-TIA F Parallel Episode 2: Reunion",
+  "patches": [
+    {
+      "id": "patchmoe-holy-valkyrie-exs-tia-f-parallel-episode-2-reunion",
+      "name": "Holy Valkyrie ExS-TIA F Parallel Episode 2: Reunion DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/EXS-TiA_F_patch.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/EXS-TiA_F_patch.zip",
+          "name": "EXS-TiA_F_patch.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    }
+  ]
+}

@@ -44,7 +44,8 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/1144400",
-        "key": "1144400"
+        "key": "1144400",
+        "origin": "https://nekonyansoft.com/shop/product/28"
       },
       "version": null,
       "languages": [
@@ -67,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-fan-patch",
@@ -78,7 +79,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r135121",
-        "key": "r135121"
+        "key": "r135121",
+        "origin": "https://f95zone.to/threads/senren-banka-final-yuzusoft.45821/post-16896220"
       },
       "version": null,
       "languages": [
@@ -100,7 +102,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

@@ -77,13 +77,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r137007",
-        "key": "r137007"
+        "key": "r137007",
+        "origin": "https://mega.nz/file/DUVFhToY#I8drS3b4dCS0Sji7vUfeWkOhFptCkiq44-o1Bfl13rc"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -99,7 +100,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }

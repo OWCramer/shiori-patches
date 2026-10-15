@@ -3,6 +3,40 @@
   "title": "Aozora Meikyuu",
   "patches": [
     {
+      "id": "vndb-uncensor-patch",
+      "name": "Uncensor Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Yume Creations",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r45249",
+        "key": "r45249",
+        "origin": "http://steamcommunity.com/app/427980/discussions/0/451852118778491405/"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "http://steamcommunity.com/app/427980/discussions/0/451852118778491405/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",
@@ -34,6 +68,40 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-11"
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "Sakashi Plans",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r61256",
+        "key": "r61256",
+        "origin": "https://sakashiplans.wordpress.com/2018/12/27/aozora-meikyuu/"
+      },
+      "version": null,
+      "languages": [
+        "es"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://sakashiplans.wordpress.com/2018/12/27/aozora-meikyuu/",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-14",
+      "checked": "2026-10-14"
     }
   ]
 }

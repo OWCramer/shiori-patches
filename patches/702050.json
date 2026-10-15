@@ -50,7 +50,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r481",
-        "key": "r481"
+        "key": "r481",
+        "origin": "https://web.archive.org/web/20170708084503/https://tlwiki.org/?title=Saya_no_Uta"
       },
       "version": null,
       "languages": [
@@ -72,7 +73,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     },
     {
       "id": "vndb-ponscripter-edition",

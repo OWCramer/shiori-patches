@@ -4,14 +4,15 @@
   "patches": [
     {
       "id": "uncensorpatch-uncensor-patch",
-      "name": "Uncensor patch",
+      "name": "Uncensor Patch",
       "kind": "adult",
-      "official": false,
-      "by": "uncensorpat.ch community",
+      "official": true,
+      "by": "Epic Works, Top Hat Studios",
       "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/590800",
-        "key": "590800"
+        "site": "vndb",
+        "page": "https://vndb.org/r91378",
+        "key": "r91378",
+        "origin": "https://tophatstudios.itch.io/rainbow-dreams"
       },
       "version": null,
       "languages": [
@@ -21,7 +22,7 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the 'game' folder from the downloaded patch archive into the game install folder mentioned above, merging folders and overwriting files if prompted",
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
       "files": [
         {
           "host": "page",
@@ -33,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-14"
     }
   ]
 }
