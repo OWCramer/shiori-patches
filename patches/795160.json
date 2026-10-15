@@ -55,7 +55,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "dead",
       "verified": false,
       "notes": "Install (PC): Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...). Inside that directory, there will be a folder named 'game'. Download the patch archive from the link below Extract the 'Patch.rpa' file from the downloaded patch archive into the 'game' folder mentioned above It's working if: The background of the main menu has changed from Rui up on stage to something more adult.",
       "files": [

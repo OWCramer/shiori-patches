@@ -56,7 +56,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "dead",
       "verified": false,
       "notes": "Install (PC): Launch the game, select the second checkbox for which version of the game to launch when Steam asks, and allow the game to open Close the game Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Download the patch archive from the link below Extract the contents of the downloaded patch archive into the game install folder mentioned abo It's working if: When you go to the Gallery from the main menu, there are 18 potential CGs in the CG gallery (instead of 7) uncensorpat.ch checked this patch on PC.",
       "files": [
