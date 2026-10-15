@@ -5,7 +5,7 @@ where to get it: a Steam DLC, a shop, or a download link (often MEGA)."""
 import html as htmllib
 import re
 
-from common import fetch_text, host_of, steam_app_id
+from common import direct_link, fetch_text, file_links, host_of, steam_app_id
 
 SITE = "https://www.uncensorpat.ch"
 # Links on these hosts come from the game's publisher.
@@ -84,8 +84,11 @@ def read(app_id):
     ends = ["Install Instructions:", "It's Working If:", "Patch download:", "Steam store:", "Please enable JavaScript"]
     install = _section(text, "Install Instructions:", ends[1:])
     working = _section(text, "It's Working If:", ends[2:])
-    downloads = [u for u in _links(_section(text, "Patch download:", ends[3:])) if "steam://" not in u]
+    downloads = [direct_link(u) for u in _links(_section(text, "Patch download:", ends[3:])) if "steam://" not in u]
     info = _section(text, "Patch Information:", ends)
+    # Other places to get the file, mentioned in passing ("There's also a Dropbox link if the
+    # Google Drive link is no good"): mirrors of the download.
+    alternates = [u for u in file_links(_links(info) + _links(install)) if u not in downloads]
 
     files = []
     dlc = re.search(r"found as DLC for the game on the Steam Store: ⟦https://store\.steampowered\.com/app/(\d+)", text)
@@ -107,6 +110,8 @@ def read(app_id):
         elif len(files) > 1:
             # Several links are usually mirrors of one archive.
             files = [dict(files[0], mirrors=[{"host": f["host"], "url": f["url"]} for f in files[1:]])]
+        if files and files[0]["host"] not in ("steam", "store") and alternates:
+            files[0]["mirrors"] = files[0].get("mirrors", []) + [{"host": host_of(u), "url": u} for u in alternates]
     if not files:
         return None
     for f in files:
@@ -117,7 +122,8 @@ def read(app_id):
         h in (files[0]["url"] or "") for h in PUBLISHER_HOSTS)
     # "The patch information is taken from the [link] Winged Cloud Patreon": the publisher's
     # own post, which is where the patch comes from.
-    origin = next((u for u in _links(info) if "uncensorpat.ch" not in u and host_of(u) not in ("steam", "store")), None)
+    origin = next((u for u in _links(info) if "uncensorpat.ch" not in u and host_of(u) not in ("steam", "store")
+                   and direct_link(u) not in alternates and direct_link(u) not in downloads), None)
     from_publisher = "taken from the" in info and _publisher(info) != "Publisher"
     official = bool(dlc) or publisher_link or from_publisher or files[0]["host"] == "store"
     installer = bool(re.search(r"\.exe\b|patch installer|patcher", install, re.I))

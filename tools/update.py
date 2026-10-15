@@ -218,7 +218,8 @@ def hash_files(games, limit_bytes):
     for game in games.values():
         for patch in game["patches"]:
             for file in patch["files"]:
-                if file.get("sha256") or file["host"] not in ("direct", "gdrive", "mega", "wetransfer"):
+                if file.get("sha256") or not any(h in ("direct", "gdrive", "mega", "wetransfer") for h in
+                                                 [file["host"]] + [m["host"] for m in file.get("mirrors", [])]):
                     continue
                 if file["host"] == "gdrive" and not download.drive_file_id(file["url"]):
                     try:
@@ -233,15 +234,23 @@ def hash_files(games, limit_bytes):
                     file["url"] = f"https://drive.google.com/file/d/{archives[0][0]}/view"
                 if spent >= limit_bytes:
                     return
-                try:
-                    info = download.inspect(file["host"], file["url"], limit=limit_bytes - spent)
-                except download.Unavailable as error:
-                    print(f"{game['appID']} {patch['id']}: {error}")
-                    if error.dead:
+                # The link first, then its mirrors (the same file): the patch is dead only when
+                # every one of them is gone.
+                sources = [(h, u) for h, u in [(file["host"], file["url"])] + [(m["host"], m["url"]) for m in file.get("mirrors", [])]
+                           if h in ("direct", "gdrive", "mega", "wetransfer")]
+                info, gone = None, 0
+                for host, url in sources:
+                    try:
+                        info = download.inspect(host, url, limit=limit_bytes - spent)
+                        break
+                    except download.Unavailable as error:
+                        print(f"{game['appID']} {patch['id']} {url}: {error}")
+                        gone += error.dead
+                    except Exception as error:
+                        print(f"{game['appID']} {patch['id']} {url}: {error}")
+                if info is None:
+                    if gone == len(sources):
                         patch["status"] = "dead"
-                    continue
-                except Exception as error:
-                    print(f"{game['appID']} {patch['id']}: {error}")
                     continue
                 spent += info["size"]
                 file["size"] = info["size"]

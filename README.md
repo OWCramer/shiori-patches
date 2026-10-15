@@ -12,14 +12,14 @@ One file per game in `patches/<appid>.json`, and `index.json` listing every game
 - `official`: from the game's publisher, or a community patch.
 - `verified`: `false`, or who played the game with the patch in Shiori, when, and on which engine.
 - `source`: the page the entry was read from (`page`: the publisher's patch page, the VNDB release, the uncensorpat.ch page), and, when that page names one, where it got the patch (`origin`: the publisher's post, the translator's site). Shiori links both.
-- `status`: `ok`, `dead` (the link stopped working) or `unsupported` (a Windows installer, which Shiori can't run).
+- `status`: `ok`, `dead` (the link and every mirror stopped working) or `unsupported` (a Windows installer, which Shiori can't run).
 - `files`: every part of the patch. `host` is how Shiori gets it:
-  - `direct`, `gdrive`, `mega` and `wetransfer` download inside Shiori;
+  - `direct`, `gdrive`, `mega` and `wetransfer` download inside Shiori (Dropbox and pixeldrain links are listed as `direct`, in the form that answers with the file);
   - `steam` is a DLC of the game on Steam;
   - `store` is a shop that sells it, or gives it away (`price` says which; buy or claim it, then use Import Patch);
   - `page` opens in a browser.
   
-  `mirrors` lists other places to get the same file.
+  `mirrors` lists other places to get the same file, tried in order when the link fails; the tools also take them from what a page says around its download ("there's also a Dropbox link…").
 - `install` (optional): `into` forces the game's own folder (`root`) or Ren'Py's `game/` folder (`game`); `strip` steps into a wrapper folder in the archive.
 
 `schema.json` is the full format.
