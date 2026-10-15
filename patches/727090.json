@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!AGQBBKRb!JzRgnfGVnEczmihfLoX71yhRw43eHCLhTNtDC74mPW0",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "village_of_adventurers_2_uncensor_patch.zip",
+          "format": "zip",
+          "size": 270438536,
+          "sha256": "b5dc561ef6f1341a699a510dafe6d0506ae80ee323d100b342086b76e31b1289"
         }
       ],
       "added": "2026-10-11",

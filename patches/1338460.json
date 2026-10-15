@@ -64,10 +64,10 @@
         {
           "host": "direct",
           "url": "http://dl.fruitbatfactory.com/Jiangshi_x_Daoshi_EP1-2_restoration_patch_1.01.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Jiangshi_x_Daoshi_EP1-2_restoration_patch_1.01.zip",
+          "format": "zip",
+          "size": 24227751,
+          "sha256": "932cfc14f485cec7f378f2e1d3daeb2e87e3231c2aa73fcfa4a379c8f487244d"
         }
       ],
       "added": "2026-10-11",

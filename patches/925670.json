@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!teA2iaKT!I-t4X3-nR8DbOq-OABlHamCU0I7KuzOL3jhweg2aCOU",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "DK18X.zip",
+          "format": "zip",
+          "size": 10370489,
+          "sha256": "0e466d2842070e0d2a5ba513c6842b308a1e1c163656e67dfc3f9477ea9089e7"
         }
       ],
       "added": "2026-10-11",

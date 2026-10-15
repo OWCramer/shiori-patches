@@ -27,10 +27,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!1TAhGCiT!chI9dIlG_ASORNaLkODzCBumMAHNABJqRwBAsT1bqXE",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "cg.tad",
+          "format": "file",
+          "size": 6713772,
+          "sha256": "cb43083cb73b92ff647989d1edd6a0fb5b7c38478cf18334e6debfe425cd99dd"
         }
       ],
       "added": "2026-10-11",
