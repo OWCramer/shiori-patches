@@ -64,7 +64,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "direct",
+              "url": "https://www.dropbox.com/s/7zg7cwb1luq3wzx/Patch.rpa?dl=1"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

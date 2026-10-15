@@ -11,8 +11,7 @@
       "source": {
         "site": "uncensorpatch",
         "page": "https://www.uncensorpat.ch/game/741140",
-        "key": "741140",
-        "origin": "https://drive.google.com/file/d/1jo6hfwMMJCljY6qRsGMWOx4vdMwdr70b"
+        "key": "741140"
       },
       "version": null,
       "languages": [
@@ -34,7 +33,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-15"
     },
     {
       "id": "vndb-fan-patch",
