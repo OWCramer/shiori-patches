@@ -1,0 +1,162 @@
+{
+  "appID": 2249070,
+  "title": "Strip Fighter ZERO",
+  "patches": [
+    {
+      "id": "erogejapan-r18-patch",
+      "name": "R18 patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Eroge Japan",
+      "source": {
+        "site": "erogejapan",
+        "page": "https://erogejapan.com/patch/strip_fighter_zero_r18_patch/",
+        "key": "strip_fighter_zero_r18_patch"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://erogejapan.com/r18patch/sfz/SFZ_Patch_EN.zip",
+          "name": "SFZ_Patch_EN.zip",
+          "format": "zip",
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/wlxc14srzbh2k9x/SFZ_Patch_EN.zip/file"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-15",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "erogejapan-r18-patch-japanese",
+      "name": "R18 patch (Japanese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Eroge Japan",
+      "source": {
+        "site": "erogejapan",
+        "page": "https://erogejapan.com/patch/strip_fighter_zero_r18_patch/",
+        "key": "strip_fighter_zero_r18_patch-ja"
+      },
+      "version": null,
+      "languages": [
+        "ja"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://erogejapan.com/r18patch/sfz/SFZ_Patch_JP.zip",
+          "name": "SFZ_Patch_JP.zip",
+          "format": "zip",
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/ekf5s432alsmz44/SFZ_Patch_JP.zip/file"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-15",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "erogejapan-r18-patch-simplified-chinese",
+      "name": "R18 patch (Simplified Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Eroge Japan",
+      "source": {
+        "site": "erogejapan",
+        "page": "https://erogejapan.com/patch/strip_fighter_zero_r18_patch/",
+        "key": "strip_fighter_zero_r18_patch-zh-Hans"
+      },
+      "version": null,
+      "languages": [
+        "zh-Hans"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://erogejapan.com/r18patch/sfz/SFZ_Patch_SC.zip",
+          "name": "SFZ_Patch_SC.zip",
+          "format": "zip",
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/29oevq24cg956mz/SFZ_Patch_SC.zip/file"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-15",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "erogejapan-r18-patch-traditional-chinese",
+      "name": "R18 patch (Traditional Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Eroge Japan",
+      "source": {
+        "site": "erogejapan",
+        "page": "https://erogejapan.com/patch/strip_fighter_zero_r18_patch/",
+        "key": "strip_fighter_zero_r18_patch-zh-Hant"
+      },
+      "version": null,
+      "languages": [
+        "zh-Hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://erogejapan.com/r18patch/sfz/SFZ_Patch_TC.zip",
+          "name": "SFZ_Patch_TC.zip",
+          "format": "zip",
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/7g1fcasbc4pmlo9/SFZ_Patch_TC.zip/file"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-15",
+      "checked": "2026-10-15"
+    }
+  ]
+}

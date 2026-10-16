@@ -1,0 +1,45 @@
+{
+  "appID": 4466620,
+  "title": "SiNiSistar 2",
+  "patches": [
+    {
+      "id": "erogejapan-r18-patch",
+      "name": "R18 patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Eroge Japan",
+      "source": {
+        "site": "erogejapan",
+        "page": "https://erogejapan.com/patch/sinisistar2/",
+        "key": "sinisistar2"
+      },
+      "version": "1.3.1",
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "mega",
+          "url": "https://mega.nz/file/dJc3jRbA#znN9_Dw1JqsL_jtY50OSYlNVnU-mSgIX4IV-tC2-Iq4",
+          "name": null,
+          "format": null,
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/nsg6a7f5tt53wax/SiNiSistar2_Patch_v1_3_1_win.zip/file"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-15",
+      "checked": "2026-10-15"
+    }
+  ]
+}

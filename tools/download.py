@@ -171,6 +171,46 @@ def open_file(host, url):
     raise Unavailable(f"{host} links aren't downloadable", dead=False)
 
 
+def zip_entries(url):
+    """The names in a zip on a plain link, read from its central directory with ranged
+    requests (the archive itself isn't downloaded); None when the server can't do that."""
+    def ranged(spec):
+        response = _open(url, headers={"Range": spec})
+        with response:
+            if response.status != 206:
+                return None, None
+            return response.headers.get("Content-Range"), response.read(1 << 20)
+    try:
+        span, tail = ranged("bytes=-65536")
+        if not span:
+            return None
+        size = int(span.rsplit("/", 1)[1])
+        end = tail.rfind(b"PK\x05\x06")
+        if end < 0:
+            return None
+        count, cd_size, cd_offset = struct.unpack("<HII", tail[end + 10:end + 20])
+        start = size - len(tail)
+        directory = tail[cd_offset - start:cd_offset - start + cd_size] if cd_offset >= start else \
+            ranged(f"bytes={cd_offset}-{cd_offset + cd_size - 1}")[1]
+        names, at = [], 0
+        for _ in range(count):
+            name_len, extra_len, comment_len = struct.unpack("<HHH", directory[at + 28:at + 34])
+            names.append(directory[at + 46:at + 46 + name_len].decode("utf-8", errors="replace"))
+            at += 46 + name_len + extra_len + comment_len
+        return names
+    except (Unavailable, struct.error, ValueError, OSError):
+        return None
+
+
+def is_installer(entries):
+    """Whether an archive's entries are a Windows installer rather than the game's files."""
+    # Read-mes and instructions (often a PDF per language) don't count either way.
+    files = [e for e in entries or [] if not e.endswith("/")
+             and not e.lower().endswith((".pdf", ".txt", ".md", ".html", ".htm", ".url", ".rtf", ".jpg", ".png"))]
+    exes = [e for e in files if e.lower().endswith(".exe")]
+    return bool(exes) and len(exes) * 2 >= len(files)
+
+
 def inspect(host, url, limit=None):
     """Downloads the file into a temporary file and returns its name, size, SHA-256 and
     archive listing (None when bsdtar can't read it)."""

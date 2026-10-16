@@ -1,0 +1,45 @@
+{
+  "appID": 1803960,
+  "title": "Demon Sword: Incubus",
+  "patches": [
+    {
+      "id": "erogejapan-r18-patch",
+      "name": "R18 patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Eroge Japan",
+      "source": {
+        "site": "erogejapan",
+        "page": "https://erogejapan.com/patch/demon-sword-incubus/",
+        "key": "demon-sword-incubus"
+      },
+      "version": "1.17",
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://erogejapan.com/r18patch/demon_sword_incubus/DSI_Patch_1.17.zip",
+          "name": "DSI_Patch_1.17.zip",
+          "format": "zip",
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/zyulodq4g1calb2/DSI_Patch_1.17.zip/file"
+            }
+          ],
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-15",
+      "checked": "2026-10-15"
+    }
+  ]
+}

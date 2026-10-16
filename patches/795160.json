@@ -65,7 +65,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "direct",
+              "url": "https://www.dl.dropboxusercontent.com/s/spg5sygavns5sbo/Tsundere%20Idol%20-%20Adult%20Patch.zip?dl=0"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

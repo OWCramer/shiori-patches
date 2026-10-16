@@ -1,0 +1,40 @@
+{
+  "appID": 3240500,
+  "title": "Sakura Isekai Adventure 3",
+  "patches": [
+    {
+      "id": "sakurapatcher-18-patch",
+      "name": "18+ patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Winged Cloud",
+      "source": {
+        "site": "sakurapatcher",
+        "page": "https://github.com/gan-of-culture/sakura-patcher",
+        "origin": "https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416",
+        "key": "Sakura Isekai Adventure 3"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Winged Cloud's own patch; the link comes from sakura-patcher's list.",
+      "files": [
+        {
+          "host": "wetransfer",
+          "url": "https://wingedcloud.wetransfer.com/downloads/fbdf06f6557d1203c329681a4e0b700420241119210735/a5f237",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-15",
+      "checked": "2026-10-15"
+    }
+  ]
+}

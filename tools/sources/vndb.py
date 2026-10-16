@@ -8,7 +8,7 @@ import json
 import os
 import re
 
-from common import fetch_json, host_of
+from common import fetch_json, file_links, host_of
 
 API = "https://api.vndb.org/kana/release"
 ADULT_WORDS = re.compile(r"uncensor|mosaic|18\+|\br-?18\b|\badult\b|\bh-?scenes?\b|\bnsfw\b", re.I)
@@ -145,6 +145,13 @@ def collect(app_ids, has_official=frozenset()):
             source = {"site": "vndb", "page": page, "key": release["id"]}
             if links:
                 source["origin"] = links[0]
+            # Other links (more of the release's links, or ones its notes give) to the file itself.
+            noted = re.findall(r"https?://[^\s\[\]<>\"']+", release.get("notes") or "")
+            alternates = [u for u in file_links(links[1:] + noted) if u not in links[:1]]
+            file = {"host": "store" if links and host_of(links[0]) == "store" else "page",
+                    "url": links[0] if links else page, "name": None, "format": None}
+            if alternates:
+                file["mirrors"] = [{"host": host_of(u), "url": u} for u in alternates]
             yield {
                 "appID": app_id,
                 "patch": {
@@ -158,7 +165,6 @@ def collect(app_ids, has_official=frozenset()):
                     "adult": adult,
                     "notes": "Listed on VNDB; the download is on the patch's own page.",
                     # A blog post, a forum thread or a shop, never a file Shiori has checked.
-                    "files": [{"host": "store" if links and host_of(links[0]) == "store" else "page",
-                               "url": links[0] if links else page, "name": None, "format": None}],
+                    "files": [file],
                 },
             }

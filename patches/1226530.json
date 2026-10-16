@@ -3,53 +3,15 @@
   "title": "Trap Legend",
   "patches": [
     {
-      "id": "vndb-h-scene-append-patch",
-      "name": "H-scene Append Patch",
+      "id": "erogejapan-r18-patch",
+      "name": "R18 patch",
       "kind": "adult",
       "official": true,
       "by": "Eroge Japan",
       "source": {
-        "site": "vndb",
-        "page": "https://vndb.org/r73179",
-        "key": "r73179",
-        "origin": "https://no-strike.jp/legend/download.html"
-      },
-      "version": null,
-      "languages": [
-        "en",
-        "ja",
-        "zh-Hans",
-        "zh-Hant"
-      ],
-      "adult": true,
-      "branch": null,
-      "status": "ok",
-      "verified": false,
-      "notes": "Listed on VNDB; the download is on the patch's own page.",
-      "files": [
-        {
-          "host": "page",
-          "url": "https://no-strike.jp/legend/download.html",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
-        }
-      ],
-      "added": "2026-10-14",
-      "checked": "2026-10-14"
-    },
-    {
-      "id": "uncensorpatch-uncensor-patch",
-      "name": "Uncensor patch",
-      "kind": "adult",
-      "official": false,
-      "by": "uncensorpat.ch community",
-      "source": {
-        "site": "uncensorpatch",
-        "page": "https://www.uncensorpat.ch/game/1226530",
-        "key": "1226530",
-        "origin": "https://no-strike.jp/legend/download.html"
+        "site": "erogejapan",
+        "page": "https://erogejapan.com/patch/trap_legend/",
+        "key": "trap_legend"
       },
       "version": null,
       "languages": [
@@ -59,19 +21,19 @@
       "branch": null,
       "status": "ok",
       "verified": false,
-      "notes": "Install (PC): Download the patch archive from the link below Open the Steam game install folder (right click the game in Steam, Properties, Local Files, Browse Local Files...) Extract the contents of the patch archive into the game install folder folder, overwriting any files as prompted It's working if: When Tamaki tests you, there is an adult scene instead of just cutting to the next day. uncensorpat.ch checked this patch on PC.",
+      "notes": "",
       "files": [
         {
           "host": "direct",
-          "url": "https://www.erogejapan.com/patch/Trap_Legend/Trap_Legend_Patch.zip",
-          "name": null,
-          "format": null,
+          "url": "https://erogejapan.com/r18patch/trap_legend/Trap_Legend_Patch.zip",
+          "name": "Trap_Legend_Patch.zip",
+          "format": "zip",
           "size": null,
           "sha256": null
         }
       ],
-      "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "added": "2026-10-15",
+      "checked": "2026-10-15"
     }
   ]
 }

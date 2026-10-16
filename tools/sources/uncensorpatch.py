@@ -4,8 +4,9 @@ where to get it: a Steam DLC, a shop, or a download link (often MEGA)."""
 
 import html as htmllib
 import re
+import urllib.parse
 
-from common import fetch_text, host_of, steam_app_id
+from common import direct_link, fetch_text, file_links, host_of, steam_app_id
 
 SITE = "https://www.uncensorpat.ch"
 # Links on these hosts come from the game's publisher.
@@ -73,6 +74,33 @@ def _publisher(text):
     return "Publisher"
 
 
+# A sentence offering another place to get the same file...
+MIRROR_WORDS = re.compile(r"\b(also|mirrors?|alternatives?|alternatively|instead|backup|options? available|"
+                          r"prefer to download|directly|is no good|doesn'?t work|does not work|is down|fails?)\b", re.I)
+# ...and one about something else: another patch, edition, platform or language, or a requirement.
+OTHER_WORDS = re.compile(r"\b(separate|mod|different version|version of the|dlsite|dmm|fanza|johren|mangagamer|"
+                         r"chinese|japanese|korean|spanish|russian|mac|macos|linux|android|runtime|framework|"
+                         r"required|requires|optional|movie|soundtrack|walkthrough|save file|mosaic removal)\b", re.I)
+# File names that say they're for another platform or language.
+OTHER_FILES = re.compile(r"(?:^|[_\-. ])(mac|osx|macos|linux|android|sc|tc|cn|chs|cht|zh|jp|ja|kr|ko)(?:[_\-. ]|$)", re.I)
+
+
+def _alternates(section):
+    """Links to the same file that a page offers in passing ("There's also a Dropbox link if
+    the Google Drive link is no good"), sentence by sentence: file-host links in a sentence
+    that offers an alternative, and not in one about another patch, version or platform."""
+    found = []
+    for sentence in re.split(r"(?<=[.!?])\s+|\n", section):
+        if not MIRROR_WORDS.search(sentence) or OTHER_WORDS.search(re.sub(r"⟦[^⟧]*⟧", " ", sentence)):
+            continue
+        for url in file_links(_links(sentence)):
+            parts = [p for p in urllib.parse.urlsplit(url).path.split("/") if p and p != "file"]
+            name = urllib.parse.unquote(parts[-1]) if parts else ""
+            if not OTHER_FILES.search(name.rsplit(".", 1)[0]) and url not in found:
+                found.append(url)
+    return found
+
+
 def read(app_id):
     """The site's patch for one game, or None."""
     text = _text(_page(f"/game/{app_id}"))
@@ -84,8 +112,9 @@ def read(app_id):
     ends = ["Install Instructions:", "It's Working If:", "Patch download:", "Steam store:", "Please enable JavaScript"]
     install = _section(text, "Install Instructions:", ends[1:])
     working = _section(text, "It's Working If:", ends[2:])
-    downloads = [u for u in _links(_section(text, "Patch download:", ends[3:])) if "steam://" not in u]
+    downloads = [direct_link(u) for u in _links(_section(text, "Patch download:", ends[3:])) if "steam://" not in u]
     info = _section(text, "Patch Information:", ends)
+    alternates = [u for u in _alternates(info + "\n" + install) if u not in downloads]
 
     files = []
     dlc = re.search(r"found as DLC for the game on the Steam Store: ⟦https://store\.steampowered\.com/app/(\d+)", text)
@@ -107,6 +136,8 @@ def read(app_id):
         elif len(files) > 1:
             # Several links are usually mirrors of one archive.
             files = [dict(files[0], mirrors=[{"host": f["host"], "url": f["url"]} for f in files[1:]])]
+        if files and files[0]["host"] not in ("steam", "store") and alternates:
+            files[0]["mirrors"] = files[0].get("mirrors", []) + [{"host": host_of(u), "url": u} for u in alternates]
     if not files:
         return None
     for f in files:
@@ -117,7 +148,8 @@ def read(app_id):
         h in (files[0]["url"] or "") for h in PUBLISHER_HOSTS)
     # "The patch information is taken from the [link] Winged Cloud Patreon": the publisher's
     # own post, which is where the patch comes from.
-    origin = next((u for u in _links(info) if "uncensorpat.ch" not in u and host_of(u) not in ("steam", "store")), None)
+    origin = next((u for u in _links(info) if "uncensorpat.ch" not in u and host_of(u) not in ("steam", "store")
+                   and not file_links([u])), None)  # a post or site, not another file
     from_publisher = "taken from the" in info and _publisher(info) != "Publisher"
     official = bool(dlc) or publisher_link or from_publisher or files[0]["host"] == "store"
     installer = bool(re.search(r"\.exe\b|patch installer|patcher", install, re.I))

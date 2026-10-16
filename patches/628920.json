@@ -64,7 +64,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/drive/folders/1I9DNCoYWJh9IXETNukHkTwPOnZ3Hk0bR"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

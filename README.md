@@ -12,14 +12,14 @@ One file per game in `patches/<appid>.json`, and `index.json` listing every game
 - `official`: from the game's publisher, or a community patch.
 - `verified`: `false`, or who played the game with the patch in Shiori, when, and on which engine.
 - `source`: the page the entry was read from (`page`: the publisher's patch page, the VNDB release, the uncensorpat.ch page), and, when that page names one, where it got the patch (`origin`: the publisher's post, the translator's site). Shiori links both.
-- `status`: `ok`, `dead` (the link stopped working) or `unsupported` (a Windows installer, which Shiori can't run).
+- `status`: `ok`, `dead` (the link and every mirror stopped working) or `unsupported` (a Windows installer, which Shiori can't run).
 - `files`: every part of the patch. `host` is how Shiori gets it:
-  - `direct`, `gdrive`, `mega` and `wetransfer` download inside Shiori;
+  - `direct`, `gdrive`, `mega` and `wetransfer` download inside Shiori (Dropbox and pixeldrain links are listed as `direct`, in the form that answers with the file);
   - `steam` is a DLC of the game on Steam;
   - `store` is a shop that sells it, or gives it away (`price` says which; buy or claim it, then use Import Patch);
   - `page` opens in a browser.
   
-  `mirrors` lists other places to get the same file.
+  `mirrors` lists other places to get the same file, tried in order when the link fails; the tools also take them from what a page says around its download ("there's also a Dropbox link…").
 - `install` (optional): `into` forces the game's own folder (`root`) or Ren'Py's `game/` folder (`game`); `strip` steps into a wrapper folder in the archive.
 
 `schema.json` is the full format.
@@ -33,8 +33,10 @@ One file per game in `patches/<appid>.json`, and `index.json` listing every game
 | [NekoNyan](https://patches.nekonyansoft.com) | Official 18+ patches with Steam app ids and direct downloads. |
 | [Saikey Studios](https://saikeystudios.com/patches/) | Official patches with Steam app ids; files from their Google Drive mirrors. |
 | [Kagami Games](https://patches.kagamied.com) | Official Steam patches from the publisher's patch page (its `patches.json`), direct downloads with Google Drive mirrors; titles matched like patch.moe's. |
+| [Eroge Japan](https://erogejapan.com/patch/) | Official R18 patches from the publisher's own patch pages (found through its sitemap), one per language, with their MEGA and MediaFire mirrors; each game's Steam app id from its game page. The links are read again every day, as the site moves its files. For a game it lists, uncensorpat.ch's and VNDB's copies of its patches are left out. |
 | [uncensorpat.ch](https://www.uncensorpat.ch) | Community database of uncensor patches per Steam app id: Steam DLCs, shops and download links (often MEGA). |
 | [Winged Cloud](https://www.patreon.com/wingedcloud/posts/sakura-patch-37106416) | Official 18+ patches for the Sakura games, from Winged Cloud's public Patreon post, on their WeTransfer portal. Patreon's robots.txt closes its API to automated readers, so the post is copied by hand into `wingedcloud.json`; Winged Cloud's later games come through uncensorpat.ch, which links each one's Patreon post. |
+| [sakura-patcher](https://github.com/gan-of-culture/sakura-patcher) | An open-source installer for Winged Cloud's Sakura patches; its list of the official WeTransfer links fills in the Sakura games neither `wingedcloud.json` nor uncensorpat.ch has. Listed as Winged Cloud's patches, credited "via sakura-patcher". The tool has no licence, so only facts are taken from it (titles, the publisher's links), never its code. |
 | [Denpasoft](https://denpasoft.com/category/dlc-18) | Its 18+ and uncensor DLCs, many free with a Denpasoft account; kept by hand in `denpasoft.json` (the site blocks automated reading). Listed as shop links with their price. |
 | [patch.moe](https://www.patch.moe) | Publishers' DLC patches, listed by title and matched to Steam app ids (`titles.json` holds the matches, for Winged Cloud too; fix a wrong one there). |
 | [VNDB](https://vndb.org) | Fan translations and other fan patches for games with a Steam release: English ones, and any language for a game written in English (they translate the Steam release). Official patches too, for games no publisher source above covers. The download link is added by hand. Publishers' 18+ patches sold or given away as Steam DLC come from VNDB's official patch releases, matched to their game through Steam (`steam-dlc.json` keeps each DLC's game). |

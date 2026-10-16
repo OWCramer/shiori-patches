@@ -25,7 +25,7 @@
           "required": ["site", "page"],
           "additionalProperties": false,
           "properties": {
-            "site": { "enum": ["nekonyan", "saikey", "kagami", "uncensorpatch", "patchmoe", "vndb", "wingedcloud", "denpasoft", "manual"] },
+            "site": { "enum": ["nekonyan", "saikey", "kagami", "uncensorpatch", "patchmoe", "vndb", "wingedcloud", "sakurapatcher", "erogejapan", "denpasoft", "manual"] },
             "page": { "type": "string", "format": "uri", "description": "The page this entry was read from: the publisher's patch page, the VNDB release, the uncensorpat.ch page. Shiori links it." },
             "origin": { "type": "string", "format": "uri", "description": "Where that page got the patch, when it names one: the publisher's own post, the translator's site." },
             "key": { "type": "string", "description": "What the site calls this patch; the updater matches on it." }

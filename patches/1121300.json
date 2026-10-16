@@ -64,7 +64,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "direct",
+              "url": "http://aikasacollective.com/wp-content/uploads/2020/04/mpatch.zip"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

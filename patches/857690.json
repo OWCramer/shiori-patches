@@ -64,7 +64,7 @@
       "notes": "Install (PC): Copy the Patch URL from below Run the game In the lower right corner of the title screen, there is a text entry field for Patch / MOD URL - paste the Patch URL into the box and click apply When “Completed” is displayed, exit the game and start it again Note: If the bar next to the \"Apply\" button doesn't move, the correct URL hasn't been entered It's working if: “_P” is added to the “Patch Version” at the top of the screen and it is now labelled “XXX_P”",
       "files": [
         {
-          "host": "page",
+          "host": "direct",
           "url": "https://www.dropbox.com/scl/fi/jdn10z6wiap0miytbx49x/lagoon_1_r18patch_v3.0.0_p.zip?rlkey=6yms5x52zjrevzf8uaj1vxhz8&dl=1",
           "name": null,
           "format": null,
@@ -73,7 +73,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-15"
     }
   ]
 }
