@@ -64,7 +64,17 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "http://www.mediafire.com/?mmxx1exafhn3tfw"
+            },
+            {
+              "host": "page",
+              "url": "http://www.mediafire.com/?v9eusbz04v1p20c"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

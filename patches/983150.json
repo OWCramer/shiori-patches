@@ -3,6 +3,40 @@
   "title": "Sakura no Mori † Dreamers 2",
   "patches": [
     {
+      "id": "vndb-patch",
+      "name": "Patch",
+      "kind": "other",
+      "official": true,
+      "by": "Publisher",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r167656",
+        "key": "r167656",
+        "origin": "https://www.mediafire.com/file/532kodc78zwu0vs/Sakura_No_Mori_2_ENG_Patch.zip/file"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://www.mediafire.com/file/532kodc78zwu0vs/Sakura_No_Mori_2_ENG_Patch.zip/file",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-16",
+      "checked": "2026-10-16"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",

@@ -53,7 +53,7 @@
       ],
       "adult": false,
       "branch": null,
-      "status": "ok",
+      "status": "dead",
       "verified": false,
       "notes": "Listed on VNDB; the download is on the patch's own page.",
       "files": [
@@ -63,7 +63,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "mega",
+              "url": "https://mega.co.nz/#!a5EX0Bob!sCzgW-O0SwioWj6yWS4Ibi1KdVIGTukQHmtb__vk5yo"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

@@ -104,7 +104,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "direct",
+              "url": "http://koikumatranslation.github.io/downloads.html"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

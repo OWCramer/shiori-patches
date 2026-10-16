@@ -30,7 +30,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "direct",
+              "url": "https://files.catbox.moe/mm31o8.zip"
+            }
+          ]
         }
       ],
       "added": "2026-10-14",

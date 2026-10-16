@@ -506,7 +506,21 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/drive/folders/1Aejww31Piyj3S6rFzSXy6q5U7XfOKiy1"
+            },
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/drive/folders/1g7xhwuziJg17nMHW68yGyAwsnBIfN2Tc"
+            },
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/drive/folders/1W02QSyeTZaAYR104zAUObSZ1LagqV-iA"
+            }
+          ]
         }
       ],
       "added": "2026-10-14",

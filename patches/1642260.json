@@ -65,7 +65,25 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "mega",
+              "url": "https://mega.nz/file/4JhX3ZLK#vVhq_lprgFrPNyCtlNi2Uo4yZSEXUu154pOh4Xz2OQE"
+            },
+            {
+              "host": "mega",
+              "url": "https://mega.nz/file/PB1GEYIb#DC9ex6TkmieAYL0fKKZOEbjqTxa_wT8tH0oFKXEYP_0"
+            },
+            {
+              "host": "mega",
+              "url": "https://mega.nz/file/fF1CRLCD#Vyp76be3QVRLhYdUURH4Ho2HAwoPtoUmxm3YtSB-AXc"
+            },
+            {
+              "host": "mega",
+              "url": "https://mega.nz/file/WFECTRII#Ao19aTjM7xBsYHAklU_B-MU1TNWGJ4aevD6dWjd6_Mg"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

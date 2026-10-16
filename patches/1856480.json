@@ -94,10 +94,24 @@
         {
           "host": "page",
           "url": "https://anonfiles.com/jfP911Hax1/kamiyaba-1_11_zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "kamiyaba-1_0.zip",
+          "format": "zip",
+          "size": 4242298,
+          "sha256": "24f3c7b1ba26bb34478caaa35767d15b14311cba5ac3e2ba4f3db1af558161a3",
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/cssiw32fgfikfs8/kamiyaba-1_0.zip/file"
+            },
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/file/d/1Jjrm631z8DZSTwL30NStFPqWzYdCnJTm/view?usp=sharing"
+            },
+            {
+              "host": "mega",
+              "url": "https://mega.nz/file/h9FG3BRQ#kwFl63LIgmJ59KVvPiebPZ7ZY5LIKlqb81ARyp0Pm8Q"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

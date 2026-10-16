@@ -30,7 +30,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://www.dropbox.com/sh/r0dunyaiuuxf2po/AABy9ZdkcKXlVHCURHJdp1oUa?dl=0"
+            }
+          ]
         }
       ],
       "added": "2026-10-14",

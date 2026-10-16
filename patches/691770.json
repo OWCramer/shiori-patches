@@ -69,7 +69,33 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "mega",
+              "url": "https://mega.nz/#!0U9DHZIQ!KsOpbLGL-MYEwioR2G6fD4VXai84L18n0t4_kxKDaRE"
+            },
+            {
+              "host": "page",
+              "url": "http://www.mediafire.com/file/kuu898jxku17ggq/ES_English_patch_1.7_Final.7z"
+            },
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/w5lc0jytik2ql9m/eiyu_update105.zip/file)."
+            },
+            {
+              "host": "mega",
+              "url": "https://mega.nz/#!IFVSHYxD!9Q2swIBzvENGbqf48a8vkI2QgSZWGuKTQQMOTOlQL0E"
+            },
+            {
+              "host": "mega",
+              "url": "https://mega.nz/#!9ENGDRJR!97h4It-TtKxD1W46kn8eN7fqjiIgHq3zeCCmgGsKxZA"
+            },
+            {
+              "host": "mega",
+              "url": "https://mega.nz/#!4EdE3IAb!ir7-Esqt5zih_UqSiE88m_CY6lUsrodRYCAGZfNiArs"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

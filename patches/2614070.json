@@ -96,7 +96,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/folder/w68viewzzqt3k/Nukitashi+Improvement+Patch"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",
@@ -131,7 +137,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "page",
+              "url": "https://catbox.moe/c/anetpf"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

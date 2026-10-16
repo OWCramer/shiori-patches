@@ -66,7 +66,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "mega",
+              "url": "https://mega.nz/#!pA1QnQwT!XvIg3C3Dth3DLOpWa0ptHq2GJ2RqybQD3-eJ3noLW_E"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",
@@ -100,7 +106,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/file/d/1D-ajjzNkAK7BfP_K10wRNil3lN_Qp2eN/view"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",
@@ -134,7 +146,21 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "mega",
+              "url": "https://mega.nz/file/cjZHTLoI#bn6LeZBlxwsNUcc_1L4WdENbmDo9ULqFtxpmp1ys2EU"
+            },
+            {
+              "host": "mega",
+              "url": "https://mega.nz/file/02pVCZZC#HipAWTeSYx1zWqqntcD7X3WJyVtLlu3Gr_8KqtZ5zLo"
+            },
+            {
+              "host": "direct",
+              "url": "https://web.archive.org/web/20220904095133/https://alkatranslations.com/wp-content/uploads/2022/06/RB_EN_NoSubs-1.2.zip"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

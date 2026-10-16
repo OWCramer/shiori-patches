@@ -33,7 +33,25 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/file/d/1y6ic3K6b6Q_cI_YejMJtNPH1P6wuJBx6/view?usp=sharing"
+            },
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/nte3um4s7z9c9t7/patch.xp3/file"
+            },
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/63n3cuff0kw0seh/patch.xp3/file"
+            },
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/file/d/1yUzd41QWPntjrP096wLNVBMfkzJbxg1X/view"
+            }
+          ]
         }
       ],
       "added": "2026-10-14",

@@ -64,7 +64,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "mega",
+              "url": "https://mega.nz/#!w1YD3YJL!6qdfcwveMmkv6fLtKZM9CCqw2IVzq719D-D9GA-yrws"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

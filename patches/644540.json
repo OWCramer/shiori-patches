@@ -25,17 +25,16 @@
       "notes": "Listed on VNDB; the download is on the patch's own page.",
       "files": [
         {
-          "host": "direct",
+          "host": "page",
           "url": "https://s3-ap-northeast-1.amazonaws.com/diesirae/dies_irae_r18_patch.zip",
           "name": null,
           "format": null,
-          "installer": true,
           "size": null,
           "sha256": null
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-16"
     },
     {
       "id": "vndb-patch",

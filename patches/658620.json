@@ -103,7 +103,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "direct",
+              "url": "http://web.archive.org/web/20211227112320/https://files.catbox.moe/15610i.rar"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",
