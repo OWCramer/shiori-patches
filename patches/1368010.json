@@ -63,7 +63,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "direct",
+              "url": "https://files.catbox.moe/n4og0l.rar"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

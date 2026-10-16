@@ -30,7 +30,13 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "direct",
+              "url": "https://archive.org/download/insani.org-collection-2023-05-03"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

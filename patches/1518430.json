@@ -69,7 +69,25 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "mega",
+              "url": "https://mega.nz/#!8dUUCIKR!C5RImS4JSpUS3hEK1Npr2WTIXnkQbH7qHcGgdJkn_mQ"
+            },
+            {
+              "host": "page",
+              "url": "http://www.mediafire.com/file/d9h1dcrqldlzt5m/Eiyuu%20Senki%20GOLD%20Improved%20English%20Interface%20Patch%20v2.1.rar"
+            },
+            {
+              "host": "mega",
+              "url": "https://mega.nz/#!oFclBBBB!UxqKPsBLJOeBvhH9vm_DNKLWIoKPUi8XqIv-d0z0mBA"
+            },
+            {
+              "host": "page",
+              "url": "https://www.mediafire.com/file/6tqju3h9p1qz8er/Eiyuu+Senki+GOLD+English+H-patch+v0.50.rar"
+            }
+          ]
         }
       ],
       "added": "2026-10-11",

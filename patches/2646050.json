@@ -35,6 +35,74 @@
       ],
       "added": "2026-10-15",
       "checked": "2026-10-15"
+    },
+    {
+      "id": "vndb-fan-translation",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "iqdhk8t0hxww",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r121473",
+        "key": "r121473",
+        "origin": "https://pornolab.net/forum/viewtopic.php?t=3073223"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://pornolab.net/forum/viewtopic.php?t=3073223",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-16",
+      "checked": "2026-10-16"
+    },
+    {
+      "id": "vndb-fan-translation-2",
+      "name": "Fan translation",
+      "kind": "translation",
+      "official": false,
+      "by": "GrownUpByTheSakuraDungeon",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r146803",
+        "key": "r146803",
+        "origin": "https://boosty.to/sdungeon/posts/29f0fd96-12b8-41bf-9514-5c25b5c54f34"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://boosty.to/sdungeon/posts/29f0fd96-12b8-41bf-9514-5c25b5c54f34",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-16",
+      "checked": "2026-10-16"
     }
   ]
 }

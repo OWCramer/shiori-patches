@@ -61,10 +61,10 @@
         {
           "host": "direct",
           "url": "http://razzartvisual.com/wp-content/uploads/2016/10/CC-H-Patch.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "CC-H-Patch.zip",
+          "format": "zip",
+          "size": 3936161,
+          "sha256": "41651e21f5d22372719588f4a3ad89c5c554dd3986efdbe3175ea807b2ec26ba"
         }
       ],
       "added": "2026-10-11",

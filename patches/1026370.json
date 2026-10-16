@@ -30,7 +30,17 @@
           "name": null,
           "format": null,
           "size": null,
-          "sha256": null
+          "sha256": null,
+          "mirrors": [
+            {
+              "host": "mega",
+              "url": "https://mega.nz/file/NOQmwLpC#9CSH9fXkwE8IU-n5gOG_qhMkjTDL2GRqrGhR4W8ZQPw"
+            },
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/file/d/1NWCA_dd2Dp-7NBcerjO0KTk0Bkew7Wkn/view?usp=sharing"
+            }
+          ]
         }
       ],
       "added": "2026-10-14",
