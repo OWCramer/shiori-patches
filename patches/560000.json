@@ -27,10 +27,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!8bZ1kZqT!rgd1xCT70cm_k4AcZ0NdoxebzrfXtAjrBJRCCCRMcaQ",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "pr5.rpy",
+          "format": "file",
+          "size": 77582,
+          "sha256": "85efa5e9fc44fa31fe63a08975c570b90c56fb5666204ef284b22c1169b38f8f"
         }
       ],
       "added": "2026-10-11",

@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/Cicada_Communication_patch.zip",
           "name": "Cicada_Communication_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 304436240,
+          "sha256": "f6675d8c629e366939d381133f0d3948d2e90d04cb722fb10d3bab4f141fedbd"
         }
       ],
       "added": "2026-10-11",
