@@ -62,8 +62,8 @@
           "url": "https://download.patch.moe/Dystopia_EN_R18_Patch.zip",
           "name": "Dystopia_EN_R18_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1457349129,
+          "sha256": "e6788c4f21022b868ae60b77c2c1c02f082cc777d9ee650df7cefc90797099fe"
         }
       ],
       "added": "2026-10-11",

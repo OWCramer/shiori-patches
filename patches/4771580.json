@@ -1,0 +1,43 @@
+{
+  "appID": 4771580,
+  "title": "Five Nights with Maids",
+  "patches": [
+    {
+      "id": "saikey-five-nights-with-maids-patch",
+      "name": "Five Nights with Maids patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/205951/five-nights-with-maids/",
+        "key": "https://saikeystudios.com/patches/?patch_product=205951&patch_item=22154b0d-649a-4435-8ad9-fd6fa5c745de"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=205951&patch_item=22154b0d-649a-4435-8ad9-fd6fa5c745de",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-17",
+      "checked": "2026-10-17"
+    }
+  ]
+}

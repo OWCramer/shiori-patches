@@ -62,10 +62,10 @@
         {
           "host": "page",
           "url": "https://mega.nz/file/TR8myTYS#_Lt6-y0XDptH3mhHhixJs0LJ3bDya50liaWOatUa3R0",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "TITLE_BG_R18_EN.AKB",
+          "format": "file",
+          "size": 1263522,
+          "sha256": "d2495bac872b36ae40cf20f060d27a61d828df3262f8ff7abc7f7509f9627cad",
           "mirrors": [
             {
               "host": "mega",
