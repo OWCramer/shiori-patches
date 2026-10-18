@@ -25,15 +25,21 @@
       "files": [
         {
           "host": "direct",
-          "url": "https://erogejapan.com/r18patch/trap_shrine/Trap_Shrine_Patch_EN.zip",
-          "name": "Trap_Shrine_Patch_EN.zip",
+          "url": "https://erogejapan.com/r18patch/trap_shrine/Trap_Shrine_Patch_v1.01_Installer.zip",
+          "name": "Trap_Shrine_Patch_v1.01_Installer.zip",
           "format": "zip",
+          "mirrors": [
+            {
+              "host": "mega",
+              "url": "https://mega.nz/file/JUlSQArK#05JRZjGtE62jM_JiWn4wQ2U6MMTAtmAKVCe5PIdDId8"
+            }
+          ],
           "size": null,
           "sha256": null
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-18"
     },
     {
       "id": "erogejapan-r18-patch-japanese",

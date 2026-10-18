@@ -33,7 +33,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-uncensored-patch",
@@ -61,10 +61,10 @@
         {
           "host": "page",
           "url": "https://www.uncensorpat.ch/game/727090",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "Rabbit.rar",
+          "format": "rar",
+          "size": 239643680,
+          "sha256": "ab58f8d2b225147100497516b12bce8ad3637cee4e87f0bf35982d1d73691504",
           "mirrors": [
             {
               "host": "mega",
