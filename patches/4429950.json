@@ -37,6 +37,42 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-18"
+    },
+    {
+      "id": "saikey-kunugi-s-life-is-a-mess-patch-2",
+      "name": "Kunugi’s Life Is a Mess! patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/177468/kunugis-life-is-a-mess/",
+        "key": "https://saikeystudios.com/patches/?patch_product=177468&patch_item=cdb69e75-d6fe-402c-bb14-66e363d4a771"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=177468&patch_item=cdb69e75-d6fe-402c-bb14-66e363d4a771",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-19",
+      "checked": "2026-10-19"
     }
   ]
 }

@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/ALPHA_EN_HPatch.zip",
           "name": "ALPHA_EN_HPatch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 259797430,
+          "sha256": "38edc661f4b5bdf580d1e7af97d13ea4509909515fa80429c1bd3f7fc93c06b9"
         }
       ],
       "added": "2026-10-11",

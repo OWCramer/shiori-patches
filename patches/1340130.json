@@ -28,8 +28,8 @@
           "url": "https://cdn.nekonyansoft.com/patch/aokana-ex1/aokana_extra1_18+_patch.7z",
           "name": "aokana_extra1_18+_patch.7z",
           "format": "7z",
-          "size": null,
-          "sha256": null
+          "size": 122142405,
+          "sha256": "9fff03adc87a55d0d3554f2d26444679d1b2a8e0c9a82e69b0ad90a4eb956c63"
         }
       ],
       "added": "2026-10-11",

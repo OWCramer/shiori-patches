@@ -64,10 +64,10 @@
         {
           "host": "direct",
           "url": "https://qureate.net/ninnindays/wp-content/themes/NinNinDays-theme/file/patch.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "patch.zip",
+          "format": "zip",
+          "size": 153165760,
+          "sha256": "58ce05d8a23b7bb781210cc78b874655d35d5682c06edb4227dbe82738a40242"
         }
       ],
       "added": "2026-10-11",

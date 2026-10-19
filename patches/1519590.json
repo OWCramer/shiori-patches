@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/1WJwVRbS#TE7LJ-7qcd4r4O27XUYHAddoGGBMiv7YtqGucd9_GJs",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Patch_ST.rpa",
+          "format": "file",
+          "size": 55454320,
+          "sha256": "e19988b160e29122700618ae1e41c2f2f2b6f41ada60b0159143fd25a3ac8256"
         }
       ],
       "added": "2026-10-11",
