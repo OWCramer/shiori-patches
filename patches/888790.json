@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,8 +28,9 @@
           "url": "https://cdn.nekonyansoft.com/patch/sanobawitch/sabbatofthewitch_steam_r18dlc.rar",
           "name": "sabbatofthewitch_steam_r18dlc.rar",
           "format": "rar",
-          "size": null,
-          "sha256": null
+          "size": 878721240,
+          "sha256": "58f7dbe4beb080e99671170b6e096157a414ad66629dc64480b693f210b4066a",
+          "installer": true
         }
       ],
       "added": "2026-10-11",

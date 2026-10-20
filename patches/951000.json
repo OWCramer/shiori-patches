@@ -31,11 +31,11 @@
           "mirrors": [
             {
               "host": "mega",
-              "url": "https://mega.nz/file/JUlSQArK#05JRZjGtE62jM_JiWn4wQ2U6MMTAtmAKVCe5PIdDId8"
+              "url": "https://mega.nz/file/cFFCmCbQ#V0CyAjkjsYXpCuhfMKvCE3TeHcWVA0YAxsk6siP0WEQ"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 457688657,
+          "sha256": "d364ea5d1600bad52eb1f123b30ebf4318ca42760eeeb0df288c63e7a9bc1cde"
         }
       ],
       "added": "2026-10-15",
@@ -67,8 +67,8 @@
           "url": "https://erogejapan.com/r18patch/trap_shrine/Trap_Shrine_Patch_JP.zip",
           "name": "Trap_Shrine_Patch_JP.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 141137370,
+          "sha256": "705b7c0738e161cf6357a6ba0172ce900c85888a0b5622a9d728e3fc0652819d"
         }
       ],
       "added": "2026-10-15",
@@ -100,8 +100,8 @@
           "url": "https://erogejapan.com/r18patch/trap_shrine/Trap_Shrine_Patch_TC.zip",
           "name": "Trap_Shrine_Patch_TC.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 140664875,
+          "sha256": "6af7815da9484ed80fcc736747c20c48a7ca44e60dd166cb7f7f2ea42a90c0ff"
         }
       ],
       "added": "2026-10-15",

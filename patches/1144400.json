@@ -28,8 +28,8 @@
           "url": "https://cdn.nekonyansoft.com/patch/senren-banka/senrenbanka_r18patch.7z",
           "name": "senrenbanka_r18patch.7z",
           "format": "7z",
-          "size": null,
-          "sha256": null
+          "size": 1076499513,
+          "sha256": "9a2e774dc658bdc1a03817579221fde80d97f62db5d0f7881a0f89f1980c94bd"
         }
       ],
       "added": "2026-10-11",

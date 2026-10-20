@@ -27,10 +27,10 @@
         {
           "host": "gdrive",
           "url": "https://drive.google.com/file/d/1FeemhyJbl8PvVFPXYOCtoNh8z-OvpcWL/view",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Game.rgssad",
+          "format": "file",
+          "size": 10563749,
+          "sha256": "07071d2f126a71ae41ac2b063d9bbfc236a9c778c60abb5560b41687e14f6757"
         }
       ],
       "added": "2026-10-11",

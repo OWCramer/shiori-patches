@@ -28,8 +28,8 @@
           "url": "https://cdn.nekonyansoft.com/patch/fureraba/fureraba_steam_uncensor_patch.zip",
           "name": "fureraba_steam_uncensor_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1127848516,
+          "sha256": "d4416a10381760e51c67a5110094f2fe2e882285d96f470bd5acb424b1f9ae80"
         }
       ],
       "added": "2026-10-11",

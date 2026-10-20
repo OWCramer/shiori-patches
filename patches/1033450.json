@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/wOAzxSLC#OQFTDWbBCl63q3HIBfsG5Sah82qayOTbkkRVSRp2yCc",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Treasure chest Corps_CG_Data.zip",
+          "format": "zip",
+          "size": 39683986,
+          "sha256": "9556473f764877ff57f11a78dd02721f61baf82c16a1281119c59f7fc66b759e"
         }
       ],
       "added": "2026-10-11",

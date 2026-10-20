@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/sWBEmBIb#qPwc6qhi2WNfsztRcUtzGiZ-cojiPXNE_oPGZsvV3EM",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Twins of the Pasture uncensor patch_1.01.zip",
+          "format": "zip",
+          "size": 11745860,
+          "sha256": "a8ca92147c6b39693c1126d204f534fda11ae743b713eaf3d614de478d1a9215"
         }
       ],
       "added": "2026-10-11",

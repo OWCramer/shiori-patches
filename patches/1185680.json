@@ -111,10 +111,10 @@
         {
           "host": "direct",
           "url": "https://da9ea667-3f27-4849-8085-c42131e1d018.filesusr.com/archives/a5e318_a5eca252a1844685b8692c3b2f389c03.zip?dn=White_Wings_patch1.0.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "White_Wings_patch1.0.zip",
+          "format": "zip",
+          "size": 187908332,
+          "sha256": "2c11c7e2fefeaae66528b2885496f72052d8a1d4ef13300b8c50f64327b711df"
         }
       ],
       "added": "2026-10-11",
