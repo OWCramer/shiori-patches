@@ -28,8 +28,8 @@
           "url": "https://cdn.nekonyansoft.com/patch/secretagent/secretagent18+patch_1.zip",
           "name": "secretagent18+patch_1.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3363613245,
+          "sha256": "516ddbb62300a2e03683f6ae954f24578bf1e4369de708835ebd96e3e78f1667"
         }
       ],
       "added": "2026-10-11",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

@@ -27,11 +27,11 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/IOxkWaaT#GHDmi4ILAS2AuBhRl-SPEsFxV1eDFLFNSUVmYV3dpXo",
-          "name": null,
-          "format": null,
+          "name": "insect hazard h edition patch.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 1386607303,
+          "sha256": "7f415812b755b90c6aed8b61e3a99f9afb5750e7bad50da0702d59079f3ef97a"
         }
       ],
       "added": "2026-10-11",

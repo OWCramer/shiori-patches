@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!sHRSgDQT!2WrrgGRV-QH26qyl_URR1K0Q8tzwqaxJKGd27AxfrWs",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "legend_of_fainn_dynasty_r18_patch.rar",
+          "format": "rar",
+          "size": 171440803,
+          "sha256": "628890439f7766cbd17e951fda8817e181ef4a3022e5564a1525a2ee5ea1551e"
         }
       ],
       "added": "2026-10-11",

@@ -27,11 +27,11 @@
         {
           "host": "direct",
           "url": "http://summertimeinblue.sakura.ne.jp/CBM/patch.zip",
-          "name": null,
-          "format": null,
+          "name": "patch.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 1319151,
+          "sha256": "801c12dd287e4ce29be09e56cf12edfdfe8c5e355d618a05775822a5a56d90db"
         }
       ],
       "added": "2026-10-11",
