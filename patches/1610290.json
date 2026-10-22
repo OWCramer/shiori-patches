@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "dead",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,8 +28,9 @@
           "url": "https://download.patch.moe/himukaichihiroha-dlc-en-zh_Windows_1_1_0.zip",
           "name": "himukaichihiroha-dlc-en-zh_Windows_1_1_0.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1253679358,
+          "sha256": "b316c627a8dd25b16a3087831812cd7c643c9594acc8683abbc3e456cfbf992b",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
