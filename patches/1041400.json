@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/q0ADEa5Q#C98u6bAbkKQQwM3kA20AKG1WCEUkuhSKJaQgBYXjdWI",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "FightAngelLT-Path.zip",
+          "format": "zip",
+          "size": 2101287,
+          "sha256": "b044195e92ff31dada7fb3cf97ce616376466dcf1870ec12834fc7c15f547d0b"
         }
       ],
       "added": "2026-10-11",

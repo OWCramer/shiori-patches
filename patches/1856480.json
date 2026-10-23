@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/kamiyaba_SteamPatch_20231218.zip",
           "name": "kamiyaba_SteamPatch_20231218.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1752629668,
+          "sha256": "5a5f5a4a2dd97a72e0afb92886ea56250c5436b379b3f4f5069850889cc67cf7"
         }
       ],
       "added": "2026-10-11",

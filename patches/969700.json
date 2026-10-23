@@ -96,10 +96,10 @@
         {
           "host": "direct",
           "url": "https://qureate.net/nekomiko/wp-content/themes/NekoMiko-theme/file/patch.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "patch.zip",
+          "format": "zip",
+          "size": 925137,
+          "sha256": "c558f3964b3775b9190fdf2c5d6a0b08a89b7e8b4fc4b5b1b7df6c5048db3d57"
         }
       ],
       "added": "2026-10-11",

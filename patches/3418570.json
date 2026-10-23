@@ -63,10 +63,10 @@
         {
           "host": "page",
           "url": "http://alkatranslations.com/",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "Summer Pocket's Fan Translation.zip",
+          "format": "zip",
+          "size": 28092077,
+          "sha256": "8131271169910df1dbff438f64c81afa830a69c4c12bc431315c2910d99f52e9",
           "mirrors": [
             {
               "host": "mega",
