@@ -26,14 +26,48 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/UPxjgbbA#HMkRCoYdxaV0bqc3xCHiU85vyfaPrCHImfnsfIOV3Oc",
+          "name": "Grisaia2 HCG patch.rar",
+          "format": "rar",
+          "size": 763710372,
+          "sha256": "28309cd7d2ba85181a137a67cdecb66442b7c8e74cdc9712bb33c29d3ec5a0c7"
+        }
+      ],
+      "added": "2026-10-11",
+      "checked": "2026-10-18"
+    },
+    {
+      "id": "vndb-english-patch",
+      "name": "English patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Fan patch",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r168200",
+        "key": "r168200",
+        "origin": "https://that-ruben.vercel.app/grisaia"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://that-ruben.vercel.app/grisaia",
           "name": null,
           "format": null,
           "size": null,
           "sha256": null
         }
       ],
-      "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "added": "2026-10-24",
+      "checked": "2026-10-24"
     },
     {
       "id": "vndb-hcg-patch",

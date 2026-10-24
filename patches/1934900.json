@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/Slowlife_Patch.zip",
           "name": "Slowlife_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3657294346,
+          "sha256": "baf4b3599a0fd36c2d2ff2a5feb84434dbd4d3eac8790ad9b90949b68717589f"
         }
       ],
       "added": "2026-10-11",

@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/Fusty_Dungeon_patch.zip",
           "name": "Fusty_Dungeon_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 165037221,
+          "sha256": "a78af8160cd9895b1112cd8829017f66be4946b797176b5010505d8b4edcfd6f"
         }
       ],
       "added": "2026-10-11",

@@ -1,0 +1,42 @@
+{
+  "appID": 4690300,
+  "title": "Slave Princess Elnea",
+  "patches": [
+    {
+      "id": "saikey-slave-princess-elnea-patch",
+      "name": "Slave Princess Elnea patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/199867/slave-princess-elnea/",
+        "key": "https://saikeystudios.com/patches/?patch_product=199867&patch_item=f3928689-ca24-4fd4-a067-494482f24ab7"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=199867&patch_item=f3928689-ca24-4fd4-a067-494482f24ab7",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-24",
+      "checked": "2026-10-24"
+    }
+  ]
+}
