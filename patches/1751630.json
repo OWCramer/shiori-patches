@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,12 +28,13 @@
           "url": "https://cdn.nekonyansoft.com/patch/hello-lady/hl_r18_dlc.zip",
           "name": "hl_r18_dlc.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1277131156,
+          "sha256": "64622968f81119befcf770c71502b16ae28ebd780d0765e58b76c99830ad4416",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     }
   ]
 }

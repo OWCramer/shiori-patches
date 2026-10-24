@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -61,10 +61,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!8KBlVL5J!ECYQpjoeDo-Ey_nGaH6S1Lc-YKZN-RPkDgo7ms8CZd0",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Summer-Promise-Forever_patch.zip",
+          "format": "zip",
+          "size": 20383149,
+          "sha256": "50e5667849c6c82a45804f502741a09b7bc3183abad3a1dfbae5a07bd3a4b6f0"
         }
       ],
       "added": "2026-10-11",

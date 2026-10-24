@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!UeggCIAJ!50H6jkSJOH1MdNdrXEoGJWC6PtRzZJDw50E0Ii43W1o",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "otakus_fantasy_r18_patch.7z",
+          "format": "7z",
+          "size": 23557194,
+          "sha256": "6403f0c385171cc00f3ce98f3abeffed12475f99d5c2e48d4c51a274428ce28b"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-uncensored-patch",
@@ -68,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

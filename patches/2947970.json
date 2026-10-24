@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/The_Restless_Sheep_And_The_Lone_Wolf_en_fullpatch_241123.zip",
           "name": "The_Restless_Sheep_And_The_Lone_Wolf_en_fullpatch_241123.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1910511588,
+          "sha256": "34c08d90f39bf3b95571d4a1ebad4c473a1c128d4ba5546bb33a418b1a1c100b"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-fan-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

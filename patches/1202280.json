@@ -25,15 +25,21 @@
       "files": [
         {
           "host": "direct",
-          "url": "https://erogejapan.com/r18patch/slave_princess_sarah/Sarah_R18_Patch.zip",
-          "name": "Sarah_R18_Patch.zip",
+          "url": "https://erogejapan.com/r18patch/slave_princess_sarah/Slave_Princess_Sarah_Patch_v1.0_Installer.zip",
+          "name": "Slave_Princess_Sarah_Patch_v1.0_Installer.zip",
           "format": "zip",
-          "size": 79585887,
-          "sha256": "d4605540baafd205d1659f44f1319d15c8893cd8a24b5a4aac3b22f10b5bd3d7"
+          "mirrors": [
+            {
+              "host": "mega",
+              "url": "https://mega.nz/file/sRsgDarJ#D_xTx2AH5nk-qLg2JO9gxJbfY5XLvSRueMVWwkJOPys"
+            }
+          ],
+          "size": 110323620,
+          "sha256": "5fd76ad72534dc5dffc62d526f89fa4d5229ee1be5666e6d22547d8d63b9bdf1"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-21"
     }
   ]
 }

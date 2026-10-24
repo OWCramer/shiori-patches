@@ -25,21 +25,21 @@
       "files": [
         {
           "host": "direct",
-          "url": "https://erogejapan.com/r18patch/dysthanasia/DYSTHANASIA_Patch_1.0.8.1.zip",
-          "name": "DYSTHANASIA_Patch_1.0.8.1.zip",
+          "url": "https://erogejapan.com/r18patch/dysthanasia/DYSTHANASIA_Patch_v1.0.8.2_Installer.zip",
+          "name": "DYSTHANASIA_Patch_v1.0.8.2_Installer.zip",
           "format": "zip",
           "mirrors": [
             {
               "host": "mega",
-              "url": "https://mega.nz/file/NQl3VDwC#aXPJoIODYAT54FpPxsBZcdmonIzQrliOnQhUttvbr44"
+              "url": "https://mega.nz/file/QYsinZzR#1NdMGvDYp3j6bEZAa3wdM8IQlZuCQysA-8-ax3XsPgY"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 846760735,
+          "sha256": "666efcb84cce8e6bfae49ffe5d4f001c32f55bef0efc1dcd2e6a5ba19990c563"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-18"
     }
   ]
 }

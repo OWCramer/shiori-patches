@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "dead",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Modified_Girl_Eurie_patch.zip",
           "name": "Modified_Girl_Eurie_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 965275359,
+          "sha256": "5f6e267ca5b1795dced30c76cee3c587c7aed442d18d975eba21aa0b57edfc2a"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     }
   ]
 }

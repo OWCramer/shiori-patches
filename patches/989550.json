@@ -27,10 +27,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/NbAkHbiL#tWb7Z8oMcq8xMOYLElX3UmHwjhy_GrP_flFpM8INB4U",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "act_1B.ac9",
+          "format": "file",
+          "size": 1024664,
+          "sha256": "fa4b3d7dc2c088062878b7e062884f06beae79c9a5922e9af2f1c2e7b3954b47"
         }
       ],
       "added": "2026-10-11",

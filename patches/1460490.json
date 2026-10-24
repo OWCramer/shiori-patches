@@ -39,7 +39,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-fan-patch",
@@ -73,7 +73,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "vndb-voice-restoration-patch",
@@ -107,7 +107,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

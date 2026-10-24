@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
@@ -68,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "vndb-re-edit-patch",
@@ -95,10 +95,10 @@
         {
           "host": "page",
           "url": "https://mega.nz/file/gKZA1CJR#h6kFycWL-tQzO-_Ih09PYe44_9KMH6quhafm6eAEH_c",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "Nanairo Reincarnation delocalization patch v2.rar",
+          "format": "rar",
+          "size": 3337421,
+          "sha256": "69e018bab17a3dd2445123ef712fdf0d94289677bfc309c2a9f979b3adeea77c",
           "mirrors": [
             {
               "host": "mega",
@@ -108,7 +108,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

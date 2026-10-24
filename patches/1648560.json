@@ -27,11 +27,11 @@
         {
           "host": "gdrive",
           "url": "https://drive.google.com/file/d/1I6fdWzOO22XblSI08OOhRiLncO7AyYb2/view?usp=sharing",
-          "name": null,
-          "format": null,
+          "name": "Nursery Slime_full ver patch(EN).exe",
+          "format": "exe",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 539421695,
+          "sha256": "74d38bd261ba278277536fa29731aeb5d943914a67b70ccc3bb146db6d33571f"
         }
       ],
       "added": "2026-10-11",

@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/UT4jWDrA#Q0qX9UqGrlyuIHs8jNAAwnE5uElmMJC0CkxUPvK94Ms",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Grisaia HCG Patch.rar",
+          "format": "rar",
+          "size": 1044975720,
+          "sha256": "b2726097e027ce37bf892fd13f361ff873f107f5871f32843a5e9ea87f91156f"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-fan-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "vndb-fan-patch-2",
@@ -101,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "vndb-le-fruit-de-la-grisaia",
@@ -168,7 +168,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "vndb-ucg-patch",
@@ -202,7 +202,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

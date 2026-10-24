@@ -37,7 +37,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "vndb-limited-edition-patch",
@@ -80,7 +80,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -113,7 +113,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11",
+      "checked": "2026-10-18",
       "install": {
         "into": "game"
       }

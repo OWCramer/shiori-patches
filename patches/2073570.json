@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Cynthia_STEAM_patch_EN_20230130.zip",
           "name": "Cynthia_STEAM_patch_EN_20230130.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 551735195,
+          "sha256": "15e9d468887a349811ae24d489c359b851cfb5b27a4c900765ab150906845f71"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     }
   ]
 }

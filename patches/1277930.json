@@ -28,12 +28,12 @@
           "url": "https://cdn.nekonyansoft.com/patch/riddle-joker/riddlejoker_r18dlc.7z",
           "name": "riddlejoker_r18dlc.7z",
           "format": "7z",
-          "size": null,
-          "sha256": null
+          "size": 975466503,
+          "sha256": "453930065a670454d42a8a35d2c51079bc7174fd5480b6ef26dd47477a7e91f3"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "uncensorpatch-uncensor-patch",

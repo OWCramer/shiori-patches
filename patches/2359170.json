@@ -25,21 +25,21 @@
       "files": [
         {
           "host": "direct",
-          "url": "https://erogejapan.com/r18patch/witchs_rhythm_puzzle/WRP_R18patch_1.00.zip",
-          "name": "WRP_R18patch_1.00.zip",
+          "url": "https://erogejapan.com/r18patch/witchs_rhythm_puzzle/Witch_s_Rhythm_Puzzle_Patch_v1.00_Installer.zip",
+          "name": "Witch_s_Rhythm_Puzzle_Patch_v1.00_Installer.zip",
           "format": "zip",
           "mirrors": [
             {
-              "host": "page",
-              "url": "https://www.mediafire.com/file/0gy3ohsqbec66l4/WRP_R18patch_1.00.zip/file"
+              "host": "mega",
+              "url": "https://mega.nz/file/oVMFmLDT#gy8DFeEQvQ7NolEGSmjru13I7Zp_aTHOx5W8NyQUSYg"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 30628511,
+          "sha256": "ba2c5c9a4d664bf426495e9e0cc3ef4c214c532fa0ddc5ad74620ab4debcdaf2"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-21"
     }
   ]
 }

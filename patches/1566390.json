@@ -25,21 +25,21 @@
       "files": [
         {
           "host": "direct",
-          "url": "https://erogejapan.com/r18patch/sodsh/SoD_SH_Patch_2.103R.zip",
-          "name": "SoD_SH_Patch_2.103R.zip",
+          "url": "https://erogejapan.com/r18patch/sodsh/Seed_of_the_Dead_Sweet_Home_Patch_v2.103R_Installer.zip",
+          "name": "Seed_of_the_Dead_Sweet_Home_Patch_v2.103R_Installer.zip",
           "format": "zip",
           "mirrors": [
             {
-              "host": "page",
-              "url": "https://www.mediafire.com/file/m394m00set28ffr/SoD_SH_Patch_2.103R.zip/file"
+              "host": "mega",
+              "url": "https://mega.nz/file/VUMiGByA#fQIbuZNrPB1PTorM69J7FDoXn6uhxkwRtjntT6OFZGU"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 766927098,
+          "sha256": "b57f835b3242ba13f453b2a73dc613c0cbfbe137f7592535625a1c5836bbd5ca"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-patch-2",

@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "dead",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Taimanin_Yukikaze_Patch.zip",
           "name": "Taimanin_Yukikaze_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1811899651,
+          "sha256": "afa65f7566ec403559e7e73422bca6d442ba12ad2b5eda4df7eae205c6e4070a"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-fan-patch",
@@ -77,7 +77,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

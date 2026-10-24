@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,12 +28,13 @@
           "url": "https://download.patch.moe/haremkingdom-dlc-en_Windows_1_1_0.zip",
           "name": "haremkingdom-dlc-en_Windows_1_1_0.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1622992576,
+          "sha256": "a760124387964d5cb4ac291cdd87b03f446bf69bf24fb152e8df84b11e0ae20d",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-full-hd-remaster-english-patch",
@@ -67,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

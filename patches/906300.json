@@ -27,10 +27,10 @@
         {
           "host": "page",
           "url": "https://mega.nz/file/bhpXEYrZ#6PHMGJ1CIGoCoKhFbeKjaw7NZdC3RJjC6RoxOn7JvT8",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "mm31o8.zip",
+          "format": "zip",
+          "size": 1527338,
+          "sha256": "3fd79889d9b8bf7e4e300f7262a145345e70bcf0dc01c5f2947c5be3e9b1f587",
           "mirrors": [
             {
               "host": "direct",
@@ -40,7 +40,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -108,7 +108,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

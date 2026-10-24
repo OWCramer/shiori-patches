@@ -35,7 +35,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -61,14 +61,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!RKxSXaTa!aXOebSXMXQ7JJMtOzfpfjGGBlqprkPXLX1vz7uYuW4o",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Wild Romance - Adult Patch.zip",
+          "format": "zip",
+          "size": 246707430,
+          "sha256": "a262fa06c1c8e316a31656ee34aabfba6581a4829690f8d14e6a0e281c9e5b03"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     }
   ]
 }

@@ -37,7 +37,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -64,10 +64,10 @@
         {
           "host": "direct",
           "url": "https://qureate.co.jp/ninnindays2/wp-content/themes/ninnindays2-theme/file/patch.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "patch.zip",
+          "format": "zip",
+          "size": 641005279,
+          "sha256": "9e9d195e392f68298f8c076ebe918ddcd3cf40222a9b663c67fbf12049a81d8b"
         }
       ],
       "added": "2026-10-11",

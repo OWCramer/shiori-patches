@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -54,17 +54,18 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "Install (PC): Download and install the launcher from the link below Log in with your Steam credentials and run the game from the installed launcher to access the adult content",
       "files": [
         {
           "host": "direct",
           "url": "https://mahouarms.com/mahouarms/Mahou_Arms_Setup.exe",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Mahou_Arms_Setup.exe",
+          "format": "exe",
+          "size": 105100240,
+          "sha256": "22fa6a74dc1392e31c19dad19e9b8c9e0e892e62d0a1b3bf9838b1ed2a96d60e",
+          "installer": true
         }
       ],
       "added": "2026-10-11",

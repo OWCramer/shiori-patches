@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!hCxRzDRK!p48jABfxnZWkjwO0wveHIgQilLq37LRHxudVjcaJ67w",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "crimson_memories_patch.rar",
+          "format": "rar",
+          "size": 3319359,
+          "sha256": "1ca3afd527a7fcd2e7e5cb249bc3c5faeef7e6bf705bfb568f7538084bbd3701"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-uncensored-patch",
@@ -68,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

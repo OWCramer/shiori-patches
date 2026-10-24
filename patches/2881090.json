@@ -25,13 +25,13 @@
       "files": [
         {
           "host": "direct",
-          "url": "https://erogejapan.com/r18patch/womb_defence_force/WDF_R18_patch.zip",
-          "name": "WDF_R18_patch.zip",
+          "url": "https://erogejapan.com/r18patch/womb_defence_force/Womb_Defense_Force_Patch_v1.2_Installer.zip",
+          "name": "Womb_Defense_Force_Patch_v1.2_Installer.zip",
           "format": "zip",
           "mirrors": [
             {
-              "host": "page",
-              "url": "https://www.mediafire.com/file/egdae5zo2l8uv85/WDF_R18_patch.zip/file"
+              "host": "mega",
+              "url": "https://mega.nz/file/0NdC1IxC#K7rqaKEJVyJUjuymdbI-lO6Pb-X-B1QCB6SyviyhmwU"
             }
           ],
           "size": null,
@@ -39,7 +39,7 @@
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-21"
     }
   ]
 }

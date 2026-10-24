@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "dead",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Kudos_Kuppa_patch.zip",
           "name": "Kudos_Kuppa_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 839649041,
+          "sha256": "519980a217f7ce408f33492d0d872236d230e34fbd68c4aad031d73a1a9d7d2f"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-fan-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

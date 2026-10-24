@@ -25,15 +25,21 @@
       "files": [
         {
           "host": "direct",
-          "url": "https://erogejapan.com/r18patch/trap_legend/Trap_Legend_Patch.zip",
-          "name": "Trap_Legend_Patch.zip",
+          "url": "https://erogejapan.com/r18patch/trap_legend/Trap_Legend_Patch_v1.00_Installer.zip",
+          "name": "Trap_Legend_Patch_v1.00_Installer.zip",
           "format": "zip",
-          "size": 203380129,
-          "sha256": "7b9b447354ee4ed790ef29df56e9f4903f7ecf88e5f780b53d94284432426d9e"
+          "mirrors": [
+            {
+              "host": "mega",
+              "url": "https://mega.nz/file/dYMwhTrD#rN1x0krlZcnQ14w6Dx9v1qr6p4iRT--FwSicgTj50QY"
+            }
+          ],
+          "size": 230360676,
+          "sha256": "2209083698609c93b2218488ea7eb75581da08390c640c522c13ac678c0bf956"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-18"
     }
   ]
 }

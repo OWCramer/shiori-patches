@@ -27,10 +27,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!ZWoDxBhS!Klgw9q8gGnQ0mvjDf4T-tv0fT1tiranpu6_xz_42uKo",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "DPRK H-Patch.zip",
+          "format": "zip",
+          "size": 16752225,
+          "sha256": "42b060edbc06b92f2cc2f7df971e01e02e25e01f86ec0cff46e349c582fa380c"
         }
       ],
       "added": "2026-10-11",
@@ -70,7 +70,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

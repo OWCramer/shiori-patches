@@ -27,11 +27,11 @@
         {
           "host": "direct",
           "url": "https://wasabi.sub.jp/patch/summoner_ren_patch.zip",
-          "name": null,
-          "format": null,
+          "name": "summoner_ren_patch.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 1010935063,
+          "sha256": "0b69adc835433cdb45daf0c8d96e91c3dadee01181a880459f15cc2e53da2f81"
         }
       ],
       "added": "2026-10-11",

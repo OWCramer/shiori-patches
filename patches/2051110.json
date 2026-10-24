@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "dead",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/betasixdouze-dlc-en_Windows_1_1_0.zip",
           "name": "betasixdouze-dlc-en_Windows_1_1_0.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 383783377,
+          "sha256": "b7523113f61e0bdba484f930dcd6aa4aa58ff2f7e5d5aeb5fe793edbc3cc8194"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     }
   ]
 }

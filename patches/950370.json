@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/1xw2SARJ#NHkNnGFJDn688kBU-cxZEAePmxK6B_3Vw5yLJ6z5JAo",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "TMS2_patch.zip",
+          "format": "zip",
+          "size": 2235569,
+          "sha256": "59b24bf1095217215f551ce6da40c133d03a4e2c1f9ad1f5103d228c09e1e4a1"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     }
   ]
 }

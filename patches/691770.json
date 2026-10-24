@@ -39,7 +39,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-complete-edition",
@@ -66,10 +66,10 @@
         {
           "host": "page",
           "url": "http://www.hongfire.com/forum/forum/hentai-lair/hentai-game-discussion/383255-tenco-eiyuu-senki/page85",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "ES English patch 1.7 Final.7z",
+          "format": "7z",
+          "size": 432280371,
+          "sha256": "743556ef734f17dfc7ab922b07d219b822d41780374284cec862f8ef323fb90d",
           "mirrors": [
             {
               "host": "mega",
@@ -99,7 +99,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "vndb-fan-patch",

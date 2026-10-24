@@ -25,13 +25,13 @@
       "files": [
         {
           "host": "direct",
-          "url": "https://erogejapan.com/r18patch/demon_sword_incubus/DSI_Patch_1.17.zip",
-          "name": "DSI_Patch_1.17.zip",
+          "url": "https://erogejapan.com/r18patch/demon_sword_incubus/Demon_Sword_Incubus_Patch_v1.17_Installer.zip",
+          "name": "Demon_Sword_Incubus_Patch_v1.17_Installer.zip",
           "format": "zip",
           "mirrors": [
             {
-              "host": "page",
-              "url": "https://www.mediafire.com/file/zyulodq4g1calb2/DSI_Patch_1.17.zip/file"
+              "host": "mega",
+              "url": "https://mega.nz/file/wFMUSYbD#b2SYDpQCpk75Rij1geafGXMpWmVd3rFgneAatnF81ds"
             }
           ],
           "size": null,
@@ -39,7 +39,7 @@
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-21"
     }
   ]
 }

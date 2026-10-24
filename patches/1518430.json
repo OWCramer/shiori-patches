@@ -39,7 +39,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-fan-patch",
@@ -66,10 +66,10 @@
         {
           "host": "page",
           "url": "https://vndb.org/t9801/3#75",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "Eiyuu Senki GOLD English H-patch v0.50.rar",
+          "format": "rar",
+          "size": 2329126,
+          "sha256": "628a6db944f78448511596f0a3d56283c0db9aae24c2f67b01f7d33413a3f4b1",
           "mirrors": [
             {
               "host": "mega",
@@ -91,7 +91,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!RW4GxIyT!eZxBD_IUmVIS3-LdD9Vh5_d7pxuCH6JmONnMSqv6tbc",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Dragon_Knight_R18_Patch.7z",
+          "format": "7z",
+          "size": 5148604,
+          "sha256": "db26ae40b5d342a05786c12014ce4f33fd0402a10f73c7be1bde26783470e891"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     }
   ]
 }

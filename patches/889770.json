@@ -27,10 +27,10 @@
         {
           "host": "gdrive",
           "url": "https://drive.google.com/file/d/1vNRY00-XC90bDjuXOS0kswXfA0wZb_T-/view",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "sakey.zip",
+          "format": "zip",
+          "size": 712721673,
+          "sha256": "e81c8b381d8c8091716aefe465eb80e3a4bb5a1e70bfaf170fcafb03ae97fc93"
         }
       ],
       "added": "2026-10-11",

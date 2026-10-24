@@ -25,21 +25,21 @@
       "files": [
         {
           "host": "direct",
-          "url": "https://erogejapan.com/r18patch/trap_yuri_garden/Trap_Yuri_Garden_Patch0611.zip",
-          "name": "Trap_Yuri_Garden_Patch0611.zip",
+          "url": "https://erogejapan.com/r18patch/trap_yuri_garden/Trap_Yuri_Garden_Patch_v0611_Installer.zip",
+          "name": "Trap_Yuri_Garden_Patch_v0611_Installer.zip",
           "format": "zip",
           "mirrors": [
             {
-              "host": "page",
-              "url": "https://www.mediafire.com/file/xk7z703cu72al4w/Trap_Yuri_Garden_Patch0611.zip/file"
+              "host": "mega",
+              "url": "https://mega.nz/file/AEMkWQpY#UvHI0B6wzFInQ90ckxFHHep2_uqD9SgXu6GypuiSiys"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 2301200804,
+          "sha256": "a49d7bd4f7f4502470ee5a819e96c87b85b335ff69d0699548dbaa6a7e264d51"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-18"
     }
   ]
 }

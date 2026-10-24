@@ -27,10 +27,10 @@
         {
           "host": "direct",
           "url": "http://tentacle.studio/product/01_mo/monmusu_r18.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "monmusu_r18.zip",
+          "format": "zip",
+          "size": 674587,
+          "sha256": "78c8a7e52e781602f258d91b83db8bb16d8d77b6c4c469950552258334eea8f2"
         }
       ],
       "added": "2026-10-11",

@@ -27,10 +27,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!5XhQUIiY!iYz9RAwiUzyFmzsNr4adMpotY_PrB7GxE4EH5sD-4wE",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Mirror_R-18_Patch_v1.8.1_WIN.rar",
+          "format": "rar",
+          "size": 110661415,
+          "sha256": "fe62f792da3782f15ac6af0284bbb5fa75cd54d68c006095086808196372ad84"
         }
       ],
       "added": "2026-10-11",

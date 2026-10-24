@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Otome_Domain_Steam_R18_Patch_b4231130.zip",
           "name": "Otome_Domain_Steam_R18_Patch_b4231130.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 2160204538,
+          "sha256": "9d70932d9264193304d02a5b4014aaf1537a4c3fed4f9cb8a0e303d884158e16"
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-14"
+      "checked": "2026-10-22"
     }
   ]
 }

@@ -28,12 +28,12 @@
           "url": "https://cdn.nekonyansoft.com/patch/my-klutzy-cupid/myklutzycupid_r18dlc_ver2.zip",
           "name": "myklutzycupid_r18dlc_ver2.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1923236986,
+          "sha256": "06608821416b12b11c0a7e498faa745a0f837a0c5f5739a2b795e2fdd65f0422"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

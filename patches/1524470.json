@@ -34,12 +34,12 @@
               "url": "https://www.mediafire.com/file/lykodglfrewr2kc/SFVCE_Patch_EN.zip/file"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 632419,
+          "sha256": "81d1b6cfadff37d25e9f5679248333bea6048e49f1e2e56b831e04b47b847201"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-22"
     },
     {
       "id": "erogejapan-r18-patch-japanese",
@@ -73,12 +73,12 @@
               "url": "https://www.mediafire.com/file/5e5r8xxfxyki93f/SFVCE_Patch_JP.zip/file"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 654686,
+          "sha256": "00e0305fb172491029ab8a531bd1d2c395a45807bebc2c65bdacc4f7a887879b"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-22"
     },
     {
       "id": "erogejapan-r18-patch-simplified-chinese",
@@ -112,12 +112,12 @@
               "url": "https://www.mediafire.com/file/8bdb9p5zse5pbx0/SFVCE_Patch_SC.zip/file"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 636685,
+          "sha256": "24b7bd5426e48c32080fb48105f1b4e4568e1529656deadfab1d50029dcfa766"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-22"
     },
     {
       "id": "erogejapan-r18-patch-traditional-chinese",
@@ -151,12 +151,12 @@
               "url": "https://www.mediafire.com/file/oyl4ebpscez94on/SFVCE_Patch_TC.zip/file"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 660255,
+          "sha256": "13aa419293faf8d1c149e6059301c3c038ba98bcc9226bf7800a23ba3da061ac"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-22"
     }
   ]
 }

@@ -28,12 +28,12 @@
           "url": "https://cdn.nekonyansoft.com/patch/ixshe/ixshetell_r18steampatch1.04a.7z",
           "name": "ixshetell_r18steampatch1.04a.7z",
           "format": "7z",
-          "size": null,
-          "sha256": null
+          "size": 728280930,
+          "sha256": "10dff349b6badf6930b06787e2f04321d2d5dc20b85b717a40f1f850fc40d993"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "uncensorpatch-uncensor-patch",

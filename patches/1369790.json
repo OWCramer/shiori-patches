@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/MarshmallowATWH_R18patch.zip",
           "name": "MarshmallowATWH_R18patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 2304312979,
+          "sha256": "50eee3d23371bed6cba842323e8997e230b0e8c4621fc29f18ffcddc2539b946"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-de-localization-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

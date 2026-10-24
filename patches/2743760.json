@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "dead",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Real_Anime_Situation_DT_Patch_20250328.zip",
           "name": "Real_Anime_Situation_DT_Patch_20250328.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 5198470467,
+          "sha256": "c9e4f639131ccaf552e6a97fd8e1c8f8db94fed0fdd6f5c4f336e21d22427544"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     }
   ]
 }

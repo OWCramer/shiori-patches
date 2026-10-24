@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/SACRIFICE_VILLAINS_Patch.zip",
           "name": "SACRIFICE_VILLAINS_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 6780570933,
+          "sha256": "b08ec25843f162ab6d7a38e78a33cf50bfb460a7dfeeaaaae061e6131a259b56"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-fan-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }

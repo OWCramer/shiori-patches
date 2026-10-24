@@ -35,7 +35,7 @@
         }
       ],
       "added": "2026-10-16",
-      "checked": "2026-10-16"
+      "checked": "2026-10-23"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -62,10 +62,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!gLw0mLrS!Ai_Gv57ds4wkZptq-9V6YbLLY8X4sb2M25atnGr14eA",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Glory of the Self - patch.zip",
+          "format": "zip",
+          "size": 35534658,
+          "sha256": "2861984398536691cf539d0f58f95d8ccc7b8578d7c37db01f2d092e31b18e64"
         }
       ],
       "added": "2026-10-11",
@@ -103,7 +103,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-16"
+      "checked": "2026-10-23"
     }
   ]
 }

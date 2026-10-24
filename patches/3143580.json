@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/EXS-TiA_Concerto_2_Patch.zip",
           "name": "EXS-TiA_Concerto_2_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1851179778,
+          "sha256": "33cfdce1203cf3cdc9907483b0c09c43c499e3d34edc8634aed334bec3399091"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     }
   ]
 }

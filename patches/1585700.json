@@ -25,21 +25,21 @@
       "files": [
         {
           "host": "direct",
-          "url": "https://erogejapan.com/r18patch/trap_genesis/Trap_Genesis_Patch.zip",
-          "name": "Trap_Genesis_Patch.zip",
+          "url": "https://erogejapan.com/r18patch/trap_genesis/Trap_Genesis_Patch_v1.0_Installer.zip",
+          "name": "Trap_Genesis_Patch_v1.0_Installer.zip",
           "format": "zip",
           "mirrors": [
             {
-              "host": "page",
-              "url": "https://www.mediafire.com/file/uxjd8md1d24ecy8/Trap_Genesis_Patch.zip/file"
+              "host": "mega",
+              "url": "https://mega.nz/file/UElwjIqY#mKAkD0OwiqOU7t0Ya613SVWnVXeTIt4lfM5_69JXAp8"
             }
           ],
-          "size": 256815941,
-          "sha256": "8c0ff6898eef229071747baafe4129da61a7d3e9cf6e77c61f4747480155ded7"
+          "size": 283816692,
+          "sha256": "5138e4ab955b9d21a199232102d77a9fb9c479e649352c0c3d431cef740852da"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-15"
+      "checked": "2026-10-18"
     }
   ]
 }

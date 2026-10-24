@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -60,14 +60,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!VegAmaBY!fnl9MVo6vfeq9D5f0O7dMPDlAdIgO34PniVGNLJMuyE",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "adultpatch-beautybounce.zip",
+          "format": "zip",
+          "size": 29033885,
+          "sha256": "0782a719f813395a6faaa490a033cef4724d4f40a6219eb3b18b7cc37d15e6b8"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11",
+      "checked": "2026-10-18",
       "install": {
         "into": "game"
       }

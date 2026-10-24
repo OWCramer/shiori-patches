@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/The_Shell_Part_I_Steam_Patch_20250131.zip",
           "name": "The_Shell_Part_I_Steam_Patch_20250131.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 943906535,
+          "sha256": "771c4415b927acad414c2e7422b59408ba185a6cee400405e868875f01378717"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-11"
+      "checked": "2026-10-18"
     },
     {
       "id": "vndb-full-voice-hd-size-edition",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "vndb-hd-content-patch",
@@ -101,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "vndb-improved-readability-mod",
@@ -135,7 +135,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "vndb-japanese-language-restoration-hotkey-toggle-patch",
@@ -178,7 +178,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     },
     {
       "id": "vndb-voice-patch",
@@ -212,7 +212,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-21"
     }
   ]
 }
