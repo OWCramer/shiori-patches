@@ -27,11 +27,11 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!de5WECob!GwDMUW505GOnrbMoTLVHsT9lE4LFctNZFmXozgqNFio",
-          "name": null,
-          "format": null,
+          "name": "vrkanojo_steam_ex.exe",
+          "format": "exe",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 21663923,
+          "sha256": "0076d6f26b4c149d1f94f12389dec6dae9103d1633fa1060cbcbcce6f6fef66b"
         }
       ],
       "added": "2026-10-11",

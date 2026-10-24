@@ -59,10 +59,10 @@
         {
           "host": "page",
           "url": "https://vndb.org/r125632",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "ninki seiyuu deloc patch.rar",
+          "format": "rar",
+          "size": 226051494,
+          "sha256": "af7673a94ded65a3003a9d80f1b7f1896b775d050229aecccaf043f041213457",
           "mirrors": [
             {
               "host": "mega",

@@ -33,13 +33,13 @@
     },
     "345610": {
       "title": "The Fruit of Grisaia",
-      "patches": 6,
-      "updated": "2026-10-21"
+      "patches": 7,
+      "updated": "2026-10-24"
     },
     "345620": {
       "title": "The Labyrinth of Grisaia",
-      "patches": 3,
-      "updated": "2026-10-21"
+      "patches": 4,
+      "updated": "2026-10-24"
     },
     "345630": {
       "title": "The Eden of Grisaia",
@@ -5236,6 +5236,11 @@
       "patches": 1,
       "updated": "2026-10-18"
     },
+    "4690300": {
+      "title": "Slave Princess Elnea",
+      "patches": 1,
+      "updated": "2026-10-24"
+    },
     "4710010": {
       "title": "Triple Pairing",
       "patches": 2,
@@ -5244,7 +5249,7 @@
     "4771580": {
       "title": "Five Nights with Maids",
       "patches": 1,
-      "updated": "2026-10-17"
+      "updated": "2026-10-24"
     },
     "4838460": {
       "title": "HimaNatsu: Of Churches, Sunflowers, and Long Summers",
