@@ -63,14 +63,14 @@
         {
           "host": "direct",
           "url": "https://c04fa717-4f4a-4269-a863-324fa14a5191.usrfiles.com/archives/c04fa7_721f39f4cc96435a96c731498728aebe.zip?dn=kirakira_stars_idol_project_AI_patch.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "kirakira_stars_idol_project_AI_patch.zip",
+          "format": "zip",
+          "size": 67937330,
+          "sha256": "fd720fb6dd044016fc802b09e2ae2159de8471d4cf187c996e41177df911e202"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-25"
     }
   ]
 }

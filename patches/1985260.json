@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,12 +28,13 @@
           "url": "https://cdn.nekonyansoft.com/patch/kinkoi-gt/kinkoigt_r18dlc.7z",
           "name": "kinkoigt_r18dlc.7z",
           "format": "7z",
-          "size": null,
-          "sha256": null
+          "size": 913897525,
+          "sha256": "98206be95bf422db4f56c3f297acfff95ff8392cc00060b8c660a5fdfb218e73",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     },
     {
       "id": "vndb-bugbug-append-ai-translated",

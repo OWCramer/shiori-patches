@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/ninki-seiyuu-dlc-en_Windows_2_1_1.zip",
           "name": "ninki-seiyuu-dlc-en_Windows_2_1_1.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 416773058,
+          "sha256": "0a0eaa857585ba7f7ca4bc1b2ebdae3b8f6b8d3f1df15a6a9aaccd1e9b4bd8a0"
         }
       ],
       "added": "2026-10-11",
@@ -72,7 +72,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     }
   ]
 }
