@@ -28,8 +28,8 @@
           "url": "https://cdn.nekonyansoft.com/patch/koichoco/koichoco_r18_patch.zip",
           "name": "koichoco_r18_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1507835627,
+          "sha256": "9763daffcb08ba7bbeb57b747330756cf8b265f9bf0cfc1ccf4eed413912a0c8"
         }
       ],
       "added": "2026-10-11",

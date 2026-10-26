@@ -36,6 +36,39 @@
       "checked": "2026-10-18"
     },
     {
+      "id": "patchmoe-cosplaying-in-costalia-the-tororo-sisters-dlc-patch-2",
+      "name": "Cosplaying in Costalia: The Tororo Sisters! DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/Role_player_Tororo_patch_EN.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/Role_player_Tororo_patch_EN.zip",
+          "name": "Role_player_Tororo_patch_EN.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-26",
+      "checked": "2026-10-26"
+    },
+    {
       "id": "vndb-gurigucha-live",
       "name": "Gurigucha LIVE!",
       "kind": "translation",

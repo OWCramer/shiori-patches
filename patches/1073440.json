@@ -27,10 +27,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/haBhzaZT#x2gsUeVoS8vxGGmQV_Wq3BUo9_e2sL--puCP-XmHJ5M",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Koikatsu Party Special Patch_0409.zip",
+          "format": "zip",
+          "size": 437153776,
+          "sha256": "901adbc2bbcbcb9c5469a234ec3c7d00e24e58cd6cf657b37ef87bdf88d69b6d"
         }
       ],
       "added": "2026-10-11",
