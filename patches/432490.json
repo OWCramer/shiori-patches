@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!APwFVSSI!EfaX9jkm39PsO6nBiPQ2RgtpukjpPx24xWTFu8O9ZOc",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "atomgrrrlpatch.zip",
+          "format": "zip",
+          "size": 9199737,
+          "sha256": "2091e92f2928d98b45087bb395b6918faef8a3c4ca9dfafa76e982bd64dfafc8"
         }
       ],
       "added": "2026-10-11",

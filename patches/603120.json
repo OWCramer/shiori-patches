@@ -61,10 +61,10 @@
         {
           "host": "direct",
           "url": "http://razzartvisual.com/wp-content/uploads/2017/04/HappyCamp-Patch.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "HappyCamp-Patch.zip",
+          "format": "zip",
+          "size": 11094700,
+          "sha256": "3016303b4b20582152524a68524182b679e804d2656dd81016332165dd59da22"
         }
       ],
       "added": "2026-10-11",

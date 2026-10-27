@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/AMANATSU_patch_20240613.zip",
           "name": "AMANATSU_patch_20240613.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1881737627,
+          "sha256": "48e4bee40d07b275d270ce5a29a1a60ec5d6b9e393d4bc200ae32c39a8286800"
         }
       ],
       "added": "2026-10-11",

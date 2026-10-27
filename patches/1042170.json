@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/RXY01bAS#1MvHMD0-XEKPqMnDT_7oXcBhKU_kKwX1uGMZbuNuGzA",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Summon of Asmodeus (Game patch).zip",
+          "format": "zip",
+          "size": 91381601,
+          "sha256": "82b153fb2568110f94a62f499b69b3f7649e42c4e77659d6a41c33842ade2e71"
         }
       ],
       "added": "2026-10-11",

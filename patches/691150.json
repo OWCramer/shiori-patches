@@ -126,10 +126,10 @@
         {
           "host": "page",
           "url": "https://vndb.org/r56898",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "patch2.xp3",
+          "format": "file",
+          "size": 10175645,
+          "sha256": "5ca0bf4ec12c5bb5892c7eacc28f69fcd3103eacf3130e67762e8f12f4d87037",
           "mirrors": [
             {
               "host": "mega",

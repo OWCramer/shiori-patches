@@ -27,10 +27,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/8SI3iCIR#eP8B4T4DvRjBaNJuR53TnPOwm0nhd9Z8MBQyOQWm_NI",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "midoriENG.R18patch(RC1).zip",
+          "format": "zip",
+          "size": 165117186,
+          "sha256": "033bf17be5641634850a00b82b0a4fbe863df1b0df5747a2ef90b42105534aec"
         }
       ],
       "added": "2026-10-11",

@@ -27,10 +27,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!tCI2EAKA!8jVJ9lY18hYsYXg2-dnkoAw0tG3ctnGQLu0jklGpSmc",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Selenophobia_Patch_EN.rar",
+          "format": "rar",
+          "size": 287266726,
+          "sha256": "97771ba998e5a594711091f6e34a9dc62f22ed7613e0c7203d1bfe3acfa73b46"
         }
       ],
       "added": "2026-10-11",

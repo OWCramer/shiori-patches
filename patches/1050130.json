@@ -27,10 +27,10 @@
         {
           "host": "wetransfer",
           "url": "https://we.tl/t-wNzkLxOLyD",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "AssetBundlesMelody.rar",
+          "format": "rar",
+          "size": 20644025,
+          "sha256": "ae354f92d6c2f5fd46c4779f6df1fedb9f894ef9a039d6b30aea30b08718b838"
         }
       ],
       "added": "2026-10-11",

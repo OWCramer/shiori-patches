@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!pD5UgT5a!9W_c8XMLnnOBZNcJwDvJh71jhOqaVWWw_YBRwb9g1IE",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Les_Fleursword_Patch.rar",
+          "format": "rar",
+          "size": 5505674,
+          "sha256": "e63223ecc9511a1313f7005a874f6135c8b3a0c45a60af866aba0e46f2e76f13"
         }
       ],
       "added": "2026-10-11",
