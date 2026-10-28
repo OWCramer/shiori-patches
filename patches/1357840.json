@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "dead",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,8 +28,9 @@
           "url": "https://download.patch.moe/Salthe_R18_Patch.zip",
           "name": "Salthe_R18_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1246407652,
+          "sha256": "c5705b773141b58e07977630ffe45aef394e428aae2462c70b99a0b3f877f708",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
@@ -60,11 +61,11 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/OFoSiCqY#o5Oq6octfJBvw7ZX4uAVzGM9Oz7MMSimZbMGij983d0",
-          "name": null,
-          "format": null,
+          "name": "Salthe_R18_Patch.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 1246407720,
+          "sha256": "87442577c1b1eb0d79c62885e40d7ca32e22965562324dd79ffd0c4db48a0bd7"
         }
       ],
       "added": "2026-10-11",

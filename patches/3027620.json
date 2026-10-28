@@ -61,8 +61,8 @@
           "url": "https://cdn.nekonyansoft.com/patch/kakenuke/kakenuke-steam-patch.7z",
           "name": "kakenuke-steam-patch.7z",
           "format": "7z",
-          "size": null,
-          "sha256": null
+          "size": 3916008052,
+          "sha256": "e8757a481bce2b9bf660df5b4f8380153f99114c990cbc191d36df364f36f041"
         }
       ],
       "added": "2026-10-11",
@@ -100,7 +100,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     }
   ]
 }
