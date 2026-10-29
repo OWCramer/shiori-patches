@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!pOZizYwR!JCTltGdrV5STnAIansEzkL0ADqkW3P1kZOFlnHffojg",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "taima_miko_yuugi_r18_patch.rar",
+          "format": "rar",
+          "size": 214499146,
+          "sha256": "a80e6f5691af871f2b25fd09e2a27a03869b7e3312618a694ea33fda2a4aec20"
         }
       ],
       "added": "2026-10-11",

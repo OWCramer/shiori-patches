@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/Encode_Encore_patch_en_20260304.zip",
           "name": "Encode_Encore_patch_en_20260304.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 107309030,
+          "sha256": "ff68e0c4672ff1fe2bcd4a4988da5527c2035f9c33273f8f7450e3a6b70d5b52"
         }
       ],
       "added": "2026-10-11",

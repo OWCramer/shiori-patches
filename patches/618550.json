@@ -61,10 +61,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!wPpA0DII!fLtizon63AGvgbou1Ojpq_1H-dHqskdMHG9BOMrTbz0",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "COB-R18-Patch.zip",
+          "format": "zip",
+          "size": 73287304,
+          "sha256": "16ab5b30eb8b148234762fb9aaa7eab7e67a41245567bd5f37f64cdf5d0ffb55"
         }
       ],
       "added": "2026-10-11",

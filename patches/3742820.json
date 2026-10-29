@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "dead",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,8 +28,9 @@
           "url": "https://download.patch.moe/HomeSweetHomecoming_R18PATCH.zip",
           "name": "HomeSweetHomecoming_R18PATCH.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3591695159,
+          "sha256": "382481f9a99f9dff48a66d45e79d75878486727bce63cb9c4c9315713ab9654c",
+          "installer": true
         }
       ],
       "added": "2026-10-11",

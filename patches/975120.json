@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/IKxnQAaQ#yAnhkB6ida1itWBXnFH4hUt2EFG53ctXGRnhqj7E8Mg",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Emily's Escape patch.zip",
+          "format": "zip",
+          "size": 250787556,
+          "sha256": "1775c5671d43d4fb8f24df06fc12335523764f89172cf438fbfa1a819e8af0e0"
         }
       ],
       "added": "2026-10-11",
