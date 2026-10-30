@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!wWQ3CDqR!bfpiETk9mIeBrMpso-ni7h0WZOlJSYvrqKP02dHUyt0",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Dragonia_R-18_Patch.rar",
+          "format": "rar",
+          "size": 34480503,
+          "sha256": "62a4f5443a13b2eb9f72ae1a803756d40bd9195f29896826d1a9273fb6247941"
         }
       ],
       "added": "2026-10-11",

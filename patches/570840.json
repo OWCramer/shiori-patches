@@ -67,10 +67,10 @@
         {
           "host": "page",
           "url": "https://web.archive.org/web/20190322191138/https://store.nekojishi.tw/en/product/nekojishi_limited-en/",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "Nekojishi_Limited_Edition_Patch.zip",
+          "format": "zip",
+          "size": 9551574,
+          "sha256": "f2b7cd50344d94593df15c4ee5aef9a174d78dc464a73e1783447fb0c50dff92",
           "mirrors": [
             {
               "host": "mega",
@@ -106,10 +106,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/4WgjkKjR#ZZJb10gCbTW1ofT4IntFLy4XMJTpC0alSZg_8r0_9WI",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Nekojishi_Limited_Edition_Patch.zip",
+          "format": "zip",
+          "size": 9549821,
+          "sha256": "bc3432aa3ff1afbb5a6696313bfdd6b24146dc755a5bc2b7dc907c73b219a16a"
         }
       ],
       "added": "2026-10-11",

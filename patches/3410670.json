@@ -34,6 +34,39 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-10-26"
+    },
+    {
+      "id": "patchmoe-fusty-dungeon-dlc-patch-2",
+      "name": "Fusty Dungeon DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/Fusty_Dungeon_Patch_20261030.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/Fusty_Dungeon_Patch_20261030.zip",
+          "name": "Fusty_Dungeon_Patch_20261030.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-30",
+      "checked": "2026-10-30"
     }
   ]
 }

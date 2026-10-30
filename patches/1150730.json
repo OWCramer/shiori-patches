@@ -27,10 +27,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/tbxjXBLB#M7vONpn3bRCWOY1wI3S9QXeJwUr-4qflCMJGkstaz34",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Island SAGA English - (Uncensor v5).zip",
+          "format": "zip",
+          "size": 2765158422,
+          "sha256": "5ade0c487da60c42d97bf71fe05cf17cbf2e7c3b42718edfb5cb2f8d7c08cfcf"
         }
       ],
       "added": "2026-10-11",

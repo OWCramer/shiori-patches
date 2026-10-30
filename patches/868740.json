@@ -27,10 +27,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!cWoQCSpL!gEeHDFiPVRys1-SETNaMmTO8ghT1AQUtTHvUYCrdUjs",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "zy.rar",
+          "format": "rar",
+          "size": 9614445,
+          "sha256": "b1704ee2c4a45dfbc89c8938885a3a9817c254218b58984c8de5f5e12cf7f294"
         }
       ],
       "added": "2026-10-11",
