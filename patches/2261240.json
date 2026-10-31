@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/Sakusei2_Steam_Patch.zip",
           "name": "Sakusei2_Steam_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 631921536,
+          "sha256": "ac16b6811852c08524fbfa451daac7f6e8e14d02b10bc48aef0fffc1906da59c"
         }
       ],
       "added": "2026-10-11",

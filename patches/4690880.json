@@ -1,0 +1,42 @@
+{
+  "appID": 4690880,
+  "title": "Brand of Betrayal",
+  "patches": [
+    {
+      "id": "saikey-brand-of-betrayal-patch",
+      "name": "Brand of Betrayal patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/199904/brand-of-betrayal/",
+        "key": "https://saikeystudios.com/patches/?patch_product=199904&patch_item=3d87a031-d7ec-4245-8e38-e18076680eff"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=199904&patch_item=3d87a031-d7ec-4245-8e38-e18076680eff",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-31",
+      "checked": "2026-10-31"
+    }
+  ]
+}
