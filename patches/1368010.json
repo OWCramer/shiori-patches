@@ -33,7 +33,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-26"
     },
     {
       "id": "vndb-de-localization-patch",
@@ -60,10 +60,10 @@
         {
           "host": "page",
           "url": "https://files.catbox.moe/v6vnjr.rar",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "n4og0l.rar",
+          "format": "rar",
+          "size": 11866857,
+          "sha256": "7031182809330e50e5c1a0424ba035fe1177b19e2aed8eae20fe7e4937bd1a00",
           "mirrors": [
             {
               "host": "direct",
@@ -73,7 +73,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     }
   ]
 }

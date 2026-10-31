@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -61,10 +61,10 @@
         {
           "host": "gdrive",
           "url": "https://drive.google.com/file/d/1wlmySNJdJYlURg1BK2WcRDZDpXRoSCMQ/view?usp=sharing",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "Patch.rpa",
+          "format": "file",
+          "size": 19643433,
+          "sha256": "fd43d50c8c7ecf67f0f1427408778dffff353d887e37656de27b28fb238f73a4",
           "mirrors": [
             {
               "host": "direct",
@@ -74,7 +74,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14",
+      "checked": "2026-10-25",
       "install": {
         "into": "game"
       }

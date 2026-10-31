@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!RHpWmQRI!Y7Jo0E1a12NkgBVdwi5OwLT8op1am6O_emGSN_YzwiE",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "EMUC_dlc2_patch.zip",
+          "format": "zip",
+          "size": 33686082,
+          "sha256": "936d0f9ecbc9aa8aa12679fe071b8c35be9308fd7b9dce00a86493cb17796a1b"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     }
   ]
 }

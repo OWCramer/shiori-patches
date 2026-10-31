@@ -27,15 +27,15 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!Tt1jxJaA!FbJcUHeGoSGPQgz3PNQFu4ElHYEuYSuPoUZyvwovdP4",
-          "name": null,
-          "format": null,
+          "name": "DoW_Patch_1.0.2.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 30442624,
+          "sha256": "947aea05d473a5151d43a64455b5fc8523e722fe1c73536e9c1c7d8c58da8d12"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-25"
     }
   ]
 }

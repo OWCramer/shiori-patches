@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Wayblazer_Dammerung_patch_EN.zip",
           "name": "Wayblazer_Dammerung_patch_EN.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 545950429,
+          "sha256": "944e9b73bffa8d162865cb37bd75a27f0d27053ddd7c0e89926f6638474e3514"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-26"
     },
     {
       "id": "vndb-interface-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     }
   ]
 }

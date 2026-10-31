@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -60,14 +60,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!wb4mWLZL!z-gid9ysSqJY-68TAmhblD9TbpeBzRhVz1fOE6Y8StU",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "armygals-adultpatch.zip",
+          "format": "zip",
+          "size": 113119915,
+          "sha256": "728e2d2cae2a3f47693c43eec992cc9dc3266f23e487b309d4165d47fbe56655"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18",
+      "checked": "2026-10-25",
       "install": {
         "into": "game"
       }

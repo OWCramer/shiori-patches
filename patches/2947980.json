@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/The_Restless_Sheep_And_The_Lone_Wolf_Woolly_Eyes_fullpatch_250128.zip",
           "name": "The_Restless_Sheep_And_The_Lone_Wolf_Woolly_Eyes_fullpatch_250128.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 870206212,
+          "sha256": "fb581de4c1dadf1dfe9f06800bebdfc373c962cd7ff27c85831da19ff2b1606b"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-26"
     }
   ]
 }

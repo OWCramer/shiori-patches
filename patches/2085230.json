@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/DawnofKagura_Maika_Patch_EN.zip",
           "name": "DawnofKagura_Maika_Patch_EN.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 453274191,
+          "sha256": "70de85cc9debe09eb85bc7e364446538b69f08e99284fd62d019db4614062c60"
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-22"
+      "checked": "2026-10-29"
     }
   ]
 }

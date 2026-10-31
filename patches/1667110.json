@@ -27,15 +27,15 @@
         {
           "host": "direct",
           "url": "https://wasabi.sub.jp/patch/Metempsychosis_patch.zip",
-          "name": null,
-          "format": null,
+          "name": "Metempsychosis_patch.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 727285728,
+          "sha256": "2c2b7d3628a00fe85c9734f439e1d2c668256fc1a0dd7ee00b8ac5dd5374b1a1"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-25"
     }
   ]
 }

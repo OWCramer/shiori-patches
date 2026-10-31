@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/FaZlDCoJ#9hv2DLxD194BDK_kZi66D-0-ntzzetOILusok28FCh0",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "PatchH7.zip",
+          "format": "zip",
+          "size": 165458040,
+          "sha256": "b0730cae92db6b805a45fa813c2059b3f200b704cdd1f5e3df7604cd135499f3"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     }
   ]
 }

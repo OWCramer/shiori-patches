@@ -27,15 +27,15 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!KlU2RbiC!xFDT_pz76gs34CTCI6-pfctknGyvJVNBD_7wcEKGPzI",
-          "name": null,
-          "format": null,
+          "name": "Ouroboros_patch_2.2.0.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 22163318,
+          "sha256": "de9bdf2cefc1a1f3b0902b17f4e7653e90b377d162115338de902d5ca3bb50ee"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-25"
     }
   ]
 }

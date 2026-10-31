@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "dead",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,12 +28,13 @@
           "url": "https://download.patch.moe/Amazing_Grace_EN_Patch.zip",
           "name": "Amazing_Grace_EN_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 717224222,
+          "sha256": "d96f9a7e14efbc65bf6cf77f37cca3012a852aef92b9219dbd43b8230fcdc72a",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-26"
     }
   ]
 }

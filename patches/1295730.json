@@ -27,14 +27,14 @@
         {
           "host": "wetransfer",
           "url": "https://we.tl/t-ToWX5RS1e2",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "AssetBundlesLeveling.zip",
+          "format": "zip",
+          "size": 103999920,
+          "sha256": "560bad4022665e2b3ca40f3a713bc9d6629c7be762f64d97df565cbc0969ea48"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-25"
     }
   ]
 }

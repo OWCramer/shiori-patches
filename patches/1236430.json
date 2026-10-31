@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -60,14 +60,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/4SInkK4K#jP6TNnwwnBslXvNEQra5V01QcM4DQI6Jy3-gMfoMdug",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "AP1206.zip",
+          "format": "zip",
+          "size": 327588232,
+          "sha256": "a06ad42a13499bf4bf55dd36d9a31b699e9f018641a2bb07bee6ad16532e8d25"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     }
   ]
 }

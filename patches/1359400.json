@@ -33,7 +33,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-26"
     },
     {
       "id": "vndb-de-localization-patch",
@@ -73,7 +73,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     },
     {
       "id": "vndb-loli-uncensor-patch",
@@ -107,7 +107,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     }
   ]
 }

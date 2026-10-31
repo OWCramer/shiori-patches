@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Saving_Mrs.Hinako_Patch_20240312.zip",
           "name": "Saving_Mrs.Hinako_Patch_20240312.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 595379101,
+          "sha256": "9d65c53199e9ba37c2dbfa9c37baf0e6a0db01800ec4cad35e2dd7ad57b41a4f"
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-22"
+      "checked": "2026-10-29"
     },
     {
       "id": "vndb-fan-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     }
   ]
 }

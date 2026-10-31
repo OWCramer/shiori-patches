@@ -42,7 +42,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     },
     {
       "id": "vndb-patch",
@@ -84,7 +84,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -118,7 +118,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-25"
     }
   ]
 }

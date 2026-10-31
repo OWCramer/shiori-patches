@@ -33,7 +33,41 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "vndb-english-patch",
+      "name": "English patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Fan patch",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r168200",
+        "key": "r168200",
+        "origin": "https://that-ruben.vercel.app/grisaia"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://that-ruben.vercel.app/grisaia",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-24",
+      "checked": "2026-10-31"
     },
     {
       "id": "vndb-fan-patch",
@@ -67,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     },
     {
       "id": "vndb-fan-patch-2",
@@ -101,7 +135,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     },
     {
       "id": "vndb-le-fruit-de-la-grisaia",
@@ -168,7 +202,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     },
     {
       "id": "vndb-ucg-patch",
@@ -202,7 +236,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     }
   ]
 }

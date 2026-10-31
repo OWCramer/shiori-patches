@@ -28,12 +28,12 @@
           "url": "https://cdn.nekonyansoft.com/patch/aokana-ex2/aokanaex2_r18dlc.7z",
           "name": "aokanaex2_r18dlc.7z",
           "format": "7z",
-          "size": null,
-          "sha256": null
+          "size": 59509909,
+          "sha256": "2875b638ff510c120120989f65179d3f50e226e9339e1112260c57faf504c236"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     }
   ]
 }

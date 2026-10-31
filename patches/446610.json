@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -60,14 +60,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!hWhGFK7a!4Z0ifI5K5Kh5yCkpkh1LL-E4oqgbSlvdPVrtPU7bpa4",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "bunnybounceadult.zip",
+          "format": "zip",
+          "size": 24284273,
+          "sha256": "81bf4ce17fe6f6454891804bba00e5ef13731556fbd5811d9b8d4b9e8a94a078"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18",
+      "checked": "2026-10-25",
       "install": {
         "into": "game"
       }

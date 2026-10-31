@@ -27,14 +27,14 @@
         {
           "host": "gdrive",
           "url": "https://drive.google.com/open?id=0Bxz_2LTmqX3aQXdRdUpzdm5EODA",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Moero Chronicle - Lewd Edition.7z",
+          "format": "7z",
+          "size": 350557271,
+          "sha256": "877adaeef18242e83ca0b1402b2e94cae51fc829e3f37c7d3444841a4cf00cc3"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-25"
     }
   ]
 }

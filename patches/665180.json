@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!tKh3wZDD!3ULYA6uS5XqaMGbUhWlVMqH55ub4jERdfe0wuA2t_s0",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Dark_Elf_R18_Patch_v2.rar",
+          "format": "rar",
+          "size": 1195612798,
+          "sha256": "29af7c95b059b9d06de3cf92f1d047393ba68acc8333111b0ad2e69dcfeb982c"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     }
   ]
 }

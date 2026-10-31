@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!0SJyBIiD!2gVw63Ayy68xcBHvTkaThjhXXPbZee9ChxLIbxELDK0",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "SJ18X.zip",
+          "format": "zip",
+          "size": 181409398,
+          "sha256": "be56545fb70c250492015d68cd72e36191165a19e533591f6f923a04d36423b6"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     }
   ]
 }

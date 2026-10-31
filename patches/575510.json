@@ -33,7 +33,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -59,14 +59,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!IXhxwaLL!O1QbatYB2Pj4Ag4iFv-Wz-5H3rNL03coDzzhaoBrxVE",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "archive.rpa",
+          "format": "file",
+          "size": 361413789,
+          "sha256": "9795c4d15ae8569cf52c5c7740a951094c36951a0a9d67fadeb18ba61ca81f6a"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18",
+      "checked": "2026-10-25",
       "install": {
         "into": "game"
       }

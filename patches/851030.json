@@ -27,15 +27,15 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!wqI0wSZT!F5itHXBOdojrtNs9rRmgsmRGk2FPfdVFXXk2yNu-Ulk",
-          "name": null,
-          "format": null,
+          "name": "CitadelPatcher.exe",
+          "format": "exe",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 72323072,
+          "sha256": "232c04db37b8fbea324f3e55f9b1f645b66725d39e218389fffc042303eeefde"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14"
+      "checked": "2026-10-25"
     }
   ]
 }

@@ -34,12 +34,12 @@
               "url": "https://www.mediafire.com/file/wlxc14srzbh2k9x/SFZ_Patch_EN.zip/file"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 3915826,
+          "sha256": "eb2fad0dc59a5bca203427a331920c5c2717e96114f616504584dd89b265a369"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-22"
+      "checked": "2026-10-29"
     },
     {
       "id": "erogejapan-r18-patch-japanese",
@@ -73,12 +73,12 @@
               "url": "https://www.mediafire.com/file/ekf5s432alsmz44/SFZ_Patch_JP.zip/file"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 4508991,
+          "sha256": "3976d9a22e5abbb8c58037e03f7984a75b8608b94fb5679a9ef39f6c2afc6e3e"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-22"
+      "checked": "2026-10-29"
     },
     {
       "id": "erogejapan-r18-patch-simplified-chinese",
@@ -117,7 +117,7 @@
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-22"
+      "checked": "2026-10-29"
     },
     {
       "id": "erogejapan-r18-patch-traditional-chinese",
@@ -156,7 +156,7 @@
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-22"
+      "checked": "2026-10-29"
     }
   ]
 }

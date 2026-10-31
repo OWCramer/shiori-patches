@@ -27,14 +27,14 @@
         {
           "host": "wetransfer",
           "url": "https://we.tl/t-EsZuGK9yd9",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "assets.rpa",
+          "format": "file",
+          "size": 124139208,
+          "sha256": "c081337c6d7ff1db229392b8cb42e66d758004aab3055f13bc329d1455170644"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-14",
+      "checked": "2026-10-25",
       "install": {
         "into": "game"
       }
@@ -71,7 +71,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     }
   ]
 }

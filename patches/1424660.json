@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -60,15 +60,15 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/UK4nTYJb#HHR8GiJ7AUYcEwZpxs7q6fqn8Kg79sg02-TIbmR4190",
-          "name": null,
-          "format": null,
+          "name": "nine_yukiiro_Steam_R18DLC.rar",
+          "format": "rar",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 946915765,
+          "sha256": "a7eaeabffe32aae7005c3ac9aafccae4c2d4f4ca657bd17e266322625349ff8d"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     },
     {
       "id": "vndb-broski-removal-patch",
@@ -102,7 +102,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     }
   ]
 }

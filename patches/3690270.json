@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/GirlsDorm_After_patch.zip",
           "name": "GirlsDorm_After_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 2807735872,
+          "sha256": "fa5bea6ca5008827597808f09cc0449d4ac91c276d14f4414faacc639a339476"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-26"
     }
   ]
 }

@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -60,15 +60,15 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/1CJVVKCR#wz6Ms7qCo570ENL06dz50QVM75_phCtxhmbTDdOqccE",
-          "name": null,
-          "format": null,
+          "name": "steam18+dlc.rar",
+          "format": "rar",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 493643559,
+          "sha256": "2431d01ed3d43a3b1922132b47086ae23c7eec11e190906bd50e0c91b2d252ef"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     },
     {
       "id": "vndb-broski-removal-patch",
@@ -102,7 +102,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     }
   ]
 }

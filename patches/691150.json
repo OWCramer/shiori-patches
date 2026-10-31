@@ -33,7 +33,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     },
     {
       "id": "vndb-fan-patch",
@@ -100,7 +100,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     },
     {
       "id": "vndb-steam-18-patch",
@@ -126,10 +126,10 @@
         {
           "host": "page",
           "url": "https://vndb.org/r56898",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "patch2.xp3",
+          "format": "file",
+          "size": 10175645,
+          "sha256": "5ca0bf4ec12c5bb5892c7eacc28f69fcd3103eacf3130e67762e8f12f4d87037",
           "mirrors": [
             {
               "host": "mega",
@@ -139,7 +139,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     }
   ]
 }

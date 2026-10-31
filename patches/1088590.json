@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/hCQAFTpS#cYKvpRp7nt2RULJd9kZhrx3qrdxwh1hJmJ8TdyRw0h4",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "LLL_R18.rar",
+          "format": "rar",
+          "size": 18105018,
+          "sha256": "7f02e0badd9fb89f91fba71043530b627d8d7bbbb93722218cdaaf237e3fbf7f"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     }
   ]
 }

@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,12 +28,13 @@
           "url": "https://cdn.nekonyansoft.com/patch/futamata-renai/futamata-renai-patch-r18-v1.01.zip",
           "name": "futamata-renai-patch-r18-v1.01.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3349431968,
+          "sha256": "7b1ce8ba64206b001e722377209f06f4677f03b0da7f43fe1c81512fae26cca0",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     },
     {
       "id": "nekonyan-futamata-renai-two-times-the-trouble-cn-18-steam-pa",
@@ -52,7 +53,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -61,12 +62,13 @@
           "url": "https://cdn.nekonyansoft.com/patch/futamata-renai/futamata-renai-cn-r18-patch.zip",
           "name": "futamata-renai-cn-r18-patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3356744504,
+          "sha256": "825db31cd606a59c0c139a1f425ffffa5b27a66e57edbf283dabe99d153e7bb8",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-25"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
@@ -100,7 +102,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     }
   ]
 }
