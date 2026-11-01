@@ -33,7 +33,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-25"
+      "checked": "2026-11-01"
     },
     {
       "id": "vndb-fan-patch",
@@ -60,10 +60,10 @@
         {
           "host": "page",
           "url": "http://theoxfordcommaissuperiorsubs.com/2016/04/02/dracu-riot-completion-project-announced/",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "k39wdq.rar",
+          "format": "rar",
+          "size": 38296784,
+          "sha256": "831ac2db19785441cc2d7c1221b5a5144941bdf83910677cb552b4e9711d7922",
           "mirrors": [
             {
               "host": "direct",

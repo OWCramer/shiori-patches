@@ -64,14 +64,14 @@
         {
           "host": "direct",
           "url": "https://qureate.net/kukkorodays/wp-content/themes/KukkoroDays-theme/file/patch.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "patch.zip",
+          "format": "zip",
+          "size": 288197807,
+          "sha256": "405388d9e0c0902907bc9dbc5c4e89093458cb01f31cb0f5fac81789c6542c95"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-25"
+      "checked": "2026-11-01"
     },
     {
       "id": "vndb-r18-patch-uncensored",

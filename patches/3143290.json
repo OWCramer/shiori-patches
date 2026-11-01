@@ -33,7 +33,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-25"
+      "checked": "2026-11-01"
     },
     {
       "id": "nekonyan-making-lovers-first-blush-18-steam-patch",
@@ -61,12 +61,12 @@
           "url": "https://cdn.nekonyansoft.com/patch/hajilove/hajilove-patch-r18-v1.zip",
           "name": "hajilove-patch-r18-v1.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 8270419453,
+          "sha256": "9d194dc28d91ca2dd1e32062c829461637db3b3566fba2b244a66b5723f49d22"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-25"
+      "checked": "2026-11-01"
     },
     {
       "id": "vndb-fan-patch",
