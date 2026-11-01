@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Study_Steady_patch.zip",
           "name": "Study_Steady_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 2132428965,
+          "sha256": "1fda9bebb922983588992c776d8b192b00f80fe1018b3f2ec6b626b63336107e"
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-22"
+      "checked": "2026-10-29"
     }
   ]
 }

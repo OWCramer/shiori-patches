@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "dead",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,12 +28,13 @@
           "url": "https://download.patch.moe/Infiltrating_Roudille_patch_en.zip",
           "name": "Infiltrating_Roudille_patch_en.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 572522015,
+          "sha256": "f201e0a9918fe31e7948f0775932006d1b928673a050ab7dd9df63b5f1426a4f",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-26"
     }
   ]
 }

@@ -39,7 +39,7 @@
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-22"
+      "checked": "2026-10-29"
     },
     {
       "id": "erogejapan-r18-patch-japanese",
@@ -78,7 +78,7 @@
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-22"
+      "checked": "2026-10-29"
     },
     {
       "id": "erogejapan-r18-patch-simplified-chinese",
@@ -117,7 +117,7 @@
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-22"
+      "checked": "2026-10-29"
     },
     {
       "id": "erogejapan-r18-patch-traditional-chinese",
@@ -156,7 +156,7 @@
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-22"
+      "checked": "2026-10-29"
     }
   ]
 }

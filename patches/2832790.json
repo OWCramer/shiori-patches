@@ -27,14 +27,14 @@
         {
           "host": "wetransfer",
           "url": "https://wingedcloud.wetransfer.com/downloads/a98fc831d839d4541930aa67662a096720240517185313/b6beb0",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "assets.rpa",
+          "format": "file",
+          "size": 49844059,
+          "sha256": "85b61bbabfe055e3cff6307a8ac8cb2ba6e0997ba86b6842462e811d701213e3"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-22"
+      "checked": "2026-10-29"
     }
   ]
 }

@@ -1,0 +1,73 @@
+{
+  "appID": 4514060,
+  "title": "Taimanin Asagi 2",
+  "patches": [
+    {
+      "id": "patchmoe-taimanin-asagi-2-dlc-patch",
+      "name": "Taimanin Asagi 2 DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/Taimanin_Asagi_2_patch_EN.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/Taimanin_Asagi_2_patch_EN.zip",
+          "name": "Taimanin_Asagi_2_patch_EN.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-29",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "vndb-fan-patch",
+      "name": "Fan patch",
+      "kind": "translation",
+      "official": false,
+      "by": "Dark Translations, BiTrans, Rattan Man Translations",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r64644",
+        "key": "r64644",
+        "origin": "https://rattanmantrans.blogspot.com/2019/06/taimanin-asagi-premium-box-english.html"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://rattanmantrans.blogspot.com/2019/06/taimanin-asagi-premium-box-english.html",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-10-29",
+      "checked": "2026-10-29"
+    }
+  ]
+}

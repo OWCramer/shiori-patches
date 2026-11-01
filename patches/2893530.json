@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "dead",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,12 +28,13 @@
           "url": "https://download.patch.moe/PillagedVillage_Patch.zip",
           "name": "PillagedVillage_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1044343766,
+          "sha256": "d0f87ab5232a8c9d3f40ddcffbbbed17a57c1bcda0add928a1fefd7a3308c110",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-26"
     }
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "appID": 4145320,
+  "title": "ISExKAI MAIDEN～Osawari H as you like in another world～",
+  "patches": [
+    {
+      "id": "saikey-isexkai-maiden-osawari-h-as-you-like-in-another-world",
+      "name": "ISExKAI MAIDEN～Osawari H as you like in another world～ patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/213545/isexkai-maiden%ef%bd%9eosawari-h-as-you-like-in-another-world%ef%bd%9e/",
+        "key": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/213545/d9814016-1119-4f24-a55c-b91b350f4c3d"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/wp-json/saikey-launcher/v1/patches/original/213545/d9814016-1119-4f24-a55c-b91b350f4c3d",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-01",
+      "checked": "2026-11-01"
+    }
+  ]
+}

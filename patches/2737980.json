@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/mashiroiro_sana_PATCH_20240621.zip",
           "name": "mashiroiro_sana_PATCH_20240621.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3133120777,
+          "sha256": "5278794103381b1e17a9a2a23deeece6ecfa814122ba62b12a79c0d4681d3c5d"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-18"
+      "checked": "2026-10-26"
     },
     {
       "id": "vndb-fan-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-21"
+      "checked": "2026-10-28"
     }
   ]
 }
