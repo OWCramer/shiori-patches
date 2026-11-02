@@ -36,6 +36,39 @@
       "checked": "2026-11-01"
     },
     {
+      "id": "saikey-countdown-to-ntr-patch-english-2",
+      "name": "Countdown to NTR patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/106193/countdown-to-ntr/",
+        "key": "https://saikeystudios.com/patches/?patch_product=106193&patch_item=c11f8b19-3727-4877-ba86-4b2b11ed78ae"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=106193&patch_item=c11f8b19-3727-4877-ba86-4b2b11ed78ae",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-02"
+    },
+    {
       "id": "saikey-countdown-to-ntr-patch-japanese",
       "name": "Countdown to NTR patch (Japanese)",
       "kind": "adult",

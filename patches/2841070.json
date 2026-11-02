@@ -36,6 +36,39 @@
       "checked": "2026-11-01"
     },
     {
+      "id": "saikey-kabukicho-dropped-into-the-modern-world-patch-english-2",
+      "name": "Kabukicho – Dropped Into The Modern World patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/106078/kabukicho-dropped-into-the-modern-world/",
+        "key": "https://saikeystudios.com/patches/?patch_product=106078&patch_item=623265ba-8ca1-4bbb-8c97-56518032fbe7"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=106078&patch_item=623265ba-8ca1-4bbb-8c97-56518032fbe7",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-02"
+    },
+    {
       "id": "saikey-kabukicho-dropped-into-the-modern-world-patch-japanes",
       "name": "Kabukicho – Dropped Into The Modern World patch (Japanese)",
       "kind": "adult",

@@ -37,6 +37,42 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-11-01"
+    },
+    {
+      "id": "saikey-dyed-in-white-patch-2",
+      "name": "Dyed in White patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/115878/dyed-in-white/",
+        "key": "https://saikeystudios.com/patches/?patch_product=115878&patch_item=411e1e80-0911-44c5-a3f3-4dd878b6a43e"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=115878&patch_item=411e1e80-0911-44c5-a3f3-4dd878b6a43e",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-02"
     }
   ]
 }

@@ -37,6 +37,42 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-11-01"
+    },
+    {
+      "id": "saikey-risty-and-the-village-of-bocchino-patch-2",
+      "name": "Risty and the Village of Bocchino patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/124937/risty-and-the-village-of-bocchino/",
+        "key": "https://saikeystudios.com/patches/?patch_product=124937&patch_item=fb736a7a-e0e8-452d-b21e-19759e5fdeee"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=124937&patch_item=fb736a7a-e0e8-452d-b21e-19759e5fdeee",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-02"
     }
   ]
 }

@@ -36,6 +36,39 @@
       "checked": "2026-11-01"
     },
     {
+      "id": "saikey-shokuo-shoujo-patch-english-2",
+      "name": "Shokuo Shoujo patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109694/shokuo-shoujo/",
+        "key": "https://saikeystudios.com/patches/?patch_product=109694&patch_item=1e29bea8-a58c-47c3-9f46-cfd6aa452869"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=109694&patch_item=1e29bea8-a58c-47c3-9f46-cfd6aa452869",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-02"
+    },
+    {
       "id": "saikey-shokuo-shoujo-patch-japanese",
       "name": "Shokuo Shoujo patch (Japanese)",
       "kind": "adult",

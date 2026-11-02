@@ -38,6 +38,43 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-11-01"
+    },
+    {
+      "id": "saikey-living-with-my-little-sister-patch-2",
+      "name": "Living with my Little Sister patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/114683/living-with-my-little-sister/",
+        "key": "https://saikeystudios.com/patches/?patch_product=114683&patch_item=1055836c-a039-4e05-be7f-c1ba6bd015fb"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=114683&patch_item=1055836c-a039-4e05-be7f-c1ba6bd015fb",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-02"
     }
   ]
 }

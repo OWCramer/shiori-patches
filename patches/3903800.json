@@ -38,6 +38,43 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-11-01"
+    },
+    {
+      "id": "saikey-mom-stolen-in-space-patch-2",
+      "name": "Mom Stolen in Space patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/129778/mom-stolen-in-space/",
+        "key": "https://saikeystudios.com/patches/?patch_product=129778&patch_item=c43d5697-52b2-43d9-a3cd-ff049d2a2763"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=129778&patch_item=c43d5697-52b2-43d9-a3cd-ff049d2a2763",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-02"
     }
   ]
 }

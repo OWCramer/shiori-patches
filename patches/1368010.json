@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/pmht2_patch_R18_20250523.zip",
           "name": "pmht2_patch_R18_20250523.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3244530617,
+          "sha256": "a6483e8222d9fe19dd1489b27449a498b575d9b49cf3f9b8c0c645f76b94918f"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-02"
     },
     {
       "id": "vndb-de-localization-patch",
