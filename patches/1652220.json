@@ -27,11 +27,11 @@
         {
           "host": "direct",
           "url": "https://wasabi.sub.jp/patch/Adventure_Liz_patch.zip",
-          "name": null,
-          "format": null,
+          "name": "Adventure_Liz_patch.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 660825052,
+          "sha256": "23a9d74cb6cfc168212b3a18e93563b2cc843c4a4c63b4c3a3324c4fe4c52aed"
         }
       ],
       "added": "2026-10-11",

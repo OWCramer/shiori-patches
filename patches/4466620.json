@@ -26,20 +26,20 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/5BMiybpT#oR1UbE_0xB1f5wU_xqKs9mOygKlxEgMIbWjwylHLC8k",
-          "name": null,
-          "format": null,
+          "name": "SiNiSistar_2_Patch_v1.3.1_Installer.zip",
+          "format": "zip",
           "mirrors": [
             {
               "host": "page",
               "url": "https://www.mediafire.com/file/0pgx2dhfh4ttgl1/SiNiSistar_2_Patch_v1.3.1_Installer.zip/file"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 663503864,
+          "sha256": "7e7f7f22ed388e31c1066066fb32d79a7bde03a9df2a6f160beeb2404e4924dc"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-27"
+      "checked": "2026-11-03"
     }
   ]
 }
