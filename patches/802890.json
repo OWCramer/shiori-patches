@@ -36,7 +36,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -62,11 +62,11 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/wLQVyKgQ#_DFDm4IjJnjA2Iv84zYLxFHaUaBFg0UGCXl4PWrpOFs",
-          "name": null,
-          "format": null,
+          "name": "MuvLuvAlternative_DirectorsCut.exe",
+          "format": "exe",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 74240194,
+          "sha256": "24fe0cd75437664213c2fb9cf2daf4c738bdd5e00c4365e9558a62c33a783552"
         }
       ],
       "added": "2026-10-11",
@@ -104,7 +104,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

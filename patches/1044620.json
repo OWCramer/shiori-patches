@@ -28,8 +28,8 @@
           "url": "https://cdn.nekonyansoft.com/patch/aokana/aokana_perfectedition+r18_patch.zip",
           "name": "aokana_perfectedition+r18_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 259267609,
+          "sha256": "9abcefa9c21f0e308c5040e50d1e8bdf51f21455fb05ab491419724da134a0f3"
         }
       ],
       "added": "2026-10-11",
@@ -101,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "vndb-linux-patch",
@@ -138,7 +138,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

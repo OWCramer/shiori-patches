@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/PRIMAL_HEARTS_patch.zip",
           "name": "PRIMAL_HEARTS_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 2279827716,
+          "sha256": "f21926c46e936a3390781e9c45a914743c07b855482672200e9098c4f6b6a6ff"
         }
       ],
       "added": "2026-10-11",
@@ -73,7 +73,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "vndb-loli-uncensor-patch",
@@ -107,7 +107,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }
