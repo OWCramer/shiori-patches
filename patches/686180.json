@@ -26,11 +26,11 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!APRkkLTK!HCftEbAD8MXEN0fq-yoQMlKQlaV_UAWHaH3d7NeHeKE",
-          "name": null,
-          "format": null,
+          "name": "CatGirlPatcher.rar",
+          "format": "rar",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 34330077,
+          "sha256": "7e38ca54178d573d3289b369d32596cd92c0994b07a44497b6fad74e11843776"
         }
       ],
       "added": "2026-10-11",

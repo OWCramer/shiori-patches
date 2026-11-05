@@ -46,7 +46,7 @@
         "site": "vndb",
         "page": "https://vndb.org/r164211",
         "key": "r164211",
-        "origin": "https://discord.gg/gzNqDKPDDY"
+        "origin": "https://discord.gg/nmtMeNVvyA"
       },
       "version": null,
       "languages": [
@@ -60,7 +60,7 @@
       "files": [
         {
           "host": "page",
-          "url": "https://discord.gg/gzNqDKPDDY",
+          "url": "https://discord.gg/nmtMeNVvyA",
           "name": null,
           "format": null,
           "size": null,
@@ -68,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-04"
+      "checked": "2026-11-05"
     }
   ]
 }

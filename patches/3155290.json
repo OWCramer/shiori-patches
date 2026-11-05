@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,8 +28,9 @@
           "url": "https://cdn.nekonyansoft.com/patch/onigyu/onigyu-patch-r18-r1.01.zip",
           "name": "onigyu-patch-r18-r1.01.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3388519848,
+          "sha256": "597e5de4b6559bc4360ba0c541447499998546519672ebdf8cdee8aa4f245a79",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
@@ -52,7 +53,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -61,8 +62,9 @@
           "url": "https://cdn.nekonyansoft.com/patch/onigyu/onigyu-patch-cn-r18-r1.01.zip",
           "name": "onigyu-patch-cn-r18-r1.01.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3230594960,
+          "sha256": "58b499dadcbb1c9862f894421a81deef1c2e497bdf563a6466844ea0d2318b22",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
