@@ -62,8 +62,8 @@
           "url": "https://download.patch.moe/saimin-gakushu-dlc-en-zh_Windows_1_1_0.zip",
           "name": "saimin-gakushu-dlc-en-zh_Windows_1_1_0.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 813370375,
+          "sha256": "7f073e0acdcc46f75bb1a2366f08b1e80efd2363d7dbb882fb94d0c72324d27e"
         }
       ],
       "added": "2026-10-11",

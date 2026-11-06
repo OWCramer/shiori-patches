@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/DGF1_patch_20241029.zip",
           "name": "DGF1_patch_20241029.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 960639137,
+          "sha256": "d2d1e0f878011024d794a150442b2ad77d7019e73267c8e1647aaebc8d0fc251"
         }
       ],
       "added": "2026-10-11",

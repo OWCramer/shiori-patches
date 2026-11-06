@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/Tamayura_R18_patch.zip",
           "name": "Tamayura_R18_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3451741380,
+          "sha256": "780371d757bdaa9809fde20963cac341b3ac38dcebe34a9ef711e24c50c1135d"
         }
       ],
       "added": "2026-10-11",
