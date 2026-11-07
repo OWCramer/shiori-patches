@@ -1,0 +1,43 @@
+{
+  "appID": 5055990,
+  "title": "Monster Girl Survivor!",
+  "patches": [
+    {
+      "id": "saikey-monster-girl-survivor-patch",
+      "name": "Monster Girl Survivor! patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/265705/monster-girl-survivor/",
+        "key": "https://saikeystudios.com/patches/?patch_product=265705&patch_item=87809f12-8ea2-48cf-a42d-d602ba074b40"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=265705&patch_item=87809f12-8ea2-48cf-a42d-d602ba074b40",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-07",
+      "checked": "2026-11-07"
+    }
+  ]
+}

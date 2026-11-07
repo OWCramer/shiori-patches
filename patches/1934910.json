@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/kunado_r18patch_20231218update.zip",
           "name": "kunado_r18patch_20231218update.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 907199641,
+          "sha256": "f0a5f771a2b71757e7cad742de8fdfe585ec6019c5e008c22fa5e9a76de20d6f"
         }
       ],
       "added": "2026-10-11",

@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!9fphXLQZ!GSxaH3PwLbDhAIT4SKBXwKOvaHW5OhJKAFHnZ_lH4RU",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "killing_time_r18_patch_v2.rar",
+          "format": "rar",
+          "size": 799788131,
+          "sha256": "35078db109af105ee709ad32e2d7422b8f4eb7543814d068124632db4be34870"
         }
       ],
       "added": "2026-10-11",
