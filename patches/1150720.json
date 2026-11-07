@@ -27,10 +27,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/4SQQDZ5B#AP2pR-BmlBxBQEYLdx4jdccYdJd8EKtBt-_x0dueOVo",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Bifrost Uncensor Patch 03-22-20.zip",
+          "format": "zip",
+          "size": 284590066,
+          "sha256": "32899eb59a9af6f9d68b6f2786901b3bf6711b3ecde4dc5aa62097c6c4edd7d8"
         }
       ],
       "added": "2026-10-11",

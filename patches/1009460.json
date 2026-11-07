@@ -28,8 +28,8 @@
           "url": "https://cdn.nekonyansoft.com/patch/hellogoodbye/hgb_r18_patch.zip",
           "name": "hgb_r18_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 233946454,
+          "sha256": "424edc776442d04948243d5c9e9d1a1bf6a4f699fdd3b3d98b43285105212d7a"
         }
       ],
       "added": "2026-10-11",

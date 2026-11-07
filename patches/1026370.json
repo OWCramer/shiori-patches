@@ -27,10 +27,10 @@
         {
           "host": "page",
           "url": "https://pantypress.com/product/778/my-fair-princess",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "data04.ykc",
+          "format": "file",
+          "size": 263017478,
+          "sha256": "a59a8691719194dfabc29ca48febde492f4ff1d8c3b5c3536b08ec5d63a88fd0",
           "mirrors": [
             {
               "host": "mega",
@@ -44,7 +44,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -70,10 +70,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/NOQmwLpC#9CSH9fXkwE8IU-n5gOG_qhMkjTDL2GRqrGhR4W8ZQPw",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "data04.ykc",
+          "format": "file",
+          "size": 263017478,
+          "sha256": "a59a8691719194dfabc29ca48febde492f4ff1d8c3b5c3536b08ec5d63a88fd0"
         }
       ],
       "added": "2026-10-11",

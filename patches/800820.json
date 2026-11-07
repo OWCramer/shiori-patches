@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/NWoCQRrY#ILAKCo4ENJxvUWUz4Zh08gukace_eTsegS-RRTW9iYU",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "2236 A.D. - R-18 Patch.rar",
+          "format": "rar",
+          "size": 117629755,
+          "sha256": "9b251283072acb815c50a710d354589a671240b788406edd39bb515d41a22ebc"
         }
       ],
       "added": "2026-10-11",

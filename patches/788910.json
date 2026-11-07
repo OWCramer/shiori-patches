@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/pXYxlARR#3-ZewDqcsWKEks06ZJaUMSThavTK_nCGInObbAigfAU",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Apartment_of_Love-patch.rar",
+          "format": "rar",
+          "size": 78327161,
+          "sha256": "91b4badfe802107e94f5b959a3db728e0db0453f85e9fc4f349d3e5786d8d154"
         }
       ],
       "added": "2026-10-11",
@@ -68,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

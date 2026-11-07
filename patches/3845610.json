@@ -37,6 +37,42 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-11-01"
+    },
+    {
+      "id": "saikey-bound-by-destiny-patch-2",
+      "name": "Bound by Destiny patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/128888/bound-by-destiny/",
+        "key": "https://saikeystudios.com/patches/?patch_product=128888&patch_item=5824b85f-d754-4df7-bf0e-20c6c45435ed"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=128888&patch_item=5824b85f-d754-4df7-bf0e-20c6c45435ed",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-02"
     }
   ]
 }

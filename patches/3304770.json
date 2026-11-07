@@ -39,6 +39,42 @@
       "checked": "2026-11-01"
     },
     {
+      "id": "saikey-exposed-livestream-patch-2",
+      "name": "Exposed Livestream patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/113215/exposed-livestream/",
+        "key": "https://saikeystudios.com/patches/?patch_product=113215&patch_item=90edec49-8526-43d1-8dfb-50f3249263e8"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=113215&patch_item=90edec49-8526-43d1-8dfb-50f3249263e8",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-02"
+    },
+    {
       "id": "uncensorpatch-uncensor-patch",
       "name": "Uncensor patch",
       "kind": "adult",

@@ -35,7 +35,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -62,10 +62,10 @@
         {
           "host": "gdrive",
           "url": "https://drive.google.com/open?id=1GXAdZ9xjwj1uqoRV0p7b1NhffaCzrIf4",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "Tsundere Idol - Adult Patch.zip",
+          "format": "zip",
+          "size": 283096264,
+          "sha256": "2aad12eed8041b28787d8c0389d9a397a150d00a7109395a91f5b7b4ac78ede8",
           "mirrors": [
             {
               "host": "direct",

@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/tamakagura-dlc-en_Windows_1_1_0.zip",
           "name": "tamakagura-dlc-en_Windows_1_1_0.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 429071255,
+          "sha256": "2a34a4b1fe8ed51c3dd66e3169e06cc09a7e4413d26bc789fef0b577f410b242"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-02"
     }
   ]
 }

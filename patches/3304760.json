@@ -36,6 +36,41 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-11-01"
+    },
+    {
+      "id": "saikey-ethereal-sunder-patch-2",
+      "name": "Ethereal Sunder patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/112803/ethereal-sunder/",
+        "key": "https://saikeystudios.com/patches/?patch_product=112803&patch_item=c033d9b2-9905-4b40-9ee1-7e7a96ebe112"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=112803&patch_item=c033d9b2-9905-4b40-9ee1-7e7a96ebe112",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-02"
     }
   ]
 }

@@ -36,6 +36,39 @@
       "checked": "2026-11-01"
     },
     {
+      "id": "saikey-survival-mission-z-patch-english-2",
+      "name": "Survival Mission Z patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/100755/survival-mission-z/",
+        "key": "https://saikeystudios.com/patches/?patch_product=100755&patch_item=ae35e056-c597-490e-9cb7-46382c3ce1a8"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=100755&patch_item=ae35e056-c597-490e-9cb7-46382c3ce1a8",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-02"
+    },
+    {
       "id": "saikey-survival-mission-z-patch-japanese",
       "name": "Survival Mission Z patch (Japanese)",
       "kind": "adult",

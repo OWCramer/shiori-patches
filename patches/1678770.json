@@ -27,11 +27,11 @@
         {
           "host": "direct",
           "url": "https://wasabi.sub.jp/patch/ecstasy_elf_shotenken_patch.zip",
-          "name": null,
-          "format": null,
+          "name": "ecstasy_elf_shotenken_patch.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 395842127,
+          "sha256": "09009c0b6acd0f57c5b65689368ce31c15106d0386df4cf88eb3ba3d4c87a412"
         }
       ],
       "added": "2026-10-11",

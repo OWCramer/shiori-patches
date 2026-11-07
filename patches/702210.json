@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/5WJAFZYI#Wmv8697f11Fnias7OpZxubCb6EPiYohMPd9M6ISNuuA",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Princess Serena patch.rar",
+          "format": "rar",
+          "size": 366874111,
+          "sha256": "2c4feff637042e8249459eab31fb1768f78f4f076e325ef3ffc3059fec5f2281"
         }
       ],
       "added": "2026-10-11",

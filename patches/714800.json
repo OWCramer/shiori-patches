@@ -12,7 +12,7 @@
         "site": "vndb",
         "page": "https://vndb.org/r57709",
         "key": "r57709",
-        "origin": "https://jastusa.com/games/skpr030_r18dlc/maitetsu-18-content-dlc"
+        "origin": "https://jaststore.com/games/skpr030_r18dlc/maitetsu-18-content-dlc"
       },
       "version": null,
       "languages": [
@@ -25,8 +25,8 @@
       "notes": "Listed on VNDB; the download is on the patch's own page.",
       "files": [
         {
-          "host": "store",
-          "url": "https://jastusa.com/games/skpr030_r18dlc/maitetsu-18-content-dlc",
+          "host": "page",
+          "url": "https://jaststore.com/games/skpr030_r18dlc/maitetsu-18-content-dlc",
           "name": null,
           "format": null,
           "size": null,
@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -102,7 +102,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

@@ -36,6 +36,39 @@
       "checked": "2026-11-01"
     },
     {
+      "id": "saikey-devil-s-5-days-mischief-game-patch-english-2",
+      "name": "Devil’s 5 Days Mischief Game patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109659/devils-5-days-mischief-game/",
+        "key": "https://saikeystudios.com/patches/?patch_product=109659&patch_item=9fa23872-0a08-4d6d-b456-82f71130f626"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=109659&patch_item=9fa23872-0a08-4d6d-b456-82f71130f626",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-02"
+    },
+    {
       "id": "saikey-devil-s-5-days-mischief-game-patch-japanese",
       "name": "Devil’s 5 Days Mischief Game patch (Japanese)",
       "kind": "adult",

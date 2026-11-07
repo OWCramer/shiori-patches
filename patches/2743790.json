@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/LOVEJUICED_Patch_20260317.zip",
           "name": "LOVEJUICED_Patch_20260317.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1224736768,
+          "sha256": "3ab30542a9a2969819d8ed18d1fc82979bc3208b3a367d65a44d7b43c9a777c2"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-02"
     },
     {
       "id": "vndb-fan-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

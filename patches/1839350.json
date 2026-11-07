@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/DawnofKagura_Natsu_Patch_EN.zip",
           "name": "DawnofKagura_Natsu_Patch_EN.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 260288688,
+          "sha256": "60fc75cf86febf886bf54a9c946374378afab7a00be8825092deb00e4b156831"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-02"
     }
   ]
 }

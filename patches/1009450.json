@@ -28,8 +28,8 @@
           "url": "https://cdn.nekonyansoft.com/patch/sankaku/sankaku_r18_patch.zip",
           "name": "sankaku_r18_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 493591750,
+          "sha256": "dc779e01badf4af54bdcea7c766d3dc10447cd7bcf77bf3c747827d47c1d2b44"
         }
       ],
       "added": "2026-10-11",
@@ -101,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

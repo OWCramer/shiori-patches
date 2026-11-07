@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Project_Android_patch_EN.zip",
           "name": "Project_Android_patch_EN.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 347607822,
+          "sha256": "3dd85324d4833ac6fcdbbc1407220e2064ea240e0a954908bd0620b226b7589f"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-02"
     }
   ]
 }

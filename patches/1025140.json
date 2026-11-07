@@ -30,10 +30,10 @@
         {
           "host": "page",
           "url": "https://www.lovelabjapan.com/en/patches/",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null,
+          "name": "patch.xp3",
+          "format": "file",
+          "size": 371844965,
+          "sha256": "39e6a9b9cba37394086e486f28456aa0e8a88dcfe1e7cb25b2fb26a7eac45700",
           "mirrors": [
             {
               "host": "gdrive",
@@ -55,7 +55,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -82,10 +82,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/MH5imD4T#8rlL8XvyCG0aE5TCotBgjNPUK6U33bl9hU1PRPc3QK0",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "patch.xp3",
+          "format": "file",
+          "size": 293914235,
+          "sha256": "d14536a3c293402b5bcb5c7faf1460d2f105afb46e811170821379513f512edd"
         }
       ],
       "added": "2026-10-11",

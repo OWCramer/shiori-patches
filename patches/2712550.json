@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/The_Shell_Part_II_Steam_Patch_20250131.zip",
           "name": "The_Shell_Part_II_Steam_Patch_20250131.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 2592196888,
+          "sha256": "19d2eb98ce80c74d174a8ed05fec93e27e2b92e52843fe755b99063c5f8be565"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-02"
     },
     {
       "id": "vndb-improved-readability-mod",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "vndb-japanese-language-restoration-hotkey-toggle-patch",
@@ -110,7 +110,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "vndb-new-cast-remaster-edition",
@@ -144,7 +144,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

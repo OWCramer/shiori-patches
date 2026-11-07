@@ -60,11 +60,11 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/sCpFQarJ#3ukqwB_HfqX9Y2U_xiJA03Wy8s7IRn0vj-sTxIDzCxE",
-          "name": null,
-          "format": null,
+          "name": "nine_haruiro_Steam_R18DLC.rar",
+          "format": "rar",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 574729535,
+          "sha256": "d5e4bada904273c1893cc1078319c591fd1a610ebea83f2c29f4f98a44b7def0"
         }
       ],
       "added": "2026-10-11",
@@ -102,7 +102,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

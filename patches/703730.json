@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -60,11 +60,11 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!5D5WDZIY!_rR5I_UU7jKgOrTPXjy0y4h-cHI9eNXMgtSh9eF2AZc",
-          "name": null,
-          "format": null,
+          "name": "AP1039.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 218184729,
+          "sha256": "5e1f84655217f761f7dc7c5f73332d8c40a350b061496bb90961435cbfe2a1fd"
         }
       ],
       "added": "2026-10-11",

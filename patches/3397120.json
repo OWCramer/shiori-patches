@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/EXS-TiA_P_patch.zip",
           "name": "EXS-TiA_P_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 964319261,
+          "sha256": "572d3d9fedc850e55c86035f319d89e637c21e0a78d768de098cb4a678d9d05e"
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-29"
+      "checked": "2026-11-05"
     }
   ]
 }

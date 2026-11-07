@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Kuroinu_2_Redux_Steam_Patch.zip",
           "name": "Kuroinu_2_Redux_Steam_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 5079459699,
+          "sha256": "8aa6d17c8956896a380d13fbddb9219e63f41c4e4f2cf848309f20eec26d3c99"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-02"
     }
   ]
 }
