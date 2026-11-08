@@ -33,7 +33,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     },
     {
       "id": "nekonyan-hatsuyuki-sakura-18-steam-patch",
@@ -61,12 +61,12 @@
           "url": "https://cdn.nekonyansoft.com/patch/hatsuyuki/hatsuyuki_steam_patch_r18.7z",
           "name": "hatsuyuki_steam_patch_r18.7z",
           "format": "7z",
-          "size": null,
-          "sha256": null
+          "size": 1101700494,
+          "sha256": "8887dbe54cb0f2480d4d7e51d618538abd80ca950a3867de31e966873f5aee7e"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
