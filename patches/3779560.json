@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/Celeste_Blue_Wizard_Luna_Patch.zip",
           "name": "Celeste_Blue_Wizard_Luna_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1319671234,
+          "sha256": "6ec64eb3d985a35d36cfd8ac17597465ed3ec325397ecb1a0088ea6d98e61fc2"
         }
       ],
       "added": "2026-10-29",

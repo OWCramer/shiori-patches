@@ -7,7 +7,7 @@
       "name": "Adult Patch",
       "kind": "adult",
       "official": true,
-      "by": "Astralis, ebi-hime",
+      "by": "ebi-hime, Astralis",
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r161340",
@@ -35,7 +35,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-11-08"
+      "checked": "2026-11-09"
     }
   ]
 }

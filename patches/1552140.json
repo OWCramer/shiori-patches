@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/suzukuridungeon_patch_20240904.zip",
           "name": "suzukuridungeon_patch_20240904.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1598211085,
+          "sha256": "af2ef0375d373f4616fdbec87338b1b6ed26d3bf6c4dc9f939c1a2059aa5d8cd"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-02"
+      "checked": "2026-11-09"
     },
     {
       "id": "vndb-fan-patch",

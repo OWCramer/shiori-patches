@@ -60,10 +60,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!oWQgRAzZ!oCK6YZB2Nb9B4c49ZyiqGDei5gbs7UZ5F1AaIFp_4Mw",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "AP1044.zip",
+          "format": "zip",
+          "size": 938879559,
+          "sha256": "20ead56aad66592c71954704be6127edbd515c4948199ef839e7649f98b227a2"
         }
       ],
       "added": "2026-10-11",

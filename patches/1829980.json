@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,8 +28,9 @@
           "url": "https://cdn.nekonyansoft.com/patch/cafe-stella/stella_r18_patch.7z",
           "name": "stella_r18_patch.7z",
           "format": "7z",
-          "size": null,
-          "sha256": null
+          "size": 875300533,
+          "sha256": "2ac7dc429248444d998f9e63b42b7ec1ff84ace13ee5543133ec58db63435eb0",
+          "installer": true
         }
       ],
       "added": "2026-10-11",

@@ -27,11 +27,11 @@
         {
           "host": "direct",
           "url": "http://d3au6aqtz0r8.cloudfront.net/MageKanadeENUncensored.exe",
-          "name": null,
-          "format": null,
+          "name": "MageKanadeENUncensored.exe",
+          "format": "exe",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 696866828,
+          "sha256": "0010070637e17c84806a6103dc78d4079f5abedff5e341d239f3edda9f1662ed"
         }
       ],
       "added": "2026-10-11",
