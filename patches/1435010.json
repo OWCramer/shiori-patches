@@ -27,11 +27,11 @@
         {
           "host": "direct",
           "url": "https://wasabi.sub.jp/patch/succubus_connect_patch.zip",
-          "name": null,
-          "format": null,
+          "name": "succubus_connect_patch.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 1312973428,
+          "sha256": "44931eda6bcd17c3a9e686f06651f14b23ab43348c0c1f0a52fe315e565c41d5"
         }
       ],
       "added": "2026-10-11",
