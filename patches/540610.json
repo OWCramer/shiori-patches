@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!UDJlHAyZ!ZxfS45KuVpM-tVoFXjo_9MJWRI-yE6LdOkM91rwFcVA",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "resources.assets",
+          "format": "file",
+          "size": 79588332,
+          "sha256": "81e3c4c89e9e5ceefd94e8a01578350b729141e0207e887b91121c01ed917556"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     }
   ]
 }

@@ -36,6 +36,39 @@
       "checked": "2026-11-01"
     },
     {
+      "id": "saikey-lost-love-island-patch-english-2",
+      "name": "Lost Love Island patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/100348/lost-love-island/",
+        "key": "https://saikeystudios.com/patches/?patch_product=100348&patch_item=306a13ee-aa31-4b6a-8eb5-a54d4f5eb712"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=100348&patch_item=306a13ee-aa31-4b6a-8eb5-a54d4f5eb712",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-09"
+    },
+    {
       "id": "saikey-lost-love-island-patch-japanese",
       "name": "Lost Love Island patch (Japanese)",
       "kind": "adult",

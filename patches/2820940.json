@@ -36,6 +36,39 @@
       "checked": "2026-11-01"
     },
     {
+      "id": "saikey-minako-beloved-wife-in-the-countryside-patch-english-2",
+      "name": "Minako: Beloved Wife in the Countryside patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/101698/minako-beloved-wife-in-the-countryside/",
+        "key": "https://saikeystudios.com/patches/?patch_product=101698&patch_item=c8ec0503-9ae1-4864-8b0b-fa07ab260e0c"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=101698&patch_item=c8ec0503-9ae1-4864-8b0b-fa07ab260e0c",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-09"
+    },
+    {
       "id": "saikey-minako-beloved-wife-in-the-countryside-patch-japanese",
       "name": "Minako: Beloved Wife in the Countryside patch (Japanese)",
       "kind": "adult",

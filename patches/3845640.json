@@ -39,6 +39,44 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-11-01"
+    },
+    {
+      "id": "saikey-my-isekai-hotel-patch-2",
+      "name": "My Isekai Hotel patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/143503/my-isekai-hotel/",
+        "key": "https://saikeystudios.com/patches/?patch_product=143503&patch_item=39ce729d-8886-47b2-9fd6-66acc26bda51"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "ru",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=143503&patch_item=39ce729d-8886-47b2-9fd6-66acc26bda51",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-09"
     }
   ]
 }

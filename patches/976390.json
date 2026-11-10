@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -60,14 +60,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/1P4iBARI#Pdita6Fr_nIiA_9EeEVHkk7EvHQCGWrTNC3bxOYTKPU",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "9-nine-18+ DLC.rar",
+          "format": "rar",
+          "size": 707937688,
+          "sha256": "800581e1b5ad834eef3f79f5dfbe6d59498d9d4966fca7efc92f349d10bd4f2d"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     },
     {
       "id": "vndb-broski-removal-patch",
@@ -101,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

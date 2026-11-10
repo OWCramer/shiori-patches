@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!wawRzYJB!bb0vzI5rIGkgHmIb-5Ce5E4Hi_b7iBSlcT8aUIxsCJM",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "MaterialGirl_MosaicPatch.zip",
+          "format": "zip",
+          "size": 424068290,
+          "sha256": "63dac2fef5572e843e0b40e6d33c5a19baa26977d12ef9a2db36f5256202f6ce"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     }
   ]
 }

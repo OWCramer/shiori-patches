@@ -37,6 +37,42 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-11-01"
+    },
+    {
+      "id": "saikey-slum-guide-patch-2",
+      "name": "Slum Guide patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/109890/slum-guide/",
+        "key": "https://saikeystudios.com/patches/?patch_product=109890&patch_item=cff8d540-2c4b-473b-9848-8b2aff74731d"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=109890&patch_item=cff8d540-2c4b-473b-9848-8b2aff74731d",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-09"
     }
   ]
 }

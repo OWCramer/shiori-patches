@@ -39,6 +39,42 @@
       "checked": "2026-11-01"
     },
     {
+      "id": "saikey-breakthru-patch-english-japanese-simplified-chinese-t-2",
+      "name": "Breakthru patch (English, Japanese, Simplified Chinese, Traditional Chinese)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/101911/breakthru/",
+        "key": "https://saikeystudios.com/patches/?patch_product=101911&patch_item=7606c681-a019-4fde-bff8-f7cb622887a6"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=101911&patch_item=7606c681-a019-4fde-bff8-f7cb622887a6",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-09"
+    },
+    {
       "id": "saikey-breakthru-patch-korean",
       "name": "Breakthru patch (Korean)",
       "kind": "adult",

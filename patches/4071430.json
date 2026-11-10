@@ -38,6 +38,43 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-11-01"
+    },
+    {
+      "id": "saikey-tame-me-hard-patch-2",
+      "name": "Tame Me Hard! patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/169208/tame-me-hard/",
+        "key": "https://saikeystudios.com/patches/?patch_product=169208&patch_item=bd61a99f-1813-47bf-a20a-2f4a85b1a306"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=169208&patch_item=bd61a99f-1813-47bf-a20a-2f4a85b1a306",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-09"
     }
   ]
 }

@@ -28,12 +28,12 @@
           "url": "https://cdn.nekonyansoft.com/patch/dracuriot/dracuriot_r18_patch_0227.zip",
           "name": "dracuriot_r18_patch_0227.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3156906762,
+          "sha256": "709e290bf1598a75c44e60b13fbb07d01d91585b2acd347a2d6f49fefabc166b"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     },
     {
       "id": "vndb-fan-patch",
@@ -73,7 +73,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

@@ -39,7 +39,7 @@
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-29"
+      "checked": "2026-11-05"
     },
     {
       "id": "erogejapan-r18-patch-japanese",
@@ -78,7 +78,7 @@
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-29"
+      "checked": "2026-11-05"
     },
     {
       "id": "erogejapan-r18-patch-simplified-chinese",
@@ -117,7 +117,7 @@
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-29"
+      "checked": "2026-11-05"
     },
     {
       "id": "erogejapan-r18-patch-traditional-chinese",
@@ -151,12 +151,12 @@
               "url": "https://www.mediafire.com/file/7g1fcasbc4pmlo9/SFZ_Patch_TC.zip/file"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 4803901,
+          "sha256": "c01a898539afab1c9b683c46b4a2fe347f4b7a03eb8850c6a98f5dd5f39b004b"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-29"
+      "checked": "2026-11-05"
     }
   ]
 }

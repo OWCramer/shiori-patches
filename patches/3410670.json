@@ -61,12 +61,12 @@
           "url": "https://download.patch.moe/Fusty_Dungeon_Patch_20261030.zip",
           "name": "Fusty_Dungeon_Patch_20261030.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 165049217,
+          "sha256": "86e1c672be8192470ddb035f9c72555532b391dc7d5eb5bb9cffe197e2c88ed0"
         }
       ],
       "added": "2026-10-30",
-      "checked": "2026-10-30"
+      "checked": "2026-11-06"
     }
   ]
 }

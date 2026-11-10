@@ -20,7 +20,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "Kagami Games' own patch: restores the content cut from the Steam release.",
       "files": [
@@ -35,12 +35,13 @@
               "url": "https://drive.google.com/drive/folders/1xTGv0K_LJN_KNG16_JJSzpLWgN3zuZas?usp=sharing"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 1259854631,
+          "sha256": "24cd6f7a1abfa69291503a04bf0e5c535f11a2a00ec820430f20b5dea2ec9169",
+          "installer": true
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

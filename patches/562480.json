@@ -35,7 +35,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "vndb-18-patch-2",
@@ -70,7 +70,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "vndb-18-patch-3",
@@ -105,7 +105,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "vndb-18-patch-4",
@@ -140,7 +140,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "vndb-18-patch-5",
@@ -152,7 +152,7 @@
         "site": "vndb",
         "page": "https://vndb.org/r57683",
         "key": "r57683",
-        "origin": "https://jastusa.com/games/fwng002/corona-blossom-vol.2-18+-dlc-steam"
+        "origin": "https://jaststore.com/games/fwng002/corona-blossom-vol-2-18-dlc-steam"
       },
       "version": null,
       "languages": [
@@ -166,8 +166,8 @@
       "notes": "Listed on VNDB; the download is on the patch's own page.",
       "files": [
         {
-          "host": "store",
-          "url": "https://jastusa.com/games/fwng002/corona-blossom-vol.2-18+-dlc-steam",
+          "host": "page",
+          "url": "https://jaststore.com/games/fwng002/corona-blossom-vol-2-18-dlc-steam",
           "name": null,
           "format": null,
           "size": null,
@@ -175,7 +175,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -209,7 +209,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     }
   ]
 }
