@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "dead",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,12 +28,13 @@
           "url": "https://download.patch.moe/GeminismR18Ver1.030Patch.zip",
           "name": "GeminismR18Ver1.030Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1140496159,
+          "sha256": "c3681482abb1f0974a27b2bc1b2d5d4c93a94de87f82aff40638a4faae61ac64",
+          "installer": true
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-09"
     }
   ]
 }

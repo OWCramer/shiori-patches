@@ -27,14 +27,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/0DQH1STY#Joo1h5nyrmjeeGdUkDMUrq6Lu0Tb7-CiIRRiaLsfAYw",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Koikatsu_AfterParty_SpecialPatch.zip",
+          "format": "zip",
+          "size": 502703003,
+          "sha256": "b3329a852625f0d5bc9e4382f66f8a77018dca95505be6a261979f8223e1bc29"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     }
   ]
 }

@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/IOZV2IwL#_SQdkqXa7UpCPZLpQ-N1LZzdpN8MAzg_AAsmZ9VXrbg",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "BBlegend_Data.zip",
+          "format": "zip",
+          "size": 360340489,
+          "sha256": "29435bc86e5020145bc248544802abe185d8dd189a307e558ee5af6cf93f7757"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     }
   ]
 }

@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Tenioha_faet_Maimi_patch.zip",
           "name": "Tenioha_faet_Maimi_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 2790033896,
+          "sha256": "18128ef175ea194eb2ac849068d0393097f1ee4b6ca06a78f16730e20b6866c6"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-09"
     }
   ]
 }

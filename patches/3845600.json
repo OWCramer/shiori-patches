@@ -38,6 +38,43 @@
       ],
       "added": "2026-10-11",
       "checked": "2026-11-01"
+    },
+    {
+      "id": "saikey-living-with-a-little-fox-girl-patch-2",
+      "name": "Living With a Little Fox Girl patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/128498/living-with-a-little-fox-girl/",
+        "key": "https://saikeystudios.com/patches/?patch_product=128498&patch_item=de5dd382-4693-48ce-a0d2-3017e9b14eb4"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=128498&patch_item=de5dd382-4693-48ce-a0d2-3017e9b14eb4",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-09"
     }
   ]
 }

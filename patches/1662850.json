@@ -28,12 +28,12 @@
           "url": "https://cdn.nekonyansoft.com/patch/koikari/koikari_r18dlc.zip",
           "name": "koikari_r18dlc.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1191838432,
+          "sha256": "6470903b6ac4123c1b3c96b0a7b359e1ae97cff099143dac46723bfa4c05f385"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     },
     {
       "id": "vndb-love-for-hire-mosaic-restoration-patch",
@@ -101,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

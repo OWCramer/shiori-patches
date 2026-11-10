@@ -33,7 +33,40 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
+    },
+    {
+      "id": "nekonyan-clover-day-s-18-steam-patch-2",
+      "name": "Clover Day's 18+ Steam Patch",
+      "kind": "adult",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://cdn.nekonyansoft.com/patch/clover-days/clover-days-r18-patch_1.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://cdn.nekonyansoft.com/patch/clover-days/clover-days-r18-patch_1.zip",
+          "name": "clover-days-r18-patch_1.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-09",
+      "checked": "2026-11-09"
     },
     {
       "id": "nekonyan-clover-day-s-lossless-voice-patch",
@@ -66,7 +99,40 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
+    },
+    {
+      "id": "nekonyan-clover-day-s-lossless-voice-patch-2",
+      "name": "Clover Day's Lossless Voice Patch",
+      "kind": "voice",
+      "official": true,
+      "by": "NekoNyan",
+      "source": {
+        "site": "nekonyan",
+        "page": "https://patches.nekonyansoft.com/",
+        "key": "https://cdn.nekonyansoft.com/patch/clover-days/clover-days-lossless-voice-acting-patch_1.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": false,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://cdn.nekonyansoft.com/patch/clover-days/clover-days-lossless-voice-acting-patch_1.zip",
+          "name": "clover-days-lossless-voice-acting-patch_1.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-09",
+      "checked": "2026-11-09"
     },
     {
       "id": "vndb-fan-patch",
@@ -100,7 +166,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

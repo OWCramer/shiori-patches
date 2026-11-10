@@ -36,6 +36,39 @@
       "checked": "2026-11-01"
     },
     {
+      "id": "saikey-nebel-geisterj-ger-the-first-lamb-patch-english-2",
+      "name": "Nebel Geisterjäger ~ The First Lamb patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/124227/nebel-geisterjager-the-first-lamb/",
+        "key": "https://saikeystudios.com/patches/?patch_product=124227&patch_item=3049a0f5-de84-46b1-ab9c-a66aa348c406"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=124227&patch_item=3049a0f5-de84-46b1-ab9c-a66aa348c406",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-09"
+    },
+    {
       "id": "saikey-nebel-geisterj-ger-the-first-lamb-patch-japanese",
       "name": "Nebel Geisterjäger ~ The First Lamb patch (Japanese)",
       "kind": "adult",

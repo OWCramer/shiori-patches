@@ -27,14 +27,14 @@
         {
           "host": "direct",
           "url": "https://qureate.net/troubledays/wp-content/themes/TroubleDays-theme/file/patch.zip",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "patch.zip",
+          "format": "zip",
+          "size": 365769952,
+          "sha256": "84383d42d82e8a013d5948931e8b671209b005beefb911e9e59b5351cb5c3862"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     },
     {
       "id": "vndb-18-patch-uncensored",
@@ -71,7 +71,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

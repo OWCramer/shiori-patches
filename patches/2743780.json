@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Bunnys_Rent-a-Mom_Agency_Patch.zip",
           "name": "Bunnys_Rent-a-Mom_Agency_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3536402637,
+          "sha256": "556f6f1b631b6f88025194d9a7f243373ba94ab27fb670184ed6c34b1995584e"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-09"
     },
     {
       "id": "vndb-fan-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

@@ -34,12 +34,12 @@
               "url": "https://www.mediafire.com/file/r68t6c8tz4shyve/Manager_R18Patch_1.06.zip/file"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 26101870,
+          "sha256": "ea059f232420a4bd25963a8700c7eb96c5fd8e9540458e047e8c1a36475e75cf"
         }
       ],
       "added": "2026-10-15",
-      "checked": "2026-10-29"
+      "checked": "2026-11-05"
     }
   ]
 }

@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/great-deceiver-dlc-en-zh_Windows_1_1_0.zip",
           "name": "great-deceiver-dlc-en-zh_Windows_1_1_0.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1286184236,
+          "sha256": "76cdd5e1482b63fb33df996aab9fd63b7c0084fc098f3eed6024eecd362a513b"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-09"
     }
   ]
 }

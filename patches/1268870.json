@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/0LojxCxJ#hWFq4Uewd2ssFoHiro8tjw75lIdqxOA4g2_fLjd5LRk",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "AssetBundles.rar",
+          "format": "rar",
+          "size": 18939284,
+          "sha256": "68a6189490ed02ca7d4394081c7f03c1f018d0f5ee102032f44238821a887ccf"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     }
   ]
 }

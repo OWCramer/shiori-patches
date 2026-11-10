@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Egos_Spark_Patch_20240417.zip",
           "name": "Egos_Spark_Patch_20240417.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 630197517,
+          "sha256": "b8850b01c190bdb4a3c82ccce923416d8e33cad3a8042296052a7d923a132540"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-09"
     },
     {
       "id": "vndb-fan-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "vndb-fan-patch-2",
@@ -104,7 +104,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }

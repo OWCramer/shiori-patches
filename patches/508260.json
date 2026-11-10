@@ -27,14 +27,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/JehGSaxB#olHsPLdIvDrcFAxRTstaKGPezSvyRrkm8UlMsc8M3HA",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "archive.rpa",
+          "format": "file",
+          "size": 616771279,
+          "sha256": "63f05e2005e8e8439fb50a217875389c00c4be9baea905a768615136980f4903"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01",
+      "checked": "2026-11-08",
       "install": {
         "into": "game"
       }

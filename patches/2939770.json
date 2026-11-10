@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/labyrinthflowers_en_patch_20251117.zip",
           "name": "labyrinthflowers_en_patch_20251117.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1508217670,
+          "sha256": "cc29371811b13dd6fea90a2e6261f6e5b93cb78829ab829f44b091e6818189ad"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-09"
     }
   ]
 }

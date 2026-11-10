@@ -36,7 +36,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -63,14 +63,14 @@
         {
           "host": "gdrive",
           "url": "https://drive.google.com/file/d/1J8bpDqU2mfPuufal7njn0wled8s5khzj/view?usp=sharing",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "Sweet F. Cake Patch 18+.zip",
+          "format": "zip",
+          "size": 83308726,
+          "sha256": "5c9f606ea2581d49eb0c45a85cd129d99840619da34794ce2fec6fa0c80243fd"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     }
   ]
 }

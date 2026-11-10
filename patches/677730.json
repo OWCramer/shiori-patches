@@ -26,14 +26,14 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!1aATgYRY!BbA02la7XAV1-Bxfo0Mq6LCmr2hii88G2awoh4wCCio",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "1.4 Uncensor Patch.zip",
+          "format": "zip",
+          "size": 1315507801,
+          "sha256": "0b0f325b5d6216a47ebbc44145a86e1325c76213191da9199315c3edd12afe3a"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01",
+      "checked": "2026-11-08",
       "install": {
         "into": "game"
       }

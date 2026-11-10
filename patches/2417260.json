@@ -36,6 +36,39 @@
       "checked": "2026-11-01"
     },
     {
+      "id": "saikey-deceived-by-the-host-patch-english-2",
+      "name": "Deceived by the Host patch (English)",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/86941/deceived-by-the-host/",
+        "key": "https://saikeystudios.com/patches/?patch_product=86941&patch_item=81feb13d-2ec2-453b-b956-6ab50c423976"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=86941&patch_item=81feb13d-2ec2-453b-b956-6ab50c423976",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-02",
+      "checked": "2026-11-09"
+    },
+    {
       "id": "saikey-deceived-by-the-host-patch-japanese",
       "name": "Deceived by the Host patch (Japanese)",
       "kind": "adult",

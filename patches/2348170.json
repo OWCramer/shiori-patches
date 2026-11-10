@@ -34,7 +34,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-01"
+      "checked": "2026-11-08"
     },
     {
       "id": "patchmoe-kuroinu-redux-dlc-patch",
@@ -62,12 +62,12 @@
           "url": "https://download.patch.moe/Kuroinu_Redux_Steam_Patch.zip",
           "name": "Kuroinu_Redux_Steam_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3190027579,
+          "sha256": "62fff9fe4b4c8d480fda46c20be5cc1fed9705a5929ce6db0e2050391660c75b"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-26"
+      "checked": "2026-11-09"
     },
     {
       "id": "vndb-mosaic-decensorship-patch",
@@ -101,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-10-28"
+      "checked": "2026-11-04"
     }
   ]
 }
