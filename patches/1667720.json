@@ -27,11 +27,11 @@
         {
           "host": "direct",
           "url": "https://wasabi.sub.jp/patch/demonload_jill_patch.zip",
-          "name": null,
-          "format": null,
+          "name": "demonload_jill_patch.zip",
+          "format": "zip",
           "installer": true,
-          "size": null,
-          "sha256": null
+          "size": 496660384,
+          "sha256": "0170a1760313e4cc510ff5a09cf26be99e2776d79c3125da8eb2be49bf68c06e"
         }
       ],
       "added": "2026-10-11",

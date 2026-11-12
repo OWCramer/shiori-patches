@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/succubers_patch.zip",
           "name": "succubers_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1608546726,
+          "sha256": "21ffedff2c104f6b424b61075e37979e6949c6c01532845a90bc3e791c917e2e"
         }
       ],
       "added": "2026-10-11",

@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/Princessfall_EN_Patch.zip",
           "name": "Princessfall_EN_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1600285009,
+          "sha256": "1ca3fc7ae6aee7b0faaf46176d67eed9e0756b9d5c0121686db2616c803c9ad5"
         }
       ],
       "added": "2026-10-29",

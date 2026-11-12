@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/The_Shell_Part_III_Steam_Patch_20250128.zip",
           "name": "The_Shell_Part_III_Steam_Patch_20250128.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 2316130002,
+          "sha256": "f1ebb6f94d776d0e291198965c5c0d1b312cf51928994577d5a7ad3b92c44dcb"
         }
       ],
       "added": "2026-10-11",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-04"
+      "checked": "2026-11-12"
     },
     {
       "id": "vndb-improvement-patch",
@@ -149,7 +149,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-04"
+      "checked": "2026-11-12"
     }
   ]
 }

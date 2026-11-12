@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/Taimanin_Asagi_2_patch_EN.zip",
           "name": "Taimanin_Asagi_2_patch_EN.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 833940356,
+          "sha256": "c7f33c05ec27ff586b6c95eb2bc2e84e4cdafa63a74d942d5d4b8b6d93092341"
         }
       ],
       "added": "2026-10-29",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-29",
-      "checked": "2026-11-05"
+      "checked": "2026-11-12"
     }
   ]
 }
