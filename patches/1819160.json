@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/meteorworldactorbd--dlcen-zh_Windows_4_1_3.zip",
           "name": "meteorworldactorbd--dlcen-zh_Windows_4_1_3.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 220610259,
+          "sha256": "964aee22090ff49ba4e3e63bd8d9828817893234dc5c6b1e470aa1023b7bd6bb"
         }
       ],
       "added": "2026-10-11",

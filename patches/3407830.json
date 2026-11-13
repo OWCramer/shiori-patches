@@ -45,7 +45,8 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r166140",
-        "key": "r166140"
+        "key": "r166140",
+        "origin": "https://discord.gg/nmtMeNVvyA"
       },
       "version": null,
       "languages": [
@@ -59,7 +60,7 @@
       "files": [
         {
           "host": "page",
-          "url": "https://vndb.org/r166140",
+          "url": "https://discord.gg/nmtMeNVvyA",
           "name": null,
           "format": null,
           "size": null,
@@ -67,7 +68,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-08"
+      "checked": "2026-11-13"
     }
   ]
 }

@@ -26,10 +26,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/file/4bxnwBYL#1FtaVkP2zwJOwCqlFL1igDprJ4aTR7Qwu3xoga7zygY",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "SakuSaku patch18.zip",
+          "format": "zip",
+          "size": 177378780,
+          "sha256": "69c49ecf9800fbc37d9fc287352ca773b0210236b30d615656819ebc6362cd83"
         }
       ],
       "added": "2026-10-11",

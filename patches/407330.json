@@ -59,10 +59,10 @@
         {
           "host": "mega",
           "url": "https://mega.nz/#!QaQnwJhA!nhb-z8-nVxf_TcdvH7CTmdEy-kE7f84VDbXt-zoMFOo",
-          "name": null,
-          "format": null,
-          "size": null,
-          "sha256": null
+          "name": "patch0x.rpa",
+          "format": "file",
+          "size": 176778793,
+          "sha256": "0bd9bac6c0210fda5203a1f182a25db231a4387f1923176550147a44de36a56b"
         }
       ],
       "added": "2026-10-11",

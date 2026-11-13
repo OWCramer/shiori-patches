@@ -19,7 +19,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "",
       "files": [
@@ -28,8 +28,9 @@
           "url": "https://download.patch.moe/Valkyrie_Desturction_Patch_EN.zip",
           "name": "Valkyrie_Desturction_Patch_EN.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 257426880,
+          "sha256": "bbb8c587d38a788dcc949204a70317f92a6d1baa7ac933766f57a6f083cfed5f",
+          "installer": true
         }
       ],
       "added": "2026-10-11",

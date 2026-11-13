@@ -61,8 +61,8 @@
           "url": "https://cdn.nekonyansoft.com/patch/clover-days/clover-days-r18-patch_1.zip",
           "name": "clover-days-r18-patch_1.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3031671652,
+          "sha256": "0023125540811f8d215271fb7b29cfd34a7dcb27ecc1b9b428a68b6df68f448e"
         }
       ],
       "added": "2026-11-09",
