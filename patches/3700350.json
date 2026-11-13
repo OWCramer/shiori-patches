@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Kokuhaku_Confessional_Patch.zip",
           "name": "Kokuhaku_Confessional_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 299993618,
+          "sha256": "2056ad42e182ebd70ee54e3472f2354281a9fd8c75d8983a48edde6f8d8511a2"
         }
       ],
       "added": "2026-10-29",
-      "checked": "2026-11-05"
+      "checked": "2026-11-13"
     }
   ]
 }

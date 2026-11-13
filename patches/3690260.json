@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/GirlsDorm_patch.zip",
           "name": "GirlsDorm_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 4091186128,
+          "sha256": "f2c2d57eaff50f855f86b8f10318d868b4ca38cd520dc88c64454ef3878c508f"
         }
       ],
       "added": "2026-10-11",

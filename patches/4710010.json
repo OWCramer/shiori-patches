@@ -20,7 +20,7 @@
       ],
       "adult": true,
       "branch": null,
-      "status": "ok",
+      "status": "unsupported",
       "verified": false,
       "notes": "Kagami Games' own patch: restores the content cut from the Steam release.",
       "files": [
@@ -35,12 +35,13 @@
               "url": "https://drive.google.com/drive/folders/1AnGeYVEFL5C9Mo_LVz5lvCnVLb8pzSu9?usp=sharing"
             }
           ],
-          "size": null,
-          "sha256": null
+          "size": 957152397,
+          "sha256": "998ea69460214b34a506daf290abdf055eaabd0e522181f1aeee1e7f3c5513a9",
+          "installer": true
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-11-04"
+      "checked": "2026-11-12"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
@@ -74,7 +75,7 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-11-04"
+      "checked": "2026-11-12"
     }
   ]
 }

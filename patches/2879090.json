@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/Nyoninjima_patch_20240814.zip",
           "name": "Nyoninjima_patch_20240814.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 969166982,
+          "sha256": "7ed29e3c6980e6e2319f258ce686047ce661fc6caa05e58531f5b600051df8cc"
         }
       ],
       "added": "2026-10-11",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-04"
+      "checked": "2026-11-12"
     }
   ]
 }

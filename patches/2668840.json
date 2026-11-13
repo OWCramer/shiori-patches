@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/Kagura_Genesis_Kuon_EN_R18_Patch.zip",
           "name": "Kagura_Genesis_Kuon_EN_R18_Patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 220895102,
+          "sha256": "4785ac9b82eb86d129a4bbd549534999dac912255548c62bb81edf400414ccf8"
         }
       ],
       "added": "2026-10-11",
