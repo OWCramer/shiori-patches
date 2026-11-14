@@ -127,8 +127,8 @@
           "url": "https://cdn.nekonyansoft.com/patch/clover-days/clover-days-lossless-voice-acting-patch_1.zip",
           "name": "clover-days-lossless-voice-acting-patch_1.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 4864863001,
+          "sha256": "f35b7843147775acf444651d182eacad06e55341c0b4ee10831c8aae731aea7d"
         }
       ],
       "added": "2026-11-09",
