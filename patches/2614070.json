@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/NUKITASHI_2_Patch_20251002.zip",
           "name": "NUKITASHI_2_Patch_20251002.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 6242421482,
+          "sha256": "b2d600aa9e99cfcf96da24f015fad299cdbdf3746adc68a960d268641a908aef"
         }
       ],
       "added": "2026-10-11",
@@ -106,7 +106,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-08"
+      "checked": "2026-11-15"
     },
     {
       "id": "vndb-jp-restoration-patch-with-dual-language-display",
