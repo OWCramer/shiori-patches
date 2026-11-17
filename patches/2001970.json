@@ -51,7 +51,7 @@
       "languages": [
         "en"
       ],
-      "adult": false,
+      "adult": true,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-26",
-      "checked": "2026-11-16"
+      "checked": "2026-11-17"
     }
   ]
 }

@@ -28,8 +28,8 @@
           "url": "https://download.patch.moe/monkeys_patch.zip",
           "name": "monkeys_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 1358348722,
+          "sha256": "f6c119bfc9f2430d86ef8df81aa33e5475f1c54ba3d0a8b64055d402c83276b5"
         }
       ],
       "added": "2026-11-13",
