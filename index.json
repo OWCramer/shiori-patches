@@ -34,12 +34,12 @@
     "345610": {
       "title": "The Fruit of Grisaia",
       "patches": 7,
-      "updated": "2026-11-19"
+      "updated": "2026-11-21"
     },
     "345620": {
       "title": "The Labyrinth of Grisaia",
       "patches": 4,
-      "updated": "2026-11-19"
+      "updated": "2026-11-21"
     },
     "345630": {
       "title": "The Eden of Grisaia",
@@ -5274,12 +5274,12 @@
     "4690300": {
       "title": "Slave Princess Elnea",
       "patches": 1,
-      "updated": "2026-11-14"
+      "updated": "2026-11-21"
     },
     "4690880": {
       "title": "Brand of Betrayal",
       "patches": 1,
-      "updated": "2026-11-14"
+      "updated": "2026-11-21"
     },
     "4710010": {
       "title": "Triple Pairing",
@@ -5289,7 +5289,7 @@
     "4771580": {
       "title": "Five Nights with Maids",
       "patches": 1,
-      "updated": "2026-11-14"
+      "updated": "2026-11-21"
     },
     "4789870": {
       "title": "Muv-Luv Girls Garden",
@@ -5306,10 +5306,15 @@
       "patches": 1,
       "updated": "2026-11-19"
     },
+    "4974650": {
+      "title": "Streetwalker Life!",
+      "patches": 1,
+      "updated": "2026-11-21"
+    },
     "5055990": {
       "title": "Monster Girl Survivor!",
       "patches": 1,
-      "updated": "2026-11-14"
+      "updated": "2026-11-21"
     },
     "5180860": {
       "title": "Friends With Benefits",
