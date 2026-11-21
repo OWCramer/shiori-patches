@@ -33,7 +33,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-08"
+      "checked": "2026-11-15"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-08"
+      "checked": "2026-11-15"
     },
     {
       "id": "vndb-fan-patch",
@@ -101,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-04"
+      "checked": "2026-11-19"
     },
     {
       "id": "vndb-linux-patch",
@@ -138,7 +138,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-04"
+      "checked": "2026-11-19"
     }
   ]
 }

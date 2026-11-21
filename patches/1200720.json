@@ -28,12 +28,12 @@
           "url": "https://cdn.nekonyansoft.com/patch/making-lovers/makinglovers_18+dlc_steam_1.02.1.7z.7z",
           "name": "makinglovers_18+dlc_steam_1.02.1.7z.7z",
           "format": "7z",
-          "size": null,
-          "sha256": null
+          "size": 796273885,
+          "sha256": "177435f39b4d162a660b3e9299fc06ac8b9a802c073018300ffaea0e8c7623e2"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-08"
+      "checked": "2026-11-15"
     },
     {
       "id": "uncensorpatch-uncensor-patch",
@@ -67,7 +67,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-08"
+      "checked": "2026-11-15"
     },
     {
       "id": "vndb-fan-patch",
@@ -101,7 +101,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-04"
+      "checked": "2026-11-19"
     },
     {
       "id": "vndb-mosaic-restoration-patch",
@@ -135,7 +135,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-04"
+      "checked": "2026-11-19"
     }
   ]
 }

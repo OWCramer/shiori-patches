@@ -1,0 +1,42 @@
+{
+  "appID": 4974650,
+  "title": "Streetwalker Life!",
+  "patches": [
+    {
+      "id": "saikey-streetwalker-life-patch",
+      "name": "Streetwalker Life! patch",
+      "kind": "adult",
+      "official": true,
+      "by": "Saikey Studios",
+      "source": {
+        "site": "saikey",
+        "page": "https://saikeystudios.com/product/269670/streetwalker-life/",
+        "key": "https://saikeystudios.com/patches/?patch_product=269670&patch_item=1cd9b5ee-fe14-441e-8717-9b1257603f44"
+      },
+      "version": null,
+      "languages": [
+        "en",
+        "ja",
+        "zh-hans",
+        "zh-hant"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://saikeystudios.com/patches/?patch_product=269670&patch_item=1cd9b5ee-fe14-441e-8717-9b1257603f44",
+          "name": null,
+          "format": null,
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-21",
+      "checked": "2026-11-21"
+    }
+  ]
+}

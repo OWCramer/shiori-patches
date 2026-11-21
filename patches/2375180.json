@@ -28,12 +28,12 @@
           "url": "https://download.patch.moe/Hypno_Mart_patch.zip",
           "name": "Hypno_Mart_patch.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 516472043,
+          "sha256": "850a78311ee69dc61233e2f0ce8895ec16ee6dada2ec266d9c172c1ee3191a84"
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-09"
+      "checked": "2026-11-16"
     }
   ]
 }
