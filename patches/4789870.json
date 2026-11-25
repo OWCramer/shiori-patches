@@ -1,0 +1,72 @@
+{
+  "appID": 4789870,
+  "title": "Muv-Luv Girls Garden",
+  "patches": [
+    {
+      "id": "patchmoe-muv-luv-girls-garden-dlc-patch",
+      "name": "Muv-Luv Girls Garden DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/Muv-Luv_GG_R18_enable_patch.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "dead",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/Muv-Luv_GG_R18_enable_patch.zip",
+          "name": "Muv-Luv_GG_R18_enable_patch.zip",
+          "format": "zip",
+          "size": null,
+          "sha256": null
+        }
+      ],
+      "added": "2026-11-20",
+      "checked": "2026-11-20"
+    },
+    {
+      "id": "patchmoe-muv-luv-girls-garden-dlc-patch-2",
+      "name": "Muv-Luv Girls Garden DLC patch",
+      "kind": "adult",
+      "official": true,
+      "by": "patch.moe",
+      "source": {
+        "site": "patchmoe",
+        "page": "https://www.patch.moe/",
+        "key": "https://download.patch.moe/Muv-Luv_Girls_Garden_R18_enable_patch.zip"
+      },
+      "version": null,
+      "languages": [
+        "en"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "ok",
+      "verified": false,
+      "notes": "",
+      "files": [
+        {
+          "host": "direct",
+          "url": "https://download.patch.moe/Muv-Luv_Girls_Garden_R18_enable_patch.zip",
+          "name": "Muv-Luv_Girls_Garden_R18_enable_patch.zip",
+          "format": "zip",
+          "size": 1485,
+          "sha256": "023961691c6c95c0ca2841c921d41be466473ebb84e3f0a82aac7638a57b684f"
+        }
+      ],
+      "added": "2026-11-25",
+      "checked": "2026-11-25"
+    }
+  ]
+}

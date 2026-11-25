@@ -61,12 +61,12 @@
           "url": "https://cdn.nekonyansoft.com/patch/clover-days/clover-days-r18-patch_1.zip",
           "name": "clover-days-r18-patch_1.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 3031671652,
+          "sha256": "0023125540811f8d215271fb7b29cfd34a7dcb27ecc1b9b428a68b6df68f448e"
         }
       ],
       "added": "2026-11-09",
-      "checked": "2026-11-09"
+      "checked": "2026-11-23"
     },
     {
       "id": "nekonyan-clover-day-s-lossless-voice-patch",
@@ -127,12 +127,12 @@
           "url": "https://cdn.nekonyansoft.com/patch/clover-days/clover-days-lossless-voice-acting-patch_1.zip",
           "name": "clover-days-lossless-voice-acting-patch_1.zip",
           "format": "zip",
-          "size": null,
-          "sha256": null
+          "size": 4864863001,
+          "sha256": "f35b7843147775acf444651d182eacad06e55341c0b4ee10831c8aae731aea7d"
         }
       ],
       "added": "2026-11-09",
-      "checked": "2026-11-09"
+      "checked": "2026-11-23"
     },
     {
       "id": "vndb-fan-patch",
@@ -166,7 +166,7 @@
         }
       ],
       "added": "2026-10-11",
-      "checked": "2026-11-04"
+      "checked": "2026-11-19"
     }
   ]
 }
