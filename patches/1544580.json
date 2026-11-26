@@ -71,7 +71,48 @@
         }
       ],
       "added": "2026-10-14",
-      "checked": "2026-11-19"
+      "checked": "2026-11-26"
+    },
+    {
+      "id": "vndb-russian-patch",
+      "name": "Russian Patch",
+      "kind": "adult",
+      "official": false,
+      "by": "Isiliel",
+      "source": {
+        "site": "vndb",
+        "page": "https://vndb.org/r171111",
+        "key": "r171111",
+        "origin": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845894103"
+      },
+      "version": null,
+      "languages": [
+        "ru"
+      ],
+      "adult": true,
+      "branch": null,
+      "status": "unsupported",
+      "verified": false,
+      "notes": "Listed on VNDB; the download is on the patch's own page.",
+      "files": [
+        {
+          "host": "page",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845894103",
+          "name": "IdolCafe_RusInstaller_v1.0.zip",
+          "format": "zip",
+          "mirrors": [
+            {
+              "host": "gdrive",
+              "url": "https://drive.google.com/file/d/1BkW2ctZjngAyUUqvoQk0camd38xjSKYj/view?usp=sharing"
+            }
+          ],
+          "size": 2483333,
+          "sha256": "5769347cafd3fa6de0a8154abbc2bf0b40f15c9e05a3cb6aafb56602881f6dc2",
+          "installer": true
+        }
+      ],
+      "added": "2026-11-26",
+      "checked": "2026-11-26"
     }
   ]
 }
