@@ -45,13 +45,14 @@
       "source": {
         "site": "vndb",
         "page": "https://vndb.org/r168392",
-        "key": "r168392"
+        "key": "r168392",
+        "origin": "https://discord.gg/7wzxJdcfcK"
       },
       "version": null,
       "languages": [
         "en"
       ],
-      "adult": true,
+      "adult": false,
       "branch": null,
       "status": "ok",
       "verified": false,
@@ -59,7 +60,7 @@
       "files": [
         {
           "host": "page",
-          "url": "https://vndb.org/r168392",
+          "url": "https://discord.gg/7wzxJdcfcK",
           "name": null,
           "format": null,
           "size": null,
@@ -67,7 +68,7 @@
         }
       ],
       "added": "2026-10-26",
-      "checked": "2026-11-24"
+      "checked": "2026-11-27"
     }
   ]
 }
